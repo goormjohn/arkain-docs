@@ -8,7 +8,7 @@ icon: eggplant
 
 Let's quickly explore how to use Arkain. In just 1 minute and a few clicks, you can set up your development environment and experience the diverse development environments.
 
-###
+
 
 {% stepper %}
 {% step %}
@@ -43,10 +43,14 @@ On the dashboard, you can create and manage containers.
 {% endstep %}
 {% endstepper %}
 
-**Congratulations! You've successfully created your first development environment and can experience a fantastic environment. You can create another development environment using the same method.**&#x20;
+Congratulations! &#x20;
 
-{% hint style="info" %}
-If you want to set up a development environment for your existing  project at Github, please check[ this](https://docs.google.com/document/d/1VRZgHlHNL_yj3q_0KGgQ_5-semdrDR9r3kjOPXK6fKY/edit?tab=t.0#heading=h.xgy5r6wrknqt) help documentation.
+You've successfully created your first development environment and can experience a fantastic environment. You can create another development environment using the same method.&#x20;
+
+{% hint style="success" %}
+If you want to set up a development environment for your existing  project at Github.
+
+please check[ this](https://docs.google.com/document/d/1VRZgHlHNL_yj3q_0KGgQ_5-semdrDR9r3kjOPXK6fKY/edit?tab=t.0#heading=h.xgy5r6wrknqt) help documentation.
 {% endhint %}
 
 

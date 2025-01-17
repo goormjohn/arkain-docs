@@ -1,0 +1,6 @@
+---
+icon: eggplant
+---
+
+# Getting started
+

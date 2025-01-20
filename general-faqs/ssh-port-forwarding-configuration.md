@@ -1,25 +1,55 @@
 # SSH / Port Forwarding Configuration
 
-Enter the following into your terminal in the order below
+You can access containers in Arkain from the outside using the SSH / Port Forwarding feature.
 
-#### Node version up[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#node-version-up) <a href="#node-version-up" id="node-version-up"></a>
+#### **SSH Configuration**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/SSH_Port-Forwarding-Configuration/#ssh-configuration) <a href="#ssh-configuration" id="ssh-configuration"></a>
 
-Copy
+**The SSH feature can be used after membership subscription.**
 
-#### **Refresh Terminal**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#refresh-terminal) <a href="#refresh-terminal" id="refresh-terminal"></a>
+You can SSH to the Arkain container from the outside.
 
-#### ![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/React-native-container-is-not-working.en_60.png)[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#_1) <a href="#id-1" id="id-1"></a>
+Click\*\* \[Container] > \[SSH Configuration]\*\* on the top menu to open the \[SSH Configuration] pop-up window.
 
-Refresh the terminal by pressing the `Refresh` button next to the terminal.
+![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/SSH/Port-Forwarding-Configuration.en_54.png)
 
-#### **Edit package.json file**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#edit-packagejson-file) <a href="#edit-packagejson-file" id="edit-packagejson-file"></a>
+Click the copy icon to the right of the command and paste it from your local environment or other external instances shell.
 
-_\{{insert PORT number here\}}_ with\*\* the value of the external port corresponding to the internal port 19000\*\* in the top menu **\[Container] > \[Port Forwarding Configuration]**.
+![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/SSH/Port-Forwarding-Configuration.en_55.png)
 
-#### Install node\_modules[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#install-node_modules) <a href="#install-node_modules" id="install-node_modules"></a>
+Then enter your password.
 
-#### **Run with React Native command**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#run-with-react-native-command) <a href="#run-with-react-native-command" id="run-with-react-native-command"></a>
+If this is your first connection, click the _**Generate**_ button to generate a password. Click the copy icon on the right to copy it and paste it in the shell you want to SSH into.
 
-#### ![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/React-native-container-is-not-working.en_61.png)[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/React-native-container-is-not-working/#_2) <a href="#id-2" id="id-2"></a>
+The password that is issued is not stored anywhere.
 
-Press the `Run(project)` button in the top right corner.
+![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/SSH/Port-Forwarding-Configuration.en_56.png)
+
+Once you've been issued a password, you can use it for subsequent accesses.
+
+If you don't remember it, you can _**Regenerate**_.
+
+**The SSH connection IP and port change every time the Arkain container is turned off and on.**
+
+**SSH connections are only available while the Arkain container is on.**
+
+#### **Port Forwarding Configuration (Port Forwarding)**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/SSH_Port-Forwarding-Configuration/#port-forwarding-configuration-port-forwarding) <a href="#port-forwarding-configuration-port-forwarding" id="port-forwarding-configuration-port-forwarding"></a>
+
+You can open a specific port of the Arkain container to make it accessible from the outside.
+
+Click **\[Container] > \[Port Forwarding Configuration] \*\*in the top menu to open the** \*\*\[Port Forwarding Configuration] pop-up window.
+
+![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/SSH/Port-Forwarding-Configuration.en_57.png)
+
+You can register the port you want to open by entering it directly in 'Internal ports', or you can register the default port of the selected service by selecting it in 'Type'.
+
+The registered ports will be available in the table below.
+
+![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/SSH/Port-Forwarding-Configuration.en_58.png)
+
+You can access it from the outside using the 'IP' and 'External Port'.
+
+The 'IP' and 'External port' change every time the corresponding Arkain container is turned off and on.
+
+You can register up to 2 port forwarding settings per container.
+
+**External access is only possible while the Arkain container is on.**

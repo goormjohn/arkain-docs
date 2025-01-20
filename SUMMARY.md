@@ -61,7 +61,7 @@
     * [Bug Reporting](user-guide/workspace/extra-features/bug-reporting.md)
     * [Language Support](user-guide/workspace/extra-features/language-support.md)
     * [SBOM Management](user-guide/workspace/extra-features/sbom-management.md)
-  * [File](user-guide/workspace/file.md)
+  * [File import/export](user-guide/workspace/file-import-export.md)
   * [Source Code Management Git](user-guide/workspace/source-code-management-git/README.md)
     * [Git](user-guide/workspace/source-code-management-git/git.md)
     * [Status](user-guide/workspace/source-code-management-git/status.md)

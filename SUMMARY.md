@@ -26,3 +26,8 @@
 * [What is Arkain?](user-guide-1/what-is-arkain.md)
 * [Getting started](user-guide-1/getting-started.md)
 * [Importing projects](user-guide-1/importing-projects.md)
+
+## Billing and Membership
+
+* [Billing](billing-and-membership/billing.md)
+* [Membership](billing-and-membership/membership.md)

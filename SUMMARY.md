@@ -63,3 +63,5 @@
   * [SSH / Port Forwarding Configuration](user-guide/faq/ssh-port-forwarding-configuration.md)
   * [Using MySQL Workbench with Arkain](user-guide/faq/using-mysql-workbench-with-arkain.md)
   * [Why my container blocked](user-guide/faq/why-my-container-blocked.md)
+  * [I want to use Selenium.](user-guide/faq/i-want-to-use-selenium..md)
+  * [How do I copy/paste from the terminal?](user-guide/faq/how-do-i-copy-paste-from-the-terminal.md)

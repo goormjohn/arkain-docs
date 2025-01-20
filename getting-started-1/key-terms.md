@@ -1,3 +1,7 @@
+---
+icon: key
+---
+
 # Key Terms
 
 ## General

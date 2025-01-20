@@ -2,9 +2,7 @@
 icon: eggplant
 ---
 
-# Getting started
-
-## Quickstart
+# Quickstart
 
 Let's quickly explore how to use Arkain. In just 1 minute and a few clicks, you can set up your development environment and experience the diverse development environments.
 

@@ -16,20 +16,30 @@
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
 
-***
+## Getting Started
 
-* [Key Terms](key-terms.md)
-* [User Guide](user-guide.md)
+* [What is Arkain?](getting-started-1/what-is-arkain.md)
+* [Key Terms](getting-started-1/key-terms.md)
+* [Quickstart](getting-started-1/quickstart.md)
 
 ## User Guide
 
-* [What is Arkain?](user-guide-1/what-is-arkain.md)
-* [Getting started](user-guide-1/getting-started.md)
-* [Importing projects](user-guide-1/importing-projects.md)
-* [Container](user-guide-1/container/README.md)
-  * [Container Specifications](user-guide-1/container/container-specifications.md)
-  * [Inactive Container](user-guide-1/container/inactive-container.md)
-  * [Automatic Stop](user-guide-1/container/automatic-stop.md)
+* [Container](user-guide/container/README.md)
+  * [Container Specifications](user-guide/container/container-specifications.md)
+  * [Inactive Container](user-guide/container/inactive-container.md)
+  * [Automatic Stop](user-guide/container/automatic-stop.md)
+* [Workspace](user-guide/workspace/README.md)
+  * [File Management](user-guide/workspace/file-management.md)
+  * [Import Github Repos](user-guide/workspace/import-github-repos.md)
+  * [Introduction to the Workspace](user-guide/workspace/introduction-to-the-workspace.md)
+  * [Keyboard Shortcut](user-guide/workspace/keyboard-shortcut.md)
+  * [Terminal](user-guide/workspace/terminal.md)
+  * [Build](user-guide/workspace/build.md)
+  * [Collaboration](user-guide/workspace/collaboration.md)
+  * [Extra Features](user-guide/workspace/extra-features.md)
+  * [File](user-guide/workspace/file.md)
+  * [Source Code Management Git](user-guide/workspace/source-code-management-git.md)
+  * [Workspace Features](user-guide/workspace/workspace-features.md)
 
 ## Billing and Membership
 

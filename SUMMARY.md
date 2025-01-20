@@ -4,17 +4,17 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart - 임시](getting-started/quickstart.md)
+* [Publish your docs - 임시](getting-started/publish-your-docs.md)
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor - 임시](basics/editor.md)
+* [Markdown - 임시](basics/markdown.md)
+* [Images & media - 임시](basics/images-and-media.md)
+* [Interactive blocks - 임시](basics/interactive-blocks.md)
+* [OpenAPI - 임시](basics/openapi.md)
+* [Integrations - 임시](basics/integrations.md)
 
 ## Getting Started
 
@@ -28,6 +28,7 @@
   * [Container Specifications](user-guide/container/container-specifications.md)
   * [Inactive Container](user-guide/container/inactive-container.md)
   * [Automatic Stop](user-guide/container/automatic-stop.md)
+  * [Introduction to GPU](user-guide/container/introduction-to-gpu.md)
 * [Workspace](user-guide/workspace/README.md)
   * [File Management](user-guide/workspace/file-management/README.md)
     * [Move](user-guide/workspace/file-management/move.md)
@@ -81,9 +82,7 @@
 * [Dashboard](user-guide/dashboard/README.md)
   * [Creating Container](user-guide/dashboard/creating-container.md)
   * [Configuring Container](user-guide/dashboard/configuring-container.md)
-  * [Container Specifications](user-guide/dashboard/container-specifications.md)
   * [Deleting Container](user-guide/dashboard/deleting-container.md)
-  * [Introduction to GPU](user-guide/dashboard/introduction-to-gpu.md)
   * [Inactive Container](user-guide/dashboard/inactive-container.md)
   * [Running Container](user-guide/dashboard/running-container.md)
 * [Template Communtiy](user-guide/template-communtiy.md)
@@ -93,12 +92,15 @@
 
 * [Billing](billing-and-membership/billing.md)
 * [Membership](billing-and-membership/membership.md)
-* [FAQ](billing-and-membership/faq/README.md)
-  * [Can I use Arkain on a mobile device](billing-and-membership/faq/can-i-use-arkain-on-a-mobile-device.md)
-  * [How to run as background process](billing-and-membership/faq/how-to-run-as-background-process.md)
-  * [React native container is not working](billing-and-membership/faq/react-native-container-is-not-working.md)
-  * [SSH / Port Forwarding Configuration](billing-and-membership/faq/ssh-port-forwarding-configuration.md)
-  * [Using MySQL Workbench with Arkain](billing-and-membership/faq/using-mysql-workbench-with-arkain.md)
-  * [Why my container blocked](billing-and-membership/faq/why-my-container-blocked.md)
-  * [I want to use Selenium.](billing-and-membership/faq/i-want-to-use-selenium..md)
-  * [How do I copy/paste from the terminal?](billing-and-membership/faq/how-do-i-copy-paste-from-the-terminal.md)
+
+## FAQ
+
+* [FAQ](faq/faq/README.md)
+  * [Can I use Arkain on a mobile device](faq/faq/can-i-use-arkain-on-a-mobile-device.md)
+  * [How to run as background process](faq/faq/how-to-run-as-background-process.md)
+  * [React native container is not working](faq/faq/react-native-container-is-not-working.md)
+  * [SSH / Port Forwarding Configuration](faq/faq/ssh-port-forwarding-configuration.md)
+  * [Using MySQL Workbench with Arkain](faq/faq/using-mysql-workbench-with-arkain.md)
+  * [Why my container blocked](faq/faq/why-my-container-blocked.md)
+  * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)
+  * [How do I copy/paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)

@@ -31,3 +31,12 @@
 
 * [Billing](billing-and-membership/billing.md)
 * [Membership](billing-and-membership/membership.md)
+
+## General FAQs
+
+* [Can I use Arkain on a mobile device](general-faqs/can-i-use-arkain-on-a-mobile-device.md)
+* [How to run as background process](general-faqs/how-to-run-as-background-process.md)
+* [React native container is not working](general-faqs/react-native-container-is-not-working.md)
+* [SSH / Port Forwarding Configuration](general-faqs/ssh-port-forwarding-configuration.md)
+* [Using MySQL Workbench with Arkain](general-faqs/using-mysql-workbench-with-arkain.md)
+* [Why my container blocked](general-faqs/why-my-container-blocked.md)

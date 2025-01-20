@@ -1,3 +1,7 @@
+---
+icon: circle-5
+---
+
 # Using MySQL Workbench with Arkain
 
 ### **Configure mysqld.cnf** <a href="#configure-mysqldcnf" id="configure-mysqldcnf"></a>

@@ -1,3 +1,7 @@
+---
+icon: circle-6
+---
+
 # Why my container blocked
 
 If the following programs are detected running, **you may be blocked from using Arkain.**

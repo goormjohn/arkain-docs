@@ -1,3 +1,7 @@
+---
+icon: circle-2
+---
+
 # How to run as background process
 
 Exiting the workspace does not terminate the container, but it does terminate the process running in the terminal. To avoid this, you should run it as a **background process**.

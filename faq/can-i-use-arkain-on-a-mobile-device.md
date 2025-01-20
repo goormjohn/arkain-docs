@@ -1,3 +1,7 @@
+---
+icon: circle-1
+---
+
 # Can I use Arkain on a mobile device
 
 ![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/Can-I-use-Arkain-on-a-mobile-device.en_59.png)

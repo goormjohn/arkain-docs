@@ -22,11 +22,6 @@
 * [Key Terms](getting-started-1/key-terms.md)
 * [Quickstart](getting-started-1/quickstart.md)
 
-## Billing and Membership
-
-* [Billing](billing-and-membership/billing.md)
-* [Membership](billing-and-membership/membership.md)
-
 ## User Guide
 
 * [Container](user-guide/container/README.md)
@@ -85,12 +80,17 @@
     * [AI code completion](user-guide/workspace/workspace-features/ai-code-completion.md)
 * [Template Communtiy](user-guide/template-communtiy.md)
 * [Arkain Code Assistant ( LLM )](user-guide/arkain-code-assistant-llm.md)
-* [FAQ](user-guide/faq/README.md)
-  * [Can I use Arkain on a mobile device](user-guide/faq/can-i-use-arkain-on-a-mobile-device.md)
-  * [How to run as background process](user-guide/faq/how-to-run-as-background-process.md)
-  * [React native container is not working](user-guide/faq/react-native-container-is-not-working.md)
-  * [SSH / Port Forwarding Configuration](user-guide/faq/ssh-port-forwarding-configuration.md)
-  * [Using MySQL Workbench with Arkain](user-guide/faq/using-mysql-workbench-with-arkain.md)
-  * [Why my container blocked](user-guide/faq/why-my-container-blocked.md)
-  * [I want to use Selenium.](user-guide/faq/i-want-to-use-selenium..md)
-  * [How do I copy/paste from the terminal?](user-guide/faq/how-do-i-copy-paste-from-the-terminal.md)
+
+## Billing and Membership
+
+* [Billing](billing-and-membership/billing.md)
+* [Membership](billing-and-membership/membership.md)
+* [FAQ](billing-and-membership/faq/README.md)
+  * [Can I use Arkain on a mobile device](billing-and-membership/faq/can-i-use-arkain-on-a-mobile-device.md)
+  * [How to run as background process](billing-and-membership/faq/how-to-run-as-background-process.md)
+  * [React native container is not working](billing-and-membership/faq/react-native-container-is-not-working.md)
+  * [SSH / Port Forwarding Configuration](billing-and-membership/faq/ssh-port-forwarding-configuration.md)
+  * [Using MySQL Workbench with Arkain](billing-and-membership/faq/using-mysql-workbench-with-arkain.md)
+  * [Why my container blocked](billing-and-membership/faq/why-my-container-blocked.md)
+  * [I want to use Selenium.](billing-and-membership/faq/i-want-to-use-selenium..md)
+  * [How do I copy/paste from the terminal?](billing-and-membership/faq/how-do-i-copy-paste-from-the-terminal.md)

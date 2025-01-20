@@ -12,7 +12,7 @@ To explore various additional features of Arkain, you need to subscribe to a Mem
 
 Detailed membership benefit information is available on the[ pricing](https://ide.goorm.io/pricing) page.
 
-### **Subscribing to Membership**[¶](https://mkdocs-mxedr.run.goorm.site/04.-Billing-and-Membership/Membership/About-Membership/#subscribing-to-membership) <a href="#subscribing-to-membership" id="subscribing-to-membership"></a>
+### **Subscribing to Membership** <a href="#subscribing-to-membership" id="subscribing-to-membership"></a>
 
 You can subscribe to the Membership at any time from the Payment page.
 
@@ -21,11 +21,11 @@ You can subscribe to the Membership at any time from the Payment page.
 3. Confirm the payment amount.
 4. Enter the payment information, and click the _Start Membership_ button.
 
-### **Managing Membership**[¶](https://mkdocs-mxedr.run.goorm.site/04.-Billing-and-Membership/Membership/About-Membership/#managing-membership) <a href="#managing-membership" id="managing-membership"></a>
+### **Managing Membership** <a href="#managing-membership" id="managing-membership"></a>
 
 You can view the information of your subscription information on the[ Billing](https://ide.goorm.io/my/dashboard#/billing) page.
 
-### **Membership terms**[¶](https://mkdocs-mxedr.run.goorm.site/04.-Billing-and-Membership/Membership/About-Membership/#membership-terms) <a href="#membership-terms" id="membership-terms"></a>
+### **Membership terms** <a href="#membership-terms" id="membership-terms"></a>
 
 * This policy forms part of the[ Arkain Terms of Service](https://accounts.goorm.io/terms) and Conditions and is subject to the terms and conditions of the Arkain Service Terms and Conditions if not specified in this policy.
 * Members are deemed to have agreed to a one-month periodic automatic payment agreement by paying for their Arkain membership. The amount used in the following payment cycle will be charged to the registered payment method.

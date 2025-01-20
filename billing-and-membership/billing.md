@@ -32,6 +32,22 @@ The amount of Credits you've purchased can be checked on the[ Container dashboar
 
 Additionally, the monthly Credit usage report can be viewed on the[ Credit Usage](https://ide.goorm.io/my/dashboard#/usage) page. By reviewing the monthly report, you can efficiently manage your payment of the Credits.
 
+### How credits are calculated <a href="#how-credits-are-calculated" id="how-credits-are-calculated"></a>
+
+This is a forecasting tool that provides an approximate cost based on example project or usage that you specify. However, the forecasted cost can differ from the actual cost due to a variety of factors. Common reasons why the forecast might differ from actual costs include the following.
+
+1\. **Duration:** Assumes 720 hours per month and does not account for leap years.
+
+2\. **Promotional** **credits and discounts:** Does not account for promotional credits or other discounts.
+
+3\. **Additional charges:** Does not account for additional usage not included in the forecast. For example, if you already use more than 5 GB of storage on the Free plan, you pay 0.018 credits per GB per hour.
+
+4\. **Currency:** Forecast at a fixed exchange rate.
+
+### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
+
+<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FNyX1Y4dnAB6VV8VsKdNE%252Fimage.png%3Falt%3Dmedia%26token%3De42dedf2-ac4a-462e-9f47-c1b3570a80d5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3e8ad075&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
 ### **Credit terms** <a href="#credit-terms" id="credit-terms"></a>
 
 * This policy constitutes part of the[ Arkain](https://accounts.goorm.io/terms)[ Terms of Service](https://accounts.goorm.io/terms), and any matters not specified in this policy shall be governed by the terms and conditions of the Arkain Terms of Service.

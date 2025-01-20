@@ -60,7 +60,7 @@
     * [Auto Complete / Auto Import](user-guide/workspace/extra-features/auto-complete-auto-import.md)
     * [Bug Reporting](user-guide/workspace/extra-features/bug-reporting.md)
     * [Language Support](user-guide/workspace/extra-features/language-support.md)
-    * [Page 4](user-guide/workspace/extra-features/page-4.md)
+    * [SBOM Management](user-guide/workspace/extra-features/sbom-management.md)
   * [File](user-guide/workspace/file.md)
   * [Source Code Management Git](user-guide/workspace/source-code-management-git/README.md)
     * [Git](user-guide/workspace/source-code-management-git/git.md)

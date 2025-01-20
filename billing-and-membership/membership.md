@@ -1,3 +1,7 @@
+---
+icon: user
+---
+
 # Membership
 
 ### **About Membership** <a href="#about-membership_1" id="about-membership_1"></a>

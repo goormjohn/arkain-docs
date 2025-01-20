@@ -2,5 +2,5 @@
 icon: sidebar
 ---
 
-# Template Communtiy
+# Start to Template
 

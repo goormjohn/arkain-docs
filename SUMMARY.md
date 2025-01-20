@@ -22,6 +22,11 @@
 * [Key Terms](getting-started-1/key-terms.md)
 * [Quickstart](getting-started-1/quickstart.md)
 
+## Billing and Membership
+
+* [Billing](billing-and-membership/billing.md)
+* [Membership](billing-and-membership/membership.md)
+
 ## User Guide
 
 * [Container](user-guide/container/README.md)
@@ -42,18 +47,10 @@
   * [Workspace Features](user-guide/workspace/workspace-features.md)
 * [Template Communtiy](user-guide/template-communtiy.md)
 * [Arkain Code Assistant ( LLM )](user-guide/arkain-code-assistant-llm.md)
-
-## Billing and Membership
-
-* [Billing](billing-and-membership/billing.md)
-* [Membership](billing-and-membership/membership.md)
-
-***
-
-* [FAQ](faq/README.md)
-  * [Can I use Arkain on a mobile device](faq/can-i-use-arkain-on-a-mobile-device.md)
-  * [How to run as background process](faq/how-to-run-as-background-process.md)
-  * [React native container is not working](faq/react-native-container-is-not-working.md)
-  * [SSH / Port Forwarding Configuration](faq/ssh-port-forwarding-configuration.md)
-  * [Using MySQL Workbench with Arkain](faq/using-mysql-workbench-with-arkain.md)
-  * [Why my container blocked](faq/why-my-container-blocked.md)
+* [FAQ](user-guide/faq/README.md)
+  * [Can I use Arkain on a mobile device](user-guide/faq/can-i-use-arkain-on-a-mobile-device.md)
+  * [How to run as background process](user-guide/faq/how-to-run-as-background-process.md)
+  * [React native container is not working](user-guide/faq/react-native-container-is-not-working.md)
+  * [SSH / Port Forwarding Configuration](user-guide/faq/ssh-port-forwarding-configuration.md)
+  * [Using MySQL Workbench with Arkain](user-guide/faq/using-mysql-workbench-with-arkain.md)
+  * [Why my container blocked](user-guide/faq/why-my-container-blocked.md)

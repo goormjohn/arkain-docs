@@ -26,6 +26,10 @@
 * [What is Arkain?](user-guide-1/what-is-arkain.md)
 * [Getting started](user-guide-1/getting-started.md)
 * [Importing projects](user-guide-1/importing-projects.md)
+* [Container](user-guide-1/container/README.md)
+  * [Container Specifications](user-guide-1/container/container-specifications.md)
+  * [Inactive Container](user-guide-1/container/inactive-container.md)
+  * [Automatic Stop](user-guide-1/container/automatic-stop.md)
 
 ## Billing and Membership
 

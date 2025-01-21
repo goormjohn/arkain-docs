@@ -1,5 +1,5 @@
 ---
-icon: circle-1
+icon: comment-question
 ---
 
 # Can I use Arkain on a mobile device

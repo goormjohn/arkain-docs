@@ -1,5 +1,5 @@
 ---
-icon: circle-8
+icon: comment-question
 ---
 
 # How do I copy/paste from the terminal?

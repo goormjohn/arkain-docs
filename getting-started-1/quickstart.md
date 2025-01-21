@@ -4,56 +4,50 @@ icon: eggplant
 
 # Quickstart
 
-Let's quickly explore how to use Arkain. In just 1 minute and a few clicks, you can set up your development environment and experience the diverse development environments.
+## **How to Use Arkain in 1 Minute** 🚀
 
+In just a few clicks, you can set up your development environment and start exploring Arkain’s powerful features. Here’s a quick guide to get you started:
 
+***
 
-{% stepper %}
-{% step %}
-### Step 1.  Go to the[ Dashboard](https://ide.goorm.io/my/dashboard)
+### **Step 1: Go to the Dashboard**
 
-On the dashboard, you can create and manage containers.
-{% endstep %}
+On the **Dashboard**, you can easily create and manage containers. This is where all your development environments are centralized.
 
-{% step %}
-### Step 2. Click ‘New container’
+***
 
-* Click the New Container button at the top of the page.
-* On the right side of the New Container button, you can click on the software button to easily create a container.
-{% endstep %}
+### **Step 2: Click ‘New Container’**
 
-{% step %}
-### Step 3. Enter container information
+Click the **‘New Container’** button at the top of the page.\
+To make the process even easier, you can click the software icon next to the button to quickly create a container with pre-configured settings.
 
-* Select a Container Stack. You can search for available software stack by its name.
-* Select a Template and OS. Depending on the container stack, you can configure various templates and OS.
-* Enter the Container name. It can only include alphabets, numbers, hyphens, and underscores.
-* Select the Container specification. You have the option to select Micro, Small, Medium, or Large, and you can modify the container specification after it's created.
-* If needed, activate Additional modules/packages to install them.
-* Lastly, click the Create button to create the container based on the entered information.
-{% endstep %}
+***
 
-{% step %}
-### Step 4. Run your new container
+### **Step 3: Enter Container Information**
 
-* Click the Run button for the newly created container to start it.&#x20;
-* Once you click the Run button, the workspace will open.
-{% endstep %}
-{% endstepper %}
+1. **Select a Container Stack**\
+   Choose the software stack that fits your project. You can search for stacks by name to find the one you need.
+2. **Select a Template and OS**\
+   Depending on the selected stack, you can configure templates and the operating system that best suit your project’s requirements.
+3. **Enter the Container Name**\
+   The name must only include alphabets, numbers, hyphens, and underscores.
+4. **Select Container Specifications**\
+   Choose the container’s specifications (Micro, Small, Medium, or Large). You can modify these settings after creation.
+5. **Activate Additional Modules/Packages**\
+   If needed, activate any additional modules or packages you wish to install.
+6. **Click ‘Create’**\
+   After entering all the required information, click the **‘Create’** button to set up your container.
 
-Congratulations! &#x20;
+***
 
-You've successfully created your first development environment and can experience a fantastic environment. You can create another development environment using the same method.&#x20;
+### **Step 4: Run Your New Container**
 
-{% hint style="success" %}
-If you want to set up a development environment for your existing  project at Github.
+Click the **‘Run’** button to launch the newly created container.\
+Once the container is running, your **workspace** will open, and you’re ready to start coding!
 
-please check[ this](https://docs.google.com/document/d/1VRZgHlHNL_yj3q_0KGgQ_5-semdrDR9r3kjOPXK6fKY/edit?tab=t.0#heading=h.xgy5r6wrknqt) help documentation.
-{% endhint %}
+***
 
+## **Congratulations! 🎉**
 
-
-
-
-
-
+You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, cloud-based IDE.\
+Repeat the steps to create additional environments as needed.

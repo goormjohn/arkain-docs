@@ -23,7 +23,7 @@ These settings are based on One UI version 6.0 and Android version 14.
 
 
 
-### **1. Browser Settings:**[**¶**](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/Can-I-use-Arkain-on-a-mobile-device/#1-browser-settings)
+### **1. Browser Settings:**
 
 We recommend using Arkain with Firefox browser.
 
@@ -31,7 +31,7 @@ We recommend using Arkain with Firefox browser.
 If you use Chrome browser, folders and files may not be created.
 ```
 
-### **2. Android (Galaxy) Keyboard Settings:**[**¶**](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/Can-I-use-Arkain-on-a-mobile-device/#2-android-galaxy-keyboard-settings)
+### **2. Android (Galaxy) Keyboard Settings:**
 
 * Turn off \*\*Settings - General - Samsung Keyboard Settings - Smart Input - Phrase Suggestions \*\*in your device setting. If the phrase suggestion is activated, the enter input may be distorted during editing.
 * Set to floating keyboard with **Settings - General - Samsung Keyboard Settings - Mode - Portrait Screen / Landscape Screen** in your device setting. This will make the keyboard not to cover your editor screen.

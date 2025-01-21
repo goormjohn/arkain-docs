@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Branch
 
 You can easily manage your branches from the Git \[Branch] tab. It outputs a list of the branches currently created, and provides 2 pieces of information.

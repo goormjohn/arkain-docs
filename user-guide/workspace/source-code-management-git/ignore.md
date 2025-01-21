@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Ignore
 
 Are there files in your project that you don't want to version control? If so, use the Ignore command. You can make them no longer appear when the Status command is run.

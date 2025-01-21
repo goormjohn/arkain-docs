@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Commit
 
 ### Commits the selected files/folders to local storage.

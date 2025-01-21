@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Add
 
 When you edit a file/folder and save it, it will be automatically added to the "pre-stage files".

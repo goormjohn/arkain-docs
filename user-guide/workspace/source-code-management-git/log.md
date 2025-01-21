@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Log
 
 In the **"Logs"** tab, you can **view the commit logs**. You can see which users made commits, when they made them, and with what messages.

@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Pull
 
 Download the updated source code from the remote repository to your local repository.

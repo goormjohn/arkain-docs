@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Push
 
 Send commits from your local repository to the remote repository.

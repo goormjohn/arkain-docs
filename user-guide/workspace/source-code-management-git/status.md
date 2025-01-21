@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Status
 
 Check the revision status of the current project files/folders in the Status tab of the Git dialogue.

@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Diff
 
 Diff lets you see what changes have been made in your goormIDE before committing to your linked Git account.

@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Git
 
 ### **Arkain** provides most of the Git commands.

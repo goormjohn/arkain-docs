@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Event tab
 
 In the **"Events"** tab, you can see _what you've been working on using goormIDE's Git GUI._

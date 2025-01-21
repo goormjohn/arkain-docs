@@ -31,11 +31,6 @@
   * [Available Container Stacks](user-guide/container/available-container-stacks.md)
 * [Workspace](user-guide/workspace/README.md)
   * [Introduction to the Workspace](user-guide/workspace/introduction-to-the-workspace.md)
-  * [Codevisor](user-guide/workspace/codevisor/README.md)
-    * [What is Codevisor?](user-guide/workspace/codevisor/what-is-codevisor.md)
-    * [Codevisor Chat](user-guide/workspace/codevisor/codevisor-chat.md)
-    * [Supported Models in CodeVisor](user-guide/workspace/codevisor/supported-models-in-codevisor.md)
-    * [Codevisor - Code Auto Complete](user-guide/workspace/codevisor/codevisor-code-auto-complete.md)
   * [File Management](user-guide/workspace/file-management/README.md)
     * [Move](user-guide/workspace/file-management/move.md)
     * [Open / Close](user-guide/workspace/file-management/open-close.md)
@@ -99,6 +94,11 @@
   * [Template Collection](user-guide/template-communtiy/template-collection.md)
   * [Template edit / delete](user-guide/template-communtiy/template-edit-delete.md)
   * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
+* [Codevisor](user-guide/codevisor/README.md)
+  * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
+  * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)
+  * [Supported Models in CodeVisor](user-guide/codevisor/supported-models-in-codevisor.md)
+  * [Codevisor - Code Auto Complete](user-guide/codevisor/codevisor-code-auto-complete.md)
 
 ## Credit and Membership
 

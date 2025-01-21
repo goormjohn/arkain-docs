@@ -28,6 +28,7 @@
   * [Container Specifications](user-guide/container/container-specifications.md)
   * [Automatic Stop](user-guide/container/automatic-stop.md)
   * [Introduction to GPU](user-guide/container/introduction-to-gpu.md)
+  * [Available Container Stacks](user-guide/container/available-container-stacks.md)
 * [Workspace](user-guide/workspace/README.md)
   * [Introduction to the Workspace](user-guide/workspace/introduction-to-the-workspace.md)
   * [File Management](user-guide/workspace/file-management/README.md)

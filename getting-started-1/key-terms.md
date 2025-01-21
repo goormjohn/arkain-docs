@@ -4,58 +4,58 @@ icon: key
 
 # Key Terms
 
-## General
+## **General Terminology**
 
-### Container
+### **Container**
 
-Refers to a single development environment that a user owns. A Container is a Virtual Machine(VM) that is hosted in the cloud environment.
+A **Container** refers to a cloud-hosted **Virtual Machine (VM)** that serves as a development environment owned by the user. It is the primary unit where coding, testing, and debugging occur.
 
-### Container stack
+### **Container Stack**
 
-Refers to a software configured by default in the container. While each container only has one container stack configured, you can install additional software as needed.
+The **Container Stack** refers to the pre-configured software package that is installed by default in a container. Each container has a single stack, but users can install additional software based on their project needs.
 
-### Template
+### **Template**
 
-Refers to the example files including all software packages that are automatically generated within the container. You can start a new project based on this template.
+A **Template** consists of example files and pre-installed software packages that are automatically generated within a container. You can use these templates to quickly start a new project with the necessary configurations.
 
-***
+### **Workspace**
 
-## Workspace
-
-#### Refers to the IDE workspace where projects can be developed.
-
-### Menu
-
-Located at the top of the workspace, it allows you to check container information and configure various settings of the container.
-
-### Breadcrumb
-
-Located below the menu, it visually displays the hierarchy of folders and files, making it easy to navigate and quickly move through project structures.
-
-### Toolbar
-
-Located at the left side of the workspace, it is the area of various development tools and application modes icons.
-
-### Sidebar
-
-Located at the right of the toolbar, it is the area of development tools, including the file tree.
-
-### Editor
-
-Located at the center of the workspace, it is the area where file tabs, preview tabs, terminal tabs, etc., appear. You can view or edit files here.
-
-### Panel
-
-Located below the editor, it is the area where the terminal, search, resource monitor, and lint inspection window appear.
-
-### Status bar
-
-Located at the bottom of the workspace, it allows you to check the CPU, memory, and network status of the container. It also has preview and chat features.
+The **Workspace** is the IDE environment where developers create and manage their projects. It includes various development tools and utilities for efficient project development.
 
 ***
 
-## Credits
+## **Workspace Elements**
 
-#### Refers to the currency required for using containers. Credits are deducted as you use containers.
+### **Menu**
 
-\
+The **Menu**, located at the top of the workspace, provides access to container information and various container settings. It allows users to configure their container environment.
+
+### **Breadcrumb**
+
+The **Breadcrumb** is located just below the menu and visually displays the folder and file hierarchy of your project. It makes it easier to navigate and quickly access different parts of your project.
+
+### **Toolbar**
+
+The **Toolbar** is located on the left side of the workspace and houses icons for various development tools and application modes, providing quick access to essential features.
+
+### **Sidebar**
+
+The **Sidebar**, situated to the right of the toolbar, contains development tools, including a file tree for easy project management.
+
+### **Editor**
+
+The **Editor**, located in the center of the workspace, is where you can view and edit files. It features tabs for files, preview windows, terminal sessions, and more.
+
+### **Panel**
+
+The **Panel**, located below the editor, displays essential tools such as the terminal, search functionality, resource monitor, and linting inspection windows.
+
+### **Status Bar**
+
+The **Status Bar**, positioned at the bottom of the workspace, provides real-time information about your container’s performance, including CPU, memory, and network status. It also includes quick access to preview and chat features.
+
+***
+
+## **Credits**
+
+**Credits** are the virtual currency required to use containers. As you utilize your container, credits are deducted accordingly.

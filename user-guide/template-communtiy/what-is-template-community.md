@@ -4,6 +4,8 @@ icon: sidebar
 
 # what is template community?
 
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ## Introducing the Template Community: A New Feature for Seamless Collaboration! 🌟
 
 We’re excited to announce the launch of **Template Community**, a brand-new feature in our webIDE that takes your development experience to the next level! 🚀

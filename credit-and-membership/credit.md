@@ -56,11 +56,24 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FNyX1Y4dnAB6VV8VsKdNE%252Fimage.png%3Falt%3Dmedia%26token%3De42dedf2-ac4a-462e-9f47-c1b3570a80d5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3e8ad075&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-### **Credit terms** <a href="#credit-terms" id="credit-terms"></a>
+***
+
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span>  Credit terms</summary>
+
+
 
 * This policy constitutes part of the[ Arkain](https://accounts.goorm.io/terms)[ Terms of Service](https://accounts.goorm.io/terms), and any matters not specified in this policy shall be governed by the terms and conditions of the Arkain Terms of Service.
-* By paying for Arkain credits, you are deemed to have agreed to the paid service agreement.
+
+- By paying for Arkain credits, you are deemed to have agreed to the paid service agreement.
+
 * Members may withdraw their subscription within 7 days from the date of subscription. However, if the contents of the contract are different from the contents displayed or advertised by the company or if the contents of the contract are different from the contents of the contract, the subscription may be withdrawn within 1 month from the date of subscription or within 14 days from the date on which the fact was known or could have been known.
-* Arkain may provide credits to members based on promotions or members’ activity history, and the conditions and details of credit provision will be announced separately through Arkain.
+
+- Arkain may provide credits to members based on promotions or members’ activity history, and the conditions and details of credit provision will be announced separately through Arkain.
+
 * If a member’s service is restricted or the member withdraws due to the member’s fault, the remaining credits will be forfeited and the member cannot claim repayment or compensation for the forfeited credits. However, if the member’s service restriction is lifted, the credits will not be forfeited.
-* Arkain may change the price of credits at any time and will not compensate members for any loss caused by the changed price.
+
+- Arkain may change the price of credits at any time and will not compensate members for any loss caused by the changed price.
+
+</details>

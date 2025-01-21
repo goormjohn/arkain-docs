@@ -93,10 +93,11 @@
   * [Create Template](user-guide/template-communtiy/create-template.md)
   * [Template managing](user-guide/template-communtiy/template-managing.md)
   * [Start to Template](user-guide/template-communtiy/start-to-template.md)
-* [Arkain Code Assistant ( LLM )](user-guide/arkain-code-assistant-llm/README.md)
-  * [What is Arkain Code assistant?](user-guide/arkain-code-assistant-llm/what-is-arkain-code-assistant.md)
-  * [Arkain Chat](user-guide/arkain-code-assistant-llm/arkain-chat.md)
-  * [Arkcain Chat - Apply](user-guide/arkain-code-assistant-llm/arkcain-chat-apply.md)
+* [Codevisor](user-guide/codevisor/README.md)
+  * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
+  * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)
+  * [Codevisor Chat - Apply](user-guide/codevisor/codevisor-chat-apply.md)
+  * [Codevisor - Auto Complete](user-guide/codevisor/codevisor-auto-complete.md)
 
 ## Billing and Membership
 

@@ -1,6 +1,0 @@
----
-icon: sidebar
----
-
-# Template managing
-

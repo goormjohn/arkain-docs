@@ -116,3 +116,8 @@
   * [Why my container blocked](faq/faq/why-my-container-blocked.md)
   * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)
   * [How do I copy/paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
+
+## What's new?
+
+* [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [Jan 10, 2025](whats-new/arkain-release-note/jan-10-2025.md)

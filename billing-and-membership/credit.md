@@ -1,8 +1,8 @@
 ---
-icon: money-bills
+icon: coin-vertical
 ---
 
-# Billing
+# Credit
 
 ### **About Credits** <a href="#about-credits_1" id="about-credits_1"></a>
 

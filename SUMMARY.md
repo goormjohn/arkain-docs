@@ -93,6 +93,7 @@
     * [Inactive Container](user-guide/dashboard/container-managing/inactive-container.md)
     * [Deleting Container](user-guide/dashboard/container-managing/deleting-container.md)
     * [Container Upgrade](user-guide/dashboard/container-managing/container-upgrade.md)
+  * [Billing](user-guide/dashboard/billing.md)
 * [Template Communtiy](user-guide/template-communtiy/README.md)
   * [What is Template Community?](user-guide/template-communtiy/what-is-template-community.md)
   * [Create Template](user-guide/template-communtiy/create-template.md)
@@ -102,7 +103,7 @@
 
 ## Billing and Membership
 
-* [Billing](billing-and-membership/billing.md)
+* [Credit](billing-and-membership/credit.md)
 * [Membership](billing-and-membership/membership.md)
 
 ## FAQ

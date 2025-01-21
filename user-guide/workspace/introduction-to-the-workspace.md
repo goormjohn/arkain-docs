@@ -4,6 +4,8 @@ icon: square-check
 
 # Introduction to the Workspace
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Running a container that includes a single development environment allows you to focus on development in the cloud workspace without the complex configurations.
 
 The workspace represents an IDE working space where you can develop projects, including powerful tools for editing, building, and supporting development tasks.

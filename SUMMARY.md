@@ -100,10 +100,10 @@
   * [Template edit / delete](user-guide/template-communtiy/template-edit-delete.md)
   * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
 
-## Billing and Membership
+## Credit and Membership
 
-* [Credit](billing-and-membership/credit.md)
-* [Membership](billing-and-membership/membership.md)
+* [Credit](credit-and-membership/credit.md)
+* [Membership](credit-and-membership/membership.md)
 
 ## FAQ
 

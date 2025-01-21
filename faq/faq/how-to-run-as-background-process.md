@@ -21,7 +21,7 @@ command tap > Run > click right on wanted run command > setting > **check Run in
 
 ## **2. Use nohup** command <a href="#id-2-use-nohup-command" id="id-2-use-nohup-command"></a>
 
-### **1. How to run**[**¶**](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/How-to-run-as-background-process/#1-how-to-run)
+### **1. How to run**
 
 * Prepare a file(ex. a.out) that you want to run in a background process.
 * Type the command
@@ -36,7 +36,7 @@ command tap > Run > click right on wanted run command > setting > **check Run in
  # ps -aux | grep a.out
 ```
 
-### **2. How to end**[**¶**](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/How-to-run-as-background-process/#2-how-to-end)
+### **2. How to end**
 
 * After finding the PID value with the ps command, end the process with the kill command.
 
@@ -58,11 +58,11 @@ If you don't want to create this file, you can have it output to /dev/null.
 # nohup echo hello > /dev/null
 ```
 
-## **If you are using node app**[¶](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/How-to-run-as-background-process/#if-you-are-using-node-app) <a href="#if-you-are-using-node-app" id="if-you-are-using-node-app"></a>
+## **If you are using node app** <a href="#if-you-are-using-node-app" id="if-you-are-using-node-app"></a>
 
 You can simply run it as a background process using the _**forever**_ command in the npm package.
 
-#### **1. How to run**[**¶**](https://mkdocs-mxedr.run.goorm.site/06.-FAQ/How-to-run-as-background-process/#1-how-to-run_1)
+### **1. How to run**
 
 * Install `forever`
 

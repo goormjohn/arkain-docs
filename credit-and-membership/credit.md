@@ -54,7 +54,20 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 ### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FNyX1Y4dnAB6VV8VsKdNE%252Fimage.png%3Falt%3Dmedia%26token%3De42dedf2-ac4a-462e-9f47-c1b3570a80d5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3e8ad075&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+**General Containers**
+
+<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td><strong>General Containers</strong></td><td></td><td></td><td></td></tr><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits/hour</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits/hour</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits/hour</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits/hour</td></tr></tbody></table>
+
+**GPU Containers**
+
+<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Basic</td><td>3.5</td><td>13 GB</td><td>13.2 credits/hour</td></tr></tbody></table>
+
+**Additional Charges**
+
+| Type             | Cost per Hour (Credits)   |
+| ---------------- | ------------------------- |
+| Traffic Addition | 10 credits/1 GB           |
+| Storage Addition | \~0.018 credits/hour/1 GB |
 
 ***
 

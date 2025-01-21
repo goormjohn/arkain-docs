@@ -4,7 +4,7 @@ icon: square-check
 
 # Introduction to the Workspace
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Running a container that includes a single development environment allows you to focus on development in the cloud workspace without the complex configurations.
 

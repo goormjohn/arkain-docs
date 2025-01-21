@@ -71,7 +71,6 @@
     * [Application Modes](user-guide/workspace/workspace-features/application-modes.md)
     * [Muti Project](user-guide/workspace/workspace-features/muti-project.md)
     * [Merge Code](user-guide/workspace/workspace-features/merge-code.md)
-    * [AI code completion](user-guide/workspace/workspace-features/ai-code-completion.md)
   * [Extra Features](user-guide/workspace/extra-features/README.md)
     * [Auto Complete / Auto Import](user-guide/workspace/extra-features/auto-complete-auto-import.md)
     * [Bug Reporting](user-guide/workspace/extra-features/bug-reporting.md)
@@ -97,7 +96,7 @@
   * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
   * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)
   * [Codevisor Chat - Apply](user-guide/codevisor/codevisor-chat-apply.md)
-  * [Codevisor - Auto Complete](user-guide/codevisor/codevisor-auto-complete.md)
+  * [Codevisor - Code Auto Complete](user-guide/codevisor/codevisor-code-auto-complete.md)
 
 ## Billing and Membership
 

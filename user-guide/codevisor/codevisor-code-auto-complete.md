@@ -1,4 +1,8 @@
-# AI code completion
+---
+icon: message-bot
+---
+
+# Codevisor - Code Auto Complete
 
 The `AI code completion feature` is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
 

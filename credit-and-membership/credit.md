@@ -4,45 +4,53 @@ icon: coin-vertical
 
 # Credit
 
-### **About Credits** <a href="#about-credits_1" id="about-credits_1"></a>
+## About Credits 💳
 
-Credits are the currency required for using containers. When you use containers, credits are deducted. The price per credit is $ 0.02, and you can purchase credits starting from a minimum of 50.
+Credits are the currency required for using containers. When you use containers, credits are deducted. Here’s what you need to know:
 
-Credits are deducted in the following conditions, and if you don't have enough credits, the active containers may be stopped or hibernated. Deductions prioritize Free Credits.
+* **Price per Credit**: $0.02 💵
+* **Minimum Purchase**: You can purchase credits starting from a minimum of **50 credits**. 🛒
 
-* 45 free credits are awarded on the first day of each month, and the free credits awarded expire on the last day of the month. The time of award and expiration of free credits is based on Coordinated Universal Time (UTC).
-* Deducted based on the container specs while the container is running. For detailed information about container specifications, please refer to [this](https://mkdocs-mxedr.run.goorm.site/Container/Container-Specifications/#h.m6vc73hw3ms8) help documentation.
-* Deducted when the total traffic from the container in your account exceeds 10GB, 10 credits will be deducted per 1GB traffic.
-* Deducted when the storage usage of each container exceeds the default storage capacity, 0.018 credits will be deducted per 1GB storage per hour. Storage is the concept of providing space to store your data, which is credited regardless of whether the container is running/stopped.
+### **Conditions for Credit Deductions ⚠️**
 
-You can monitor the network traffic and storage usage for each container in the _Resources Monitor_ panel at the bottom of the workspace and in the _Status bar_.
+Credits are deducted under the following conditions:
 
-### **Purchasing Credits** <a href="#purchasing-credits" id="purchasing-credits"></a>
+1. **Container Specs**: Deductions occur based on the container specifications while the container is running. For detailed information, refer to the help documentation. 📊
+2. **Traffic Usage**: If the total traffic from your container exceeds **10GB**, **10 credits** will be deducted for every additional **1GB** of traffic. 🌐
+3. **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged regardless of whether the container is running or stopped. 📦
+4. **Free Credits**: You are awarded **45 free credits** on the first day of each month, which expire on the last day of the month. ⏳ (Award and expiration times are based on Coordinated Universal Time - UTC.)
 
-You can purchase Credits as much as you need starting from a minimum of 50 on the Payment page. Follow the steps below to charge credits:
+You can monitor network traffic and storage usage for each container in the **Resources Monitor** panel at the bottom of the workspace and in the **Status bar**. 📈
 
-* Navigate to the[ Payment](https://ide.goorm.io/payment/checkout?type=credit) page.
-* Enter the number of credits you want to purchase. You can easily set the amount of Credits by clicking one of the bulk buttons, and by clicking the _Calculate credits_ button, you can calculate the amount of Credits based on your development purposes or usage.
-* Confirm the amount of Credits to be purchased and the payment amount.
-* Select the payment method, enter the payment information, and click the _Charge credits_ button.
+***
 
-### **Managing Credits** <a href="#managing-credits" id="managing-credits"></a>
+## Purchasing Credits 🛍️
 
-The amount of Credits you've purchased can be checked on the[ Container dashboard](https://ide.goorm.io/my/dashboard) sidebar and the[ Billing](https://ide.goorm.io/my/dashboard#/billing) page.
+You can purchase credits as needed, starting from a minimum of **50** on the **Payment page**. Follow these steps to charge credits:
 
-Additionally, the monthly Credit usage report can be viewed on the[ Credit Usage](https://ide.goorm.io/my/dashboard#/usage) page. By reviewing the monthly report, you can efficiently manage your payment of the Credits.
+1. **Navigate to the Payment Page**: Go to the designated payment section. 🖥️
+2. **Enter the Number of Credits**: Specify how many credits you want to purchase. You can use bulk buttons for convenience. ➕
+3. **Calculate Credits**: Click the **Calculate credits** button to estimate the amount based on your usage. 📊
+4. **Confirm Purchase**: Review the amount of credits and the total payment amount. ✔️
+5. **Select Payment Method**: Choose your payment method, enter the required information, and click the **Charge credits** button. 💳
 
-### How credits are calculated <a href="#how-credits-are-calculated" id="how-credits-are-calculated"></a>
+***
 
-This is a forecasting tool that provides an approximate cost based on example project or usage that you specify. However, the forecasted cost can differ from the actual cost due to a variety of factors. Common reasons why the forecast might differ from actual costs include the following.
+## Managing Credits 📋
 
-1\. **Duration:** Assumes 720 hours per month and does not account for leap years.
+* **Check Purchased Credits**: You can view the amount of credits you've purchased on the **Container dashboard sidebar** and the **Billing page**. 📊
+* **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently. 📅
 
-2\. **Promotional** **credits and discounts:** Does not account for promotional credits or other discounts.
+***
 
-3\. **Additional charges:** Does not account for additional usage not included in the forecast. For example, if you already use more than 5 GB of storage on the Free plan, you pay 0.018 credits per GB per hour.
+## How Credits Are Calculated 🔍
 
-4\. **Currency:** Forecast at a fixed exchange rate.
+This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
+
+1. **Duration**: Assumes **720 hours** per month and does not account for leap years. ⏲️
+2. **Promotional Credits**: Does not include promotional credits or discounts. 🎉
+3. **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour). ⚠️
+4. **Currency**: Forecasts are based on a fixed exchange rate. 💱
 
 ### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 

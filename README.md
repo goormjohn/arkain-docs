@@ -5,20 +5,7 @@ description: >-
   Development Environments (CDEs)
 cover: .gitbook/assets/1500x500 (1).jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
+layout: landing
 ---
 
 # Welcome to the Arkain!

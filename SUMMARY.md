@@ -95,7 +95,7 @@
 * [Codevisor](user-guide/codevisor/README.md)
   * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
   * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)
-  * [Codevisor Chat - Apply](user-guide/codevisor/codevisor-chat-apply.md)
+  * [Supported Models in CodeVisor](user-guide/codevisor/supported-models-in-codevisor.md)
   * [Codevisor - Code Auto Complete](user-guide/codevisor/codevisor-code-auto-complete.md)
 
 ## Billing and Membership

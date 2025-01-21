@@ -12,7 +12,7 @@ To explore various additional features of Arkain, you need to subscribe to a Mem
 
 Detailed membership benefit information is available on the[ pricing](https://ide.goorm.io/pricing) page.
 
-## Free Plan vs. Membership Plan Comparison **$0**/mo
+## Free Plan vs. Membership Plan Comparison
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>Free</h2></td><td>Plans for those who want to experience<br></td><td><h2><strong>$0</strong>/mo</h2></td><td><ul><li><strong>45 credits provided</strong><br>Can run default spec container 20 hours per month</li><li><strong>Maximum 2 containers</strong><br>Includes GPU containers</li><li><strong>AI code completion</strong><br>Basic</li><li><strong>Provides 10 GB of network traffic per month</strong></li></ul></td></tr><tr><td><h2>Membership</h2></td><td>To create a large project with enhanced features and advanced support benefits</td><td><h2><strong>$7</strong>/mo</h2></td><td><ul><li><strong>135 monthly credits provided</strong><br>Can run default spec container 60 hours per month</li><li><strong>Create unlimited containers</strong><br>Includes GPU containers</li><li><strong>AI code completion</strong><br>Advanced</li><li><strong>Up to 80GB of storage available per container</strong><br>Storage can be added once</li><li><strong>Provides 10 GB of network traffic per month</strong></li><li><strong>SSH connectable</strong></li><li><strong>2 custom domains connectable per container</strong></li></ul></td></tr></tbody></table>
 

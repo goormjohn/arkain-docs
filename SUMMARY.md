@@ -94,8 +94,9 @@
     * [Deleting Container](user-guide/dashboard/container-managing/deleting-container.md)
     * [Container Upgrade](user-guide/dashboard/container-managing/container-upgrade.md)
 * [Template Communtiy](user-guide/template-communtiy/README.md)
-  * [what is template community?](user-guide/template-communtiy/what-is-template-community.md)
+  * [What is Template Community?](user-guide/template-communtiy/what-is-template-community.md)
   * [Create Template](user-guide/template-communtiy/create-template.md)
+  * [Template Collection](user-guide/template-communtiy/template-collection.md)
   * [Template edit / delete](user-guide/template-communtiy/template-edit-delete.md)
   * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
 

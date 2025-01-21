@@ -91,7 +91,7 @@
   * [what is template community?](user-guide/template-communtiy/what-is-template-community.md)
   * [Create Template](user-guide/template-communtiy/create-template.md)
   * [Template managing](user-guide/template-communtiy/template-managing.md)
-  * [Start to Template](user-guide/template-communtiy/start-to-template.md)
+  * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
 * [Codevisor](user-guide/codevisor/README.md)
   * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
   * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)

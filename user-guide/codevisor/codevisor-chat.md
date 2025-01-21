@@ -4,70 +4,75 @@ icon: comment-exclamation
 
 # Codevisor Chat
 
-### Chat
+## How to Use LLMs with Side Chat in CodeVisor 💬✨
 
-Chat lets you talk with an AI that sees your codebase. The chat can always see your current file and cursor, so you can ask it things like: "Is there a bug here?". You can add particular blocks of code to the context with ⌘+Shift+L or "@." You can chat with your entire codebase with ⌘+Enter.
-
-### Instant Apply
-
-Apply the code suggestions from chat back into your codebase by clicking the play button on top of any chat codeblock.
-
-### Codebase Answers
-
-Use @Codebase or ⌘ Enter to ask questions about your codebase. Cursor will search your codebase to find relevant code to your query.
-
-### Reference your Code
-
-Reference code with @ symbols to be used as context for the AI. Just type @ to see a list of all the files and code symbols in your folder.
-
-
+The **Side Chat** feature in CodeVisor allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the **chat history** feature. Here's how to make the most of it:
 
 ***
 
+## **Getting Started with Side Chat**
 
+### **1. Open Side Chat**
 
-Chat
+* Access **Side Chat** from the right-hand panel of your CodeVisor interface.
+* The chat window will display your recent conversations and shortcuts for starting a new session.
 
-## Overview
+***
 
-Learn about Cursor Chat, your AI coding assistant that lives in your editor
+## **Using LLMs in Side Chat**
 
-Cursor Chat lets you ask questions or solve problems in your codebase with the most capable language models, all in your editor.
+### **1. Ask Questions About Your Code**
 
-\
-For language models to give good answers, they need to know specific things that are relevant to your codebase — context.
+* Type your question in the chat box. Examples include:
+  * _"What’s wrong with this function? Here’s the code: ..."_
+  * _"Can you optimize this SQL query?"_
+  * _"What does this error mean in Python?"_
 
-Cursor has several built in features to provide context in chat, such as automatically including context across your entire codebase, searching the web, indexing documentation, and user-specified references to code blocks. They are built to eliminate the tedious copy-pasting otherwise necessary for working with language models on code.
+### **2. Interact with Supported LLMs**
 
-By default, Cursor Chat is in the AI pane, which is on the opposite side of your primary sidebar. You can toggle the AI pane by pressing `Ctrl/⌘ + L`, which focuses onto the chat when opened. To submit your query, press `Enter`.
+* CodeVisor supports a range of LLMs, such as **GPT-4o**, **GPT-4o-mini**, **O1**, and **Claude-sonet-3.5**.
+* The system automatically selects the most suitable LLM for your query. You can also manually change the LLM in the settings.
 
-#### [​](https://docs.cursor.com/chat/overview#user-and-ai-messages)User and AI Messages <a href="#user-and-ai-messages" id="user-and-ai-messages"></a>
+***
 
-User messages contain the text you type, along with the context you’ve referenced. You can go back to any previous user messages to edit and rerun your queries. This will overwrite any messages after that and regenerate new ones.
+## **Managing Chat History**
 
-AI messages are the responses generated from the AI model you’ve picked. They are paired with the user message before them. AI messages may contain parsed code blocks which can be added to your codebase with [instant apply](https://docs.cursor.com/chat/apply).
+### **1. Persistent Chat History**
 
-All user/AI messages together in the same thread are called a chat thread, and each chat thread is saved in your chat history.
+* All your conversations in Side Chat are saved under **Chat History**.
+* You can revisit past sessions to review previous answers or refer back to specific code solutions.
 
-#### [​](https://docs.cursor.com/chat/overview#chat-history)Chat History <a href="#chat-history" id="chat-history"></a>
+### **2. Search and Organize Chats**
 
-By pressing on the “Previous Chats” button on the top right of the AI pane, or by pressing `Ctrl/⌘ + Alt/Option + L`, you can see the chat history. You can click on any chat thread to go back and see the messages that make up that thread, and you can also modify the title of the thread by clicking the pen icon, or delete the thread by clicking the garbage can icon upon hovering over the thread in the history.
+* Use the **Search History** bar to find specific discussions or solutions by keyword.
+* Organize chats into folders for quick access to frequently referenced topics.
 
-The title of a Cursor thread is just the first few words of the first user message.
+### **3. Delete or Export Chats**
 
-#### [​](https://docs.cursor.com/chat/overview#default-context)Default Context <a href="#default-context" id="default-context"></a>
+* Remove outdated or irrelevant chats by clicking the **Delete** button.
+* Export chat sessions as text files or markdown for documentation purposes.
 
-By default, Cursor Chat includes the current file as context. You can submit a query without including any context by removing the current file pill from the message. As you type, you can see what will be included in context in the pills above the input box.
+***
 
-#### [​](https://docs.cursor.com/chat/overview#adding-context)Adding Context <a href="#adding-context" id="adding-context"></a>
+## **Advanced Features**
 
-By default, user messages will contain the text you type, along with the context you’ve referenced. You can add more custom context to each bubble with @ symbols, and by default, the current viewing file will be used as context as well in the user message.
+1. **Code Context Integration**
+   * Highlight code in your editor and click **Ask in Side Chat** to send it directly to the LLM for feedback.
+2. **Multi-Model Support**
+   * Switch between LLMs in real-time depending on your query's complexity and model availability.
+3. **Conversation Continuity**
+   * Side Chat maintains context within a single session, ensuring the LLM remembers previous interactions for seamless conversations.
+4. **Private Mode (Optional)**
+   * Enable Private Mode to prevent chat history from being saved for sensitive discussions.
 
-See the [@ symbols](https://docs.cursor.com/context/@-symbols/@-files) pages for more information.
+***
 
-#### [​](https://docs.cursor.com/chat/overview#ai-fix-in-chat)AI Fix in Chat <a href="#ai-fix-in-chat" id="ai-fix-in-chat"></a>
+## **Tips for Efficient Use**
 
-A convenient feature to fix linter errors in your codebase is to use the AI fix in chat. To do this, hover over the error in the editor, and click the blue AI fix button that shows up.
+* **Be Specific**: Provide clear and concise questions to get accurate and relevant answers.
+* **Share Relevant Code**: Paste snippets or files directly into the chat for more contextual responses.
+* **Utilize History**: Review past sessions to avoid redundant queries and improve your workflow.
 
-The keyboard shortcut for this would be to do `Ctrl/⌘ + Shift + E`.
+***
 
+With **Side Chat** in CodeVisor, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease! 🚀💻

@@ -4,32 +4,46 @@ icon: user
 
 # Membership
 
-### **About Membership** <a href="#about-membership_1" id="about-membership_1"></a>
+## About Membership 🏅
 
-This is a plan for those who want to create a large project with better features and advanced support than the Free Plan.
+The Membership plan is designed for those who want to create large projects with enhanced features and advanced support compared to the Free Plan. Here’s what you need to know:
 
-To explore various additional features of Arkain, you need to subscribe to a Membership. Membership benefits are applied immediately upon subscription, and you can select to pay monthly or annually.
+* **Immediate Benefits**: Membership benefits are applied immediately upon subscription. 🚀
+* **Payment Options**: You can choose to pay either monthly or annually. 💳
+* **Detailed Information**: For more details about membership benefits, visit the **pricing page**. 📄
 
-Detailed membership benefit information is available on the[ pricing](https://ide.goorm.io/pricing) page.
+***
 
-## Free Plan vs. Membership Plan Comparison
+## Free Plan vs. Membership Plan Comparison ⚖️
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><h2>Free</h2></td><td>Plans for those who want to experience<br></td><td><h2><strong>$0</strong>/mo</h2></td><td><ul><li><strong>45 credits provided</strong><br>Can run default spec container 20 hours per month</li><li><strong>Maximum 2 containers</strong><br>Includes GPU containers</li><li><strong>AI code completion</strong><br>Basic</li><li><strong>Provides 10 GB of network traffic per month</strong></li></ul></td></tr><tr><td><h2>Membership</h2></td><td>To create a large project with enhanced features and advanced support benefits</td><td><h2><strong>$7</strong>/mo</h2></td><td><ul><li><strong>135 monthly credits provided</strong><br>Can run default spec container 60 hours per month</li><li><strong>Create unlimited containers</strong><br>Includes GPU containers</li><li><strong>AI code completion</strong><br>Advanced</li><li><strong>Up to 80GB of storage available per container</strong><br>Storage can be added once</li><li><strong>Provides 10 GB of network traffic per month</strong></li><li><strong>SSH connectable</strong></li><li><strong>2 custom domains connectable per container</strong></li></ul></td></tr></tbody></table>
+| Feature                | Free Plan                            | Membership Plan                |
+| ---------------------- | ------------------------------------ | ------------------------------ |
+| **Cost**               | $0/mo                                | $7/mo                          |
+| **Credits Provided**   | 45 credits                           | 135 monthly credits            |
+| **Container Runtime**  | 20 hours/month                       | 60 hours/month                 |
+| **Maximum Containers** | 2 containers                         | Unlimited containers           |
+| **GPU Containers**     | Included                             | Included                       |
+| **AI Code Completion** | Basic                                | Advanced                       |
+| **Storage**            | Up to 10 GB of network traffic/month | Up to 80 GB per container      |
+| **SSH Connectivity**   | Not available                        | SSH connectable                |
+| **Custom Domains**     | Not available                        | 2 custom domains per container |
 
+***
 
+## Subscribing to Membership 📝
 
-### **Subscribing to Membership** <a href="#subscribing-to-membership" id="subscribing-to-membership"></a>
+You can subscribe to the Membership at any time from the **Payment page**. Follow these steps:
 
-You can subscribe to the Membership at any time from the Payment page.
+1. **Navigate to the Payment Page**: Go to the designated payment section. 🖥️
+2. **Select Subscription Type**: Choose between a monthly or annual subscription. 📅
+3. **Confirm Payment Amount**: Review the payment amount for your selected plan. ✔️
+4. **Enter Payment Information**: Fill in your payment details and click the **Start Membership** button. 💳
 
-1. Navigate to the[ Payment](https://ide.goorm.io/payment/checkout?type=membership) page.
-2. Select between monthly and annual subscription.
-3. Confirm the payment amount.
-4. Enter the payment information, and click the _Start Membership_ button.
+***
 
-### **Managing Membership** <a href="#managing-membership" id="managing-membership"></a>
+## Managing Membership 📊
 
-You can view the information of your subscription information on the[ Billing](https://ide.goorm.io/my/dashboard#/billing) page.
+* **View Subscription Information**: You can check your subscription details on the **Billing page**. 📋
 
 ***
 

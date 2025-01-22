@@ -56,7 +56,7 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 **General Containers**
 
-<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td><strong>General Containers</strong></td><td></td><td></td><td></td></tr><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits/hour</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits/hour</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits/hour</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits/hour</td></tr></tbody></table>
+<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits/hour</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits/hour</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits/hour</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits/hour</td></tr></tbody></table>
 
 **GPU Containers**
 

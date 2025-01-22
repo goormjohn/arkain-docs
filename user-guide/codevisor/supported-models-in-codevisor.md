@@ -6,13 +6,13 @@ icon: user-robot
 
 ## Supported Models in CodeVisor: Choose the Best LLM for Your Needs 🚀
 
-| **LLM Model**        | **Description**                                  | **Usage Limit**    | **Availability** |
-| -------------------- | ------------------------------------------------ | ------------------ | ---------------- |
-| **GPT-4o**           | High-performance GPT-4 model                     | 50,000 tokens/day  | All Users        |
-| **GPT-4o-mini**      | Lightweight version of GPT-4o                    | 100,000 tokens/day | All Users        |
-| **O1**               | Optimized general-purpose model                  | 200,000 tokens/day | Membership Only  |
-| **O1-preview**       | Preview version of O1 with experimental features | 150,000 tokens/day | Membership Only  |
-| **Claude-sonet-3.5** | Conversational AI model by Anthropic             | 75,000 tokens/day  | Membership Only  |
+| LLM Model            | Description                                      | Usage Limit        | Availability    |
+| -------------------- | ------------------------------------------------ | ------------------ | --------------- |
+| **GPT-4o**           | High-performance GPT-4 model                     | 50,000 tokens/day  | All Users       |
+| **GPT-4o-mini**      | Lightweight version of GPT-4o                    | 100,000 tokens/day | All Users       |
+| **O1**               | Optimized general-purpose model                  | 200,000 tokens/day | Membership Only |
+| **O1-preview**       | Preview version of O1 with experimental features | 150,000 tokens/day | Membership Only |
+| **Claude-sonet-3.5** | Conversational AI model by Anthropic             | 75,000 tokens/day  | Membership Only |
 
 ***
 

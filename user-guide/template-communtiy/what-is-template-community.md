@@ -4,7 +4,7 @@ icon: sidebar
 
 # What is Template Community?
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introducing the Template Community: A New Feature for Seamless Collaboration! 🌟
 

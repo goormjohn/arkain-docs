@@ -2,9 +2,9 @@
 icon: user-robot
 ---
 
-# Supported Models in CodeVisor
+# Supported Models
 
-## Supported Models in CodeVisor: Choose the Best LLM for Your Needs 🚀
+## Supported Models : Choose the Best LLM for Your Needs 🚀
 
 | LLM Model            | Description                                      | Usage Limit        | Availability    |
 | -------------------- | ------------------------------------------------ | ------------------ | --------------- |

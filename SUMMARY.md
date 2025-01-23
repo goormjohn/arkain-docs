@@ -94,11 +94,11 @@
   * [Template Collection](user-guide/template-communtiy/template-collection.md)
   * [Template edit / delete](user-guide/template-communtiy/template-edit-delete.md)
   * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
-* [Codevisor](user-guide/codevisor/README.md)
-  * [What is Codevisor?](user-guide/codevisor/what-is-codevisor.md)
-  * [Codevisor Chat](user-guide/codevisor/codevisor-chat.md)
-  * [Supported Models in CodeVisor](user-guide/codevisor/supported-models-in-codevisor.md)
-  * [Codevisor - Code Auto Complete](user-guide/codevisor/codevisor-code-auto-complete.md)
+* [AI Code Assistant : Arkain](user-guide/ai-code-assistant-arkain/README.md)
+  * [What is AI Code Assistant : Arkain?](user-guide/ai-code-assistant-arkain/what-is-ai-code-assistant-arkain.md)
+  * [Side Chat](user-guide/ai-code-assistant-arkain/side-chat.md)
+  * [Supported Models](user-guide/ai-code-assistant-arkain/supported-models.md)
+  * [Code Auto Complete](user-guide/ai-code-assistant-arkain/code-auto-complete.md)
 
 ## Credit and Membership
 

@@ -2,11 +2,11 @@
 icon: user-robot
 ---
 
-# What is Codevisor?
+# What is AI Code Assistant : Arkain?
 
-## Introducing Codevisor : Your Coding Assistant Powered by LLMs! 🤖💡
+## Introducing AI Code Assistant : Arkain : Your Coding Assistant Powered by LLMs! 🤖💡
 
-We’re thrilled to unveil **Codevisor**, an intelligent feature in our webIDE that lets you interact with your code like never before! 🚀 With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
+We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent feature in our webIDE that lets you interact with your code like never before! 🚀 With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
 
 ### What Does Side Chat Do?
 

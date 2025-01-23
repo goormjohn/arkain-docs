@@ -2,11 +2,11 @@
 icon: comment-exclamation
 ---
 
-# Codevisor Chat
+# Side Chat
 
-## How to Use LLMs with Side Chat in CodeVisor 💬✨
+## How to Use LLMs with Side Chat in Arkain 💬✨
 
-The **Side Chat** feature in CodeVisor allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the **chat history** feature. Here's how to make the most of it:
+The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the **chat history** feature. Here's how to make the most of it:
 
 ***
 
@@ -14,7 +14,7 @@ The **Side Chat** feature in CodeVisor allows you to interact with powerful LLMs
 
 ### **1. Open Side Chat**
 
-* Access **Side Chat** from the right-hand panel of your CodeVisor interface.
+* Access **Side Chat** from the left-hand panel of your Arkain interface.
 * The chat window will display your recent conversations and shortcuts for starting a new session.
 
 ***
@@ -30,7 +30,7 @@ The **Side Chat** feature in CodeVisor allows you to interact with powerful LLMs
 
 ### **2. Interact with Supported LLMs**
 
-* CodeVisor supports a range of LLMs, such as **GPT-4o**, **GPT-4o-mini**, **O1**, and **Claude-sonet-3.5**.
+* Arkain supports a range of LLMs, such as **GPT-4o**, **GPT-4o-mini**, **O1**, and **Claude-sonet-3.5**.
 * The system automatically selects the most suitable LLM for your query. You can also manually change the LLM in the settings.
 
 ***
@@ -75,4 +75,4 @@ The **Side Chat** feature in CodeVisor allows you to interact with powerful LLMs
 
 ***
 
-With **Side Chat** in CodeVisor, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease! 🚀💻
+With **Side Chat** in **Arkain**, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease! 🚀💻

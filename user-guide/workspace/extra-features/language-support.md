@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Language Support
 
 We currently supports Korean, English, and Japanese.

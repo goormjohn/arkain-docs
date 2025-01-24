@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Auto Complete / Auto Import
 
 ## Auto Complete <a href="#auto-complete" id="auto-complete"></a>

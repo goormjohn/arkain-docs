@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # PHP
 
 This is the build/run options settings for a PHP project.

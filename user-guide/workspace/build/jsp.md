@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # JSP
 
 This is the build/run options settings for a JSP project.

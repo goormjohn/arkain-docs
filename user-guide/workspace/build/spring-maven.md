@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Spring-Maven
 
 This is the build/run options settings for a Spring-Maven project.

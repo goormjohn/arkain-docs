@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # C/C++
 
 This is the build/run options settings for a C/C++ project.

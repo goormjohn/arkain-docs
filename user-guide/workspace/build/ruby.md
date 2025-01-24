@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Ruby
 
 This is the build/run options settings for a Ruby project. Here you can specify the execution type, the name of the file to run, and the folder where the source files are located.

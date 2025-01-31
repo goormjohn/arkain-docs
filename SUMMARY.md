@@ -111,7 +111,7 @@
   * [Can I use Arkain on a mobile device](faq/faq/can-i-use-arkain-on-a-mobile-device.md)
   * [How to run as background process](faq/faq/how-to-run-as-background-process.md)
   * [React native container is not working](faq/faq/react-native-container-is-not-working.md)
-  * [SSH Configuration](faq/faq/ssh-configuration.md)
+  * [SSH Configuration](faq/faq/ssh-port-forwarding-configuration.md)
   * [Using MySQL Workbench with Arkain](faq/faq/using-mysql-workbench-with-arkain.md)
   * [Why my container blocked](faq/faq/why-my-container-blocked.md)
   * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)

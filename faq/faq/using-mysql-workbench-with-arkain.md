@@ -1,5 +1,7 @@
 ---
 icon: comment-question
+hidden: true
+noIndex: true
 ---
 
 # Using MySQL Workbench with Arkain

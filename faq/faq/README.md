@@ -27,8 +27,8 @@ layout:
 [react-native-container-is-not-working.md](react-native-container-is-not-working.md)
 {% endcontent-ref %}
 
-{% content-ref url="ssh-configuration.md" %}
-[ssh-configuration.md](ssh-configuration.md)
+{% content-ref url="ssh-port-forwarding-configuration.md" %}
+[ssh-port-forwarding-configuration.md](ssh-port-forwarding-configuration.md)
 {% endcontent-ref %}
 
 {% content-ref url="using-mysql-workbench-with-arkain.md" %}

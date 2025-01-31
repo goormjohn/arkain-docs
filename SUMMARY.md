@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Arkain!](README.md)
+* [Arkain Documentation](README.md)
 
 ## Getting Started
 

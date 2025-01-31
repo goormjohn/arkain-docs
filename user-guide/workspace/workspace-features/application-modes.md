@@ -1,3 +1,8 @@
+---
+hidden: true
+noIndex: true
+---
+
 # Application Modes
 
 Application mode provides the functionality to launch applications directly within the workspace. With this feature, you can use applications like VSCode, Jupyter Notebook, Jupyter Lab, and etc. instead of the default editors of goormIDE.

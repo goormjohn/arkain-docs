@@ -53,6 +53,8 @@ Once the container is running, your **workspace** will open, and you’re ready 
 
 ***
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ## **Congratulations! 🎉**
 
 You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, cloud-based IDE.\

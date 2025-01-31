@@ -2,7 +2,7 @@
 icon: comment-question
 ---
 
-# SSH / Port Forwarding Configuration
+# SSH Configuration
 
 You can access containers in Arkain from the outside using the SSH / Port Forwarding feature.
 
@@ -32,26 +32,3 @@ Once you've been issued a password, you can use it for subsequent accesses.
 If you don't remember it, you can _**Regenerate**_.\
 **The SSH connection IP and port change every time the Arkain container is turned off and on.**\
 **SSH connections are only available while the Arkain container is on.**
-
-***
-
-## **Port Forwarding Configuration (Port Forwarding)** <a href="#port-forwarding-configuration-port-forwarding" id="port-forwarding-configuration-port-forwarding"></a>
-
-You can open a specific port of the Arkain container to make it accessible from the outside.\
-Click **\[Container] > \[Port Forwarding Configuration]** in the top menu to open the **\[Port Forwarding Configuration]** pop-up window.
-
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-You can register the port you want to open by entering it directly in 'Internal ports', or you can register the default port of the selected service by selecting it in 'Type'.
-
-The registered ports will be available in the table below.
-
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
-
-You can access it from the outside using the 'IP' and 'External Port'.\
-The 'IP' and 'External port' change every time the corresponding Arkain container is turned off and on.\
-You can register up to 2 port forwarding settings per container.
-
-{% hint style="info" %}
-**External access is only possible while the Arkain container is on.**
-{% endhint %}

@@ -1,5 +1,7 @@
 ---
 icon: comment-question
+hidden: true
+noIndex: true
 ---
 
 # Can I use Arkain on a mobile device

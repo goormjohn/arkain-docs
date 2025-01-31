@@ -1,5 +1,7 @@
 ---
 icon: comment-question
+hidden: true
+noIndex: true
 ---
 
 # React native container is not working

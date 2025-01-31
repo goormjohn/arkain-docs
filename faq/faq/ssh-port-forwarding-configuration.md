@@ -19,7 +19,7 @@ Click **\[Container] > \[SSH Configuration]** on the top menu to open the **\[SS
 
 Click the copy icon to the right of the command and paste it from your local environment or other external instances shell.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then enter your password.\
 If this is your first connection, click the _**Generate**_ button to generate a password. Click the copy icon on the right to copy it and paste it in the shell you want to SSH into.\

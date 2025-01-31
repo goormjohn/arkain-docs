@@ -24,7 +24,7 @@ Download a file from Arkain to your computer. To download:
 1. Go to \[File] > \[Export File].
 2. In the \[Export File] pop-up window, select the file you want to download and click the OK button.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Export Folder** <a href="#export-folder" id="export-folder"></a>
 

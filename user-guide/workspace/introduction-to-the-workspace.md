@@ -8,6 +8,8 @@ This page provides an overview of the terms we use to describe each of the piece
 
 <figure><img src="../../.gitbook/assets/Group 46 (1).png" alt=""><figcaption><p>Arkain Workspace User Interface</p></figcaption></figure>
 
+***
+
 ## Menubar <a href="#menu-bar" id="menu-bar"></a>
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Arkain Workspace Menu Bar</p></figcaption></figure>
@@ -38,34 +40,38 @@ If you'd like to explore additional file-related features, please check the link
 
 * It also includes a **file-saving** feature and an **"Exit Container"** button, which allows users to switch from the workspace to the console.
 
+***
+
 ## Activitybar <a href="#sidebar" id="sidebar"></a>
 
 The Activity Bar allows you to select a view to display in the sidebar from the available:
 
-#### Side Chat : opens Side Chat
+### ➡️ Side Chat : opens Side Chat
 
-#### Project : opens the Project sidebar
+### ➡️ Project : opens the Project sidebar
 
-#### Command : opens the Command sidebar
+### ➡️ Command : opens the Command sidebar
 
-#### Git : opens the Git sidebar
+### ➡️ Git : opens the Git sidebar
 
-#### Debug : opens the Debug sidebar
+### ➡️ Debug : opens the Debug sidebar
 
-#### Source Code : opens the Source Code sidebar
+### ➡️ Source Code : opens the Source Code sidebar
 
-#### Share This Container : opens the Share This Container sidebar
+### ➡️ Share This Container : opens the Share This Container sidebar
 
-#### Help : You can access various **help documents** for assistance.
+### ➡️ Help&#x20;
 
-<div align="center"><figure><img src="../../.gitbook/assets/image.png" alt="" width="310"><figcaption></figcaption></figure></div>
+#### You can access various **help documents** for assistance.
+
+<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* &#x20;aedir vice center : You can open the messenger for contacting **Customer Support**.
-* View All Shortcut : You can view the **shortcut keys for the entire IDE**.
+* &#x20;**Arkain service center** : You can open the messenger for contacting **Customer Support**.
+* **View All Shortcut** : You can view the **shortcut keys for the entire IDE**.
 
 {% content-ref url="keyboard-shortcut.md" %}
 [keyboard-shortcut.md](keyboard-shortcut.md)
@@ -73,15 +79,17 @@ The Activity Bar allows you to select a view to display in the sidebar from the 
 
 * Language documentation : You can navigate to the official online documentation for the created **container stack**.
 
-### Preference
+### ➡️ Preference
 
 You can open the **project settings modal**.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-### Account
+### ➡️ Profile and Container Info
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+You can navigate to the page where you can manage your **member profile** and **container information**.
+
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
 * **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
@@ -90,29 +98,33 @@ You can open the **project settings modal**.
 * Go to Container Dashboard
 * **Sign out** : You can **log out** and return to the **main page**.
 
+***
+
 ## Sidebar <a href="#sidebar" id="sidebar"></a>
 
 When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different view by clicking on the icons in the Activity Bar.
 
-### Project Sidebar
+### ➡️ Project Sidebar
 
-### Command Sidebar
+### ➡️ Command Sidebar
 
-### Git Sidebar
+### ➡️ Git Sidebar
 
-### Debug Sidebar
+### ➡️ Debug Sidebar
 
-### Source Code Sidebar
+### ➡️ Source Code Sidebar
 
-### Share This Container Sidebar
+### ➡️ Share This Container Sidebar
 
-
+***
 
 ## Editor <a href="#editor" id="editor"></a>
 
-* The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
+The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+***
 
 ## Terminal <a href="#terminal" id="terminal"></a>
 
@@ -130,13 +142,13 @@ You can open the Terminal in a new window by right-clicking on a folder in the P
 As a docker container-based service, goormIDE does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as **`ufw, systemctl, docker`**(docker in docker) cannot be used.
 {% endhint %}
 
-
+***
 
 ## Bottombar <a href="#terminal" id="terminal"></a>
 
 *
 
-
+***
 
 ## Side Chat <a href="#terminal" id="terminal"></a>
 

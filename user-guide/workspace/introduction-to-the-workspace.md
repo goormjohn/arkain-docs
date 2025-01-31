@@ -18,6 +18,12 @@ The Menu Bar is where you perform general operations on your Arkain Workspace. I
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt="" width="260"><figcaption></figcaption></figure>
 
+If you'd like to explore additional file-related features, please check the link below:
+
+{% content-ref url="file-management/" %}
+[file-management](file-management/)
+{% endcontent-ref %}
+
 * The central section of the menu bar handles URL and port management, allowing users to manage running URLs, ports, SSH settings, SBOM management, and project configurations.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>

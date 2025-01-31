@@ -15,24 +15,12 @@ layout:
 
 # FAQ
 
-{% content-ref url="can-i-use-arkain-on-a-mobile-device.md" %}
-[can-i-use-arkain-on-a-mobile-device.md](can-i-use-arkain-on-a-mobile-device.md)
-{% endcontent-ref %}
-
 {% content-ref url="how-to-run-as-background-process.md" %}
 [how-to-run-as-background-process.md](how-to-run-as-background-process.md)
 {% endcontent-ref %}
 
-{% content-ref url="react-native-container-is-not-working.md" %}
-[react-native-container-is-not-working.md](react-native-container-is-not-working.md)
-{% endcontent-ref %}
-
 {% content-ref url="ssh-port-forwarding-configuration.md" %}
 [ssh-port-forwarding-configuration.md](ssh-port-forwarding-configuration.md)
-{% endcontent-ref %}
-
-{% content-ref url="using-mysql-workbench-with-arkain.md" %}
-[using-mysql-workbench-with-arkain.md](using-mysql-workbench-with-arkain.md)
 {% endcontent-ref %}
 
 {% content-ref url="why-my-container-blocked.md" %}

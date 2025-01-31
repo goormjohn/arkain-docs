@@ -10,11 +10,15 @@ In just a few clicks, you can set up your development environment and start expl
 
 ***
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ### **Step 1: Go to the Dashboard**
 
 On the **Dashboard**, you can easily create and manage containers. This is where all your development environments are centralized.
 
 ***
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Click ‘New Container’**
 
@@ -39,6 +43,8 @@ To make the process even easier, you can click the software icon next to the but
    After entering all the required information, click the **‘Create’** button to set up your container.
 
 ***
+
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **Step 4: Run Your New Container**
 

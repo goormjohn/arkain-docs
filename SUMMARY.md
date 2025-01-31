@@ -24,11 +24,6 @@
 
 ## User Guide
 
-* [Container](user-guide/container/README.md)
-  * [Container Specifications](user-guide/container/container-specifications.md)
-  * [Automatic Stop](user-guide/container/automatic-stop.md)
-  * [Introduction to GPU](user-guide/container/introduction-to-gpu.md)
-  * [Available Container Stacks](user-guide/container/available-container-stacks.md)
 * [Workspace](user-guide/workspace/README.md)
   * [Introduction to the Workspace](user-guide/workspace/introduction-to-the-workspace.md)
   * [File Management](user-guide/workspace/file-management/README.md)
@@ -79,6 +74,11 @@
     * [SBOM Management](user-guide/workspace/extra-features/sbom-management.md)
   * [Keyboard Shortcut](user-guide/workspace/keyboard-shortcut.md)
 * [Dashboard](user-guide/dashboard/README.md)
+  * [Container](user-guide/dashboard/container/README.md)
+    * [Container Specifications](user-guide/dashboard/container/container-specifications.md)
+    * [Automatic Stop](user-guide/dashboard/container/automatic-stop.md)
+    * [Introduction to GPU](user-guide/dashboard/container/introduction-to-gpu.md)
+    * [Available Container Stacks](user-guide/dashboard/container/available-container-stacks.md)
   * [Container Dashboard](user-guide/dashboard/container-dashboard.md)
   * [Check Credit Useage](user-guide/dashboard/check-credit-useage.md)
   * [Container Managing](user-guide/dashboard/container-managing/README.md)

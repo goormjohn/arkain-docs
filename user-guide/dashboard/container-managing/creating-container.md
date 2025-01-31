@@ -31,8 +31,8 @@ Enter a name for your container.\
 
 The available container specifications can be found on the following page.
 
-{% content-ref url="../../container/container-specifications.md" %}
-[container-specifications.md](../../container/container-specifications.md)
+{% content-ref url="../container/container-specifications.md" %}
+[container-specifications.md](../container/container-specifications.md)
 {% endcontent-ref %}
 
 ### **5. Configure Additional Storage**

@@ -4,6 +4,8 @@ icon: money-bill
 
 # Billing
 
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 ## **💳 Billing**
 
 The **Billing Page** on the Arkain Dashboard is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits! 🚀

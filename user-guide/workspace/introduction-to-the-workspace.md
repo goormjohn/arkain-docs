@@ -4,26 +4,110 @@ icon: square-check
 
 # Introduction to the Workspace
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+This page provides an overview of the terms we use to describe each of the pieces of the user interface (UI) available to you in Arkain projects.
 
-Running a container that includes a single development environment allows you to focus on development in the cloud workspace without the complex configurations.
+<figure><img src="../../.gitbook/assets/Group 46 (1).png" alt=""><figcaption><p>Arkain Workspace User Interface</p></figcaption></figure>
 
-The workspace represents an IDE working space where you can develop projects, including powerful tools for editing, building, and supporting development tasks.
+## Menubar <a href="#menu-bar" id="menu-bar"></a>
 
-### **Create a Container** <a href="#create-a-container" id="create-a-container"></a>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Arkain Workspace Menu Bar</p></figcaption></figure>
 
-A container refers to a virtual machine(VM) containing a single development environment. Changes made within the container are stored in the cloud environment, allowing you to run the container from anywhere and continue development in the same environment.
+The Menu Bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-Containers can be created in just 1 minute. Check out the [Quickstart](https://mkdocs-mxedr.run.goorm.site/Getting-Started/Quickstart/#h.1607vphfqgbb) documentation to get started!
+* The function buttons on the left side of the menu bar are dedicated to file-related operations. They allow users to create, copy, delete, rename, and save files, providing a streamlined file management experience.
 
-### **Run your code** <a href="#run-your-code" id="run-your-code"></a>
+<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="260"><figcaption></figcaption></figure>
 
-To run your code, click the `Run` button in the top-right corner of the workspace, or manually enter the run scripts in the terminal. Also you can customize the scripts of the `Run` button. To learn how to customize the Run command, please check [here](https://mkdocs-mxedr.run.goorm.site/03.-Workspace/Introduction-to-the-Workspace/?tab=t.0#heading=h.j24pgksoug5j).
+* The central section of the menu bar handles URL and port management, allowing users to manage running URLs, ports, SSH settings, SBOM management, and project configurations.
 
-### Check the output <a href="#check-the-output" id="check-the-output"></a>
+<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
 
-The results of code can be viewed in the panel at the bottom of the workspace. If you're developing web applications, you can use the provided domain to check the code output in your browser. Learn how to create and manage domains [here](https://mkdocs-mxedr.run.goorm.site/03.-Workspace/Introduction-to-the-Workspace/?tab=t.0#heading=h.bw4rcvqqd3rp).
+* The **Preview** tab allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
 
-### **Powerful collaboration features** <a href="#powerful-collaboration-features" id="powerful-collaboration-features"></a>
+<div align="center"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="283"><figcaption></figcaption></figure></div>
 
-Arkain provides powerful collaborative editing features to efficiently collaborate with your peers.
+* The **Run** menu allows users to manage and execute custom run commands they have written.
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="262"><figcaption></figcaption></figure>
+
+* It also includes a **file-saving** feature and an **"Exit Container"** button, which allows users to switch from the workspace to the console.
+
+## Activitybar <a href="#sidebar" id="sidebar"></a>
+
+The Activity Bar allows you to select a view to display in the sidebar from the available:
+
+### Side Chat : opens Side Chat
+
+### Project : opens the Project sidebar
+
+### Command : opens the Command sidebar
+
+### Git : opens the Git sidebar
+
+### Debug : opens the Debug sidebar
+
+### Source Code : opens the Source Code sidebar
+
+### Share This Container : opens the Share This Container sidebar
+
+### Help
+
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="310"><figcaption></figcaption></figure></div>
+
+* Find Menu
+* arkain service center
+* View All Shortcut
+* language manual
+
+### Preference : 워크스페이스 설정 모달을 호출합니다.
+
+### Account
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+
+* Profile 설정
+* Container Info
+* Go to Release Notes
+* Edit Preference File
+* Go to Container Console
+* Sign out
+
+## Sidebar <a href="#sidebar" id="sidebar"></a>
+
+When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different view by clicking on the icons in the Activity Bar.
+
+### Project Sidebar
+
+### Command Sidebar
+
+### Git Sidebar
+
+### Debug Sidebar
+
+### Source Code Sidebar
+
+### Share This Container Sidebar
+
+
+
+## Editor <a href="#editor" id="editor"></a>
+
+* The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
+
+
+
+## Terminal <a href="#terminal" id="terminal"></a>
+
+* The Terminal allows you to run commands, such as `ls`, `mkdir`, `npm start`, `node index.js`, and others – the same way you would on your local machine.
+
+
+
+## Bottombar <a href="#terminal" id="terminal"></a>
+
+*
+
+
+
+## Side Chat <a href="#terminal" id="terminal"></a>
+
+*

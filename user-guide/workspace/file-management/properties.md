@@ -1,3 +1,7 @@
+---
+icon: cabinet-filing
+---
+
 # Properties
 
 Check the properties of the file/folder/project.

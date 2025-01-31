@@ -1,5 +1,5 @@
 ---
-icon: copy
+icon: cabinet-filing
 ---
 
 # File Management

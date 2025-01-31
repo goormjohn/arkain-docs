@@ -1,3 +1,7 @@
+---
+icon: cabinet-filing
+---
+
 # Move
 
 Move the file/folder to another location. However, if the location is unavailable, it will not be moved, and if there are files/folders with the same name, they may be overwritten or merged.

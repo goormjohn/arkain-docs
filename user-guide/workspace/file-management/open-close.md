@@ -1,3 +1,7 @@
+---
+icon: cabinet-filing
+---
+
 # Open / Close
 
 In goormIDE, you can open source code files, as well as Vim editor and ZIP/TAR files.\

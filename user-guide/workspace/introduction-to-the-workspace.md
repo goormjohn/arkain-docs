@@ -65,12 +65,12 @@ The Activity Bar allows you to select a view to display in the sidebar from the 
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
-* Profile 설정
-* Container Info
-* Go to Release Notes
-* Edit Preference File
-* Go to Container Console
-* Sign out
+* **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
+* **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
+* **Go to Release Notes**
+* **Edit Preference File** : You can configure the **IDE settings** based on files.
+* Go to Container Dashboard
+* **Sign out** : You can **log out** and return to the **main page**.
 
 ## Sidebar <a href="#sidebar" id="sidebar"></a>
 

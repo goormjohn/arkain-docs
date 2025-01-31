@@ -10,76 +10,44 @@ Creating a new container in **Arkain** is simple and efficient! Follow these ste
 
 ***
 
-### **Step 1: Start Creating a New Container**
+### **1. Set Up a Container Stack**
 
-Navigate to the **Dashboard**. You can either:
+Currently, the supported stacks are **Python, Node.js, Blank, Java, and Go**.
 
-* Click **+ New Container** in the top-right corner, or
-* Click the **New Container (0/5)** area in the center of the page.
+### **2. Configure Template and OS**
 
-***
+The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
 
-### **Step 2: Enter Container Information**
+{% hint style="info" %}
+Ubuntu 22.04 LTS / Ubuntu 20.04 LTS Available.
+{% endhint %}
 
-#### 1. **Name**
+### **3. Set a Container Name**
 
-* Enter a name for your container.
-* Note: Container names cannot be changed once created and must only contain **letters, numbers, or underscores (\_)**.
+Enter a name for your container.\
+**Note:** Container names **cannot be changed** once created and must only contain **letters, numbers, or underscores (\_).**
 
-#### 2. **Description (Optional)**
+### **4. Configure Container Specs**
 
-* Provide a brief description of the container for reference.
+The available container specifications can be found on the following page.
 
-#### 3. **Visibility**
+{% content-ref url="../../container/container-specifications.md" %}
+[container-specifications.md](../../container/container-specifications.md)
+{% endcontent-ref %}
 
-* Set the **visibility** of your container:
-  * **Public**: The container will appear in the Container Hub and can be accessed by anyone.\
-    ⚠️ Avoid exposing sensitive information like passwords or API keys in public containers.
-  * **Private**: Share access through specific links.
-* You can change the visibility settings after creating the container.
+### **5. Configure Additional Storage**
 
-#### 4. **Template**
+* **Default:** 5GB
+* **Membership Plan:** Up to **80GB** of additional storage.
 
-* Use templates to quickly import and set up previously created projects.
+{% content-ref url="../../../credit-and-membership/membership.md" %}
+[membership.md](../../../credit-and-membership/membership.md)
+{% endcontent-ref %}
 
-***
+### **6. Configure Additional Storage**
 
-### **Step 3: Import Existing Projects**
-
-**1. Source Code Repositories**
-
-* Import projects from platforms like **GitHub.**
-* Follow the necessary authorization steps and select the software stack after importing the project.
-
-***
-
-### **Step 4: Select Software Stack**
-
-#### **1. Programming Language**
-
-* Choose the language(s) to be installed in the container.
-
-#### **2. Predefined Templates**
-
-* Use goorm-provided examples for your software stack to simplify setup.
-
-#### **3. OS**
-
-* Select the required Linux OS version for your container.
-* For Blank Stack containers, additional build and execution options will appear.
-
-***
-
-### **Additional Features**
-
-#### **1. Tools**
-
-* **Visual Studio Code**: Available for all stacks.
-* **Jupyter Notebook**: Available for Python-based stacks only.
-
-#### **2. Modules/Packages**
-
-* Install additional modules and packages during container creation to save time.
+* **Modules/Packages**
+  * Install additional modules and packages during container creation to save time.
 
 ***
 

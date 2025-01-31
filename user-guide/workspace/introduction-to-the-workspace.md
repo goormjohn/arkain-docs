@@ -42,34 +42,46 @@ If you'd like to explore additional file-related features, please check the link
 
 The Activity Bar allows you to select a view to display in the sidebar from the available:
 
-### Side Chat : opens Side Chat
+#### Side Chat : opens Side Chat
 
-### Project : opens the Project sidebar
+#### Project : opens the Project sidebar
 
-### Command : opens the Command sidebar
+#### Command : opens the Command sidebar
 
-### Git : opens the Git sidebar
+#### Git : opens the Git sidebar
 
-### Debug : opens the Debug sidebar
+#### Debug : opens the Debug sidebar
 
-### Source Code : opens the Source Code sidebar
+#### Source Code : opens the Source Code sidebar
 
-### Share This Container : opens the Share This Container sidebar
+#### Share This Container : opens the Share This Container sidebar
 
-### Help
+#### Help : You can access various **help documents** for assistance.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="310"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image.png" alt="" width="310"><figcaption></figcaption></figure></div>
 
-* Find Menu
-* arkain service center
-* View All Shortcut
-* language manual
+* Find Menu : You can invoke the **Quick Execute** feature.
 
-### Preference : 워크스페이스 설정 모달을 호출합니다.
+<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* &#x20;aedir vice center : You can open the messenger for contacting **Customer Support**.
+* View All Shortcut : You can view the **shortcut keys for the entire IDE**.
+
+{% content-ref url="keyboard-shortcut.md" %}
+[keyboard-shortcut.md](keyboard-shortcut.md)
+{% endcontent-ref %}
+
+* Language documentation : You can navigate to the official online documentation for the created **container stack**.
+
+### Preference
+
+You can open the **project settings modal**.
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### Account
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
 * **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.

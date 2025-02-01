@@ -1,3 +1,7 @@
+---
+icon: bug
+---
+
 # Bug Reporting
 
 If you find a bug (abnormal behaviour) while using goormIDE, please send a bug report to goorm.

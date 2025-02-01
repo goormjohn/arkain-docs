@@ -1,3 +1,7 @@
+---
+icon: square-terminal
+---
+
 # Commands
 
 By using Commands, you can easily build and run your code. You can customize Commands. Furthermore, you can organize commands into Common, Build, Run, Test, and Deploy categories for better management.

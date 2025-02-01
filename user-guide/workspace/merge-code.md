@@ -1,3 +1,7 @@
+---
+icon: code
+---
+
 # Merge Code
 
 Merges two source codes into one code.

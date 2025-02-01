@@ -1,3 +1,7 @@
+---
+icon: file-waveform
+---
+
 # SBOM Management
 
 ## Understanding SBOM

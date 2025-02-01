@@ -1,3 +1,7 @@
+---
+icon: rectangle-vertical-history
+---
+
 # Muti Project
 
 Multi-project is the feature to work on multiple projects in a single container.

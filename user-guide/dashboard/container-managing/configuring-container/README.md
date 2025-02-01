@@ -34,12 +34,29 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 
 ### 🔒 **3. Advanced Configuration**
 
+*   **Init Script**
+
+    If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
+
+{% content-ref url="init-script.md" %}
+[init-script.md](init-script.md)
+{% endcontent-ref %}
+
 * **SSH Settings**\
   Set up secure shell (SSH) access to your container for remote management or troubleshooting.
-* **Port Forwarding**\
-  Map external ports to internal ports in your container for seamless communication between services.
+
+{% content-ref url="../../../../faq/faq/ssh-port-forwarding-configuration.md" %}
+[ssh-port-forwarding-configuration.md](../../../../faq/faq/ssh-port-forwarding-configuration.md)
+{% endcontent-ref %}
+
 * **Environment Variables**\
   Define key-value pairs to control the behavior of your application. Examples include database credentials, API keys, or custom configuration options.
+
+{% content-ref url="environment-variables.md" %}
+[environment-variables.md](environment-variables.md)
+{% endcontent-ref %}
+
+
 
 ***
 

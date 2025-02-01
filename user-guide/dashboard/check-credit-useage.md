@@ -25,7 +25,7 @@ The Credit Usage page provides an overview of your current credit consumption an
   * **Storage Usage**: Credits consumed for storing data.
   * **Traffic Usage**: Credits used for data transfer and traffic.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. Usage by Owned Containers**
 

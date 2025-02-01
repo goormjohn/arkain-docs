@@ -48,7 +48,13 @@ The Activity Bar allows you to select a view to display in the sidebar from the 
 
 ### ➡️ Side Chat : opens Side Chat
 
-### ➡️ Project : opens the Project sidebar
+We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent feature in our webIDE that lets you interact with your code like never before!&#x20;
+
+{% content-ref url="../ai-code-assistant-arkain/side-chat.md" %}
+[side-chat.md](../ai-code-assistant-arkain/side-chat.md)
+{% endcontent-ref %}
+
+### ➡️ [Project : opens the Project sidebar](introduction-to-the-workspace.md#project-opens-the-project-sidebar)
 
 ### ➡️ Command : opens the Command sidebar
 
@@ -64,7 +70,7 @@ The Activity Bar allows you to select a view to display in the sidebar from the 
 
 #### You can access various **help documents** for assistance.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 
@@ -89,7 +95,7 @@ You can open the **project settings modal**.
 
 You can navigate to the page where you can manage your **member profile** and **container information**.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
 * **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
@@ -105,6 +111,27 @@ You can navigate to the page where you can manage your **member profile** and **
 When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different view by clicking on the icons in the Activity Bar.
 
 ### ➡️ Project Sidebar
+
+The **Project Sidebar View** includes the project description (if provided by the author) and allows you to **browse project files**.
+
+You can also **create, edit, and delete files** related to the project directly from the sidebar. 🚀
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### ➕ **Create Files & Folders**
+
+#### Click the **“+” button** to create new **files and folders** within your project.
+
+#### 📂 **Folder Management**
+
+* Use the **“-” icon** to collapse or expand all folders.
+* Click the **refresh button** to update the file tree and keep it in sync.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 🖱 **Right-Click for File Actions**
+
+Right-click on a file to access all available **file-related features**, including **renaming, deleting, moving, and more**! 🚀
 
 ### ➡️ Command Sidebar
 
@@ -122,7 +149,7 @@ When you open a Arkain project, the Sidebar defaults to the _Project_ icon's exp
 
 The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

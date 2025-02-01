@@ -24,7 +24,7 @@ You cannot register multiple domains with the same port number.
 
 ### Registering a Custom domain <a href="#registering-a-custom-domain" id="registering-a-custom-domain"></a>
 
-You can register your own domain instead of the domains provided by goormIDE such as `mydomain.run.goorm.app`. You can register Custom domain on the Container settings page.
+You can register your own domain instead of the domains provided by Arkain such as `mydomain.run.arkain.app`. You can register Custom domain on the Container settings page.
 
 ### **Registering a Custom domain**
 
@@ -36,10 +36,12 @@ On the Container settings page, click the `Add` button at the top right of the U
 
 Navigate to the Domain Management Service's page and set the CNAME for the domain. Depending on the region settings of the container, you should configure a different CNAME.
 
-* Seoul: domain.run.goorm.io
-* Oregon: domain.run-us-west2.goorm.io
-* Frankfrut: domain.run-eu-central1.goorm.io
-* Mumbai: domain.run-ap-south1.goorm.io
+<mark style="color:red;">**\[ 수정예정임 ]**</mark>
+
+* <mark style="color:red;">Seoul: domain.run.goorm.io</mark>
+* <mark style="color:red;">Oregon: domain.run-us-west2.goorm.io</mark>
+* <mark style="color:red;">Frankfrut: domain.run-eu-central1.goorm.io</mark>
+* <mark style="color:red;">Mumbai: domain.run-ap-south1.goorm.io</mark>
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FvP6AkqKj5qiAciEuYMEc%252Fimage.png%3Falt%3Dmedia%26token%3D34786ad6-184f-4230-a7fd-ce270065cb3d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=eea36f2&#x26;sv=2" alt="" width="375"><figcaption></figcaption></figure>
 

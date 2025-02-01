@@ -1,6 +1,6 @@
 # Contaienr Sharing
 
-You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a goormIDE account, they can still access the shared container.
+You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
 
 ### Sharing a Container from the Container settings page <a href="#sharing-a-container-from-the-container-settings-page" id="sharing-a-container-from-the-container-settings-page"></a>
 

@@ -48,15 +48,14 @@ With Arkain, you get **all the tools you need** to code smarter, faster, and fro
 
 ***
 
-### ✅ More Info.
-
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Credit and Membership</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/engineer (1).svg">engineer (1).svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>FAQ</strong></td><td></td><td><a href=".gitbook/assets/calculator.svg">calculator.svg</a></td><td></td><td><a href="faq/faq/">faq</a></td></tr><tr><td><strong>Arkain Release Note</strong></td><td></td><td><a href=".gitbook/assets/digital-nomad.svg">digital-nomad.svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
-***
-
 {% hint style="info" %}
 You can use the **search and question feature** in the top-right corner to get faster answers.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/2025-02-0111.24.56-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
+### ✅ More Info.
+
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Credit and Membership</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/engineer (1).svg">engineer (1).svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>FAQ</strong></td><td></td><td><a href=".gitbook/assets/calculator.svg">calculator.svg</a></td><td></td><td><a href="faq/faq/">faq</a></td></tr><tr><td><strong>Arkain Release Note</strong></td><td></td><td><a href=".gitbook/assets/digital-nomad.svg">digital-nomad.svg</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+
+***

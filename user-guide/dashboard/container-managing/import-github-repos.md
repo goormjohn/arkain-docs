@@ -4,6 +4,8 @@ icon: github
 
 # Import Github Repos
 
+<figure><img src="../../../.gitbook/assets/02011-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
+
 You can import a project from a GitHub repository and continue working on it in Arkain.
 
 {% stepper %}

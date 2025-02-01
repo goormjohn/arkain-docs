@@ -59,3 +59,12 @@ The **Status Bar**, positioned at the bottom of the workspace, provides real-tim
 ## **Credits**
 
 **Credits** are the virtual currency required to use containers. As you utilize your container, credits are deducted accordingly.
+
+## **Membership**&#x20;
+
+**Membership** refers to Arkain's paid plan designed for users who want to create large projects with enhanced features and advanced support compared to the Free Plan. Key aspects of the Membership plan include:
+
+* **Immediate Benefits**: Benefits are applied immediately upon subscription. 🚀
+* **Payment Options**: Offers both monthly and annual payment options. 💳
+* **Enhanced Features**: Provides advanced features such as increased credits, extended container runtime, unlimited containers, advanced AI code completion, greater storage per container, SSH connectivity, and the ability to add custom domains.
+* **Subscription Management**: Users can subscribe, manage, and cancel their membership through the Payment and Billing pages.

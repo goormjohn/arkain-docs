@@ -60,8 +60,6 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 
 #### ➡️ [Git : opens the Git sidebar](introduction-to-the-workspace.md#git-opens-the-git-sidebar)
 
-#### ➡️ [Debug : opens the Debug sidebar](introduction-to-the-workspace.md#debug-sidebar)
-
 #### ➡️[ Source Code : opens the Source Code sidebar](introduction-to-the-workspace.md#source-code-opens-the-source-code-sidebar)
 
 #### ➡️ [Share This Container : opens the Share This Container sidebar](introduction-to-the-workspace.md#share-this-container-opens-the-share-this-container-sidebar)
@@ -135,13 +133,50 @@ Right-click on a file to access all available **file-related features**, includi
 
 ### ➡️ Command Sidebar
 
+By using Commands, you can easily build and run your code. You can customize Commands. Furthermore, you can organize commands into Common, Build, Run, Test, and Deploy categories for better management.
+
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="commands.md" %}
+[commands.md](commands.md)
+{% endcontent-ref %}
+
 ### ➡️ Git Sidebar
 
-### ➡️ Debug Sidebar
+### **Arkain** provides most of the Git commands.
+
+To execute the command, select the **\[Source code management]** tab on the left layout of Arkain.
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="source-code-management-git/git.md" %}
+[git.md](source-code-management-git/git.md)
+{% endcontent-ref %}
 
 ### ➡️ Source Code Sidebar
 
+<figure><img src="../../.gitbook/assets/2025-02-012.48.21-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+💾 **Source Code Sidebar**
+
+* **Automatic Save History** 📜\
+  Your **work sessions are stored** as a list, allowing you to **restore previous versions** easily.
+* **Quick Navigation with Bookmarks** 🔖\
+  Set bookmarks to jump directly to specific points in your code.
+* **Replay Your Code Changes** ⏪▶️\
+  Watch your **code edits play back in chronological order**, making it easy to review your progress and understand changes over time.
+
+Effortlessly **track, revert, and replay** your coding journey! 🚀
+
 ### ➡️ Share This Container Sidebar
+
+You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a goormIDE account, they can still access the shared container.
+
+<figure><img src="../../.gitbook/assets/2025-02-012.55.22-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="collaboration/contaienr-sharing.md" %}
+[contaienr-sharing.md](collaboration/contaienr-sharing.md)
+{% endcontent-ref %}
 
 ***
 
@@ -173,10 +208,20 @@ As a docker container-based service, goormIDE does not support system privileges
 
 ## Bottombar <a href="#terminal" id="terminal"></a>
 
-*
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-***
+⚡ **Bottom Bar Features**
 
-## Side Chat <a href="#terminal" id="terminal"></a>
+The **Bottom Bar** includes icon buttons for:
 
-*
+* 🖥 **Terminal** – Open and manage your terminal sessions.
+* 🤖 **AI Code Completion** – Get smart coding suggestions in real-time.
+* ⏹ **Auto Stop Container** – Manage automatic container shutdown settings.
+* 💬 **1:1 Support Chat** – Click to open a chat window for direct support.
+
+<figure><img src="../../.gitbook/assets/2025-02-013.07.18-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+Each button works as a **toggle**, allowing you to easily show or hide features as needed. **Clicking the 1:1 support button opens a chat window where you can ask questions in real time.** 🚀
+

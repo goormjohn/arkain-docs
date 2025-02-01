@@ -4,7 +4,7 @@ icon: coin-front
 
 # Check Credit Useage
 
-
+<figure><img src="../../.gitbook/assets/2025-02-013.44.33-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 ## 📘 **Credit Usage Guide**
 

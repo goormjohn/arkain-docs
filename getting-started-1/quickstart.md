@@ -10,7 +10,7 @@ In just a few clicks, you can set up your development environment and start expl
 
 ***
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/0201-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### **Step 1: Go to the Dashboard**
 

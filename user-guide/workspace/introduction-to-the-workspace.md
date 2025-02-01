@@ -46,7 +46,7 @@ If you'd like to explore additional file-related features, please check the link
 
 The Activity Bar allows you to select a view to display in the sidebar from the available:
 
-### ➡️ Side Chat : opens Side Chat
+#### ➡️ Side Chat : opens Side Chat
 
 We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent feature in our webIDE that lets you interact with your code like never before!&#x20;
 
@@ -54,19 +54,19 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 [side-chat.md](../ai-code-assistant-arkain/side-chat.md)
 {% endcontent-ref %}
 
-### ➡️ [Project : opens the Project sidebar](introduction-to-the-workspace.md#project-opens-the-project-sidebar)
+#### ➡️ [Project : opens the Project sidebar](introduction-to-the-workspace.md#project-sidebar)
 
-### ➡️ Command : opens the Command sidebar
+#### ➡️ [Command : opens the Command sidebar](introduction-to-the-workspace.md#command-sidebar)
 
-### ➡️ Git : opens the Git sidebar
+#### ➡️ [Git : opens the Git sidebar](introduction-to-the-workspace.md#git-opens-the-git-sidebar)
 
-### ➡️ Debug : opens the Debug sidebar
+#### ➡️ [Debug : opens the Debug sidebar](introduction-to-the-workspace.md#debug-sidebar)
 
-### ➡️ Source Code : opens the Source Code sidebar
+#### ➡️[ Source Code : opens the Source Code sidebar](introduction-to-the-workspace.md#source-code-opens-the-source-code-sidebar)
 
-### ➡️ Share This Container : opens the Share This Container sidebar
+#### ➡️ [Share This Container : opens the Share This Container sidebar](introduction-to-the-workspace.md#share-this-container-opens-the-share-this-container-sidebar)
 
-### ➡️ Help&#x20;
+#### ➡️ Help&#x20;
 
 #### You can access various **help documents** for assistance.
 
@@ -85,13 +85,13 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 
 * Language documentation : You can navigate to the official online documentation for the created **container stack**.
 
-### ➡️ Preference
+#### ➡️ Preference
 
 You can open the **project settings modal**.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-### ➡️ Profile and Container Info
+#### ➡️ Profile and Container Info
 
 You can navigate to the page where you can manage your **member profile** and **container information**.
 
@@ -110,7 +110,7 @@ You can navigate to the page where you can manage your **member profile** and **
 
 When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different view by clicking on the icons in the Activity Bar.
 
-### ➡️ Project Sidebar
+#### ➡️ Project Sidebar
 
 The **Project Sidebar View** includes the project description (if provided by the author) and allows you to **browse project files**.
 

@@ -143,8 +143,7 @@ By using Commands, you can easily build and run your code. You can customize Com
 
 ### ➡️ Git Sidebar
 
-### **Arkain** provides most of the Git commands.
-
+**Arkain** provides most of the Git commands.\
 To execute the command, select the **\[Source code management]** tab on the left layout of Arkain.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

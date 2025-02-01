@@ -29,7 +29,7 @@ To open the Vim editor, right-click the file you want to open in the Project Exp
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FjTZhhUNWbCBbsqVa5x3p%252Fimage.png%3Falt%3Dmedia%26token%3Da98d02f5-34e9-4db3-8a66-25b2223793da&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b800e457&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Compress or Decompress with ZIP / TAR <a href="#compress-or-decompress-with-zip-tar" id="compress-or-decompress-with-zip-tar"></a>
 

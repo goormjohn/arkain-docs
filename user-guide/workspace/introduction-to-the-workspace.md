@@ -68,7 +68,7 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 
 #### You can access various **help documents** for assistance.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 
@@ -93,7 +93,7 @@ You can open the **project settings modal**.
 
 You can navigate to the page where you can manage your **member profile** and **container information**.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
 * **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
@@ -114,7 +114,7 @@ The **Project Sidebar View** includes the project description (if provided by th
 
 You can also **create, edit, and delete files** related to the project directly from the sidebar. 🚀
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
@@ -125,7 +125,7 @@ You can also **create, edit, and delete files** related to the project directly 
 * Use the **“-” icon** to collapse or expand all folders.
 * Click the **refresh button** to update the file tree and keep it in sync.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 🖱 **Right-Click for File Actions**
 
@@ -183,7 +183,7 @@ You can share your container with others to collaborate or showcase your project
 
 The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

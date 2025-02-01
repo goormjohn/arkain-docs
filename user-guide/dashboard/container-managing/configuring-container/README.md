@@ -20,6 +20,13 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 ### 🚀 &#x32;**. Startup Script**
 
 * Write a custom script that will execute automatically whenever the container starts. Use this to install dependencies, set up services, or perform any initialization tasks.
+*   **Init Script**
+
+    If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
+
+{% content-ref url="init-script.md" %}
+[init-script.md](init-script.md)
+{% endcontent-ref %}
 
 ***
 
@@ -33,14 +40,6 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 ***
 
 ### 🔒 **3. Advanced Configuration**
-
-*   **Init Script**
-
-    If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
-
-{% content-ref url="init-script.md" %}
-[init-script.md](init-script.md)
-{% endcontent-ref %}
 
 * **SSH Settings**\
   Set up secure shell (SSH) access to your container for remote management or troubleshooting.
@@ -74,9 +73,15 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 * **Upgrade Container Performance**\
   Adjust the resources allocated to your container, such as CPU and memory, to handle more demanding tasks or improve application performance.
 
+{% content-ref url="container-upgrade.md" %}
+[container-upgrade.md](container-upgrade.md)
+{% endcontent-ref %}
+
 ***
 
 ### 👥 **6. Visibility & Access Control**
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **Public or Private**\
   Determine the access level of your container. Make it public for open collaboration or private for restricted access within your team.

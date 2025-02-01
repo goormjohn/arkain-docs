@@ -1,5 +1,7 @@
 ---
 icon: code
+hidden: true
+noIndex: true
 ---
 
 # Merge Code

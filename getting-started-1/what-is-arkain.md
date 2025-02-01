@@ -4,11 +4,11 @@ icon: circle-chevron-right
 
 # What is Arkain?
 
+<figure><img src="../.gitbook/assets/02014-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
 ## Introducing Arkain: The Future of **Cloud Development Environment (CDE)** 🌐💻
 
 Arkain is a **Cloud Development Environment (CDE)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Nodejs, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
-
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -42,15 +42,7 @@ With **Side Chat**, you have access to powerful **LLMs (Large Language Models)**
 
 ***
 
-### 5. **Flexible and Scalable Development Environments 🛠️**
-
-* **Container Creation**: Easily create custom containers tailored to your project's stack.
-* **Global Deployment**: Deploy your applications instantly to platforms like **Heroku**, **AWS Elastic Beanstalk**, or Cloud Foundry.
-* **Regional Optimization**: Choose from server locations like **Oregon**, **Seoul**, **Frankfurt**, and **Mumbai** to ensure optimal performance.
-
-***
-
-### 6. **Real-Time Collaboration and Feedback**
+### 5. **Real-Time Collaboration and Feedback**
 
 Arkain allows developers to work together seamlessly by providing:
 

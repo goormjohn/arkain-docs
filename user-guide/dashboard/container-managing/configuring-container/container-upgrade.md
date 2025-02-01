@@ -10,8 +10,6 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 <figure><img src="../../../../.gitbook/assets/02012-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-
-
 ***
 
 ### **⚡ Upgrade Container Performance**
@@ -25,9 +23,23 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ## **💾 Add Container Storage**
 
+<figure><img src="../../../../.gitbook/assets/2025-02-013.29.03-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
 * **Expand Your Storage**: Increase the storage capacity of your container when needed, ensuring you have enough space for your projects and files.
 * **Important Note**: Once storage is increased, it **cannot be reduced**. Plan your storage upgrades carefully to avoid unnecessary allocations.
 * **Membership Requirement**: Storage upgrades are only available for users with a **membership plan**.
+
+{% hint style="warning" %}
+**1gb added = 0.018432 credit ( $0.00037 )/h**&#x20;
+{% endhint %}
+
+## 📢 **Additional Traffic Charges**
+
+{% hint style="warning" %}
+For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charged. ⚡
+{% endhint %}
+
+Plan your usage accordingly to **optimize costs** while using Arkain! 🚀
 
 ***
 

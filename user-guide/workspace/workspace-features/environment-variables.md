@@ -16,4 +16,4 @@ You can use environment variables in terminals and Commands using the following 
 
 ### Command Variables <a href="#command-variables" id="command-variables"></a>
 
-Command variables are default environment variables provided by the goormIDE, consisting of values that might be challenging for users to manage easily. You can check the list of command variables on the command settings tab. The usage of command variables is the same as using environment variables.
+Command variables are default environment variables provided by the Arkain, consisting of values that might be challenging for users to manage easily. You can check the list of command variables on the command settings tab. The usage of command variables is the same as using environment variables.

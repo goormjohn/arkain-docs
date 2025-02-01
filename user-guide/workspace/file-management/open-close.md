@@ -4,12 +4,12 @@ icon: cabinet-filing
 
 # Open / Close
 
-In goormIDE, you can open source code files, as well as Vim editor and ZIP/TAR files.\
+In Arkain, you can open source code files, as well as Vim editor and ZIP/TAR files.\
 It also remembers recently opened files so you can easily get back to what you were working on.
 
 ### File - Default editor <a href="#file-default-editor" id="file-default-editor"></a>
 
-To open a file, double-click the file you want to open in the Project Explorer on the left layout of goormIDE, or right-click and go to **\[Open]** or **\[Open with] > \[Default Editor]**.
+To open a file, double-click the file you want to open in the Project Explorer on the left layout of Arkain, or right-click and go to **\[Open]** or **\[Open with] > \[Default Editor]**.
 
 Alternatively, go to **\[File] > \[Open File]** or press the default shortcut **`Ctrl + O (Mac: ⌘O)`**. In the '**Open File**' pop-up window that appears, select the file and press the **`OK`** button to open it. Depending on the file's extension, it may open in the default editor, or it may open in a document viewer, **Some extensions may not open because they are not supported.**
 
@@ -23,9 +23,9 @@ Click **`Clear`** to clear your history.
 
 ## Vim Editor (Vim) <a href="#vim-editor-vim" id="vim-editor-vim"></a>
 
-In addition to the regular editor, goormIDE also provides a Vim editor. When you open a file with the Vim editor, you can open the editor in the same environment as running Vim in the terminal.
+In addition to the regular editor, Arkain also provides a Vim editor. When you open a file with the Vim editor, you can open the editor in the same environment as running Vim in the terminal.
 
-To open the Vim editor, right-click the file you want to open in the Project Explorer on the left layout of goormIDE, and then go to **\[Open as] > \[Vim Editor]**. This will open the editor with the editing environment set to Vim instead of the terminal. You can still use Vim shortcuts in the editor, and they work exactly the same as in Vim.
+To open the Vim editor, right-click the file you want to open in the Project Explorer on the left layout of Arkain, and then go to **\[Open as] > \[Vim Editor]**. This will open the editor with the editing environment set to Vim instead of the terminal. You can still use Vim shortcuts in the editor, and they work exactly the same as in Vim.
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FjTZhhUNWbCBbsqVa5x3p%252Fimage.png%3Falt%3Dmedia%26token%3Da98d02f5-34e9-4db3-8a66-25b2223793da&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b800e457&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ Alternatively, go to **\[File] > \[Compress]**. After extracting, you will have 
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252Fr9OcNHAI9rxxu4mIV1Uc%252Fimage.png%3Falt%3Dmedia%26token%3Dd8b33aac-f086-4cb0-b5ef-ce8f7cda55da&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=62b12575&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-You can also unzip the archive by double-clicking the archive you want to open in the Project Explorer on the left layout of goormIDE.
+You can also unzip the archive by double-clicking the archive you want to open in the Project Explorer on the left layout of Arkain.
 
 ## Close <a href="#close" id="close"></a>
 

@@ -12,6 +12,12 @@ Local environment variables are variables that can be used only in specific comm
 
 ### Using Environment Variables <a href="#using-environment-variables" id="using-environment-variables"></a>
 
+#### ➡️ in Container Configuration
+
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+
+#### ➡️ in Workspace
+
 You can use environment variables in terminals and Commands using the following format: `${Key_Of_The_Environment_Variable}`
 
 ### Command Variables <a href="#command-variables" id="command-variables"></a>

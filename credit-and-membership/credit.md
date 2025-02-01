@@ -24,6 +24,16 @@ You can monitor network traffic and storage usage for each container in the **Re
 
 ***
 
+## 🔢 **Calculate Your Credit Usage** 🚀
+
+Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently. ⚡
+
+You can check the **Credit Calculator** on the **Billing Page** to get a detailed estimate and ensure you're only using what you need! 💰
+
+<figure><img src="../.gitbook/assets/02011-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Calculate Credit Usage</p></figcaption></figure>
+
+***
+
 ## Purchasing Credits 🛍️
 
 You can purchase credits as needed, starting from a minimum of **50** on the **Payment page**. Follow these steps to charge credits:

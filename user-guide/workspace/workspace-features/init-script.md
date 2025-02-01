@@ -4,19 +4,19 @@ If you have a script that needs to be executed repeatedly when running a contain
 
 It is commonly used to write scripts that execute your application.
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### How to use init script?
 
-#### Worksapce
+You can navigate to the **Dashboard** and enter the **Container Settings** page.
+
+In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. These commands will automatically run when the container starts.
+
+{% hint style="warning" %}
+**Script will run in the root path(/).**
+{% endhint %}
 
 
-
-
-
-
-
-
-
-#### Dashboard
 
 
 

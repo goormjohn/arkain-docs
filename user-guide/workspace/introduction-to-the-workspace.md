@@ -64,7 +64,7 @@ The Activity Bar allows you to select a view to display in the sidebar from the 
 
 #### You can access various **help documents** for assistance.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 
@@ -89,7 +89,7 @@ You can open the **project settings modal**.
 
 You can navigate to the page where you can manage your **member profile** and **container information**.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
 * **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
@@ -122,7 +122,7 @@ When you open a Arkain project, the Sidebar defaults to the _Project_ icon's exp
 
 The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

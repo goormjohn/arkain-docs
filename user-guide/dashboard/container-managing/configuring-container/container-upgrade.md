@@ -8,6 +8,10 @@ icon: container-storage
 
 Arkain provides flexible options to enhance container performance and storage capacity. Here's how you can manage these features:
 
+<figure><img src="../../../../.gitbook/assets/02012-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+
+
 ***
 
 ### **⚡ Upgrade Container Performance**

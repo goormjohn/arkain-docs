@@ -51,15 +51,6 @@ Arkain allows developers to work together seamlessly by providing:
 
 ***
 
-## **Why Choose Arkain?**
-
-1. **AI-Enhanced Productivity**: Get coding assistance from AI models directly in your IDE.
-2. **Effortless Collaboration**: Break down geographical barriers and work together in real-time.
-3. **Customizable and Scalable**: Tailor your development environment to your specific needs and scale it as your project grows.
-4. **Global Access**: With Arkain's cloud-based infrastructure, you can develop from anywhere, anytime.
-
-***
-
 #### 🌟 **Experience the Future of Software Development with Arkain!**
 
 Arkain empowers developers to code smarter, collaborate better, and deploy faster. Whether you're working on solo projects or with a global team, Arkain provides the tools and environment needed to make your development process efficient and seamless.

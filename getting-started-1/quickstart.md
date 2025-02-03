@@ -31,8 +31,8 @@ To make the process even easier, you can click the software icon next to the but
 
 1. **Select a Container Stack**\
    Choose the software stack that fits your project. You can search for stacks by name to find the one you need.
-2. **Select a Template and OS**\
-   Depending on the selected stack, you can configure templates and the operating system that best suit your project’s requirements.
+2. **Select OS version**\
+   Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
 3. **Enter the Container Name**\
    The name must only include alphabets, numbers, hyphens, and underscores.
 4. **Select Container Specifications**\
@@ -41,6 +41,8 @@ To make the process even easier, you can click the software icon next to the but
    If needed, activate any additional modules or packages you wish to install.
 6. **Click ‘Create’**\
    After entering all the required information, click the **‘Create’** button to set up your container.
+7. **AI Quick start**\
+   **\[ TBD ]**
 
 ***
 

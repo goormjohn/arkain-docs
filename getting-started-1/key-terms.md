@@ -24,6 +24,12 @@ The **Workspace** is the IDE environment where developers create and manage thei
 
 ***
 
+## Dashboard Elements
+
+**\[ TBD ]**
+
+***
+
 ## **Workspace Elements**
 
 ### **Menu**

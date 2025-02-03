@@ -46,8 +46,6 @@ To make the process even easier, you can click the software icon next to the but
 
 ***
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
-
 ### **Step 4: Run Your New Container**
 
 Click the **‘Run’** button to launch the newly created container.\

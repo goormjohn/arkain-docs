@@ -11,7 +11,7 @@ icon: file-waveform
 As the use of open source in IT has expanded, so has the problem of security vulnerabilities around the world.\
 In fact, a security vulnerability scan of 2700 of softwares found security vulnerabilities in more than 95% of applications.&#x20;
 
-In response to this, **goormIDE provides a function to** **generate and manage SBOM information for safer SW development.** With goormIDE's SBOM report you can;
+In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With **Arkain** SBOM report you can;
 
 1. Quickly **track and respond to known and new vulnerabilities**.&#x20;
 2. Check the **latest component status**.&#x20;

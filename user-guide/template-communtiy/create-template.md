@@ -8,6 +8,8 @@ icon: sidebar
 
 Creating a template in the **Template Community** allows you to share your project setup with others and make development faster and easier for the community. Here’s how to create and share your own template:
 
+<figure><img src="../../.gitbook/assets/ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## **Steps to Create a Template**

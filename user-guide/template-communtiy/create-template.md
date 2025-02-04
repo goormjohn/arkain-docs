@@ -40,27 +40,6 @@ Creating a template in the **Template Community** allows you to share your proje
 * Specify the programming language and framework used in the template.
 * You can select multiple options if applicable.
 
-#### **4. Visibility Settings**
-
-* Choose the visibility of your template:
-  * **Public**: Make it available to all users in the Template Community.
-  * **Private**: Share it only with specific users or teams via a link.
-
-#### **5. Upload Files**
-
-* Upload the files and folder structure for your template:
-  * Use **ZIP** or **TAR** files to import existing projects.
-  * Ensure all necessary configuration files are included (e.g., `package.json` for Node.js projects).
-
-#### **6. Supported Regions (Optional)**
-
-* Indicate which regions your template is optimized for (e.g., Oregon, Seoul).
-
-#### **7. Dependencies and Stack (Optional)**
-
-* Add information about software stacks or dependencies required for the template.
-* Examples: Python libraries, Node.js modules, or Docker configurations.
-
 ***
 
 ### **3. Review and Publish**

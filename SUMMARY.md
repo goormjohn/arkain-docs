@@ -24,7 +24,6 @@
 ## User Guide
 
 * [Workspace](user-guide/workspace/README.md)
-  * [Introduction to the Workspace](user-guide/workspace/introduction-to-the-workspace.md)
   * [File Management](user-guide/workspace/file-management/README.md)
     * [Move](user-guide/workspace/file-management/move.md)
     * [Open / Close](user-guide/workspace/file-management/open-close.md)

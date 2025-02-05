@@ -19,7 +19,6 @@
 ## Getting Started
 
 * [What is Arkain?](getting-started-1/what-is-arkain.md)
-* [Key Terms](getting-started-1/key-terms.md)
 * [Quickstart](getting-started-1/quickstart.md)
 
 ## User Guide
@@ -115,3 +114,4 @@
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
   * [Jan 10, 2025](whats-new/arkain-release-note/jan-10-2025.md)
+* [Key Terms](whats-new/key-terms.md)

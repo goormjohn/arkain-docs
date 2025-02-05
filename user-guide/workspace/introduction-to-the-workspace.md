@@ -38,17 +38,17 @@ If you'd like to explore additional file-related features, please check the link
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="262"><figcaption></figcaption></figure>
 
-* It also includes a **file-saving**(![](../../.gitbook/assets/menubar_save.png)) feature and an **Exit Container**(![](../../.gitbook/assets/menubar_exit.png)) button, which allows users to switch from the workspace to the console.
+* It also includes a **file-saving**(![](../../.gitbook/assets/menubar_save.png)) feature and an **Exit Container**(![](../../.gitbook/assets/menubar_exit.png)) button, which allows users to switch from the workspace to the Dashboard.
 
 ***
 
 ## Activity Bar <a href="#sidebar" id="sidebar"></a>
 
-The Activity Bar allows you to select a view to display in the sidebar from the available:
+In the Activity Bar, you can select and use various sidebars.
 
 #### ![](../../.gitbook/assets/arkain_activitybar_icon_sidechat_01.png) Side Chat : opens Side Chat
 
-We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent feature in our webIDE that lets you interact with your code like never before!&#x20;
+An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area to interact with your code.
 
 <figure><img src="../../.gitbook/assets/arkain_sidechat.png" alt=""><figcaption><p>Side Chat</p></figcaption></figure>
 
@@ -81,7 +81,7 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 [keyboard-shortcut.md](keyboard-shortcut.md)
 {% endcontent-ref %}
 
-* Language documentation : You can navigate to the official online documentation for the created **container stack**.
+* Go to the Container Stack Manual : You can navigate to the official online documentation for the created **container stack**.
 
 #### ![](../../.gitbook/assets/arkain_activitybar_icon_preference.png) Preference : You can open the **project settings modal**.
 
@@ -102,11 +102,11 @@ We’re thrilled to unveil **AI Code Assistant : Arkain**, an intelligent featur
 
 ## Sidebar <a href="#sidebar" id="sidebar"></a>
 
-When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different view by clicking on the icons in the Activity Bar.
+When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different Sidebar by clicking on the icons in the Activity Bar.
 
 #### ➡️ Project Sidebar
 
-The **Project Sidebar View** includes the project description (if provided by the author) and allows you to **browse project files**.
+The **Project Sidebar** includes the project description (if provided by the author) and allows you to **browse project files**.
 
 You can also **create, edit, and delete files** related to the project directly from the Project Sidebar. 🚀
 
@@ -140,7 +140,7 @@ By using Commands, you can easily build and run your code. You can customize Com
 ### ➡️ Git Sidebar
 
 **Arkain** provides most of the Git commands.\
-To execute the command, select the ![](<../../.gitbook/assets/arkain_icon_git (1).png>)**\[Source code management]** tab on the left layout of Arkain.
+When you click the ![](<../../.gitbook/assets/arkain_icon_git (1).png>)**\[Git icon]** in Arkain's activity bar, you can manage source code versions with Git.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -191,7 +191,7 @@ By default, the terminal is available as the Terminal tab in the bottom layout o
 
 A new terminal window will appear in your workspace. The terminal window does not persist when you refresh Arkain.
 
-You can open the Terminal in a new window by right-clicking on a folder in the Project Explorer and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
+You can open the Terminal in a new window by right-clicking on a folder in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-Lq-Q9LciN1X9EABxGkt%252F-LvyeWwXWpV1I5yFc4yF%252F-Lvykpz-psuBQia28h8J%252Fimage.png%3Falt%3Dmedia%26token%3Dbbc1e7b2-3716-40ea-b67b-4f4296bf3b13&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=739a5583&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 

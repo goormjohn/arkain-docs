@@ -30,7 +30,7 @@ To make the process even easier, you can click the software icon next to the but
 ### **Step 3: Enter Container Information**
 
 1. **Select a Container Stack**\
-   Choose the software stack that fits your project. You can search for stacks by name to find the one you need.
+   Choose the container stack that fits your project. You can search for stacks by name to find the one you need.
 2. **Select OS version**\
    Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
 3. **Enter the Container Name**\
@@ -57,5 +57,5 @@ Once the container is running, your **workspace** will open, and you’re ready 
 
 ## **Congratulations! 🎉**
 
-You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, cloud-based IDE.\
+You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, Cloud Development Environment.\
 Repeat the steps to create additional environments as needed.

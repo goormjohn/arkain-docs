@@ -8,7 +8,7 @@ icon: circle-chevron-right
 
 ## Introducing Arkain: The Future of **Cloud Development Environment (CDE)** 🌐💻
 
-Arkain is a **Cloud Development Environment (CDE)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Nodejs, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
+Arkain is a **Cloud Development Environment (CDE)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Node.js, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
 
 ***
 
@@ -16,7 +16,7 @@ Arkain is a **Cloud Development Environment (CDE)** designed to simplify and enh
 
 ### 1. **Seamless Setup for Any Language 🚀**
 
-With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Nodejs, Java, React, GO**. \
+With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**. \
 Additionally, it offers a **blank** stack with only the Ubuntu OS installed, allowing users to freely customize their own development environments. \
 Arkain also specializes in AI by offering **GPU**-optimized development environments tailored for AI-related projects.
 
@@ -27,8 +27,6 @@ Arkain empowers developers to work together effortlessly with:
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
 * **Instant Feedback** – Exchange ideas and resolve issues via **Side Chat** in real-time.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
-
-
 
 ***
 

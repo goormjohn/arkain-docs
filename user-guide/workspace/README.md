@@ -16,29 +16,21 @@ This page provides an overview of the terms we use to describe each of the piece
 
 The Menu Bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-* The function buttons(![](<../../.gitbook/assets/menubar_function button.png>)) on the left side of the menu bar are dedicated to file-related operations. They allow users to create, copy, delete, rename, and save files, providing a streamlined file management experience.
+* **\[Function]** button (![](<../../.gitbook/assets/menubar_function button.png>)) of the menu bar allowing users to Process list, SSH settings, SBOM management, and project configurations.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt="" width="260"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-10 오후 1.51.37.png" alt=""><figcaption></figcaption></figure>
 
-If you'd like to explore additional file-related features, please check the link below:
-
-{% content-ref url="file-management/" %}
-[file-management](file-management/)
-{% endcontent-ref %}
-
-* The central section(![](../../.gitbook/assets/menubar_central_section.png)) of the menu bar handles URL and port management, allowing users to manage running URLs and ports, Process list, SSH settings, SBOM management, and project configurations.
-
-<figure><img src="../../.gitbook/assets/image (20).png" alt="" width="375"><figcaption></figcaption></figure>
-
-* The **Preview** tab(![](../../.gitbook/assets/menubar_preview.png)) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
+* **\[Save]** button (![](../../.gitbook/assets/menubar_save.png)) saves all open files.
+* **\[Preview]** button (![](../../.gitbook/assets/menubar_preview.png)) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
 
 <div align="center"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="283"><figcaption></figcaption></figure></div>
 
-* The **Run** menu(![](../../.gitbook/assets/menubar_run.png)) allows users to manage and execute custom run commands they have written.
+* **\[Run]** button (![](../../.gitbook/assets/menubar_run.png)) allows users to manage and execute custom run commands they have written.
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="262"><figcaption></figcaption></figure>
 
-* It also includes a **file-saving**(![](../../.gitbook/assets/menubar_save.png)) feature and an **Exit Container**(![](../../.gitbook/assets/menubar_exit.png)) button, which allows users to switch from the workspace to the Dashboard.
+* **\[Create Template]** (![](<../../.gitbook/assets/스크린샷 2025-02-10 오후 2.03.07.png>)) button deploys the currently active container as a template.
+* Clicking the **\[Exit Container]** button (![](../../.gitbook/assets/menubar_exit.png)) will exit the workspace and return to the dashboard. The container execution will stop upon exit.
 
 ***
 

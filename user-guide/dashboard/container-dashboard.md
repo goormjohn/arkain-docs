@@ -6,7 +6,7 @@ icon: table-columns
 
 ## Container Dashboard 🖥️
 
-Welcome to the **Arkain Cloud IDE**! The **Container Dashboard** is where you can manage your development environments, created and owned by you. Here's everything you need to know to get started.
+The **Container Dashboard** is where you can manage your development environments, created and owned by you. Here's everything you need to know to get started.
 
 ## **What Can You Do on the Container Dashboard?**
 

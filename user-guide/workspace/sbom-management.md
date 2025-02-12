@@ -8,10 +8,9 @@ icon: file-waveform
 
 &#x20;A **Software Bill of Material** (SBOM) is a statement of all software information that is utilised by a developer to complete a software or service.&#x20;
 
-As the use of open source in IT has expanded, so has the problem of security vulnerabilities around the world.\
-In fact, a security vulnerability scan of 2700 of softwares found security vulnerabilities in more than 95% of applications.&#x20;
+As the use of open source has expanded, the problem of security vulnerabilities has also grown worldwide. In fact, a security vulnerability scan of 2700 of softwares found security vulnerabilities in more than 95% of applications.&#x20;
 
-In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With **Arkain** SBOM report you can;
+In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With Arkain SBOM Manager you can;
 
 1. Quickly **track and respond to known and new vulnerabilities**.&#x20;
 2. Check the **latest component status**.&#x20;

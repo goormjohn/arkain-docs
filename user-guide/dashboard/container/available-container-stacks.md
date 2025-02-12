@@ -15,6 +15,8 @@ Arkain offers a variety of container stacks to meet the needs of different devel
 
 * Ubuntu 22.04 LTS
 * Ubuntu 20.04 LTS
+
+:warning: The NVIDIA Tesla T4 container stack is only available on Ubuntu 20.04 LTS.
 {% endhint %}
 
 ***

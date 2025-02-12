@@ -12,20 +12,28 @@ Creating a new container in **Arkain** is simple and efficient! Follow these ste
 
 ### **1. Set Up a Container Stack**
 
-Currently, the supported stacks are **Python, Node.js, Blank, Java, and Go**.
+Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
 
 ### **2. Configure Template and OS**
 
 The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
 
 {% hint style="info" %}
-Ubuntu 22.04 LTS / Ubuntu 20.04 LTS Available.
+The **NVIDIA Tesla T4** container stack is only available on **Ubuntu 20.04 LTS.**
 {% endhint %}
 
 ### **3. Set a Container Name**
 
-Enter a name for your container.\
-**Note:** Container names **cannot be changed** once created and must only contain **letters, numbers, or underscores (\_).**
+Enter a name for your container.
+
+{% hint style="warning" %}
+**Note**\
+Container names **cannot be changed** once created and must only contain **letters, numbers, underscores (\_), or hyphens (-).**
+
+Once the container is created, the container name cannot be changed.
+{% endhint %}
+
+
 
 ### **4. Configure Container Specs**
 

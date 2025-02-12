@@ -4,13 +4,13 @@ You can share your container with others to collaborate or showcase your project
 
 ### Sharing a Container from the Container settings page <a href="#sharing-a-container-from-the-container-settings-page" id="sharing-a-container-from-the-container-settings-page"></a>
 
-Navigate to the Contaienr settings page you want to share. Click on the `Share` button located in the top-right corner to open the `Share Container` modal.
+Click the **\[Setting]** button (![](<../../../.gitbook/assets/new_setting (1).png>)) of the container you want to share on the Arkain's Dashboard. In the Container Settings page, click the **\[Share]** button (![](<../../../.gitbook/assets/스크린샷 2025-02-10 오후 4.18.57.png>)) at the top-right corner.
 
 ### **Share with Members**
 
 1. Enter the email address of the user you want to share the container with.
 2. Set the sharing permissions.
-3. Click the `Invite` button to share the container with the selected user.
+3. Click the **\[Invite]** button (![](<../../../.gitbook/assets/스크린샷 2025-02-10 오후 4.21.38.png>)) to share the container with the selected user.
 
 ### **Share with Link**
 
@@ -20,16 +20,16 @@ Navigate to the Contaienr settings page you want to share. Click on the `Share` 
 
 ### Sharing a Container from the Workspace <a href="#sharing-a-container-from-the-workspace" id="sharing-a-container-from-the-workspace"></a>
 
-Navigate to the `Workspace` you want to share. Click on the `Share This Container` icon in the left toolbar to open the container sharing tab in the sidebar. You can share a container here.
+You can also share containers from Arkain's workspace. In the workspace of the container you want to share, click **\[Share This Container]** in the activity bar to open the container sharing sidebar.
 
 ### **Share with Members**
 
-1. In the `Share as an email` tab, enter the email address of the user you want to share the container with
+1. Click the **\[Share as an email]** accordion button, enter the email address of the user you want to share the container with.
 2. Set the sharing permissions.
-3. Click the `Share` button to share the container with the selected user.
+3. Click the **\[Share]** button to share the container with the selected user.
 
 ### **Share with Link**
 
-1. Set the sharing scope and permissions for the link.
+1. Set the shared scope and Permission on invitation for the link.
 2. Share the link with the users who you want to invite.
-3. Users who access the container through the shared link will receive access to the container based on the sharing link settings.
+3. Users who access the container through the shared link will receive access to the container based on the shared link settings.

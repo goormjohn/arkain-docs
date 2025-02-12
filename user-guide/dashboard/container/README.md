@@ -4,11 +4,11 @@ icon: container-storage
 
 # Container
 
-A **Container** refers to a cloud-hosted **Virtual Machine (VM)** that serves as a development environment owned by the user. It is the primary unit where coding, testing, and debugging occur.
+**A Container** is a technology that packages everything needed to run software (such as code, libraries, configuration files, etc.) into a single package, allowing it to run in an isolated environment. Containers are similar to **virtual machines (VMs)**, but they are lighter, faster, and use system resources more efficiently.
 
-The **Container Stack** refers to the pre-configured software package that is installed by default in a container. Each container has a single stack, but users can install additional software based on their project needs.
+The **Stack** refers to the pre-configured software package that is installed by default in a container. Each container has a single stack, but users can install additional software based on their project needs.
 
-In Arcane, running a container consumes credits based on the container specifications. Credits are the virtual currency required to use containers.
+In Arcane, running a container consumes credits based on the container specifications and container usage time. Credits are the virtual currency required to use containers.
 
 
 

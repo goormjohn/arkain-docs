@@ -6,7 +6,7 @@ icon: cabinet-filing
 
 Check the properties of the file/folder/project.
 
-Click the file/folder/project you want to view in the project explorer on the left layout of Arkain and go to **\[File] > \[Properties]**, or right-click and click the **\[Properties]** menu.
+Click the file/folder/project you want to view in the Project Sidebar and go to **function buttons\[**![](<../../../.gitbook/assets/menubar_function button (1).png>)**]** → **\[Properties]**, or right-click and click the **\[Properties]** menu.
 
 You can check the properties of the file/folder/project in the pop-up window that appears.
 

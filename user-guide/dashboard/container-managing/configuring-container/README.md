@@ -4,52 +4,76 @@ icon: container-storage
 
 # Configuring Container
 
-## **🌐 Arkain Container** Configuring **Guide**
+## **Arkain Container** Configuring **Guide**
 
 Welcome to Arkain's container settings page! This guide will walk you through all the features and configurations available to help you optimize your development environment. 🚀
 
 ***
 
-### 🛠️ **1. Container Basics**
+### **1. Container Basics**
 
-* **Name & Description**\
-  Easily rename your container to match your project or team needs. Add a description to provide context for what the container is used for. This is especially helpful for collaboration.
+* **Description**\
+  Add a description to provide context for what the container is used for. This is especially helpful for collaboration.
 
-***
 
-### 🚀 &#x32;**. Startup Script**
 
-* Write a custom script that will execute automatically whenever the container starts. Use this to install dependencies, set up services, or perform any initialization tasks.
-*   **Init Script**
+### &#x32;**. Container info**
 
-    If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
+* You can check various container information, such as the container's hardware specs including CPU, memory, and storage, as well as the container region, stack, OS, template, and packages.
+* You can also add storage capacity or change the container specs (CPU and memory).
+
+{% hint style="info" %}
+Only membership users can increase the container storage capacity up to 195GB. Free users cannot add storage capacity.
+{% endhint %}
+
+
+
+### &#x33;**. Container status**
+
+* **Automatic container stop**\
+  Save resources by activating the auto-shutdown feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
+* **CONTAINER VISIBILITY**\
+  Determine the access level of your container. Make it **\[Public]** for open collaboration or **\[Private]** for restricted access within your team.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **TOOLS**\
+  You can choose the IDE environment to use in the workspace. By default, the Arkain IDE is launched, but you can also use Visual Studio Code, Jupyter Notebook, or Jupyter Lab development environments as needed.
+
+{% hint style="info" %}
+Regularly update your container settings to match the evolving needs of your project. With Arkain’s flexibility, you can ensure a smooth and productive development experience every step of the way! 🌟
+{% endhint %}
+
+
+
+### **4. Init Script**
+
+* If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
 
 {% content-ref url="init-script.md" %}
 [init-script.md](init-script.md)
 {% endcontent-ref %}
 
-***
 
-### 🌐 **2. URL & Port Management**
 
-* **Execution URL**\
-  View and manage the unique URL for accessing your running application directly from the browser.
-* **Port Settings**\
-  Configure which ports the container will expose. This is crucial for ensuring your application or services can be accessed externally.
+### **5. URL/Port**
 
-***
+* View and manage the unique URL and Port for accessing your running application directly from the browser. Port is crucial for ensuring your application or services can be accessed externally.
 
-### 🔒 **3. Advanced Configuration**
+### **6. SSH/Port Forwarding**
 
-* **SSH Settings**\
-  Set up secure shell (SSH) access to your container for remote management or troubleshooting.
+* Set up secure shell (SSH) access to your container for remote management or troubleshooting.
 
 {% content-ref url="../../../../faq/faq/ssh-port-forwarding-configuration.md" %}
 [ssh-port-forwarding-configuration.md](../../../../faq/faq/ssh-port-forwarding-configuration.md)
 {% endcontent-ref %}
 
-* **Environment Variables**\
-  Define key-value pairs to control the behavior of your application. Examples include database credentials, API keys, or custom configuration options.
+
+
+### **7. Environment Variables**
+
+* Environment variables are defined as key-value pairs and can be used to store database credentials, API keys, and other sensitive information for applications.&#x20;
+* By using environment variables, programs can be executed according to the environment without changing the source code, and sensitive security keys do not need to be stored directly in configuration files, enhancing security.
 
 {% content-ref url="environment-variables.md" %}
 [environment-variables.md](environment-variables.md)
@@ -57,18 +81,13 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 
 
 
-***
+### **8. Delete this container**
 
-### 📦 **4. Templates & Terminal**
+* You can delete the container by clicking the **\[Delete]** button on the container settings page.
 
-* **Save as Template**\
-  Create a reusable container template to standardize configurations across projects or teams. Templates save time by predefining settings and environments.
-* **Direct Terminal Access**\
-  Open a terminal session directly from the settings page to run commands or debug your container without leaving the Arkain interface.
 
-***
 
-### 🚀 **5. Performance Optimization**
+### **9. Etc**
 
 * **Upgrade Container Performance**\
   Adjust the resources allocated to your container, such as CPU and memory, to handle more demanding tasks or improve application performance.
@@ -76,26 +95,4 @@ Welcome to Arkain's container settings page! This guide will walk you through al
 {% content-ref url="container-upgrade.md" %}
 [container-upgrade.md](container-upgrade.md)
 {% endcontent-ref %}
-
-***
-
-### 👥 **6. Visibility & Access Control**
-
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-* **Public or Private**\
-  Determine the access level of your container. Make it public for open collaboration or private for restricted access within your team.
-
-***
-
-### ⏳ **7. Automatic Shutdown**
-
-* **Enable Auto-Stop**\
-  Save resources by activating the auto-shutdown feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
-
-***
-
-{% hint style="info" %}
-Regularly update your container settings to match the evolving needs of your project. With Arkain’s flexibility, you can ensure a smooth and productive development experience every step of the way! 🌟
-{% endhint %}
 

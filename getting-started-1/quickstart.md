@@ -23,14 +23,14 @@ On the **Dashboard**, you can easily create and manage containers. This is where
 ### **Step 2: Click \[New Container]**
 
 Click the \[**New Container]** button at the top of the page.\
-To make the process even easier, you can click the software icon next to the button to quickly create a container with pre-configured settings.
+To make the process even easier, you can click the software icon next to the \[**New Container]** button to quickly create a container with pre-configured settings.
 
 ***
 
 ### **Step 3: Enter Container Information**
 
-1. **Select a Container Stack**\
-   Choose the container stack that fits your project. You can search for stacks by name to find the one you need.
+1. **Select a Stack**\
+   Choose the stack that fits your project. You can search for stacks by name to find the one you need.
 2. **Select OS version**\
    Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
 3. **Enter the Container Name**\
@@ -48,7 +48,7 @@ To make the process even easier, you can click the software icon next to the but
 
 ### **Step 4: Run Your New Container**
 
-Click the \[**Run]** button to launch the newly created container.\
+Click the **\[Run]** button to launch the newly created container.\
 Once the container is running, your **workspace** will open, and you’re ready to start coding!
 
 ***

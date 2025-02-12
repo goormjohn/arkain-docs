@@ -8,102 +8,102 @@ Keyboard Shortcuts are the simplest but the most effective way to save time and 
 
 Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key instead of `Ctrl` and the `Option` key instead of `Alt`.
 
-| Function                         | macOS Shortcut | Windows/Linux Shortcut |
-| -------------------------------- | -------------- | ---------------------- |
-| Open File                        | O              | Ctrl + O               |
-| Close                            | X              | Alt + X                |
-| Close All                        | ⇧X             | Alt + Shift + X        |
-| Reopen Closed File               | ⇧T             | Alt + Ctrl + T         |
-| Save                             | S              | Ctrl + S               |
-| Save As                          | ⇧S             | Ctrl + Shift + S       |
-| Save All                         | ⇧⌘S            | Alt + Ctrl + S         |
-| Rename                           | ⇧R             | Ctrl + Shift + R       |
-| Duplicate                        | ⇧A             | Ctrl + Shift + A       |
-| Delete                           | ⇧D             | Alt + Shift + D        |
-| Print                            | P              | Ctrl + P               |
-| Auto Complete                    |                | Ctrl + Space           |
-| Code Advisor                     | ⇧I             | Ctrl + Shift + I       |
-| Auto Import                      | ⇧O             | Ctrl + Shift + O       |
-| Go to Symbol (Workspace)         | ⇧U             | Alt + Shift + U        |
-| Go to Symbol (File)              | ⇧O             | Alt + Shift + O        |
-| Undo                             | Z              | Ctrl + Z               |
-| Redo                             | Y              | Ctrl + Y               |
-| Cut                              | X              | Ctrl + X               |
-| Copy                             | C              | Ctrl + C               |
-| Paste                            | V              | Ctrl + V               |
-| Copy (Terminal)                  | ,              | Ctrl + Shift + C       |
-| Paste (Terminal)                 | ,              | Ctrl + Shift + V       |
-| Delete                           | ⌫              | Backspace              |
-| Delete Left                      | ⌘⌫             | Ctrl + Backspace       |
-| Delete Right                     | KK             | Ctrl + K + K           |
-| Insert Line Above                | ⇧⏎             | Shift + Ctrl + Enter   |
-| Insert Line Below                | ⏎              | Ctrl + Enter           |
-| Lowercase                        | KL             | Ctrl + K + L           |
-| Uppercase                        | KU             | Ctrl + K + U           |
-| Swap Left/Right                  | ^T             | Ctrl + Alt + T         |
-| Join Lines                       | J              | Ctrl + J               |
-| Duplicate Line                   | ⇧D             | Shift + Ctrl + D       |
-| Delete Line                      | ⇧K             | Shift + Ctrl + K       |
-| Move Line Down                   | ⌘^↓            | Shift + Ctrl + Down    |
-| Move Line Up                     | ⌘^↑            | Shift + Ctrl + Up      |
-| Select All                       | A              | Ctrl + A               |
-| Select Word                      | D              | Ctrl + D               |
-| Select Line                      | L              | Ctrl + L               |
-| Select Region                    | ⇧␣             | Shift + Ctrl + Space   |
-| Select Between Brackets          | ⇧M             | Shift + Ctrl + M       |
-| Format Code                      | ⇧P             | Alt + Shift + P        |
-| Add Selection Above              | ⇧I             | Alt + Shift + I        |
-| Add Selection Below              | ⇧K             | Alt + Shift + K        |
-| Release Multiple Cursors         | ⎋              | Esc                    |
-| Split Selection into Lines       | ⇧L             | Shift + Ctrl + L       |
-| Fold                             | \[             | Ctrl + Alt + \[        |
-| Unfold                           | ]              | Ctrl + Alt + ]         |
-| Fold All                         | K1             | Ctrl + K + 1           |
-| Unfold All                       | K0             | Ctrl + K + 0           |
-| Go to Line Number                | L              | Alt + Ctrl + L         |
-| Go to Matching Bracket           | M              | Ctrl + M               |
-| Move Word Left                   | ←              | Alt + Left             |
-| Move Word Right                  | →              | Alt + Right            |
-| Scroll Up                        | ^⌥↑            | Ctrl + Up              |
-| Scroll Down                      | ^⌥↓            | Ctrl + Down            |
-| Center Selection                 | KC             | Ctrl + K + C           |
-| Go to Previous Position          | ⌥⌘↓            | Alt + Ctrl + Down      |
-| Go to Next Position              | ⌥⌘↑            | Alt + Ctrl + Up        |
-| Toggle Bookmark                  | F2             | Ctrl + F2              |
-| Next Bookmark                    | F2             | F2                     |
-| Previous Bookmark                | ⇧F2            | Shift + F2             |
-| Remove All Bookmarks             | ⇧F2            | Ctrl + Shift + F2      |
-| Find                             | F              | Ctrl + F               |
-| Find Next                        | G              | Ctrl + G               |
-| Find Previous                    | ⇧G             | Ctrl + Shift + G       |
-| Replace                          | ⌥F             | Alt + Ctrl + F         |
-| Search                           | H              | Alt + H                |
-| Sort                             | F9             | F9                     |
-| Toggle Line Comment              | /              | Ctrl + /               |
-| Run                              | ⇧F5            | Shift + F5             |
-| Build                            | F5             | F5                     |
-| Refresh                          | R              | Ctrl + R               |
-| Preview in Workspace             | R              | Ctrl + R               |
-| Debug Start                      | ⌥F5            | Alt + F5               |
-| Next Breakpoint                  | ⇧Y             | Ctrl + Shift + Y       |
-| Debug Stop                       | F4             | F4                     |
-| Next Line                        | F6             | F6                     |
-| Step In                          | F7             | F7                     |
-| Step Out                         | F8             | F8                     |
-| Toggle Breakpoint                | B              | Ctrl + B               |
-| Commit                           | ⇧C             | Alt + Shift + C        |
-| Update                           | ⇧U             | Alt + Shift + U        |
-| New Terminal                     | ⇧T             | Alt + Shift + T        |
-| New Terminal at Current Location | T              | Alt + T                |
-| Previous Window                  | ⇧\[            | Alt + Shift + \[       |
-| Next Window                      | ⇧]             | Alt + Shift + ]        |
-| Move Focus                       | ⇧Return        | Alt + Shift + Return   |
-| Top Area                         | ⇧A             | Alt + Shift + A        |
-| Left Area                        | ⇧L             | Alt + Shift + L        |
-| Bottom Area                      | ⇧B             | Alt + Shift + B        |
-| Full Screen                      | ⇧W             | Alt + Shift + W        |
-| Vertical Split                   | ⇧V             | Alt + Shift + V        |
-| Horizontal Split                 | ⇧H             | Alt + Shift + H        |
-| Close Editor                     | C              | Alt + C                |
-| Show Specific Window             | #Num           | Ctrl + #Num            |
-| Show All Shortcuts               | H              | Ctrl + H               |
+| Function                         | macOS Shortcut                                            | Windows/Linux Shortcut                                  |
+| -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| Open File                        | <kbd>Cmd ⌘</kbd> + <kbd>O</kbd>                           | <kbd>Ctrl</kbd> + <kbd>O</kbd>                          |
+| Close                            | <kbd>option ⌥</kbd> + <kbd>X</kbd>                        | <kbd>Alt</kbd> + <kbd>X</kbd>                           |
+| Close All                        | <kbd>Shift ⇧</kbd> + <kbd>X</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>        |
+| Reopen Closed File               | <kbd>Shift ⇧</kbd> + <kbd>T</kbd>                         | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>T</kbd>         |
+| Save                             | <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>                           | <kbd>Ctrl</kbd> + <kbd>S</kbd>                          |
+| Save As                          | <kbd>Shift ⇧</kbd> + <kbd>S</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>       |
+| Save All                         | <kbd>Shift ⇧</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>      | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd>         |
+| Rename                           | <kbd>Shift ⇧</kbd> + <kbd>R</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>       |
+| Duplicate                        | <kbd>Shift ⇧</kbd> + <kbd>A</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>       |
+| Delete                           | <kbd>Shift ⇧</kbd> + <kbd>D</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>        |
+| Print                            | <kbd>Cmd ⌘</kbd> + <kbd>P</kbd>                           | <kbd>Ctrl</kbd> + <kbd>P</kbd>                          |
+| Auto Complete                    | <kbd>Cmd ⌘</kbd> + <kbd>space ␣</kbd>                     | <kbd>Ctrl</kbd> + <kbd>Space</kbd>                      |
+| Code Advisor                     | <kbd>Shift ⇧</kbd> + <kbd>I</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>       |
+| Auto Import                      | <kbd>Shift ⇧</kbd> + <kbd>O</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>       |
+| Go to Symbol (Workspace)         | <kbd>Shift ⇧</kbd> + <kbd>U</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>        |
+| Go to Symbol (File)              | <kbd>Shift ⇧</kbd> + <kbd>O</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>        |
+| Undo                             | <kbd>Cmd ⌘</kbd> + <kbd>Z</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Z</kbd>                          |
+| Redo                             | <kbd>Cmd ⌘</kbd> + <kbd>Y</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Y</kbd>                          |
+| Cut                              | <kbd>Cmd ⌘</kbd> + <kbd>X</kbd>                           | <kbd>Ctrl</kbd> + <kbd>X</kbd>                          |
+| Copy                             | <kbd>Cmd ⌘</kbd> + <kbd>C</kbd>                           | <kbd>Ctrl</kbd> + <kbd>C</kbd>                          |
+| Paste                            | <kbd>Cmd ⌘</kbd> + <kbd>V</kbd>                           | <kbd>Ctrl</kbd> + <kbd>V</kbd>                          |
+| Copy (Terminal)                  | <kbd>Cmd ⌘</kbd> + <kbd>,</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>       |
+| Paste (Terminal)                 | <kbd>Cmd ⌘</kbd> + <kbd>,</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>       |
+| Delete                           | <kbd>backspace ⌫</kbd>                                    | <kbd>Backspace</kbd>                                    |
+| Delete Left                      | <kbd>Cmd ⌘</kbd> + <kbd>backspace ⌫</kbd>                 | <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>                  |
+| Delete Right                     | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>K</kbd>            | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>K</kbd>           |
+| Insert Line Above                | <kbd>Shift ⇧</kbd> + <kbd>Enter ⏎</kbd>                   | <kbd>Shift</kbd> + <kbd>`Ctrl`</kbd> + <kbd>Enter</kbd> |
+| Insert Line Below                | <kbd>Enter ⏎</kbd>                                        | <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                      |
+| Lowercase                        | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>L</kbd>            | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>L</kbd>           |
+| Uppercase                        | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>U</kbd>            | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>U</kbd>           |
+| Swap Left/Right                  | <kbd>Cmd ⌘</kbd> + <kbd>^</kbd> + <kbd>T</kbd>            | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>         |
+| Join Lines                       | <kbd>Cmd ⌘</kbd> + <kbd>J</kbd>                           | <kbd>Ctrl</kbd> + <kbd>J</kbd>                          |
+| Duplicate Line                   | <kbd>Shift ⇧</kbd> + <kbd>D</kbd>                         | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>D</kbd>       |
+| Delete Line                      | <kbd>Shift ⇧</kbd> + <kbd>K</kbd>                         | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>K</kbd>       |
+| Move Line Down                   | <kbd>Cmd ⌘</kbd> + <kbd>control ^</kbd>  + <kbd>↓</kbd>   | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Down</kbd>    |
+| Move Line Up                     | <kbd>Cmd ⌘</kbd> + <kbd>control ^</kbd> + <kbd>↑</kbd>    | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Up</kbd>      |
+| Select All                       | <kbd>Cmd ⌘</kbd> + <kbd>A</kbd>                           | <kbd>Ctrl</kbd> + <kbd>A</kbd>                          |
+| Select Word                      | <kbd>Cmd ⌘</kbd> + <kbd>D</kbd>                           | <kbd>Ctrl</kbd> + <kbd>D</kbd>                          |
+| Select Line                      | <kbd>Cmd ⌘</kbd> + <kbd>L</kbd>                           | <kbd>Ctrl</kbd> + <kbd>L</kbd>                          |
+| Select Region                    | <kbd>Shift ⇧</kbd> + <kbd>space ␣</kbd>                   | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Space</kbd>   |
+| Select Between Brackets          | <kbd>Shift ⇧</kbd> + <kbd>M</kbd>                         | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>M</kbd>       |
+| Format Code                      | <kbd>Shift ⇧</kbd> + <kbd>P</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>        |
+| Add Selection Above              | <kbd>Shift ⇧</kbd> + <kbd>I</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>        |
+| Add Selection Below              | <kbd>Shift ⇧</kbd> + <kbd>K</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>        |
+| Release Multiple Cursors         | <kbd>Esc ⎋</kbd>                                          | <kbd>Esc</kbd>                                          |
+| Split Selection into Lines       | <kbd>Shift ⇧</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>L</kbd>      | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>L</kbd>       |
+| Fold                             | <kbd>Cmd ⌘</kbd> + <kbd>option ⌥</kbd> + <kbd>\[</kbd>    | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>\[</kbd>        |
+| Unfold                           | <kbd>Cmd ⌘</kbd> + <kbd>option ⌥</kbd> + <kbd>]</kbd>     | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>]</kbd>         |
+| Fold All                         | <kbd>Cmd ⌘</kbd> + K + 1                                  | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>1</kbd>           |
+| Unfold All                       | <kbd>Cmd ⌘</kbd> + K + 0                                  | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>0</kbd>           |
+| Go to Line Number                | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>L</kbd>     | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>L</kbd>         |
+| Go to Matching Bracket           | <kbd>Cmd ⌘</kbd> + <kbd>M</kbd>                           | <kbd>Ctrl</kbd> + <kbd>M</kbd>                          |
+| Move Word Left                   | <kbd>option ⌥</kbd> + <kbd>←</kbd>                        | <kbd>Alt</kbd> + <kbd>←</kbd>                           |
+| Move Word Right                  | <kbd>option ⌥</kbd> + <kbd>→</kbd>                        | <kbd>Alt</kbd> + <kbd>→</kbd>                           |
+| Scroll Up                        | <kbd>control ^</kbd> + <kbd>option ⌥</kbd> + <kbd>↑</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                          |
+| Scroll Down                      | <kbd>control ^</kbd> + <kbd>option ⌥</kbd> + <kbd>↓</kbd> | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                          |
+| Center Selection                 | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>C</kbd>            | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>C</kbd>           |
+| Go to Previous Position          | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↓</kbd>     | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>↓</kbd>         |
+| Go to Next Position              | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↑</kbd>     | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>↑</kbd>         |
+| Toggle Bookmark                  | <kbd>Cmd ⌘</kbd> + <kbd>F2</kbd>                          | <kbd>Ctrl</kbd> + <kbd>F2</kbd>                         |
+| Next Bookmark                    | <kbd>F2</kbd>                                             | <kbd>F2</kbd>                                           |
+| Previous Bookmark                | <kbd>Shift ⇧</kbd> + <kbd>F2</kbd>                        | <kbd>Shift</kbd> + <kbd>F2</kbd>                        |
+| Remove All Bookmarks             | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>F2</kbd>     | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F2</kbd>      |
+| Find                             | <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>                           | <kbd>Ctrl</kbd> + <kbd>F</kbd>                          |
+| Find Next                        | <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                           | <kbd>Ctrl</kbd> + <kbd>G</kbd>                          |
+| Find Previous                    | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>G</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>       |
+| Replace                          | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>     | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>F</kbd>         |
+| Search                           | <kbd>option ⌥</kbd> + <kbd>H</kbd>                        | <kbd>Alt</kbd> + <kbd>H</kbd>                           |
+| Sort                             | <kbd>F9</kbd>                                             | <kbd>F9</kbd>                                           |
+| Toggle Line Comment              | <kbd>Cmd ⌘</kbd> +  <kbd>/</kbd>                          | <kbd>Ctrl</kbd> + <kbd>/</kbd>                          |
+| Run                              | <kbd>Shift ⇧</kbd> + <kbd>F5</kbd>                        | <kbd>Shift</kbd> + <kbd>F5</kbd>                        |
+| Build                            | <kbd>F5</kbd>                                             | <kbd>F5</kbd>                                           |
+| Refresh                          | <kbd>Cmd ⌘</kbd> +  <kbd>R</kbd>                          | <kbd>Ctrl</kbd> + <kbd>R</kbd>                          |
+| Preview in Workspace             | <kbd>Cmd ⌘</kbd> + <kbd>R</kbd>                           | <kbd>Ctrl</kbd> + <kbd>R</kbd>                          |
+| Debug Start                      | <kbd>option ⌥</kbd> + <kbd>F5</kbd>                       | <kbd>Alt</kbd> + <kbd>F5</kbd>                          |
+| Next Breakpoint                  | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Y</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>       |
+| Debug Stop                       | <kbd>F4</kbd>                                             | <kbd>F4</kbd>                                           |
+| Next Line                        | <kbd>F6</kbd>                                             | <kbd>F6</kbd>                                           |
+| Step In                          | <kbd>F7</kbd>                                             | <kbd>F7</kbd>                                           |
+| Step Out                         | <kbd>F8</kbd>                                             | <kbd>F8</kbd>                                           |
+| Toggle Breakpoint                | <kbd>Cmd ⌘</kbd> + <kbd>B</kbd>                           | <kbd>Ctrl</kbd> + <kbd>B</kbd>                          |
+| Commit                           | <kbd>Shift ⇧</kbd> + <kbd>C</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>        |
+| Update                           | <kbd>Shift ⇧</kbd> + <kbd>U</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>        |
+| New Terminal                     | <kbd>Shift ⇧</kbd> + <kbd>T</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>        |
+| New Terminal at Current Location | <kbd>option ⌥</kbd> + <kbd>T</kbd>                        | <kbd>Alt</kbd> + <kbd>T</kbd>                           |
+| Previous Window                  | <kbd>Shift ⇧</kbd> + <kbd>\[</kbd>                        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>       |
+| Next Window                      | <kbd>Shift ⇧</kbd> + <kbd>]</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>        |
+| Move Focus                       | <kbd>Shift ⇧</kbd> + <kbd>Return</kbd>                    | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Return</kbd>   |
+| Top Area                         | <kbd>Shift ⇧</kbd> + <kbd>A</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>        |
+| Left Area                        | <kbd>Shift ⇧</kbd> + <kbd>L</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>        |
+| Bottom Area                      | <kbd>Shift ⇧</kbd> + <kbd>B</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>        |
+| Full Screen                      | <kbd>Shift ⇧</kbd> + <kbd>W</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>        |
+| Vertical Split                   | <kbd>Shift ⇧</kbd> + <kbd>V</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>        |
+| Horizontal Split                 | <kbd>Shift ⇧</kbd> + <kbd>H</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>        |
+| Close Editor                     | <kbd>option ⌥</kbd> + <kbd>C</kbd>                        | <kbd>Alt</kbd> + <kbd>C</kbd>                           |
+| Show Specific Window             | <kbd>Cmd ⌘</kbd> + <kbd>#Num</kbd>                        | <kbd>Ctrl</kbd> + <kbd>#Num</kbd>                       |
+| Show All Shortcuts               | <kbd>Cmd ⌘</kbd> + <kbd>H</kbd>                           | <kbd>Ctrl</kbd> + <kbd>H</kbd>                          |

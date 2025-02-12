@@ -89,6 +89,7 @@
   * [Supported Models](user-guide/ai-code-assistant-arkain/supported-models.md)
   * [Code Auto Complete](user-guide/ai-code-assistant-arkain/code-auto-complete.md)
 * [Bug Reporting](user-guide/bug-reporting.md)
+* [Key Terms](user-guide/key-terms.md)
 
 ## Credit and Membership
 
@@ -111,4 +112,3 @@
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
   * [Jan 10, 2025](whats-new/arkain-release-note/jan-10-2025.md)
-* [Key Terms](whats-new/key-terms.md)

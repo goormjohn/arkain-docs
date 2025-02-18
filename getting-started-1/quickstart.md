@@ -8,17 +8,17 @@ icon: eggplant
 
 In just a few clicks, you can set up your development environment and start exploring Arkain’s powerful features. Here’s a quick guide to get you started:
 
-***
+<figure><img src="../.gitbook/assets/내용 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/0201-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
+***
 
 ### **Step 1: Go to the Dashboard**
 
 On the **Dashboard**, you can easily create and manage containers. This is where all your development environments are centralized.
 
-***
+<figure><img src="../.gitbook/assets/내용-1 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+***
 
 ### **Step 2: Click \[New Container]**
 
@@ -51,9 +51,9 @@ To make the process even easier, you can click the software icon next to the \[*
 Click the **\[Run]** button to launch the newly created container.\
 Once the container is running, your **workspace** will open, and you’re ready to start coding!
 
-***
+<figure><img src="../.gitbook/assets/내용-2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+***
 
 ## **Congratulations! 🎉**
 

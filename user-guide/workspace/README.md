@@ -6,31 +6,31 @@ icon: square-check
 
 This page provides an overview of the terms we use to describe each of the pieces of the user interface (UI) available to you in Arkain projects.
 
-<figure><img src="../../.gitbook/assets/Group 46 (1).png" alt=""><figcaption><p>Arkain Workspace User Interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_01 (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Menu Bar <a href="#menu-bar" id="menu-bar"></a>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Arkain Workspace Menu Bar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_02.png" alt=""><figcaption></figcaption></figure>
 
 The Menu Bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-* **\[Function]** button (![](<../../.gitbook/assets/menubar_function button.png>)) of the menu bar allowing users to Process list, SSH settings, SBOM management, and project configurations.
+* **\[Function]** button (<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">)of the menu bar allowing users to Process list, SSH settings, SBOM management, and project configurations.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-02-10 오후 1.51.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_03 (2).png" alt=""><figcaption></figcaption></figure>
 
-* **\[Save]** button (![](../../.gitbook/assets/menubar_save.png)) saves all open files.
-* **\[Preview]** button (![](../../.gitbook/assets/menubar_preview.png)) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
+* **\[Save]** button (<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) saves all open files.
+* **\[Preview]** button (<img src="../../.gitbook/assets/Preview (1).png" alt="" data-size="line">) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="283"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_04 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-* **\[Run]** button (![](../../.gitbook/assets/menubar_run.png)) allows users to manage and execute custom run commands they have written.
+* **\[Run]** button (<img src="../../.gitbook/assets/run.png" alt="" data-size="line">) allows users to manage and execute custom run commands they have written.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="262"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_05 (2).png" alt=""><figcaption></figcaption></figure>
 
-* **\[Create Template]** (![](<../../.gitbook/assets/스크린샷 2025-02-10 오후 2.03.07.png>)) button deploys the currently active container as a template.
-* Clicking the **\[Exit Container]** button (![](../../.gitbook/assets/menubar_exit.png)) will exit the workspace and return to the dashboard. The container execution will stop upon exit.
+* **\[Create Template]** (<img src="../../.gitbook/assets/publish.png" alt="" data-size="line">) button deploys the currently active container as a template.
+* Clicking the **\[Exit Container]** button (<img src="../../.gitbook/assets/exit.png" alt="" data-size="line">) will exit the workspace and return to the dashboard. The container execution will stop upon exit.
 
 ***
 
@@ -38,29 +38,29 @@ The Menu Bar is where you perform general operations on your Arkain Workspace. I
 
 In the Activity Bar, you can select and use various sidebars.
 
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_sidechat_01.png) Side Chat : opens Side Chat
+#### &#x20;![](../../.gitbook/assets/aichat.png)Side Chat : opens Side Chat
 
 An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area to interact with your code.
 
-<figure><img src="../../.gitbook/assets/arkain_sidechat.png" alt=""><figcaption><p>Side Chat</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../ai-code-assistant-arkain/side-chat.md" %}
 [side-chat.md](../ai-code-assistant-arkain/side-chat.md)
 {% endcontent-ref %}
 
-#### &#x20;![](../../.gitbook/assets/arkain_activitybar_icon_project.png) [Project : opens the Project sidebar](./#project-sidebar)
+#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)
 
-#### ![](../../.gitbook/assets/arkain_icon_command.png) [Command : opens the Command sidebar](./#command-sidebar)
+#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-1.png" alt="" data-size="line">[Command : opens the Command sidebar](./#command-sidebar)
 
-#### ![](../../.gitbook/assets/arkain_icon_git.png) [Git : opens the Git sidebar](./#git-opens-the-git-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line">[Git : opens the Git sidebar](./#git-opens-the-git-sidebar)
 
-#### ![](<../../.gitbook/assets/arkain_icon_source code.png>) [Source Code : opens the Source Code sidebar](./#source-code-opens-the-source-code-sidebar)
+#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line">[Source Code : opens the Source Code sidebar](./#source-code-opens-the-source-code-sidebar)
 
-#### ![](<../../.gitbook/assets/arkain_icon_share this container.png>) [Share This Container : opens the Share This Container sidebar](./#share-this-container-opens-the-share-this-container-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item-4.png" alt="" data-size="line"> [Share This Container : opens the Share This Container sidebar](./#share-this-container-opens-the-share-this-container-sidebar)
 
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_help.png) Help : You can access various **help documents** for assistance.
+#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line">Help : You can access various **help documents** for assistance.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="310"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07.png" alt=""><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 

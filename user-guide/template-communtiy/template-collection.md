@@ -2,7 +2,7 @@
 icon: sidebar
 ---
 
-# Template Collection
+# Browse templates
 
 ## **📂 Template Collection Page**
 

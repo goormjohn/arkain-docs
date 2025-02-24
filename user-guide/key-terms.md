@@ -36,13 +36,9 @@ The **Workspace** is the IDE environment where developers create and manage thei
 
 The **Menu**, located at the top of the workspace, provides access to container information and various container settings. It allows users to configure their container environment.
 
-### **Breadcrumb**
-
-The **Breadcrumb** is located just below the menu and visually displays the folder and file hierarchy of your project. It makes it easier to navigate and quickly access different parts of your project.
-
 ### **Toolbar**
 
-The **Toolbar** is located on the left side of the workspace and houses icons for various development tools and application modes, providing quick access to essential features.
+The **Toolbar** is located on the left side of the workspace and houses icons for various development tools providing quick access to essential features.
 
 ### **Sidebar**
 
@@ -56,9 +52,9 @@ The **Editor**, located in the center of the workspace, is where you can view an
 
 The **Panel**, located below the editor, displays essential tools such as the terminal, search functionality, resource monitor, and linting inspection windows.
 
-### **Status Bar**
+### SideChat
 
-The **Status Bar**, positioned at the bottom of the workspace, provides real-time information about your container’s performance, including CPU, memory, and network status. It also includes quick access to preview and chat features.
+This is where Arkain communicates with AI. Most magical experiences happen here.
 
 ***
 

@@ -14,9 +14,10 @@ We’re excited to announce the launch of **Template Community**, a brand-new fe
 
 Template Community is a platform where users can **create, share, and explore project templates**. Whether you’re a seasoned developer or just starting out, this feature empowers you to:
 
-1. **Share Your Expertise**: Upload your custom templates and help others kickstart their projects with ease.
+1. **Create and Share Your Template**: Upload your own template to show off your work and help others get started with their projects.
 2. **Discover New Ideas**: Browse a variety of templates crafted by the community to find the perfect starting point for your next project.
-3. **Start Projects Quickly**: Import templates directly into your CDEs and get coding immediately—no setup hassles!
+3. **Communicate with a variety of people**: Develop a broad perspective by exchanging opinions with a variety of people.
+4. **Start Projects Quickly**: Import templates directly into your CDEs and get coding immediately—no setup hassles!
 
 ### Why Use Template Community?
 

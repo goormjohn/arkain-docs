@@ -81,7 +81,7 @@
   * [Billing](user-guide/dashboard/billing.md)
 * [Template Communtiy](user-guide/template-communtiy/README.md)
   * [Create a template](user-guide/template-communtiy/create-a-template.md)
-  * [Template Collection](user-guide/template-communtiy/template-collection.md)
+  * [Browse templates](user-guide/template-communtiy/browse-templates.md)
   * [Template edit / delete](user-guide/template-communtiy/template-edit-delete.md)
   * [Started with Templates](user-guide/template-communtiy/started-with-templates.md)
 * [Side chat : AI code assistant](user-guide/side-chat-ai-code-assistant/README.md)
@@ -91,10 +91,10 @@
 * [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 
-## Credit and Membership
+## Pricing
 
-* [Credit](credit-and-membership/credit.md)
-* [Membership](credit-and-membership/membership.md)
+* [Credit](pricing/credit.md)
+* [Membership](pricing/membership.md)
 
 ## FAQ
 

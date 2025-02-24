@@ -10,23 +10,13 @@ The Membership plan is designed for those who want to create large projects with
 
 * **Immediate Benefits**: Membership benefits are applied immediately upon subscription. 🚀
 * **Payment Options**: You can choose to pay either monthly or annually. 💳
-* **Detailed Information**: For more details about membership benefits, visit the **pricing page**. 📄
+* **More info**: You can also check out our pricing page for more information about our membership benefits. 📄
 
 ***
 
-## Free Plan vs. Membership Plan Comparison ⚖️
+## Free Plan vs. Membership Plan  ⚖️
 
-| Feature                | Free Plan                            | Membership Plan                    |
-| ---------------------- | ------------------------------------ | ---------------------------------- |
-| **Cost**               | $0/mo                                | $7/mo                              |
-| **Credits Provided**   | 45 monthly credits                   | 135 monthly credits                |
-| **Maximum Containers** | 2 containers                         | Unlimited containers               |
-| **GPU Containers**     | Included                             | Included                           |
-| **AI Code Completion** | Basic                                | Advanced                           |
-| **Storage**            | Up to 80 GB per container            | Up to 195 GB maximum per container |
-| **Network traffic**    | Up to 10 GB of network traffic/month |                                    |
-| **SSH Connectivity**   | Not available                        | SSH connectable                    |
-| **Custom Domains**     | Not available                        | 2 custom domains per container     |
+<table><thead><tr><th width="217">Feature</th><th width="231">Free Plan</th><th>Membership Plan </th></tr></thead><tbody><tr><td><strong>Cost</strong> (Discount price)</td><td>$0/mo</td><td>$14/mo ($12/mo purchased annually)</td></tr><tr><td><strong>AI Side chat</strong></td><td>Basic</td><td>Basic / Premium / Special </td></tr><tr><td><strong>Credits</strong> /month</td><td>45 credits</td><td>135 monthly credits</td></tr><tr><td><strong>Maximum Containers</strong></td><td>2 containers</td><td>Unlimited containers</td></tr><tr><td><strong>GPU Containers</strong></td><td>Included</td><td>Included</td></tr><tr><td><strong>Storage</strong></td><td>5GB for free per container</td><td>30GB for free per container </td></tr><tr><td><strong>SSH Connectivity</strong></td><td>Not available</td><td>SSH connectable</td></tr><tr><td><strong>Custom Domains</strong></td><td>Not available</td><td>2 custom domains per container</td></tr></tbody></table>
 
 ***
 
@@ -34,10 +24,12 @@ The Membership plan is designed for those who want to create large projects with
 
 You can subscribe to the Membership at any time from the **Payment page**. Follow these steps:
 
-1. **Navigate to the Payment Page**: Go to the designated payment section. 🖥️
-2. **Select Subscription Type**: Choose between a monthly or annual subscription. 📅
+1. **Navigate to the Payment Page**:
+   1. You can access it through the **\[Get started with membership]** button on the **Billing page.**
+   2. You can access it through the **\[Join membership]** button on the **Create container** and **Add Storage** popup.
+2. **Select Subscription Type**: Choose between a monthly or yearly subscription. 📅
 3. **Confirm Payment Amount**: Review the payment amount for your selected plan. ✔️
-4. **Enter Payment Information**: Fill in your payment details and click the **Start Membership** button. 💳
+4. **Enter Payment Information**: Fill in your payment details and click the **\[Start Membership]** button. 💳
 
 ***
 
@@ -46,6 +38,12 @@ You can subscribe to the Membership at any time from the **Payment page**. Follo
 * **View Subscription Information**: You can check your subscription details on the **Billing page**. 📋
 
 ***
+
+## Unsubscribe Membership
+
+* If you wish to **cancel your membership subscription**, go to the **Billing page** and click the **\[Cancel membership]** button.
+
+
 
 <details>
 

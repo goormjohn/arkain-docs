@@ -14,10 +14,17 @@ Creating a template in the **Template Community** allows you to share your proje
 
 ## **Steps to Create a Template**
 
+{% hint style="warning" %}
+Please note that Arkain's template content only supports English.
+{% endhint %}
+
 ### **1. Access the Template Creation Page**
 
-* Click the \[Template] button on the dashboard's navigator.
-* Click on the **\[Create Template]** button on the right side.
+There are three ways to create it:
+
+* Click the **\[Create template]** button on the Template page.
+* Click the **\[More(**![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png>)**)] > \[Publish to template]** button on the Container card within the **Dashboard** **page**.
+* Click the \[Publish] button located at the top of the **Workspace**.
 
 ***
 
@@ -25,19 +32,19 @@ Creating a template in the **Template Community** allows you to share your proje
 
 #### **2.1**  Select Your Container
 
-* Select the container to share as a template.
+* Select the container to publish as a template.
+* Template creation in GPU containers is not yet supported.
 
-#### **2.2 Template Name**
+#### **2.2 Enter Your Template Name**
 
-* Enter a descriptive name for your template.
-* The name should clearly indicate the purpose or technology used (e.g., "React Starter Template" or "Python Flask API").
+* Write a name that will make your template stand out.
+* We recommend that the name clearly reflect the purpose or technology being used (e.g., "React Starter Template" or "Python Flask API").
 
 #### **2.3 Description**
 
-* Provide a detailed description of your template, including:
-  * Features it includes.
-  * Technologies or frameworks used.
-  * Specific use cases (e.g., "Ideal for quick REST API development").
+* Provide a detailed description of your template
+  * Specific use cases (e.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API.").
+  * Description can be up to 280 characters long.
 
 #### **2.4 Stack**
 
@@ -46,11 +53,12 @@ Creating a template in the **Template Community** allows you to share your proje
 #### **2.5 Recommended Spec**
 
 * Please select the Recommended Spec.&#x20;
-* You can choose one of the following:&#x20;
-  * Micro (0.5vCPU, 1GB Memory)
-  * Small (2vCPU, 2GB Memory)
-  * Medium (4vCPU, 4GB Memory)
-  * Large (8vCPU, 8GB Memory)
+*   You can choose one of the following:&#x20;
+
+    * Micro (0.5vCPU, 1GB Memory)
+    * Small (2vCPU, 2GB Memory)
+    * Medium (4vCPU, 4GB Memory)
+    * Large (8vCPU, 8GB Memory)
 
 
 
@@ -60,8 +68,12 @@ Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed
 
 ### **3. D**etailed description of the template.
 
-* Please provide a detailed description of the template.&#x20;
-* Who is this template for? How do you execute it? Are there any special settings required for the container?
+* Please provide a detailed description of your template.&#x20;
+* We recommend including the following:
+  * **Overview**: Describe the main function or purpose of the template. Also add the intended audience, expected benefits, and examples of its use.
+  * P**review**: Add preview images of the result screen, code structure, or key features after the template is run.
+  * Features: List the Key Features.
+  * Requirements: Lists the environment and tools required to run this template.
 * If it's difficult to write, please refer to the sample document provided on this page.
 
 ***
@@ -69,6 +81,18 @@ Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed
 ### **4.** Create a Template.
 
 * The template creation process is complete. Please review the content you've written, and if everything is correct, click the **\[Create]** button.
+* Before template creation begins, make sure the following is met:
+  * Don't you have a file like a password?
+  * Is it possible to run the template right away?
+  * Is there any file that would violate the security?
+
+{% hint style="warning" %}
+Note
+
+* **When a template is created, any containers running will be terminated.**
+* Templates are created after a **security review process.**&#x20;
+* If the container has **a large file size** or the security review process takes a long time, template creation **may take a long time.**
+{% endhint %}
 
 ***
 
@@ -77,7 +101,7 @@ Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed
 1. **Keep it Clean and Simple**
    * Avoid unnecessary files or configurations to keep the template lightweight.
 2. **Provide Clear Documentation**
-   * Include a **README** file to guide users on how to use the template effectively.
+   * Include a **README.md** file to guide users on how to use the template effectively.
 3. **Test Before Publishing**
    * Ensure your template is fully functional and error-free.
 4. **Keep it Updated**

@@ -2,7 +2,7 @@
 icon: sidebar
 ---
 
-# Create a template
+# Create a Template
 
 ## How to Create a Template in the Template Community 🌟
 
@@ -64,6 +64,12 @@ There are three ways to create it:
 
 Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed to the next step.
 
+{% hint style="warning" %}
+Please note that **only one Temporary save is possible.**
+{% endhint %}
+
+
+
 ***
 
 ### **3. D**etailed description of the template.
@@ -86,12 +92,24 @@ Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed
   * Is it possible to run the template right away?
   * Is there any file that would violate the security?
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Note
 
 * **When a template is created, any containers running will be terminated.**
 * Templates are created after a **security review process.**&#x20;
 * If the container has **a large file size** or the security review process takes a long time, template creation **may take a long time.**
+{% endhint %}
+
+{% hint style="warning" %}
+Note
+
+If your template **fails to create**:
+
+1. **Click your failed template.**
+2. **Check fail reasons**&#x20;
+   1. If a file contained in the container is causing the issue, click the ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 10.16.23.png>) button to run the container and resolve the issue.
+   2. If you are having trouble solving the problem, please contact us.
+3. If you have resolved the cause, Click the **\[Re-create]** button.
 {% endhint %}
 
 ***

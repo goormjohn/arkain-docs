@@ -18,6 +18,6 @@ You can efficiently use Credits by adjusting the specifications of the container
 
 ## Setting Container Specifications <a href="#setting-container-specifications" id="setting-container-specifications"></a>
 
-You can set the specification of the container when you create based on your requirements. Similarly, when creating a container through an image or an image pack, you can set the container specification.
+You can set the specification of the container when you create based on your requirements. Similarly, when creating a container through an **Template**, you can set the container specification.
 
-Additionally, you have the option to modify the specification of an existing container on the Container Settings page at any time, depending on your needs and purposes.
+Additionally, you have the option to modify the specification of an existing container on the **Container Settings page** at any time, depending on your needs and purposes.

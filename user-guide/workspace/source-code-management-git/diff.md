@@ -14,7 +14,7 @@ In the **\[Git] > \[Changes]** tab, clicking a file opens the Diff Tool, which l
 
 {% hint style="warning" %}
 **Note**\
-If you open the **\[Git]** tab and there is only a **\[Register repository]** button, you need to connect the repository first. See how to connect on [Import Github Repos](../../dashboard/container-managing/import-github-repos.md) page.
+If you open the **\[Git]** tab and there is only a **\[Register repository]** button, you need to connect the repository first. See how to connect on [Import Github Repos](../../dashboard/container/container-managing/import-github-repos.md) page.
 {% endhint %}
 
 There are 2 areas in the Diff Tool;

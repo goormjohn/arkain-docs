@@ -12,7 +12,7 @@ This page provides an overview of the terms we use to describe each of the piece
 
 ## Menu Bar <a href="#menu-bar" id="menu-bar"></a>
 
-<figure><img src="../../.gitbook/assets/Workspace_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption></figcaption></figure>
 
 The Menu Bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
@@ -23,7 +23,7 @@ The Menu Bar is where you perform general operations on your Arkain Workspace. I
 * **\[Save]** button (<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) saves all open files.
 * **\[Preview]** button (<img src="../../.gitbook/assets/Preview (1).png" alt="" data-size="line">) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
 
-<div align="center"><figure><img src="../../.gitbook/assets/Workspace_04 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_04 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * **\[Run]** button (<img src="../../.gitbook/assets/run.png" alt="" data-size="line">) allows users to manage and execute custom run commands they have written.
 
@@ -60,7 +60,7 @@ An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area t
 
 #### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line">Help : You can access various **help documents** for assistance.
 
-<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 * Find Menu : You can invoke the **Quick Execute** feature.
 

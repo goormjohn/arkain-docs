@@ -4,7 +4,7 @@ icon: ban
 
 # Automatic Stop
 
-**Automatic stop** shuts down containers after 30-40 minutes when the container's owner closes all IDE browsers.
+**Automatic stop** shuts down containers after 30-40 minutes when the container's owner closes all **Workspace** browsers.
 
 This feature prevents unnecessary credit use and allows you to use the service more efficiently.
 
@@ -18,7 +18,7 @@ When **Automatic Stop** is **On**;
 
 When **Automatic Stop** is **Off**;
 
-* **Manual Exit(stop)**: The container will continue to run even if you close only browsers. Please click the **\[Container Exit]** button to stop the container manually.
+* **Manual Exit(stop)**: The container will continue to run even if you close only browsers. Please manually stop the container by clicking the **\[Container Exit]** button located in the workspace or the **\[Stop]** button located in the dashboard.
 * **Credit use**: If you do not manually stop the container, it will continue to deduct credits. To avoid unnecessary credit use, be sure to exit and stop the container.
 
 {% hint style="danger" %}
@@ -28,7 +28,7 @@ The **Automatic Stop** feature works based on all browsers of the container owne
 
 ## Set Automatic Stop <a href="#set-automatic-stop" id="set-automatic-stop"></a>
 
-You can set Automatic Stop from the dashboard and IDE.
+You can set **Automatic Stop** from the Dashboard and Workspace.
 
 ### From Dashboard <a href="#from-dashboard" id="from-dashboard"></a>
 

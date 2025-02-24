@@ -35,7 +35,7 @@ Only membership users can increase the container storage capacity up to 195GB. F
 * **CONTAINER VISIBILITY**\
   Determine the access level of your container. Make it **\[Public]** for open collaboration or **\[Private]** for restricted access within your team.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **TOOLS**\
   You can choose the IDE environment to use in the workspace. By default, the Arkain IDE is launched, but you can also use Visual Studio Code, Jupyter Notebook, or Jupyter Lab development environments as needed.
@@ -64,8 +64,8 @@ Regularly update your container settings to match the evolving needs of your pro
 
 * Set up secure shell (SSH) access to your container for remote management or troubleshooting.
 
-{% content-ref url="../../../../faq/faq/ssh-port-forwarding-configuration.md" %}
-[ssh-port-forwarding-configuration.md](../../../../faq/faq/ssh-port-forwarding-configuration.md)
+{% content-ref url="../../../../../faq/faq/ssh-port-forwarding-configuration.md" %}
+[ssh-port-forwarding-configuration.md](../../../../../faq/faq/ssh-port-forwarding-configuration.md)
 {% endcontent-ref %}
 
 

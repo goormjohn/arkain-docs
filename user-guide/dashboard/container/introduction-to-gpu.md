@@ -19,8 +19,9 @@ You can check the usage time of the NVIDIA Tesla T4 container on the dashboard.\
 
 ### **GPU Storage Billing Policy**
 
-* **Free Plan: 5GB of storage space** is provided. If you exceed 5GB, credits will automatically be deducted and you can expand your storage to up to 30GB.
-* **Membership Plan:** **30GB of storage space** is provided, and you can use up to 80GB of storage space with credits.
+* GPU containers are created with **30GB of storage by default.** If you want more storage, you can upgrade and use it.
+* **Free Plan: Credits are charged** based on the usage of 30GB.
+* **Membership Plan:** Up to 30GB **can be used for free.**
 
 {% hint style="info" %}
 For more information about pricing and container Specifications, see [Container Specifications.](container-specifications.md)

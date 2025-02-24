@@ -29,20 +29,21 @@ To make the process even easier, you can click the software icon next to the \[*
 
 ### **Step 3: Enter Container Information**
 
-1. **Select a Stack**\
-   Choose the stack that fits your project. You can search for stacks by name to find the one you need.
+1.  **Select a Stack**\
+    Choose the stack that fits your project. You can search for stacks by name to find the one you need.
+
+    Some stacks can set up the container environment by entering AI prompt when the container is running.
 2. **Select OS version**\
    Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
 3. **Enter the Container Name**\
    The name must only include alphabets, numbers, hyphens, and underscores.
-4. **Select Container Specifications**\
-   Choose the container’s specifications (Micro, Small, Medium, or Large). You can modify these settings after creation.
+4. **Select Container Specifications**
+   1. Choose the container’s specifications (Micro, Small, Medium, or Large). You can modify these settings after creation.
+   2. If additional storage capacity is required, enter the storage capacity you want to add.
 5. **Activate Additional Modules/Packages**\
    If needed, activate any additional modules or packages you wish to install.
-6. **Click ‘Create’**\
-   After entering all the required information, click the **‘Create’** button to set up your container.
-7. **AI Quick start**\
-   **\[ TBD ]**
+6. **Click \[Create]**\
+   After entering all the required information, click the \[**Create]** button to set up your container.
 
 ***
 

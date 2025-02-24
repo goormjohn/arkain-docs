@@ -18,7 +18,7 @@ Local environment variables are variables that can be used only in specific comm
 
 #### ➡️ in Container Configuration
 
-<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 #### ➡️ in Workspace
 

@@ -39,8 +39,8 @@ Once the container is created, the container name cannot be changed.
 
 The available container specifications can be found on the following page.
 
-{% content-ref url="../container/container-specifications.md" %}
-[container-specifications.md](../container/container-specifications.md)
+{% content-ref url="../container-specifications.md" %}
+[container-specifications.md](../container-specifications.md)
 {% endcontent-ref %}
 
 ### **5. Configure Additional Storage**
@@ -48,8 +48,8 @@ The available container specifications can be found on the following page.
 * **Default:** 5GB
 * **Membership Plan:** Up to **80GB** of additional storage.
 
-{% content-ref url="../../../credit-and-membership/membership.md" %}
-[membership.md](../../../credit-and-membership/membership.md)
+{% content-ref url="../../../../credit-and-membership/membership.md" %}
+[membership.md](../../../../credit-and-membership/membership.md)
 {% endcontent-ref %}
 
 ### **6. Configure Additional Storage**

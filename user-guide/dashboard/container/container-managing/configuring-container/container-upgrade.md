@@ -8,7 +8,7 @@ icon: container-storage
 
 Arkain provides flexible options to enhance container performance and storage capacity. Here's how you can manage these features:
 
-<figure><img src="../../../../.gitbook/assets/02012-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/02012-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -23,7 +23,7 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ## **💾 Add Container Storage**
 
-<figure><img src="../../../../.gitbook/assets/2025-02-013.29.03-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/2025-02-013.29.03-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 * **Expand Your Storage**: Increase the storage capacity of your container when needed, ensuring you have enough space for your projects and files.
 * **Important Note**: Once storage is increased, it **cannot be reduced**. Plan your storage upgrades carefully to avoid unnecessary allocations.

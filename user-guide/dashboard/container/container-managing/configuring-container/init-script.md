@@ -8,7 +8,7 @@ If you have a script that needs to be executed repeatedly when running a contain
 
 It is commonly used to write scripts that execute your application.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### How to use init script?
 

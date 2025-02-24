@@ -6,7 +6,7 @@ icon: github
 
 <figure><img src="../../../../.gitbook/assets/02011-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
 
-You can import a project from a GitHub repository and continue working on it in Arkain.
+You can import a project from a **GitHub repository** and continue working on it in Arkain.
 
 {% stepper %}
 {% step %}
@@ -34,6 +34,7 @@ You can import a project from a GitHub repository and continue working on it in 
 
 * Select the repository you want to import. If the repository is set as private, it will be indicated with a badge in the list.
 * The software stack and name will be automatically entered based on the selected repository, and you can freely modify them if needed.
+* Configure container specs and additional storage.
 * If needed, activate Additional modules/packages to install them.
 * Lastly, click the **\[Import project]** button to create the container based on the provided information.
 {% endstep %}

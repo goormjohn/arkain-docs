@@ -8,17 +8,24 @@ icon: coin-vertical
 
 Credits are the currency required for using containers. When you use containers, credits are deducted. Here’s what you need to know:
 
-* **Price per Credit**: $0.02 💵
-* **Minimum Purchase**: You can purchase credits starting from a minimum of **50 credits**. 🛒
+* **Price per Credit**: **$0.02**&#x20;
 
 ### **Conditions for Credit Deductions ⚠️**
 
 Credits are deducted under the following conditions:
 
-1. **Container Specs**: Deductions occur based on the container specifications while the container is running. For detailed information, refer to the [Container Specifications documentation](../user-guide/dashboard/container/container-specifications.md). 📊
-2. **Traffic Usage**: If your container's total traffic exceeds 10GB per month, 10 credits will be deducted for each additional GB of traffic. 🌐
-3. **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged regardless of whether the container is running or stopped. 📦
-4. **Free Credits**: You are awarded **45 free credits** on the first day of each month, which expire on the last day of the month. ⏳ (Award and expiration times are based on Coordinated Universal Time - UTC.)
+1. **Container Usage**: Credit deductions occur while the container is running, based on the container specifications. See below for more details.
+2. **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged r**egardless of whether the container is running or stopped.**&#x20;
+   * The amount of **free storage** available **varies by plan.**
+3. **Traffic Usage**: If your container's monthly cumulative traffic exceeds **10GB**, you will be charged **10 credits** for each additional **1GB** of traffic per minute.&#x20;
+4. **Free Credits**: You get **45 free credits** per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.)\
+   If you have a **Membership plan,** you can get an **additional 90 credits.**
+
+{% hint style="info" %}
+A detailed comparison can also be found on our **pricing page.**
+{% endhint %}
+
+You can monitor network traffic and storage usage for each container in the **\[Resources Monitor]** panel at the bottom of the workspace.
 
 {% hint style="info" %}
 **Hint**\
@@ -31,13 +38,15 @@ You can monitor network traffic and storage usage for each container in the **Re
 
 
 
+You can monitor your **real-time credit usage** on the **Home or Dashboard page.**
+
 ***
 
 ## 🔢 **Calculate Your Credit Usage** 🚀
 
 Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently. ⚡
 
-You can check the **Credit Calculator** on the **Billing Page** to get a detailed estimate and ensure you're only using what you need! 💰
+You can check the **Credit Calculator** on the **Pricing Page** or **Payment Page** to get a detailed estimate and ensure you're only using what you need! 💰
 
 * The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
 * You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
@@ -48,20 +57,27 @@ You can check the **Credit Calculator** on the **Billing Page** to get a detaile
 
 ## Purchasing Credits 🛍️
 
-You can purchase credits as needed, starting from a minimum of **50** on the **Payment page**. Follow these steps to charge credits:
+You can purchase credits as needed on the **Payment page**. \
+Follow these steps to charge credits:
 
-1. **Navigate to the Payment Page**: Go to the designated payment section. 🖥️
-2. **Enter the Number of Credits**: Specify how many credits you want to purchase. You can use bulk buttons for convenience. ➕
-3. **Calculate Credits**: Click the **Calculate credits** button to estimate the amount based on your usage. 📊
-4. **Confirm Purchase**: Review the amount of credits and the total payment amount. ✔️
-5. **Select Payment Method**: Choose your payment method, enter the required information, and click the **Charge credits** button. 💳
+* **Minimum Purchase**: You can purchase credits starting from a minimum of **100 credits**.&#x20;
+
+1. **Navigate to the Payment Page**
+   1. You can access it through the **\[To buy credit]** button on the **Home or Dashboard page**.
+   2. You can access it through the **\[Buy now]** button on the **Pricing page**.
+   3. You can access it through the **\[Buy credit]** button on the **Billing page**.
+   4. You can access it through the **\[Buy additional credits]** button on the **Workspace.**
+2. **Enter the Number of Credits**: Specify how many credits you want to purchase. You can use bulk buttons for convenience.&#x20;
+3. **Calculate Credits**: Click the **\[Calculate credits]** button to estimate the amount based on your usage.&#x20;
+4. **Confirm Purchase**: Review the amount of credits and the total payment amount.&#x20;
+5. **Enter the Payment details**: Enter the required information, and click the **\[Charge credits]** button.&#x20;
 
 ***
 
 ## Managing Credits 📋
 
-* **Check Purchased Credits**: You can check your credit balance from the sidebar on the right of the container dashboard, the Billing page, and the credit icon in the workspace ActivityBar. 📊
-* **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently. 📅
+* **Check Purchased Credits**: You can view the amount of credits you've purchased on the **Billing page**.&#x20;
+* **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently.&#x20;
   * **The Credit Usage page** can be accessed by clicking **\[Profile]** → **\[Billing]** → **\[View usage]** in the dashboard.
 
 ***
@@ -79,18 +95,18 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 **General Containers**
 
-<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits/hour</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits/hour</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits/hour</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits/hour</td></tr></tbody></table>
+<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits</td></tr></tbody></table>
 
 **GPU Containers**
 
-<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Basic</td><td>3.5</td><td>13 GB</td><td>13.2 credits/hour</td></tr></tbody></table>
+<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Basic</td><td>3.5</td><td>13 GB</td><td>13.2 credits</td></tr></tbody></table>
 
 **Additional Charges**
 
-| Type             | Cost per Hour (Credits)                                 |
-| ---------------- | ------------------------------------------------------- |
-| Traffic Addition | 10 credits per 1 GB for usage exceeding 10 GB per month |
-| Storage Addition | 0.018 credits per 1 GB per hour                         |
+| Type             | Cost (Credits)                                   |
+| ---------------- | ------------------------------------------------ |
+| Traffic Addition | 10 credits/1GB/minute (exceeding 10GB per month) |
+| Storage Addition | \~0.018 credits/1GB/hour (exceeding free)        |
 
 ***
 

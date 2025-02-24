@@ -10,6 +10,8 @@ Creating a new container in **Arkain** is simple and efficient! Follow these ste
 
 ***
 
+Go to Arkain Dashboard, Click the \[**New Container]** button at the top of the page.
+
 ### **1. Set Up a Container Stack**
 
 Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
@@ -33,8 +35,6 @@ Container names **cannot be changed** once created and must only contain **lette
 Once the container is created, the container name cannot be changed.
 {% endhint %}
 
-
-
 ### **4. Configure Container Specs**
 
 The available container specifications can be found on the following page.
@@ -45,14 +45,18 @@ The available container specifications can be found on the following page.
 
 ### **5. Configure Additional Storage**
 
-* **Default:** 5GB
-* **Membership Plan:** Up to **80GB** of additional storage.
+* **Default:** 5GB / **Up to:** 200GB
+* **Free Plan**: 5GB for free
+* **Membership Plan**: 30GB for free
 
-{% content-ref url="../../../../credit-and-membership/membership.md" %}
-[membership.md](../../../../credit-and-membership/membership.md)
-{% endcontent-ref %}
+{% hint style="warning" %}
+Note
 
-### **6. Configure Additional Storage**
+* Once upgraded, storage **cannot be downgraded.**
+* If you **exceed your free storage**, **additional charges** will apply based on your usage.
+{% endhint %}
+
+### **6. Activate Additional Modules/Packages**
 
 * **Modules/Packages**
   * Install additional modules and packages during container creation to save time.

@@ -2,7 +2,7 @@
 icon: square-check
 ---
 
-# Environment Variables
+# Environment Variable
 
 Sensitive data like passwords and API keys can be stored in Environment Variables to be used when running Commands. Environment variables are divided into global environment variables and local environment variables.
 
@@ -16,13 +16,16 @@ Local environment variables are variables that can be used only in specific comm
 
 ### Using Environment Variables <a href="#using-environment-variables" id="using-environment-variables"></a>
 
-#### ➡️ in Container Configuration
+#### ➡️ in Container Settings Page
 
 <figure><img src="../../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 #### ➡️ in Workspace
 
-You can use environment variables in terminals and Commands using the following format: `${Key_Of_The_Environment_Variable}`
+You can use environment variables in terminals using the following command:
+
+<pre class="language-sh"><code class="lang-sh"><strong>$ export ${key}=${value}
+</strong></code></pre>
 
 ### Command Variables <a href="#command-variables" id="command-variables"></a>
 

@@ -45,6 +45,10 @@ To make the process even easier, you can click the software icon next to the \[*
 6. **Click \[Create]**\
    After entering all the required information, click the \[**Create]** button to set up your container.
 
+{% content-ref url="../user-guide/dashboard/container/container-managing/creating-container.md" %}
+[creating-container.md](../user-guide/dashboard/container/container-managing/creating-container.md)
+{% endcontent-ref %}
+
 ***
 
 ### **Step 4: Run Your New Container**

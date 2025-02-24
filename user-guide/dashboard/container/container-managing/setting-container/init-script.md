@@ -14,7 +14,7 @@ It is commonly used to write scripts that execute your application.
 
 You can navigate to the **Dashboard** and enter the **Container Settings** page.
 
-In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. These commands will automatically run when the container starts.
+In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. Once you're done writing, it will be saved automatically. And these commands will automatically run when the container starts.
 
 {% hint style="warning" %}
 **Script will run in the root path(/).**

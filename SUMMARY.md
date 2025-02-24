@@ -77,7 +77,7 @@
     * [Automatic Stop](user-guide/dashboard/container/automatic-stop.md)
     * [Introduction to GPU](user-guide/dashboard/container/introduction-to-gpu.md)
     * [Inactive Container](user-guide/dashboard/container-managing/inactive-container.md)
-  * [Check Credit Usage](user-guide/dashboard/check-credit-useage.md)
+  * [Credit Usage](user-guide/dashboard/credit-usage.md)
   * [Billing](user-guide/dashboard/billing.md)
 * [Template Communtiy](user-guide/template-communtiy/README.md)
   * [Create a Template](user-guide/template-communtiy/create-a-template.md)

@@ -26,5 +26,3 @@ icon: user-robot
    * Token limits reset every 24 hours, covering both input and output tokens.
 4. **Wide Accessibility**
    * Essential models (**GPT-4o** and **GPT-4o-mini**) are accessible to all users, ensuring a seamless experience for standard tasks.
-
-**Unlock the full potential of CodeVisor by exploring our premium membership for advanced LLMs and extended features!** 💻✨

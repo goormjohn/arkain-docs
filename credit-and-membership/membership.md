@@ -16,17 +16,17 @@ The Membership plan is designed for those who want to create large projects with
 
 ## Free Plan vs. Membership Plan Comparison ⚖️
 
-| Feature                | Free Plan                            | Membership Plan                |
-| ---------------------- | ------------------------------------ | ------------------------------ |
-| **Cost**               | $0/mo                                | $7/mo                          |
-| **Credits Provided**   | 45 credits                           | 135 monthly credits            |
-| **Container Runtime**  | 20 hours/month                       | 60 hours/month                 |
-| **Maximum Containers** | 2 containers                         | Unlimited containers           |
-| **GPU Containers**     | Included                             | Included                       |
-| **AI Code Completion** | Basic                                | Advanced                       |
-| **Storage**            | Up to 10 GB of network traffic/month | Up to 80 GB per container      |
-| **SSH Connectivity**   | Not available                        | SSH connectable                |
-| **Custom Domains**     | Not available                        | 2 custom domains per container |
+| Feature                | Free Plan                            | Membership Plan                    |
+| ---------------------- | ------------------------------------ | ---------------------------------- |
+| **Cost**               | $0/mo                                | $7/mo                              |
+| **Credits Provided**   | 45 monthly credits                   | 135 monthly credits                |
+| **Maximum Containers** | 2 containers                         | Unlimited containers               |
+| **GPU Containers**     | Included                             | Included                           |
+| **AI Code Completion** | Basic                                | Advanced                           |
+| **Storage**            | Up to 80 GB per container            | Up to 195 GB maximum per container |
+| **Network traffic**    | Up to 10 GB of network traffic/month |                                    |
+| **SSH Connectivity**   | Not available                        | SSH connectable                    |
+| **Custom Domains**     | Not available                        | 2 custom domains per container     |
 
 ***
 

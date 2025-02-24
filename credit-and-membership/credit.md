@@ -15,12 +15,21 @@ Credits are the currency required for using containers. When you use containers,
 
 Credits are deducted under the following conditions:
 
-1. **Container Specs**: Deductions occur based on the container specifications while the container is running. For detailed information, refer to the help documentation. 📊
-2. **Traffic Usage**: If the total traffic from your container exceeds **10GB**, **10 credits** will be deducted for every additional **1GB** of traffic. 🌐
+1. **Container Specs**: Deductions occur based on the container specifications while the container is running. For detailed information, refer to the [Container Specifications documentation](../user-guide/dashboard/container/container-specifications.md). 📊
+2. **Traffic Usage**: If your container's total traffic exceeds 10GB per month, 10 credits will be deducted for each additional GB of traffic. 🌐
 3. **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged regardless of whether the container is running or stopped. 📦
 4. **Free Credits**: You are awarded **45 free credits** on the first day of each month, which expire on the last day of the month. ⏳ (Award and expiration times are based on Coordinated Universal Time - UTC.)
 
-You can monitor network traffic and storage usage for each container in the **Resources Monitor** panel at the bottom of the workspace and in the **Status bar**. 📈
+{% hint style="info" %}
+**Hint**\
+You can monitor network traffic and storage usage for each container in the **Resources monitor** panel at the bottom of the workspace.
+
+<img src="../.gitbook/assets/스크린샷 2025-02-24 오후 1.07.38.png" alt="" data-size="original">
+{% endhint %}
+
+
+
+
 
 ***
 
@@ -29,6 +38,9 @@ You can monitor network traffic and storage usage for each container in the **Re
 Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently. ⚡
 
 You can check the **Credit Calculator** on the **Billing Page** to get a detailed estimate and ensure you're only using what you need! 💰
+
+* The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
+* You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
 
 <figure><img src="../.gitbook/assets/02011-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Calculate Credit Usage</p></figcaption></figure>
 
@@ -48,8 +60,9 @@ You can purchase credits as needed, starting from a minimum of **50** on the **P
 
 ## Managing Credits 📋
 
-* **Check Purchased Credits**: You can view the amount of credits you've purchased on the **Container dashboard sidebar** and the **Billing page**. 📊
+* **Check Purchased Credits**: You can check your credit balance from the sidebar on the right of the container dashboard, the Billing page, and the credit icon in the workspace ActivityBar. 📊
 * **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently. 📅
+  * **The Credit Usage page** can be accessed by clicking **\[Profile]** → **\[Billing]** → **\[View usage]** in the dashboard.
 
 ***
 
@@ -74,10 +87,10 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 **Additional Charges**
 
-| Type             | Cost per Hour (Credits)   |
-| ---------------- | ------------------------- |
-| Traffic Addition | 10 credits/1 GB           |
-| Storage Addition | \~0.018 credits/hour/1 GB |
+| Type             | Cost per Hour (Credits)                                 |
+| ---------------- | ------------------------------------------------------- |
+| Traffic Addition | 10 credits per 1 GB for usage exceeding 10 GB per month |
+| Storage Addition | 0.018 credits per 1 GB per hour                         |
 
 ***
 
@@ -87,7 +100,7 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 
 
-* This policy constitutes part of the[ Arkain](https://accounts.goorm.io/terms)[ Terms of Service](https://accounts.goorm.io/terms), and any matters not specified in this policy shall be governed by the terms and conditions of the Arkain Terms of Service.
+* This policy constitutes part of the[ Arkain](https://accounts.goorm.io/terms) Terms of Service, and any matters not specified in this policy shall be governed by the terms and conditions of the Arkain Terms of Service.
 
 - By paying for Arkain credits, you are deemed to have agreed to the paid service agreement.
 

@@ -14,12 +14,12 @@ Arkain provides multiple ways to manage your containers efficiently. Here's how 
 
 You can start your container from two locations:
 
-1. **Container List**
-   * Go to the container list page, where all your containers are displayed as cards.
-   * Click the **"Start"** button on the container card to launch it.
+1. **Dashboard**
+   * When you log in to Arkain, a dashboard page will open where you can check the container list, recommended templates, and your available credits.
+   * Click the \[**Run]** button on the container card to launch it.
 2. **Settings Page**
-   * Open the settings page of your container.
-   * Use the **"Start"** button located at the top or in the settings interface to initiate the container.
+   * Click the **\[Setting]**(![](<../../../.gitbook/assets/new_setting (4).png>)) button of the desired container on the dashboard to open the container settings.
+   * Use the \[**Run]** button located at the top or in the settings interface to initiate the container.
 
 ***
 
@@ -29,10 +29,10 @@ To stop a running container, you have two options:
 
 1. **Dashboard**
    * Navigate to the container list or dashboard.
-   * Click the **"Stop"** button on the container card to halt its operation.
+   * Click the \[**Stop]** button on the container card to halt its operation.
 2. **Settings Page**
    * Access the container's settings page.
-   * Click the **"Stop"** button to safely terminate the container.
+   * Click the \[**Stop]** button to safely terminate the container.
 
 ***
 
@@ -40,9 +40,9 @@ To stop a running container, you have two options:
 
 To delete a container, you can choose from the following methods:
 
-1. **Container List**
-   * Locate the container you wish to delete in the list view.
-   * Use the **"Delete"** option available on the container card to remove it permanently.
+1. **Dashboard**
+   * Find the container you want to delete on the dashboard.
+   * Click the  ![](<../../../.gitbook/assets/스크린샷 2025-02-21 오후 1.22.48.png>)button and select **\[Delete this container]** to delete the container.
 2. **Settings Page**
    * Open the settings page of the container.
    * Click the **"Delete"** button to remove the container along with its configurations.

@@ -92,7 +92,7 @@ Regularly update your container settings to match the evolving needs of your pro
 * **Upgrade Container Performance**\
   Adjust the resources allocated to your container, such as CPU and memory, to handle more demanding tasks or improve application performance.
 
-{% content-ref url="container-upgrade.md" %}
-[container-upgrade.md](container-upgrade.md)
+{% content-ref url="../../../container-managing/configuring-container/container-upgrade.md" %}
+[container-upgrade.md](../../../container-managing/configuring-container/container-upgrade.md)
 {% endcontent-ref %}
 

@@ -44,8 +44,8 @@ An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area t
 
 <figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../ai-code-assistant-arkain/side-chat.md" %}
-[side-chat.md](../ai-code-assistant-arkain/side-chat.md)
+{% content-ref url="../side-chat-ai-code-assistant/how-to-use-side-chat.md" %}
+[how-to-use-side-chat.md](../side-chat-ai-code-assistant/how-to-use-side-chat.md)
 {% endcontent-ref %}
 
 #### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)

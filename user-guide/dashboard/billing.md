@@ -6,8 +6,6 @@ icon: money-bill
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-## **💳 Billing**
-
 The **Billing Page** on the Arkain Dashboard is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits! 🚀
 
 ***
@@ -31,12 +29,11 @@ The **Billing Page** on the Arkain Dashboard is where you can manage all your pa
 1. **🔄 Subscribe to a Membership Plan**
    * Go to the **Membership Plans** section and choose the plan that best suits your needs.
    * Click **Subscribe** and follow the steps to complete your subscription. You can upgrade, downgrade, or cancel your plan anytime, so you have full flexibility! 🔄
-2. **🧾 Check Credit History**
-   * Under the **Credit History** tab, review past credit purchases and how they’ve been used. You can filter by date and amount to quickly find specific transactions.
+2. **🧾 Purchase history**
+   * Under the **Purchase history** tab, review past credit purchases and how they’ve been used. You can filter by date and amount to quickly find specific transactions.
    * This helps you understand how your credits have been spent and manage your balance effectively. 🔍
 3. **💸 Add More Credits**
-   * To top-up your credits, go to the **Current Credit Balance** section.
-   * Select **Add Credits**, choose your desired amount, and complete the payment process. Your credits will be instantly updated, and you’re ready to continue using Arkain! 💳
+   * Click the \[Buy credit] button, choose your desired amount, and complete the payment process. Your credits will be instantly updated, and you'll be ready to continue using Arkain!&#x20;
 
 ***
 

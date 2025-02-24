@@ -4,19 +4,19 @@ icon: square-terminal
 
 # Commands
 
-By using Commands, you can easily build and run your code. You can customize Commands. Furthermore, you can organize commands into Common, Build, Run, Test, and Deploy categories for better management.
+By using Commands, you can easily run your code. You can customize Commands.&#x20;
 
 ### Running Commands <a href="#running-commands" id="running-commands"></a>
 
-To run commands, click the **\[Run]** button at the top right of the workspace. Alternatively, you can click the test and build buttons for tasks. Or you can find `Run` button in the command tab.
+To run commands, click the **\[Run]** button at the top right of the workspace.
 
 ### Viewing Commands <a href="#viewing-commands" id="viewing-commands"></a>
 
-Clicking the **\[Command]** button in the Activity Bar of the workspace will open the Command Sidebar. In this Sidebar, you can view the list of commands organized by category, and you can add new commands as needed.
+In this Sidebar, you can view the list of commands organized by category, and you can add new commands as needed.
 
 ### Adding a new Command <a href="#adding-a-new-command" id="adding-a-new-command"></a>
 
-To add a new command, you can click the **\[Add Command]** button in the header of the Command Sidebar or right-click on an item and select **\[Add Command]**. Once you've added a new command, you can double-click on it to open the command tab in the editor.
+To add a new command, you can click the **\[Add Command]** button in the header of the Command&#x20;
 
 Each command has a default script based on the category it was created from. You can customize the command as needed.
 

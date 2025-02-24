@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Chatting
 
 Users who receive access to the container can easily collaborate using the chat feature.

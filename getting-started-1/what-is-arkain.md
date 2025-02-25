@@ -30,7 +30,7 @@ Arkain empowers developers to work together effortlessly with:
 
 ***
 
-### 3. **Template Community: Jumpstart Your Projects 🌟**
+### 3. **Template: Jumpstart Your Projects 🌟**
 
 Leverage **user-generated templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
 

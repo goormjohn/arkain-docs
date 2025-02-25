@@ -54,7 +54,7 @@ To make the process even easier, you can click the software icon next to the \[*
 ### **Step 4: Run Your New Container**
 
 Click the **\[Run]** button to launch the newly created container.\
-Once the container is running, your **Studio** will open, and you’re ready to start coding!
+Once the container is running, your **Workspace** will open, and you’re ready to start coding!
 
 <figure><img src="../.gitbook/assets/내용-2 (1).png" alt=""><figcaption></figcaption></figure>
 

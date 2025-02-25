@@ -59,7 +59,7 @@ The **\[Project button]** is opens the Project Sidebar area. The project sidebar
 
 You can click to open documents like the Readme, which contains project descriptions, or source code.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
@@ -137,7 +137,7 @@ You can check the available credits along with Container usage time, Estimated u
 
 You can navigate to the page where you can manage your member profile and container information.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the Profile Settings page to edit your profile information.
 * **Container Info** : You can navigate to the Container Settings page to configure detailed container settings.
@@ -154,7 +154,7 @@ You can navigate to the page where you can manage your member profile and contai
 
 The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

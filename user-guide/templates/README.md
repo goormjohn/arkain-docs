@@ -2,9 +2,9 @@
 icon: sidebar
 ---
 
-# Template Communtiy
+# Templates
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introducing the Template Community
 

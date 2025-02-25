@@ -4,32 +4,32 @@ icon: square-check
 
 # Workspace
 
-This page provides an overview of the terms we use to describe each of the pieces of the user interface (UI) available to you in Arkain projects.
+Arkain's **Workspace** is an IDE environment designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The key area terms of the Workspace are as follows.
 
 <figure><img src="../../.gitbook/assets/Workspace_01 (2).png" alt=""><figcaption><p>Studio layout</p></figcaption></figure>
 
 ***
 
-## Menu Bar <a href="#menu-bar" id="menu-bar"></a>
+## Menu bar <a href="#menu-bar" id="menu-bar"></a>
 
-<figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption><p>Menu bar</p></figcaption></figure>
 
-The Menu Bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
+The Menu bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-* **\[Function]** button (<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">)of the menu bar allowing users to Process list, SSH settings, SBOM management, and project configurations.
+* The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and project properties, New Terminal Window.
 
 <figure><img src="../../.gitbook/assets/Workspace_03 (2).png" alt=""><figcaption></figcaption></figure>
 
-* **\[Save]** button (<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) saves all open files.
-* **\[Preview]** button (<img src="../../.gitbook/assets/Preview (1).png" alt="" data-size="line">) allows users to preview their project within the workspace or in a new tab. It also provides options for configuring the execution URL and port settings.
+* The **\[Save]** button(<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) allows you to save the open file, save as a new name, or save all files.
+* The **\[Preview]** button(![](../../.gitbook/assets/preview.png)) allows users to preview their project within the workspace or in a new tab or workspace. It also provides options for configuring the execution URL and port settings.
 
 <div align="center"><figure><img src="../../.gitbook/assets/Workspace_04 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-* **\[Run]** button (<img src="../../.gitbook/assets/run.png" alt="" data-size="line">) allows users to manage and execute custom run commands they have written.
+* The **\[Run]** button (<img src="../../.gitbook/assets/run.png" alt="" data-size="line">) allows users to manage and execute custom run commands they have written.
 
 <figure><img src="../../.gitbook/assets/Workspace_05 (2).png" alt=""><figcaption></figcaption></figure>
 
-* **\[Create Template]** (<img src="../../.gitbook/assets/publish.png" alt="" data-size="line">) button deploys the currently active container as a template.
+* The **\[Publish]** (<img src="../../.gitbook/assets/publish.png" alt="" data-size="line">) button deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
 * Clicking the **\[Exit Container]** button (<img src="../../.gitbook/assets/exit.png" alt="" data-size="line">) will exit the workspace and return to the dashboard. The container execution will stop upon exit.
 
 ***

@@ -17,7 +17,7 @@ layout:
 
 ## **Step into Arkain: The Future of Cloud Development** 🚀&#x20;
 
-Arkain is a cutting-edge **Cloud Development Environments (CDEs)** designed for seamless and efficient coding. Whether you're crafting a **frontend web app**, developing with **Node.js**, or diving into the **JavaScript ecosystem**, Arkain has you covered.
+[**Arkain**](https://arkain.io) is a cutting-edge **Cloud Development Environments (CDEs)** designed for seamless and efficient coding. Whether you're crafting a **frontend web app**, developing with **Node.js**, or diving into the **JavaScript ecosystem**, Arkain has you covered.
 
 ### **Supercharge Your Workflow with AI Code Assistance**💡&#x20;
 
@@ -37,7 +37,7 @@ Whether you're a beginner or a seasoned developer, Arkain empowers you to **code
 
 ## User Guide
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Workspace</strong></td><td>What is Arkain?</td><td><a href=".gitbook/assets/Group 58.png">Group 58.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Dashboard</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/Group 64.png">Group 64.png</a></td><td></td><td><a href="user-guide/dashboard/">dashboard</a></td></tr><tr><td><strong>Templates</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/Group 63.png">Group 63.png</a></td><td></td><td><a href="user-guide/templates/">templates</a></td></tr><tr><td><strong>AI-powered Code Assistant</strong></td><td></td><td><a href=".gitbook/assets/Group 62.png">Group 62.png</a></td><td></td><td><a href="user-guide/arkain-ai/">arkain-ai</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="user-guide/workspace/"><strong>Workspace</strong></a></td><td>What is Arkain?</td><td><a href=".gitbook/assets/Group 58.png">Group 58.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="user-guide/dashboard/"><strong>Dashboard</strong></a></td><td>Share your docs online</td><td><a href=".gitbook/assets/Group 64.png">Group 64.png</a></td><td></td><td><a href="user-guide/dashboard/">dashboard</a></td></tr><tr><td><a href="user-guide/templates/"><strong>Templates</strong></a></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/Group 63.png">Group 63.png</a></td><td></td><td><a href="user-guide/templates/">templates</a></td></tr><tr><td><a href="user-guide/arkain-ai/"><strong>Arkain AI</strong></a></td><td></td><td><a href=".gitbook/assets/Group 62.png">Group 62.png</a></td><td></td><td><a href="user-guide/arkain-ai/">arkain-ai</a></td></tr></tbody></table>
 
 ***
 
@@ -49,6 +49,6 @@ You can use the **search and question feature** in the top-right corner to get f
 
 ## More Info.
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Credit and Membership</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/Group 61.png">Group 61.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>FAQ</strong></td><td></td><td><a href=".gitbook/assets/Group 59.png">Group 59.png</a></td><td></td><td><a href="faq/faq/">faq</a></td></tr><tr><td><strong>Release Note</strong></td><td></td><td><a href=".gitbook/assets/Group 60.png">Group 60.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="credit-and-membership/credit.md"><strong>Credit and Membership</strong></a></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/Group 61.png">Group 61.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="broken-reference"><strong>FAQ</strong></a></td><td></td><td><a href=".gitbook/assets/Group 59.png">Group 59.png</a></td><td></td><td><a href="faq/faq/">faq</a></td></tr><tr><td><a href="whats-new/arkain-release-note/"><strong>Release Note</strong></a></td><td></td><td><a href=".gitbook/assets/Group 60.png">Group 60.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
 ***

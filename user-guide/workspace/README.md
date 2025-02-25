@@ -10,7 +10,7 @@ Arkain's **Workspace** is an IDE environment designed to help you efficiently de
 
 ***
 
-## Menu bar <a href="#menu-bar" id="menu-bar"></a>
+## 1. Menu bar <a href="#menu-bar" id="menu-bar"></a>
 
 <figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption><p>Menu bar</p></figcaption></figure>
 
@@ -30,17 +30,22 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 <figure><img src="../../.gitbook/assets/Workspace_05 (2).png" alt=""><figcaption></figcaption></figure>
 
 * The **\[Publish]** (<img src="../../.gitbook/assets/publish.png" alt="" data-size="line">) button deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
-* Clicking the **\[Exit Container]** button (<img src="../../.gitbook/assets/exit.png" alt="" data-size="line">) will exit the workspace and return to the dashboard. The container execution will stop upon exit.
+* Clicking the **\[Exit Container]** button (<img src="../../.gitbook/assets/exit.png" alt="" data-size="line">) will exit the workspace. The container execution will stop upon exit.
+
+{% hint style="warning" %}
+**Warnning**\
+Even if you close the web browser, the container will remain running. **While the container is running, credits will be consumed.** It is recommended to click the **\[EXIT]** button to exit Arkain.
+{% endhint %}
 
 ***
 
-## Activity Bar <a href="#sidebar" id="sidebar"></a>
+## 2. Activity bar <a href="#sidebar" id="sidebar"></a>
 
-In the Activity Bar, you can select and use various sidebars.
+The sidebar is an area that helps you easily access key features needed for development. You can open a different Sidebar by clicking on the icons in the Activity bar.
 
-#### &#x20;![](../../.gitbook/assets/aichat.png) Side Chat : opens Side Chat
+#### &#x20;![](../../.gitbook/assets/aichat.png) [\[Side Chat\]](../arkain-ai/)
 
-An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area to interact with your code.
+Clicking on **\[Side Chat]** will open a Side Chat on the left side of the workspace, where you can converse with the **AI code assistant**.
 
 <figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,85 +53,36 @@ An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area t
 [how-to-use-side-chat.md](../arkain-ai/how-to-use-side-chat.md)
 {% endcontent-ref %}
 
-#### <img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project](./#project-sidebar) Sidebar
 
-#### <img src="../../.gitbook/assets/ActivityBar-item-1.png" alt="" data-size="line"> [Command : opens the Command sidebar](./#command-sidebar)
+The **\[Project button]** is opens the Project Sidebar area. The project sidebar is a type of file explorer that allows you to create, edit, and delete project files and folders.
 
-#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [Git : opens the Git sidebar](./#git-opens-the-git-sidebar)
-
-#### <img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line"> [Source Code : opens the Source Code sidebar](./#source-code-opens-the-source-code-sidebar)
-
-#### <img src="../../.gitbook/assets/ActivityBar-item-4.png" alt="" data-size="line"> [Share This Container : opens the Share This Container sidebar](./#share-this-container-opens-the-share-this-container-sidebar)
-
-#### <img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line"> Help : You can access various **help documents** for assistance.
-
-<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure></div>
-
-* **Find Menu** : You can invoke the **Quick Execute** feature.
-
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
-
-* **arkain Service Center** : You can open the messenger for contacting **Customer Support**.
-* **View All Shortcut** : You can view the **shortcut keys for the entire IDE**.
-
-{% content-ref url="keyboard-shortcut.md" %}
-[keyboard-shortcut.md](keyboard-shortcut.md)
-{% endcontent-ref %}
-
-
-
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_preference.png) Preference : You can open the **project settings modal**.
-
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-#### ![](../../.gitbook/assets/credit.png) Credit : You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
-
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_profile.png) Account : You can navigate to the page where you can manage your **member profile** and **container information**.
-
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
-
-* **Profile** : You can navigate to the **Profile Settings** page to edit your profile information.
-* **Container Info** : You can navigate to the **Container Settings** page to configure detailed container settings.
-* **Go to Release Notes**
-* **Edit Preference File** : You can configure the **IDE settings** based on files.
-* **Go to Container Dashboard**
-* **Sign out** : You can **log out** and return to the **main page**.
-
-***
-
-## Sidebar <a href="#sidebar" id="sidebar"></a>
-
-When you open a Arkain project, the Sidebar defaults to the _Project_ icon's expanded view. You can open a different Sidebar by clicking on the icons in the Activity Bar.
-
-#### ➡️ Project Sidebar
-
-The **Project Sidebar** includes the project description (if provided by the author) and allows you to **browse project files**.
-
-You can also **create, edit, and delete files** related to the project directly from the Project Sidebar. 🚀
+You can click to open documents like the Readme, which contains project descriptions, or source code.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
-#### Click the \[**+] button** to create new **files and folders** within your project.
+Click the \[**+] button** to create new **files, folders** and sub projects within your project.
 
-#### 📂 **Folder Management**
+#### **Folder Management**
 
-* Use the **\[-] icon** to collapse or expand all folders.
-* Click the **refresh button** to update the file tree and keep it in sync.
-
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-#### 🖱 **Right-Click for File Actions**
-
-Right-click on a file to access all available **file-related features**, including **renaming, deleting, moving, and more**! 🚀
+* Use the ![](<../../.gitbook/assets/스크린샷 2025-02-25 오후 8.16.35.png>) **icon** to collapse or expand all folders.
+* Click the ![](<../../.gitbook/assets/스크린샷 2025-02-25 오후 8.17.40.png>) **refresh button** to update the file tree and keep it in sync.
 
 
 
-### ➡️ Git Sidebar
+:mouse: **Right-Click for File Actions**
 
-**Arkain** provides most of the Git commands.\
-When you click the ![](<../../.gitbook/assets/arkain_icon_git (1).png>)**\[Git icon]** in Arkain's activity bar, you can manage source code versions with Git.
+Right-click on a file to access all available file-related features, including renaming, deleting, moving, and more!&#x20;
+
+<div><figure><img src="../../.gitbook/assets/스크린샷 2025-02-25 오후 8.18.52.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2025-02-25 오후 8.19.08.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [\[Git\]](source-code-management-git/git.md) Sidebar
+
+It opens Git, a distributed version control system, in the sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -134,22 +90,22 @@ When you click the ![](<../../.gitbook/assets/arkain_icon_git (1).png>)**\[Git i
 [git.md](source-code-management-git/git.md)
 {% endcontent-ref %}
 
-### ➡️ Source Code Sidebar
+<img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line"> [\[Source Code\]](./#source-code-sidebar) Sidebar
+
+It opens a sidebar where you can view the source code's hierarchy, bookmarks, and change history.
 
 <figure><img src="../../.gitbook/assets/2025-02-012.48.21-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-💾 **Source Code Sidebar**
-
-* **Automatic Save History** 📜\
-  Your **work sessions are stored** as a list, allowing you to **restore previous versions** easily.
-* **Quick Navigation with Bookmarks** 🔖\
+* **Automatic Save History** \
+  Your work sessions are stored as a list, allowing you to restore previous versions easily.
+* **Quick Navigation with Bookmarks** \
   Set bookmarks to jump directly to specific points in your code.
-* **Replay Your Code Changes** ⏪▶️\
-  Watch your **code edits play back in chronological order**, making it easy to review your progress and understand changes over time.
+* **Replay Your Code Changes**\
+  Watch your code edits play back in chronological order, making it easy to review your progress and understand changes over time.
 
-Effortlessly **track, revert, and replay** your coding journey! 🚀
+Effortlessly track, revert, and replay your coding journey!&#x20;
 
-### ➡️ Share This Container Sidebar
+#### <img src="../../.gitbook/assets/ActivityBar-item-4.png" alt="" data-size="line"> [\[Share This Container\]](./#share-this-container-sidebar)
 
 You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
 
@@ -159,35 +115,90 @@ You can share your container with others to collaborate or showcase your project
 [contaienr-sharing.md](collaboration/contaienr-sharing.md)
 {% endcontent-ref %}
 
+
+
+#### <img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line"> \[Help]
+
+Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), and access help.
+
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure></div>
+
+#### ![](../../.gitbook/assets/arkain_activitybar_icon_preference.png) \[Preference]&#x20;
+
+You can open the project settings modal. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as AI auto-completion.
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+#### ![](../../.gitbook/assets/credit.png) [\[Credit\]](../../credit-and-membership/credit.md)
+
+You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
+
+#### ![](../../.gitbook/assets/arkain_activitybar_icon_profile.png) \[Account]
+
+You can navigate to the page where you can manage your member profile and container information.
+
+<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+
+* **Profile** : You can navigate to the Profile Settings page to edit your profile information.
+* **Container Info** : You can navigate to the Container Settings page to configure detailed container settings.
+* **Go to Release Notes** : You can check the version-specific changes, added features, improved functionalities, and bugs of the Arkain service in the release notes.
+* **Edit Preference File** : You can configure the IDE settings based on files.
+* **Go to Dashboard :** You exit the workspace and move to the dashboard.
+* **Sign out** : You can log out.
+
 ***
 
-## Editor <a href="#editor" id="editor"></a>
 
-The Editor section of the IDE displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
+
+## 3. Editor <a href="#editor" id="editor"></a>
+
+The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-## Terminal <a href="#terminal" id="terminal"></a>
+## 4. Toggle Panel <a href="#terminal" id="terminal"></a>
+
+In Arkain's toggle panel, you can use features such as the terminal, search, and resource monitor.
+
+### Terminal Pannel
 
 **Arkain** provides a built-in terminal, so developers who are comfortable with commands can use it to perform advanced tasks.
 
-By default, the terminal is available as the Terminal tab in the bottom layout of the Arkain interface. To open it in a new window, go to **\[Window]** → **\[New Terminal Window]** or press the default shortcut **`Alt + Shift + T (Mac: ⌥⇧T)`**.
+By default, the terminal is available as the Terminal tab in the toggle Panel of the Arkain interface. To open it in a new terminal window, go to **\[Menu]**(<img src="https://docs.arkain.io/~gitbook/image?url=https%3A%2F%2F2536619093-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fvv0eKmOn3DY36Ox1EqCE%252Fuploads%252Fum5iOjy95Gfbbha1uOG8%252F%255Bcore%255D%2520Button.png%3Falt%3Dmedia%26token%3Db2c7c88e-3bdc-411e-bf19-d19c064e8c55&#x26;width=102&#x26;dpr=4&#x26;quality=100&#x26;sign=df8f1d77&#x26;sv=2" alt="" data-size="line">) → **\[New Terminal Window]** or press the default shortcut **`Alt + Shift + T (Mac: ⌥⇧T)`**.
 
-A new terminal window will appear in your workspace. The terminal window does not persist when you refresh Arkain.
+A new terminal window will appear in the editor area of your workspace. The terminal window does not persist when you refresh Arkain.
 
-You can open the Terminal in a new window by right-clicking on a folder in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
+You can open the Terminal in a new window by right-clicking on a folder or file in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-Lq-Q9LciN1X9EABxGkt%252F-LvyeWwXWpV1I5yFc4yF%252F-Lvykpz-psuBQia28h8J%252Fimage.png%3Falt%3Dmedia%26token%3Dbbc1e7b2-3716-40ea-b67b-4f4296bf3b13&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=739a5583&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as **`ufw, systemctl, docker`**(docker in docker) cannot be used.
+As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as `ufw`, `systemctl`, `docker`(docker in docker) cannot be used.
 {% endhint %}
+
+
+
+### Search Panel
+
+
+
+
+
+
+
+
+
+### Resource monitor Panel
+
+
+
+
 
 ***
 
-## Bottom Bar <a href="#terminal" id="terminal"></a>
+## 5. Bottom bar <a href="#terminal" id="terminal"></a>
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

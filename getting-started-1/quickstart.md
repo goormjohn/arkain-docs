@@ -54,7 +54,7 @@ To make the process even easier, you can click the software icon next to the \[*
 ### **Step 4: Run Your New Container**
 
 Click the **\[Run]** button to launch the newly created container.\
-Once the container is running, your **workspace** will open, and you’re ready to start coding!
+Once the container is running, your **Studio** will open, and you’re ready to start coding!
 
 <figure><img src="../.gitbook/assets/내용-2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,5 +62,5 @@ Once the container is running, your **workspace** will open, and you’re ready 
 
 ## **Congratulations! 🎉**
 
-You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, Cloud Development Environment.\
+You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, Cloud Development Environments.\
 Repeat the steps to create additional environments as needed.

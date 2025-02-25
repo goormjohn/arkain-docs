@@ -2,11 +2,11 @@
 icon: square-check
 ---
 
-# Workspace
+# Studio
 
 This page provides an overview of the terms we use to describe each of the pieces of the user interface (UI) available to you in Arkain projects.
 
-<figure><img src="../../.gitbook/assets/Workspace_01 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_01 (2).png" alt=""><figcaption><p>Studio layout</p></figcaption></figure>
 
 ***
 
@@ -38,7 +38,7 @@ The Menu Bar is where you perform general operations on your Arkain Workspace. I
 
 In the Activity Bar, you can select and use various sidebars.
 
-#### &#x20;![](../../.gitbook/assets/aichat.png)Side Chat : opens Side Chat
+#### &#x20;![](../../.gitbook/assets/aichat.png) Side Chat : opens Side Chat
 
 An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area to interact with your code.
 
@@ -48,38 +48,40 @@ An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area t
 [how-to-use-side-chat.md](../side-chat-ai-code-assistant/how-to-use-side-chat.md)
 {% endcontent-ref %}
 
-#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)
 
-#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-1.png" alt="" data-size="line">[Command : opens the Command sidebar](./#command-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item-1.png" alt="" data-size="line"> [Command : opens the Command sidebar](./#command-sidebar)
 
-#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line">[Git : opens the Git sidebar](./#git-opens-the-git-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [Git : opens the Git sidebar](./#git-opens-the-git-sidebar)
 
-#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line">[Source Code : opens the Source Code sidebar](./#source-code-opens-the-source-code-sidebar)
+#### <img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line"> [Source Code : opens the Source Code sidebar](./#source-code-opens-the-source-code-sidebar)
 
 #### <img src="../../.gitbook/assets/ActivityBar-item-4.png" alt="" data-size="line"> [Share This Container : opens the Share This Container sidebar](./#share-this-container-opens-the-share-this-container-sidebar)
 
-#### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line">Help : You can access various **help documents** for assistance.
+#### <img src="../../.gitbook/assets/ActivityBar-item-5.png" alt="" data-size="line"> Help : You can access various **help documents** for assistance.
 
 <div align="center"><figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure></div>
 
-* Find Menu : You can invoke the **Quick Execute** feature.
+* **Find Menu** : You can invoke the **Quick Execute** feature.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
 
-* **Arkain service center** : You can open the messenger for contacting **Customer Support**.
+* **arkain Service Center** : You can open the messenger for contacting **Customer Support**.
 * **View All Shortcut** : You can view the **shortcut keys for the entire IDE**.
 
 {% content-ref url="keyboard-shortcut.md" %}
 [keyboard-shortcut.md](keyboard-shortcut.md)
 {% endcontent-ref %}
 
-* Go to the Container Stack Manual : You can navigate to the official online documentation for the created **container stack**.
+
 
 #### ![](../../.gitbook/assets/arkain_activitybar_icon_preference.png) Preference : You can open the **project settings modal**.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_profile.png) Profile and Container Info : You can navigate to the page where you can manage your **member profile** and **container information**.
+#### ![](../../.gitbook/assets/credit.png) Credit : You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
+
+#### ![](../../.gitbook/assets/arkain_activitybar_icon_profile.png) Account : You can navigate to the page where you can manage your **member profile** and **container information**.
 
 <div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
 
@@ -119,15 +121,7 @@ You can also **create, edit, and delete files** related to the project directly 
 
 Right-click on a file to access all available **file-related features**, including **renaming, deleting, moving, and more**! 🚀
 
-### ➡️ Command Sidebar
 
-By using Commands, you can easily build and run your code. You can customize Commands. Furthermore, you can organize commands into Common, Build, Run, Test, and Deploy categories for better management.
-
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-{% content-ref url="commands.md" %}
-[commands.md](commands.md)
-{% endcontent-ref %}
 
 ### ➡️ Git Sidebar
 
@@ -203,7 +197,7 @@ The **Bottom Bar** includes icon buttons for:
 
 * 🖥 **Terminal** – Open and manage your terminal sessions.
 * 🤖 **AI Code Completion** – Get smart coding suggestions in real-time.
-* ⏹ **Auto Stop Container** – Manage automatic container shutdown settings.
+* ⏹ **Container Automatic Stop** – Manage automatic container shutdown settings.
 * 💬 **1:1 Support Chat** – Click to open a chat window for direct support.
 
 <figure><img src="../../.gitbook/assets/2025-02-013.07.18-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>

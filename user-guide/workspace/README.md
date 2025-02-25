@@ -2,7 +2,7 @@
 icon: square-check
 ---
 
-# Studio
+# Workspace
 
 This page provides an overview of the terms we use to describe each of the pieces of the user interface (UI) available to you in Arkain projects.
 
@@ -44,8 +44,8 @@ An intelligent **AI code assistant** is available in Arkain's 'Side Chat' area t
 
 <figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../side-chat-ai-code-assistant/how-to-use-side-chat.md" %}
-[how-to-use-side-chat.md](../side-chat-ai-code-assistant/how-to-use-side-chat.md)
+{% content-ref url="../arkain-ai/how-to-use-side-chat.md" %}
+[how-to-use-side-chat.md](../arkain-ai/how-to-use-side-chat.md)
 {% endcontent-ref %}
 
 #### <img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project : opens the Project sidebar](./#project-sidebar)

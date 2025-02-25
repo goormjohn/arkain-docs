@@ -16,8 +16,12 @@ Arkain is a **Cloud Development Environments (CDEs)** designed to simplify and e
 
 ### 1. **Seamless Setup for Any Language 🚀**
 
-With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**. \
+With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**.&#x20;
+
+\
 Additionally, it offers a **blank** stack with only the Ubuntu OS installed, allowing users to freely customize their own development environments. \
+
+
 Arkain also specializes in AI by offering **GPU**-optimized development environments tailored for AI-related projects.
 
 ### 2.  **Seamless Real-Time Collaboration** 🤝
@@ -25,12 +29,11 @@ Arkain also specializes in AI by offering **GPU**-optimized development environm
 Arkain empowers developers to work together effortlessly with:
 
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
-* **Instant Feedback** – Exchange ideas and resolve issues via **Side Chat** in real-time.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
 
 ***
 
-### 3. **Template: Jumpstart Your Projects 🌟**
+### 3. **Templates: Jumpstart Your Projects 🌟**
 
 Leverage **user-generated templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
 
@@ -44,12 +47,8 @@ Arkain’s **Side Chat**, powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)*
 * **Searchable Chat History** – Revisit past conversations anytime.
 * **Flexible AI Models** – Switch between different AI assistants based on your needs.
 
-**Enhance productivity with real-time collaboration and AI-driven support!** 🚀
-
 ***
 
-#### 🌟 **Experience the Future of Software Development with Arkain!**
+## **Experience the Future of Software Development with Arkain!**&#xD83C;�
 
 Arkain empowers developers to code smarter, collaborate better, and deploy faster. Whether you're working on solo projects or with a global team, Arkain provides the tools and environment needed to make your development process efficient and seamless.
-
-👉 **Get Started with Arkain Today and Take Your Development to the Next Level!** 🚀

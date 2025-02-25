@@ -29,6 +29,7 @@ The **Templates page** is where you can view and explore all the templates you h
    * You can browse profiles of users who have created templates, view templates created by specific users, and interact with various developers.
 7. **Use Templates**
    * If you like the template you're looking at, try creating your own container using the template.
+   * The default settings for the container follow the selected template.
 
 ***
 

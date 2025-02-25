@@ -84,10 +84,10 @@
   * [Browse Templates](user-guide/templates/browse-templates.md)
   * [Manage a Template](user-guide/templates/manage-a-template.md)
   * [Report Processing](user-guide/templates/report-processing.md)
-* [Arkain Ai](user-guide/arkain-ai/README.md)
+* [Arkain AI](user-guide/arkain-ai/README.md)
   * [How to use Side Chat](user-guide/arkain-ai/how-to-use-side-chat.md)
   * [Supported Models](user-guide/arkain-ai/supported-models.md)
-  * [Code Auto Complete](user-guide/arkain-ai/code-auto-complete.md)
+  * [Auto-complete](user-guide/arkain-ai/auto-complete.md)
 * [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 

@@ -2,14 +2,13 @@
 icon: message-bot
 ---
 
-# Code Auto Complete
+# Auto-complete
 
 The **AI code completion** feature is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
 
 ### Key features <a href="#key-features" id="key-features"></a>
 
 * **Real-time code completion:** As you type, AI predicts the next code to be entered and automatically completes it for you.
-* **Code error detection:** It detects potential errors in your code as you write and provides suggestions for corrections.
 * **Support for various programming languages:** It supports a wide range of languages, including Python, JavaScript, and Java, for your convenience.
 
 ### How to Set Up the Feature <a href="#how-to-set-up-the-feature" id="how-to-set-up-the-feature"></a>

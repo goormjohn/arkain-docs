@@ -162,13 +162,11 @@ The Editor section of the Workspace displays the content of the currently select
 
 In Arkain's toggle panel, you can use features such as the terminal, search, and resource monitor.
 
-### Terminal Pannel
+### Terminal Panel
 
 **Arkain** provides a built-in terminal, so developers who are comfortable with commands can use it to perform advanced tasks.
 
-By default, the terminal is available as the Terminal tab in the toggle Panel of the Arkain interface. To open it in a new terminal window, go to **\[Menu]**(<img src="https://docs.arkain.io/~gitbook/image?url=https%3A%2F%2F2536619093-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fvv0eKmOn3DY36Ox1EqCE%252Fuploads%252Fum5iOjy95Gfbbha1uOG8%252F%255Bcore%255D%2520Button.png%3Falt%3Dmedia%26token%3Db2c7c88e-3bdc-411e-bf19-d19c064e8c55&#x26;width=102&#x26;dpr=4&#x26;quality=100&#x26;sign=df8f1d77&#x26;sv=2" alt="" data-size="line">) → **\[New Terminal Window]** or press the default shortcut **`Alt + Shift + T (Mac: ⌥⇧T)`**.
-
-A new terminal window will appear in the editor area of your workspace. The terminal window does not persist when you refresh Arkain.
+By default, the terminal is available as the Terminal tab in the toggle Panel of the Arkain interface. To open it in a new terminal window, go to **\[Menu]**(<img src="https://docs.arkain.io/~gitbook/image?url=https%3A%2F%2F2536619093-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fvv0eKmOn3DY36Ox1EqCE%252Fuploads%252Fum5iOjy95Gfbbha1uOG8%252F%255Bcore%255D%2520Button.png%3Falt%3Dmedia%26token%3Db2c7c88e-3bdc-411e-bf19-d19c064e8c55&#x26;width=102&#x26;dpr=4&#x26;quality=100&#x26;sign=df8f1d77&#x26;sv=2" alt="" data-size="line">) → **\[New Terminal Window]** or press the default shortcut <kbd>Alt</kbd> + <kbd>Shift</kbd> + `T` (macOS <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>T</kbd>).&#x20;
 
 You can open the Terminal in a new window by right-clicking on a folder or file in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
@@ -182,17 +180,15 @@ As a docker container-based service, Arkain does not support system privileges f
 
 ### Search Panel
 
+The Search Panel displays search results for all documents within the project. When you change the search scope to 'Search All' in search or replace, the Search Panel will show keyword search results for each file.
 
-
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오전 11.25.03.png" alt=""><figcaption></figcaption></figure>
 
 ### Resource monitor Panel
 
+The resource monitor panel displays the usage of container resources such as CPU, memory, disk, and network in a graphical format.
 
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오후 12.50.20.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -200,20 +196,13 @@ As a docker container-based service, Arkain does not support system privileges f
 
 ## 5. Bottom bar <a href="#terminal" id="terminal"></a>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+The bottom bar is an area that provides various tools and information to enhance convenience when using Arkain. It includes the editor's code XXX information, along with the Toggle Panel, Auto-completion, and Auto-off toggle buttons.
 
-⚡ **Bottom Bar Features**
 
-The **Bottom Bar** includes icon buttons for:
 
-* 🖥 **Terminal** – Open and manage your terminal sessions.
-* 🤖 **AI Code Completion** – Get smart coding suggestions in real-time.
-* ⏹ **Container Automatic Stop** – Manage automatic container shutdown settings.
-* 💬 **1:1 Support Chat** – Click to open a chat window for direct support.
+* **Toggle Panel**: You can open and close the Toggle Panel. Closing the Toggle Panel allows you to focus more on your code.
+* **Auto-Completion**: Get smart coding suggestions in real-time.
+* **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed..
+* **1:1 Support Chat** – Click to open a chat window for direct support.
 
 <figure><img src="../../.gitbook/assets/2025-02-013.07.18-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
-
-
-
-Each button works as a **toggle**, allowing you to easily show or hide features as needed. **Clicking the 1:1 support button opens a chat window where you can ask questions in real time.** 🚀
-

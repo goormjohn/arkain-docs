@@ -1,3 +1,7 @@
+---
+icon: comment-question
+---
+
 # Make a WEB with Open API
 
 To access the **\[Make a WEB with Open API]** template, you must issue the required API KEY.

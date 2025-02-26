@@ -198,11 +198,11 @@ The resource monitor panel displays the usage of container resources such as CPU
 
 The bottom bar is an area that provides various tools and information to enhance convenience when using Arkain. It includes the editor's code Lint and Editor information, along with the Toggle Panel, Auto-completion, and Auto-off toggle buttons.
 
-#### Status Area
+#### Edit Status Area
 
-The Status Area displays linting check results and editor line information. Linting is a tool that identifies and notifies errors related to syntax and code style in the source code.&#x20;
+The Edit Status Area displays linting check results and editor line information. **Lint** is a tool that identifies and notifies errors related to syntax and code style in the source code.&#x20;
 
-The **Status Area** shows, from left to right, the **lint errors**, **lint warnings**, and the total number of lines in the editor along with the current cursor position in the format of 'number:number'.
+The **Edit Status Area** shows, from left to right, the **lint errors**, **lint warnings**, and the total number of lines in the editor along with the current cursor position in the format of 'number:number'.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오후 1.30.34.png" alt=""><figcaption></figcaption></figure>
 

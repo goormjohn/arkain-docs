@@ -1,0 +1,40 @@
+---
+icon: cabinet-filing
+---
+
+# Open / Close in Editor
+
+In Arcane's Project Sidebar, you can open source code files using the editor.&#x20;
+
+## 1. Major Editor <a href="#file-default-editor" id="file-default-editor"></a>
+
+Arkain offers a standard Default Editor along with Vim Editor, Emacs Editor, and Emmet Editor.
+
+### Default Editor
+
+The Default Editor is a text editor that can be opened within the editor section. To open a file, double-click the file you want to open in the Project Sidebar or right-click and go to **\[Open]** or **\[Open As]** → **\[Default Editor]**.
+
+Alternatively, press the default shortcut <kbd>**Ctrl**</kbd>**&#x20;+&#x20;**<kbd>**O**</kbd> (macOS <kbd>⌘</kbd> <kbd>O</kbd>). In the 'Open File' pop-up window that appears, select the file and press the **\[OK]** button to open it.&#x20;
+
+Depending on the file's extension, it may open in the default editor, or it may open in a document viewer. Some unsupported file extensions cannot be opened.
+
+<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FYmeoTDaKVTWHoOhGUAz8%252Fimage.png%3Falt%3Dmedia%26token%3D264eaf40-8e19-46f7-a42e-2343caaf0176&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4906b044&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+### Vim Editor <a href="#vim-editor-vim" id="vim-editor-vim"></a>
+
+In addition to the Default editor, Arkain also provides a Vim editor. When you open a file with the Vim Editor, it will open within the same Editor section where the Default Editor was previously displayed.
+
+The Vim Editor can be accessed by right-clicking the target file in the Project Sidebar, selecting **\[Open with]** → **\[Vim Editor]**. While the Vim Editor appears similar to the Default Editor, it allows you to edit and save files using Vim commands.
+
+You can open Emacs Editor and Emmet Editor in the same way.
+
+<div><figure><img src="../../../.gitbook/assets/vim.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/vim_popup.png" alt=""><figcaption></figcaption></figure></div>
+
+## 2. Close <a href="#close" id="close"></a>
+
+Files opened in the Editor section can be closed by clicking the **\[X]** button on the tab of each file. Alternatively, you can press the default keyboard shortcut **`Alt + X (Mac: ⌥X)`** to close the open file.
+
+You can also right-click a file tab in the Editor section and select \[**Close]** to close that specific file tab. Selecting **\[Close All]** will close all open file tabs.
+
+<figure><img src="../../../.gitbook/assets/arkain_close.png" alt=""><figcaption></figcaption></figure>
+

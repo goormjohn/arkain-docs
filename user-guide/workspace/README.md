@@ -196,13 +196,27 @@ The resource monitor panel displays the usage of container resources such as CPU
 
 ## 5. Bottom bar <a href="#terminal" id="terminal"></a>
 
-The bottom bar is an area that provides various tools and information to enhance convenience when using Arkain. It includes the editor's code XXX information, along with the Toggle Panel, Auto-completion, and Auto-off toggle buttons.
+The bottom bar is an area that provides various tools and information to enhance convenience when using Arkain. It includes the editor's code Lint and Editor information, along with the Toggle Panel, Auto-completion, and Auto-off toggle buttons.
+
+#### Status Area
+
+The Status Area displays linting check results and editor line information. Linting is a tool that identifies and notifies errors related to syntax and code style in the source code.&#x20;
+
+The **Status Area** shows, from left to right, the **lint errors**, **lint warnings**, and the total number of lines in the editor along with the current cursor position in the format of 'number:number'.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오후 1.30.34.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+The lint information is only available in the Python container.
+{% endhint %}
 
 
+
+#### **Toggle Button**
 
 * **Toggle Panel**: You can open and close the Toggle Panel. Closing the Toggle Panel allows you to focus more on your code.
 * **Auto-Completion**: Get smart coding suggestions in real-time.
-* **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed..
+* **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed.
 * **1:1 Support Chat** – Click to open a chat window for direct support.
 
 <figure><img src="../../.gitbook/assets/2025-02-013.07.18-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>

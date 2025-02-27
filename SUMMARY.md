@@ -29,7 +29,7 @@
     * [Open / Close in Editor](user-guide/workspace/file-management/open-close-in-editor.md)
     * [Properties](user-guide/workspace/file-management/properties.md)
     * [File import/export](user-guide/workspace/file-management/file-import-export.md)
-    * [Compress/Decompress](user-guide/workspace/file-management/compress-decompress.md)
+    * [Compress/Extract File](user-guide/workspace/file-management/compress-extract-file.md)
   * [Commands](user-guide/workspace/commands.md)
   * [Source Code Management Git](user-guide/workspace/source-code-management-git/README.md)
     * [Git](user-guide/workspace/source-code-management-git/git.md)

@@ -1,5 +1,6 @@
 ---
 icon: square-terminal
+hidden: true
 ---
 
 # Commands

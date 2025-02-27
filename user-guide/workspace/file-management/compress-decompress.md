@@ -2,9 +2,29 @@
 icon: floppy-disk
 ---
 
-# Compress or Decompress with ZIP / TAR
+# Compress/Decompress
 
-You can use the ZIP/TAR compression/decompression feature.
+If you want, you can compress a folder within the project to save storage space. Conversely, you can also extract compressed files.
+
+## 1. Compress
+
+❶ Right-click on a folder in the project sidebar and select **\[Compress]**.
+
+❷ Choose the compression file name and extension, then click **\[OK]** to compress the folder.
+
+<div><figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+Arcane only supports **ZIP**, **TAR**, and **TAR.GZ** compression formats.
+{% endhint %}
+
+
+
+## 2. Decompress
+
+❶ Right-click on a file in the project sidebar and select **\[Compress]**.
+
+❷ Choose the compression file name and extension, then click **\[OK]** to compress the folder.
 
 Right-click the file and click the **\[Compress/Decompress]** menu.
 

@@ -28,12 +28,4 @@ Arcane only supports **ZIP**, **TAR**, and **TAR.GZ** compression formats.
 
 You can also extract a compressed file by double-clicking it in the Project Sidebar.
 
-<figure><img src="../../../.gitbook/assets/extract_file.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/decompress.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-<figure><img src="../../../.gitbook/assets/decompress.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/extract_file.png" alt="" width="375"><figcaption></figcaption></figure>

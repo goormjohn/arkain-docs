@@ -4,9 +4,9 @@ icon: container-storage
 
 # Creating Container
 
-## How to Create a New Container in Arkain 🌟
+## How to Create a New Container in Arkain&#x20;
 
-Creating a new container in **Arkain** is simple and efficient! Follow these steps to set up your container and start working on your project seamlessly. 🚀
+Creating a new container in **Arkain** is simple and efficient! Follow these steps to set up your container and start working on your project seamlessly.&#x20;
 
 ***
 
@@ -64,4 +64,4 @@ Note
 ***
 
 With these easy steps, you’re all set to create and customize your container in Arkain! \
-Start building smarter and faster today. 💻✨
+Start building smarter and faster today.&#x20;

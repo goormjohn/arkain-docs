@@ -4,7 +4,7 @@ icon: sidebar
 
 # Manage a Template
 
-## How to Manage, Edit, and Delete Templates in the Template Community ⚙️
+## How to Manage, Edit, and Delete Templates in the Template Community
 
 The **Template Community** provides tools to help you manage the templates you've created. You can update your templates to reflect new changes, modify details, or delete templates you no longer need. Here's a guide to managing your templates effectively:
 

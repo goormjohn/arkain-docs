@@ -4,13 +4,13 @@ icon: sidebar
 
 # Browse Templates
 
-## **📂 Templates Page**
+## **Templates Page**
 
 The **Templates page** is where you can view and explore all the templates you have created or added in Arkain. You can quickly check out the templates being added and quickly search for the template you want whenever you need it. Let’s take a look at the features! ✨
 
 ***
 
-## **🔍 Key Features of the Templates Page**
+## **Key Features of the Templates Page**
 
 1. **View All Templates**
    * This page shows all templates of Arkain users, including templates you have created or registered. Each template displays information such as the template name, stack, and description for quick reference.
@@ -35,7 +35,7 @@ The **Templates page** is where you can view and explore all the templates you h
 
 ### What is Arkain's official template?
 
-If you look through the templates, you will see templates with ![](<../../../.gitbook/assets/스크린샷 2025-02-24 오후 11.03.46.png>) icon attached.&#x20;
+If you look through the templates, you will see templates with ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 11.03.46.png>) icon attached.&#x20;
 
 These are templates that Arkain provides and produces, and as described, packages/modules for environment configuration are automatically installed and executed.
 

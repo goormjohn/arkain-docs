@@ -10,7 +10,7 @@ You can check your credit usage by clicking **\[View credit usage]** button at t
 
 ***
 
-## 📘 **How to Use the Usage Page**
+## **How to Use the Usage Page**
 
 The **Credit Usage page** provides an overview of your current credit consumption and detailed resource usage. Below is a description of each section:
 

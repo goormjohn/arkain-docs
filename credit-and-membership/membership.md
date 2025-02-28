@@ -4,38 +4,38 @@ icon: user
 
 # Membership
 
-## About Membership 🏅
+## About Membership
 
 The Membership plan is designed for those who want to create large projects with enhanced features and advanced support compared to the Free Plan. Here’s what you need to know:
 
-* **Immediate Benefits**: Membership benefits are applied immediately upon subscription. 🚀
-* **Payment Options**: You can choose to pay either monthly or annually. 💳
-* **More info**: You can also check out our pricing page for more information about our membership benefits. 📄
+* **Immediate Benefits**: Membership benefits are applied immediately upon subscription.
+* **Payment Options**: You can choose to pay either monthly or annually.
+* **More info**: You can also check out our pricing page for more information about our membership benefits.
 
 ***
 
-## Free Plan vs. Membership Plan  ⚖️
+## Free Plan vs. Membership Plan&#x20;
 
 <table><thead><tr><th width="217">Feature</th><th width="231">Free Plan</th><th>Membership Plan </th></tr></thead><tbody><tr><td><strong>Cost</strong> (Discount price)</td><td>$0/mo</td><td>$14/mo ($12/mo purchased annually)</td></tr><tr><td><strong>AI Side chat</strong></td><td>Basic</td><td>Basic / Premium / Special </td></tr><tr><td><strong>Credits</strong> /month</td><td>45 credits</td><td>135 monthly credits</td></tr><tr><td><strong>Maximum Containers</strong></td><td>2 containers</td><td>Unlimited containers</td></tr><tr><td><strong>GPU Containers</strong></td><td>Included</td><td>Included</td></tr><tr><td><strong>Storage</strong></td><td>5GB for free per container</td><td>30GB for free per container </td></tr><tr><td><strong>SSH Connectivity</strong></td><td>Not available</td><td>SSH connectable</td></tr><tr><td><strong>Custom Domains</strong></td><td>Not available</td><td>2 custom domains per container</td></tr></tbody></table>
 
 ***
 
-## Subscribing to Membership 📝
+## Subscribing to Membership
 
 You can subscribe to the Membership at any time from the **Payment page**. Follow these steps:
 
 1. **Navigate to the Payment Page**:
    1. You can access it through the **\[Get started with membership]** button on the **Billing page.**
    2. You can access it through the **\[Join membership]** button on the **Create container** and **Add Storage** popup.
-2. **Select Subscription Type**: Choose between a monthly or yearly subscription. 📅
-3. **Confirm Payment Amount**: Review the payment amount for your selected plan. ✔️
-4. **Enter Payment Information**: Fill in your payment details and click the **\[Start Membership]** button. 💳
+2. **Select Subscription Type**: Choose between a monthly or yearly subscription.&#x20;
+3. **Confirm Payment Amount**: Review the payment amount for your selected plan. ✔
+4. **Enter Payment Information**: Fill in your payment details and click the **\[Start Membership]** button.&#x20;
 
 ***
 
-## Managing Membership 📊
+## Managing Membership&#x20;
 
-* **View Subscription Information**: You can check your subscription details on the **Billing page**. 📋
+* **View Subscription Information**: You can check your subscription details on the **Billing page**.&#x20;
 
 ***
 
@@ -47,7 +47,7 @@ You can subscribe to the Membership at any time from the **Payment page**. Follo
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span>  Membership terms</summary>
+<summary>Membership terms</summary>
 
 
 

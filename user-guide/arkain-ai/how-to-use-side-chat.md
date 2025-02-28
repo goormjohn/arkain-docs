@@ -59,4 +59,4 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 
 ***
 
-With **Side Chat** in **Arkain**, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease! 🚀💻
+With **Side Chat** in **Arkain**, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease!&#x20;

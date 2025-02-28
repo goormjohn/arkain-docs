@@ -4,13 +4,13 @@ icon: coin-vertical
 
 # Credit
 
-## About Credits 💳
+## About Credits
 
 Credits are the currency required for using containers. When you use containers, credits are deducted. Here’s what you need to know:
 
 * **Price per Credit**: **$0.02**&#x20;
 
-### **Conditions for Credit Deductions ⚠️**
+### **Conditions for Credit Deductions**
 
 Credits are deducted under the following conditions:
 
@@ -42,11 +42,11 @@ You can monitor your **real-time credit usage** on the **Home or Dashboard page.
 
 ***
 
-## 🔢 **Calculate Your Credit Usage** 🚀
+## **Calculate Your Credit Usage**
 
-Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently. ⚡
+Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently.&#x20;
 
-You can check the **Credit Calculator** on the **Pricing Page** or **Payment Page** to get a detailed estimate and ensure you're only using what you need! 💰
+You can check the **Credit Calculator** on the **Pricing Page** or **Payment Page** to get a detailed estimate and ensure you're only using what you need!&#x20;
 
 * The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
 * You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
@@ -55,7 +55,7 @@ You can check the **Credit Calculator** on the **Pricing Page** or **Payment Pag
 
 ***
 
-## Purchasing Credits 🛍️
+## Purchasing Credits
 
 You can purchase credits as needed on the **Payment page**. \
 Follow these steps to charge credits:
@@ -74,7 +74,7 @@ Follow these steps to charge credits:
 
 ***
 
-## Managing Credits 📋
+## Managing Credits
 
 * **Check Purchased Credits**: You can view the amount of credits you've purchased on the **Billing page**.&#x20;
 * **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently.&#x20;
@@ -82,14 +82,14 @@ Follow these steps to charge credits:
 
 ***
 
-## How Credits Are Calculated 🔍
+## How Credits Are Calculated
 
 This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
 
-1. **Duration**: Assumes **720 hours** per month and does not account for leap years. ⏲️
-2. **Promotional Credits**: Does not include promotional credits or discounts. 🎉
-3. **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour). ⚠️
-4. **Currency**: Forecasts are based on a fixed exchange rate. 💱
+1. **Duration**: Assumes **720 hours** per month and does not account for leap years.&#x20;
+2. **Promotional Credits**: Does not include promotional credits or discounts.
+3. **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
+4. **Currency**: Forecasts are based on a fixed exchange rate.
 
 ### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 
@@ -112,7 +112,7 @@ This is a forecasting tool that provides an approximate cost based on your speci
 
 <details>
 
-<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4d6">📖</span>  Credit terms</summary>
+<summary>Credit terms</summary>
 
 
 

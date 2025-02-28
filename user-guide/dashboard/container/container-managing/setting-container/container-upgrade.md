@@ -4,7 +4,7 @@ icon: container-storage
 
 # Container Upgrade
 
-## 🚀 Container **Performance and Storage Management**
+## Container **Performance and Storage Management**
 
 Arkain provides flexible options to enhance container performance and storage capacity. Here's how you can manage these features:
 
@@ -12,7 +12,7 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ***
 
-### **⚡ Upgrade Container Performance**
+### **Upgrade Container Performance**
 
 * You can **boost your container’s resources** (such as CPU and memory) directly from the **settings page**.
 * Upgrading performance is ideal for handling larger workloads or improving application efficiency.
@@ -22,7 +22,7 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ***
 
-## **💾 Add Container Storage**
+## **Add Container Storage**
 
 <figure><img src="../../../../../.gitbook/assets/2025-02-013.29.03-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Arkain provides flexible options to enhance container performance and storage ca
 **Adding 1GB** of storage equals **0.018432 credits** ($0.00037) per hour.
 {% endhint %}
 
-## 📢 **Additional Traffic Charges**
+## **Additional Traffic Charges**
 
 {% hint style="warning" %}
 For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charged. ⚡

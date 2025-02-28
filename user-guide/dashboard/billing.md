@@ -14,16 +14,16 @@ The **Billing Page** on the Arkain Dashboard is where you can manage all your pa
 
 ## **How to Use the Billing Page**
 
-1. **💰 Check your Current Credit Balance**
+1. **Check your Current Credit Balance**
    * Current Credit Balance shows you how many credits you currently have available.&#x20;
    * You can see at a glance the paid credits you purchased and the credits you received for free during the month, and check the regular recharge date for free credits.&#x20;
    * You can set whether to receive email notifications related to credits.&#x20;
    * Buy Credits: If your balance is low, you can quickly add credits by clicking the **\[Buy credit]** button! Just select the amount you want to purchase and complete the transaction.&#x20;
-2. **🔄 Subscribe to a Membership Plan**
+2. **Subscribe to a Membership Plan**
    * In the **Membership Plan section**, you can do the following:
      1. If you are on the **Free plan**, you can subscribe to the **Membership plan** to enjoy additional features and benefits.
      2. If you are on the **Membership plan**, you can view the subscription information for the plan you are subscribed to.
-3. **🧾 Purchase history**
+3. **Purchase history**
    * **Credit History**&#x20;
      * View your credit purchase history and get a refund for unused credits.
      * View your free credit history and check the expiration date.

@@ -4,7 +4,7 @@ icon: eggplant
 
 # Quickstart
 
-## **How to Use Arkain in 1 Minute** 🚀
+## **How to Use Arkain in 1 Minute**&#x20;
 
 With just a few clicks, you can set up your development environment and start developing with the powerful features of Arkain. Here’s a quick guide to get started.
 
@@ -57,6 +57,6 @@ Once the container is running, your **Arkain's Workspace** will open, and you’
 
 ***
 
-## **Congratulations! 🎉**
+## **Congratulations!**&#x20;
 
 You’ve successfully created your first development environment in Arkain. You can now enjoy all the benefits of an optimized, Cloud Development Environments. Repeat the steps to create additional environments as needed.

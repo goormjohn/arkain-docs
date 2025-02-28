@@ -6,7 +6,7 @@ icon: circle-chevron-right
 
 <figure><img src="../.gitbook/assets/02014-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-## Introducing Arkain: The Future of **Cloud Development Environments** 🌐💻
+## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
 
 Arkain is a **Cloud Development Environments (CDEs)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Node.js, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
 
@@ -14,7 +14,7 @@ Arkain is a **Cloud Development Environments (CDEs)** designed to simplify and e
 
 ## **Key Features of Arkain**
 
-### 1. **Seamless Setup for Any Language 🚀**
+### 1. **Seamless Setup for Any Language**&#x20;
 
 With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**.&#x20;
 
@@ -24,7 +24,7 @@ Additionally, it offers a **blank** stack with only the Ubuntu OS installed, all
 
 Arkain also specializes in AI by offering **GPU**-optimized development environments tailored for AI-related projects.
 
-### 2.  **Seamless Real-Time Collaboration** 🤝
+### 2.  **Seamless Real-Time Collaboration**&#x20;
 
 Arkain empowers developers to work together effortlessly with:
 
@@ -33,13 +33,13 @@ Arkain empowers developers to work together effortlessly with:
 
 ***
 
-### 3. **Templates: Jumpstart Your Projects 🌟**
+### 3. **Templates: Jumpstart Your Projects**&#x20;
 
 Leverage **user-generated templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
 
 ***
 
-### 4. **AI-Powered Assistance with Side Chat** 🤖
+### 4. **AI-Powered Assistance with Side Chat**&#x20;
 
 Arkain’s **Side Chat**, powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
 
@@ -49,6 +49,6 @@ Arkain’s **Side Chat**, powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)*
 
 ***
 
-## **Experience the Future of Software Development with Arkain!**&#xD83C;�
+## **Experience the Future of Software Development with Arkain!**
 
 Arkain empowers developers to code smarter, collaborate better, and deploy faster. Whether you're working on solo projects or with a global team, Arkain provides the tools and environment needed to make your development process efficient and seamless.

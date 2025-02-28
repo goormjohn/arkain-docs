@@ -15,11 +15,11 @@ layout:
 
 # Arkain Documentation
 
-## **Step into Arkain: The Future of Cloud Development** 🚀&#x20;
+## **Step into Arkain: The Future of Cloud Development**&#x20;
 
 [**Arkain**](https://arkain.io) is a cutting-edge **Cloud Development Environments (CDEs)** designed for seamless and efficient coding. Whether you're crafting a **frontend web app**, developing with **Node.js**, or diving into the **JavaScript ecosystem**, Arkain has you covered.
 
-### **Supercharge Your Workflow with AI Code Assistance**💡&#x20;
+### **Supercharge Your Workflow with AI Code Assistance**
 
 Arkain isn't just a coding platform—it’s your **intelligent coding companion**. With an **AI-powered Code Assistant**, you can:
 
@@ -27,7 +27,7 @@ Arkain isn't just a coding platform—it’s your **intelligent coding companion
 * **Auto-complete functions** and optimize your code.
 * Collaborate effortlessly with AI to **write, debug, and refine** your projects.
 
-Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today! 🚀
+Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today!&#x20;
 
 <figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

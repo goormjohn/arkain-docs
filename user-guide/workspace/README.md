@@ -18,7 +18,7 @@ Arkain's **Workspace** is an IDE environment designed to help you efficiently de
 
 The Menu bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-* The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and project properties, New Terminal Window.
+* The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button (1).png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and project properties, New Terminal Window.
 
 <figure><img src="../../.gitbook/assets/Workspace_03 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,7 +12,7 @@ There are two ways to share containers:
 
 ### 1. **Share with Members**
 
-<figure><img src="../../../../../.gitbook/assets/스크린샷 2025-02-24 오후 3.53.04.png" alt="" width="513"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/share_01.png" alt=""><figcaption></figcaption></figure>
 
 1. **Enter the email address** of the user you want to invite to the container.
    * The user's email **must be the email registered with Arkain.**

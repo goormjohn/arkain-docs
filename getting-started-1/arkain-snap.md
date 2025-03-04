@@ -2,7 +2,7 @@
 icon: eggplant
 ---
 
-# Quickstart
+# Arkain Snap
 
 ## **How to Use Arkain in 1 Minute**&#x20;
 
@@ -16,7 +16,7 @@ With just a few clicks, you can set up your development environment and start de
 
 The [**Dashboard**](https://arkain.io/my/dashboard) is a centralized space where you can create, manage, and delete containers. Create a new development environment here.
 
-<figure><img src="../.gitbook/assets/내용-1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/내용 (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

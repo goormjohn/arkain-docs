@@ -18,11 +18,13 @@ Local environment variables are variables that can be used only in specific comm
 
 #### ➡️ in Container Settings Page
 
-<figure><img src="../../../../.gitbook/assets/Environment Variables_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Environment Variables_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➡️ in Workspace
 
 You can use environment variables in terminals using the following command:
+
+
 
 <pre class="language-sh"><code class="lang-sh"><strong>$ export ${key}=${value}
 </strong></code></pre>

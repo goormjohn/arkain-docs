@@ -6,7 +6,7 @@ icon: container-storage
 
 Click![](<../../../../../.gitbook/assets/스크린샷 2025-02-24 오후 1.32.16.png>) button in the Container Card. You can go to the container **settings page.**
 
-<figure><img src="../../../../../.gitbook/assets/02012-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Setting.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

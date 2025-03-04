@@ -94,6 +94,10 @@ Please note that **only one Temporary save is possible.**
 
 ***
 
+###
+
+<figure><img src="../../.gitbook/assets/template_04.png" alt=""><figcaption></figcaption></figure>
+
 ### **4.** Create a Template.
 
 * The template creation process is complete. Please review the content you've written, and if everything is correct, click the **\[Create]** button.
@@ -117,7 +121,7 @@ If your template **fails to create**:
 
 1. **Click your failed template.**
 2. **Check fail reasons**&#x20;
-   1. If a file contained in the container is causing the issue, click the ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 10.16.23.png>) button to run the container and resolve the issue.
+   1. If a file contained in the container is causing the issue, click the  ![](../../.gitbook/assets/run_container.png) button to run the container and resolve the issue.
    2. If you are having trouble solving the problem, please contact us.
 3. If you have resolved the cause, Click the **\[Re-create]** button.
 {% endhint %}

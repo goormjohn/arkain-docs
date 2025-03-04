@@ -4,7 +4,7 @@ icon: coin-front
 
 # Credit Usage
 
-<figure><img src="../../.gitbook/assets/Usage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Usage (1).png" alt=""><figcaption></figcaption></figure>
 
 You can check your credit usage by clicking **\[View credit usage]** button at the right of the dashboard.
 
@@ -14,7 +14,7 @@ You can check your credit usage by clicking **\[View credit usage]** button at t
 
 The **Credit Usage page** provides an overview of your current credit consumption and detailed resource usage. Below is a description of each section:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Usage_01.png" alt=""><figcaption></figcaption></figure>
 
 ### **1. Total Usage**
 
@@ -27,7 +27,7 @@ The **Credit Usage page** provides an overview of your current credit consumptio
   * **Storage**: Credits consumed storage capacity allocated to the container.
   * **Traffic**: Credits used for data transfer and traffic.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Usage_02.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Usage per container
 

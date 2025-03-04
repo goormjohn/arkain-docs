@@ -4,7 +4,7 @@ icon: coin-front
 
 # Credit Usage
 
-<figure><img src="../../.gitbook/assets/2025-02-013.44.33-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Usage.png" alt=""><figcaption></figcaption></figure>
 
 You can check your credit usage by clicking **\[View credit usage]** button at the right of the dashboard.
 

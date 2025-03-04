@@ -8,7 +8,9 @@ icon: sidebar
 
 Creating a template in the **Template Community** allows you to share your project setup with others and make development faster and easier. Here’s how to create and share your own template:
 
-<figure><img src="../../.gitbook/assets/ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/template.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -23,10 +25,14 @@ Please note that Arkain's template content only supports English.
 There are three ways to create it:
 
 * Click the **\[Create template]** button on the Template page.
-* Click the **\[More(**![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png>)**)] > \[Publish to template]** button on the Container card within the **Dashboard** **page**.
+* Click the **\[More(**<img src="../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png" alt="" data-size="line">**)] > \[Publish to template]** button on the Container card within the **Dashboard** **page**.
 * Click the \[Publish] button located at the top of the **Workspace**.
 
 ***
+
+###
+
+<figure><img src="../../.gitbook/assets/template_02.png" alt=""><figcaption></figcaption></figure>
 
 ### **2. Fill in Template Details**
 
@@ -71,6 +77,10 @@ Please note that **only one Temporary save is possible.**
 
 
 ***
+
+
+
+<figure><img src="../../.gitbook/assets/template_03.png" alt=""><figcaption></figcaption></figure>
 
 ### **3. D**etailed description of the template.
 

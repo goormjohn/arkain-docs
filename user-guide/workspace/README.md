@@ -6,28 +6,30 @@ icon: square-check
 
 Arkain's **Workspace** is an IDE environment designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The key area terms of the Workspace are as follows.
 
-<figure><img src="../../.gitbook/assets/Workspace_01 (2).png" alt=""><figcaption><p>Studio layout</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## 1. Menu bar <a href="#menu-bar" id="menu-bar"></a>
 
-<figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption><p>Menu bar</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_02 (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption></figcaption></figure>
 
 The Menu bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
 * The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and project properties, New Terminal Window.
 
-<figure><img src="../../.gitbook/assets/Workspace_03 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_03 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The **\[Save]** button(<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) allows you to save the open file, save as a new name, or save all files.
 * The **\[Preview]** button(![](../../.gitbook/assets/preview.png)) allows users to preview their project within the workspace or in a new tab or workspace. It also provides options for configuring the execution URL and port settings.
 
-<div align="center"><figure><img src="../../.gitbook/assets/Workspace_04 (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Workspace_04 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The **\[Run]** button (<img src="../../.gitbook/assets/run.png" alt="" data-size="line">) allows users to manage and execute custom run commands they have written.
 
-<figure><img src="../../.gitbook/assets/Workspace_05 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_05 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The **\[Publish]** (<img src="../../.gitbook/assets/publish.png" alt="" data-size="line">) button deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
 * Clicking the **\[Exit Container]** button (<img src="../../.gitbook/assets/exit.png" alt="" data-size="line">) will exit the workspace. The container execution will stop upon exit.
@@ -121,15 +123,15 @@ You can share your container with others to collaborate or showcase your project
 
 Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), and access help.
 
-<div align="center"><figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Workspace_07 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### ![](../../.gitbook/assets/arkain_activitybar_icon_preference.png) \[Preference]&#x20;
+#### &#x20;<img src="../../.gitbook/assets/preference.png" alt="" data-size="line">Preference : You can open the **project settings modal**.
 
 You can open the project settings modal. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as AI auto-completion.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_09.png" alt=""><figcaption></figcaption></figure>
 
-#### ![](../../.gitbook/assets/credit.png) [\[Credit\]](../../credit-and-membership/credit.md)
+#### ![](../../.gitbook/assets/avatar.png) Profile and Container Info : You can navigate to the page where you can manage your **member profile** and **container information**.
 
 You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
 
@@ -137,7 +139,7 @@ You can check the available credits along with Container usage time, Estimated u
 
 You can navigate to the page where you can manage your member profile and container information.
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="269"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Workspace_10.png" alt=""><figcaption></figcaption></figure></div>
 
 * **Profile** : You can navigate to the Profile Settings page to edit your profile information.
 * **Container Info** : You can navigate to the Container Settings page to configure detailed container settings.

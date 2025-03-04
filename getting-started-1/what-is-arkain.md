@@ -4,7 +4,9 @@ icon: circle-chevron-right
 
 # What is Arkain?
 
-<figure><img src="../.gitbook/assets/02014-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/bg (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
 

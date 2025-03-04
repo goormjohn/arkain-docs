@@ -62,8 +62,8 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 
 * If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
 
-{% content-ref url="init-script.md" %}
-[init-script.md](init-script.md)
+{% content-ref url="../../../container-managing/configuring-container/init-script.md" %}
+[init-script.md](../../../container-managing/configuring-container/init-script.md)
 {% endcontent-ref %}
 
 ### **6. URL/Port**
@@ -75,8 +75,8 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 * Environment variables are defined as key-value pairs and can be used to store database credentials, API keys, and other sensitive information for applications.&#x20;
 * By using environment variables, programs can be executed according to the environment without changing the source code, and sensitive security keys do not need to be stored directly in configuration files, enhancing security.
 
-{% content-ref url="environment-variable.md" %}
-[environment-variable.md](environment-variable.md)
+{% content-ref url="../../../container-managing/configuring-container/environment-variables.md" %}
+[environment-variables.md](../../../container-managing/configuring-container/environment-variables.md)
 {% endcontent-ref %}
 
 ### **8. Delete this container**

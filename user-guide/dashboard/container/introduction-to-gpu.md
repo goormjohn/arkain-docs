@@ -14,8 +14,10 @@ icon: microchip
 _Please remind that you can use max. 12 hours a day depending on the GPU resources in the cloud._&#x20;
 
 You can check the usage time of the NVIDIA Tesla T4 container on the dashboard.\
-![](<../../../.gitbook/assets/스크린샷 2025-02-11 오후 4.05.51.png>)
+
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/GPU_container.png" alt=""><figcaption></figcaption></figure>
 
 ### **GPU Storage Billing Policy**
 

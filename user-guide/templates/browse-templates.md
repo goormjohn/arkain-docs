@@ -35,7 +35,7 @@ The **Templates page** is where you can view and explore all the templates you h
 
 ### What is Arkain's official template?
 
-If you look through the templates, you will see templates with ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 11.03.46.png>) icon attached.&#x20;
+If you look through the templates, you will see templates with ![](../../.gitbook/assets/CertificateIcon.png)icon attached.&#x20;
 
 These are templates that Arkain provides and produces, and as described, packages/modules for environment configuration are automatically installed and executed.
 

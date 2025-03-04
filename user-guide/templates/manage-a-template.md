@@ -71,7 +71,7 @@ If you want to change the container, we recommend **creating a new template.**
 There are two ways to delete:
 
 1. Delete from **Template card**
-   1. Click the ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 10.57.29.png>) button above your **Template card** on your **Dashboard page** or **Profile page**.
+   1. Click the ![](../../.gitbook/assets/delete.png) button above your **Template card** on your **Dashboard page** or **Profile page**.
 2. Go to your specific **Template page** and delete
    1. Click the **\[Delete]** button located at the top right of your specific **Template page.**
 3. Confirm the deletion in the pop-up window.

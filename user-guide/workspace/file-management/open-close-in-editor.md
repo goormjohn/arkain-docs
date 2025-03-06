@@ -18,7 +18,7 @@ Alternatively, press the default shortcut <kbd>**Ctrl**</kbd>**&#x20;+&#x20;**<k
 
 Depending on the file's extension, it may open in the default editor, or it may open in a document viewer. Some unsupported file extensions cannot be opened.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FYmeoTDaKVTWHoOhGUAz8%252Fimage.png%3Falt%3Dmedia%26token%3D264eaf40-8e19-46f7-a42e-2343caaf0176&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4906b044&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/open_01.png" alt=""><figcaption></figcaption></figure>
 
 ### Vim Editor <a href="#vim-editor-vim" id="vim-editor-vim"></a>
 
@@ -36,5 +36,5 @@ Files opened in the Editor section can be closed by clicking the **\[X]** button
 
 You can also right-click a file tab in the Editor section and select \[**Close]** to close that specific file tab. Selecting **\[Close All]** will close all open file tabs.
 
-<figure><img src="../../../.gitbook/assets/arkain_close.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/close_01.png" alt=""><figcaption></figcaption></figure>
 

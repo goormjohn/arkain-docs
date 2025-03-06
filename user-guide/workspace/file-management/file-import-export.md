@@ -14,7 +14,7 @@ Upload a file from your computer to Arkain. Files with special characters other 
 
 ❷ In the Import File pop-up window, upload the file, select the desired location, and click the **\[OK]** button to upload it.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Import_01.png" alt=""><figcaption></figcaption></figure>
 
 ## **2. Export File** <a href="#export-file" id="export-file"></a>
 
@@ -26,7 +26,9 @@ You can download Arcane's project files to your local system using the **Export 
 
 
 
-<div><figure><img src="../../../.gitbook/assets/스크린샷 2025-02-26 오후 8.35.50.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/스크린샷 2025-02-26 오후 8.35.26.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Import_02.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Import_03.png" alt=""><figcaption></figcaption></figure>
 
 ## **3. Export Folder** <a href="#export-folder" id="export-folder"></a>
 

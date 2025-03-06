@@ -8,7 +8,7 @@ icon: eggplant
 
 With just a few clicks, you can set up your development environment and start developing with the powerful features of Arkain. Here’s a quick guide to get started.
 
-<figure><img src="../.gitbook/assets/내용 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GitHub_01 (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

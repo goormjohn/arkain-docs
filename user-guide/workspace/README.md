@@ -61,7 +61,7 @@ The **\[Project button]** is opens the Project Sidebar area. The project sidebar
 
 You can click to open documents like the Readme, which contains project descriptions, or source code.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project_sidebar.png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
@@ -78,7 +78,7 @@ Click the \[**+] button** to create new **files, folders** and sub projects with
 
 Right-click on a file to access all available file-related features, including renaming, deleting, moving, and more!&#x20;
 
-<div><figure><img src="../../.gitbook/assets/스크린샷 2025-02-25 오후 8.18.52.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2025-02-25 오후 8.19.08.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/Right-Click for File Actions.png" alt=""><figcaption></figcaption></figure>
 
 
 

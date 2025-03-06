@@ -17,8 +17,6 @@ Enter the execution command in the script, then tap the **Run in the background*
 
 command tap > Run > click right on wanted run command > setting > **check Run in the background** > Save and run
 
-![image alt text](https://mkdocs-mxedr.run.goorm.site/assets/images/How-to-run-as-background-process.en_62.png)
-
 ## **2. Use nohup** command <a href="#id-2-use-nohup-command" id="id-2-use-nohup-command"></a>
 
 ### **1. How to run**

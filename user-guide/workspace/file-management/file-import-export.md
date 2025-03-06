@@ -37,7 +37,7 @@ Download a folder from Arkain to your computer. To download:
 ❶ Right-click on the desired file in the project sidebar and select **\[Export Folder]**.\
 ❷ Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2025-02-26 오후 8.43.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Export_02.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -51,4 +51,6 @@ Download a folder from Arkain to your computer. To download:
 
 ❹ Open the **Sharing URL** in a web browser to view the shared file in the cloud code viewer.
 
-<div><figure><img src="../../../.gitbook/assets/스크린샷 2025-02-26 오후 8.51.24 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/share_1 (2).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Share File_01.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Share File_02.png" alt=""><figcaption></figcaption></figure>

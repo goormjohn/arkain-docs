@@ -52,11 +52,11 @@ If you want to use the copy/paste function on the terminal, you must allow the *
 
 When using this function, press Allow in the pop-up in the upper left corner of the browser.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FLMDPpv59RItmbJeqtKEt%252Fimage.png%3Falt%3Dmedia%26token%3De5273fec-6ea6-4b13-a8a6-c5795019a1af&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=76fcedec&#x26;sv=2" alt=""><figcaption><p>Pop-up that asks for clipboard permission.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mask group.png" alt=""><figcaption><p>Pop-up that asks for clipboard permission.</p></figcaption></figure>
 
 If the pop-up does not come out separately, you should check the following image to enter the site setting and allow clipboard permission.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FpgZqBryN6iJu2IE0ZPOa%252Fimage.png%3Falt%3Dmedia%26token%3D3900ef84-0e4b-46b9-8014-dfd23259020a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5123e6ec&#x26;sv=2" alt=""><figcaption><p>You can enter the site setting by pressing the left icon of the address bar.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mask group (1).png" alt=""><figcaption><p>You can enter the site setting by pressing the left icon of the address bar.</p></figcaption></figure>
 
 <figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FdASuJCgipkzFyv0NIyiv%252Fimage.png%3Falt%3Dmedia%26token%3D19c806e2-2d44-43de-919a-63315e704512&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=25dc619c&#x26;sv=2" alt=""><figcaption><p>In Site Settings, you must go to the permissions list and change the clipboard permission to Allow.</p></figcaption></figure>
 

@@ -36,14 +36,10 @@ And enter the domain to register starting from `www`, and upload the `crt` and `
 
 Set the DNS CNAME of Arkain on the domain management service page. You need to configure a different CNAME depending on the container's region.
 
-<mark style="color:red;">**\[ 수정예정임 ]**</mark>
-
-* <mark style="color:red;">Seoul: domain.run.goorm.io</mark>
-* <mark style="color:red;">Oregon: domain.run-us-west2.goorm.io</mark>
-* <mark style="color:red;">Frankfrut: domain.run-eu-central1.goorm.io</mark>
-* <mark style="color:red;">Mumbai: domain.run-ap-south1.goorm.io</mark>
-
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FvP6AkqKj5qiAciEuYMEc%252Fimage.png%3Falt%3Dmedia%26token%3D34786ad6-184f-4230-a7fd-ce270065cb3d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=eea36f2&#x26;sv=2" alt="" width="375"><figcaption></figcaption></figure>
+* **Seoul**: domain.run-ko-seoul1.arkain.site
+* **Oregon**: domain.run-us-west2.arkain.io
+* **Frankfrut**: domain.run-eu-central1.arkain.io
+* **Mumbai**: domain.run-ap-south1.arkain.io
 
 ### Accessing the Domain through browser <a href="#accessing-the-domain-through-browser" id="accessing-the-domain-through-browser"></a>
 

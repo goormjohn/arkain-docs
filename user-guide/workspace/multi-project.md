@@ -32,9 +32,9 @@ Please refer to [Build setting for each stack](https://help.goorm.io/en/goormide
 
 ### Git integration <a href="#git-integration" id="git-integration"></a>
 
-Click the **\[Register repository]** button on the Git sidebar, or click the **\[Directory settings]** icon (![](<../../.gitbook/assets/스크린샷 2025-02-10 오후 3.03.06.png>)) on the top right to display the Git sidebar. In the Git settings window, you can enter the **\[Directory Settings]** tab and select a folder to integrate Git. From here, you can select the desired subproject and connect the repository to use Git in the subproject.
+Click the **\[Register repository]** button on the Git sidebar, or click the **\[Directory settings]** icon (<img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">) on the top right to display the Git sidebar. In the Git settings window, you can enter the **\[Directory Settings]** tab and select a folder to integrate Git. From here, you can select the desired subproject and connect the repository to use Git in the subproject.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252Fa5Rr3flS7quNt3Lkhezy%252F%25EB%25A9%2580%25ED%258B%25B0%2520%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%252003_KR.png%3Falt%3Dmedia%26token%3Dace5449b-8c5c-4279-99d3-a5e48e1da806&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d67a3972&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/git_17.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Before setting the directory, you need to run `git init` or run **Git clone** on the **\[Repository Registration]** tab to get the Change button when you select the folder.

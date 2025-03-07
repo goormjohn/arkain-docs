@@ -15,7 +15,7 @@ The **AI code completion** feature is a convenient function that recommends code
 
 * Clicking the **\[AI code completion]** button at the bottom right of the workspace toggles the feature on or off. When the feature is enabled, the **\[AI code completion]** button appears purple.
 
-<figure><img src="../../.gitbook/assets/ai code completion.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Auto-complete_01.png" alt=""><figcaption></figcaption></figure>
 
 * In the ActivityBar → ![](<../../.gitbook/assets/new_setting (5).png>)Preferences → Editor → AI code completion → ??
 

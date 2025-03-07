@@ -48,6 +48,15 @@ Click the \[**New Container]** button at the top of the page. By using the short
 
 ***
 
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+### Step 4: Complete the initial project setup using Arkain Snap
+
+Enter the details you want to create in the prompt. Arkain Snap will quickly set up the project for you.\
+Or run the example project at the bottom of the prompt.
+
+***
+
 ### **Step 4: Run Your New Container**
 
 Click the **\[Run]** button to launch the newly created container.\

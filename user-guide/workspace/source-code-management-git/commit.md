@@ -4,12 +4,14 @@ icon: code-branch
 
 # Commit
 
-### Commits the selected files/folders to local storage.
+### Commits the staged files to local storage or a remote repository like GitHub
 
-Enter a commit message in the "Commit Message" window located at the bottom of the Git Sidebar, Click the \[**Commit to master]** button to commit. (The commit message is required.)
+Change the status of the files to staged files and write the commit message in the 'Commit message' at the bottom of the Git Sidebar.&#x20;
+
+Clicking the **\[Commit to master]** button will commit the staged files to the remote repository.
 
 <figure><img src="../../../.gitbook/assets/git_02.png" alt=""><figcaption></figcaption></figure>
 
-Committed files are deleted from the "Staged Files" list. If there are commits that have not been pushed, the **`Push`** button on the top right of the **\[Source Code Management]** layout is activated.
+Committed files are deleted from the Staged files list. If there are commits that have not been pushed, the **\[Push]** button on the top of the Git Sidebar is activated.
 
 <figure><img src="../../../.gitbook/assets/git_03.png" alt=""><figcaption></figcaption></figure>

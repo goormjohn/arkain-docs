@@ -4,7 +4,7 @@ icon: code-branch
 
 # Push
 
-Send commits from your local repository to the remote repository.
+The Push function allows you to commit to the remote repository.
 
 Use it to share your code with other users when all your coding work is complete. If you are anonymous, this command requires user authentication.
 

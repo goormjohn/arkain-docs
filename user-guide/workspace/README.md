@@ -86,7 +86,7 @@ Right-click on a file to access all available file-related features, including r
 
 It opens Git, a distributed version control system, in the sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/git_11 (3).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="source-code-management-git/git.md" %}
 [git.md](source-code-management-git/git.md)
@@ -111,7 +111,7 @@ Effortlessly track, revert, and replay your coding journey!&#x20;
 
 You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
 
-<figure><img src="../../.gitbook/assets/2025-02-012.55.22-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sourcecode_02.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="collaboration/contaienr-sharing.md" %}
 [contaienr-sharing.md](collaboration/contaienr-sharing.md)
@@ -172,7 +172,7 @@ By default, the terminal is available as the Terminal tab in the toggle Panel of
 
 You can open the Terminal in a new window by right-clicking on a folder or file in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-Lq-Q9LciN1X9EABxGkt%252F-LvyeWwXWpV1I5yFc4yF%252F-Lvykpz-psuBQia28h8J%252Fimage.png%3Falt%3Dmedia%26token%3Dbbc1e7b2-3716-40ea-b67b-4f4296bf3b13&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=739a5583&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Terminal_01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as `ufw`, `systemctl`, `docker`(docker in docker) cannot be used.
@@ -184,13 +184,13 @@ As a docker container-based service, Arkain does not support system privileges f
 
 The Search Panel displays search results for all documents within the project. When you change the search scope to 'Search All' in search or replace, the Search Panel will show keyword search results for each file.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오전 11.25.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search_01.png" alt=""><figcaption></figcaption></figure>
 
 ### Resource monitor Panel
 
 The resource monitor panel displays the usage of container resources such as CPU, memory, disk, and network in a graphical format.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-02-26 오후 12.50.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Resource_01.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -221,4 +221,6 @@ The lint information is only available in the Python container.
 * **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed.
 * **1:1 Support Chat** – Click to open a chat window for direct support.
 
-<figure><img src="../../.gitbook/assets/2025-02-013.07.18-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Auto-complete_01 (2).png" alt=""><figcaption></figcaption></figure>

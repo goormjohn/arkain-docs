@@ -15,7 +15,7 @@ You can access containers in Arkain from the outside using the SSH / Port Forwar
 You can SSH to the Arkain container from the outside.\
 Click **\[Container] > \[SSH Configuration]** on the top menu to open the **\[SSH Configuration]** pop-up window.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SSH Configuration_01.png" alt=""><figcaption></figcaption></figure>
 
 Click the copy icon to the right of the command and paste it from your local environment or other external instances shell.
 
@@ -25,7 +25,7 @@ Then enter your password.\
 If this is your first connection, click the _**Generate**_ button to generate a password. Click the copy icon on the right to copy it and paste it in the shell you want to SSH into.\
 The password that is issued is not stored anywhere.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SSH Configuration_02.png" alt=""><figcaption></figcaption></figure>
 
 Once you've been issued a password, you can use it for subsequent accesses.
 

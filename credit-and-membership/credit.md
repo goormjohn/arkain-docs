@@ -51,8 +51,6 @@ You can check the **Credit Calculator** on the **Pricing Page** or **Payment Pag
 * The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
 * You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
 
-<figure><img src="../.gitbook/assets/02011-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption><p>Calculate Credit Usage</p></figcaption></figure>
-
 ***
 
 ## Purchasing Credits

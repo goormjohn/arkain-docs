@@ -12,7 +12,9 @@ In the Project Sidebar on the right, press the **\[+]** icon and click the **\[N
 
 Enter the project name you want to use and click the **Create New Sub project** button to create a new project with the same environment as your existing project.
 
-<figure><img src="https://help.goorm.io/~gitbook/image?url=https%3A%2F%2F2181851870-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Lq-Q9LciN1X9EABxGkt%252Fuploads%252FU1ODFoxL4V1RAS6d4712%252Fimage.png%3Falt%3Dmedia%26token%3D539d86bd-a78a-44a0-8228-f2c9cbfa2cb7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=5f2e12b7&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Multi Project_01.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Multi Project_02.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sub projects can only have the same stack and the same templates as the main project.

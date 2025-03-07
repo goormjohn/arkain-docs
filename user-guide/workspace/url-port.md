@@ -18,7 +18,7 @@ The application's port number is necessary for registering a domain.
 
 ### Registering a sub domain <a href="#registering-a-domain" id="registering-a-domain"></a>
 
-Click on the **\[Preview]** (![](<../../.gitbook/assets/menubar_preview (1).png>))→ **\[Running URL and Port]** button in the menu bar of the workspace to open the sub domain settings modal. Here, you can register a new sub domain and view the list of registered sub domains.
+Click on the **\[Preview]** (<img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">)→ **\[Running URL and Port]** button in the menu bar of the workspace to open the sub domain settings modal. Here, you can register a new sub domain and view the list of registered sub domains.
 
 To register a new sub domain, enter the URL and port number you want in the input field, and click the **\[Register]** button. Note that for some software stacks, sub domains for default ports may already be registered.
 

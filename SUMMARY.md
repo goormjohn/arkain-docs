@@ -32,7 +32,7 @@
     * [Compress/Extract File](user-guide/workspace/file-management/compress-extract-file.md)
   * [Commands](user-guide/workspace/commands.md)
   * [Source Code Management Git](user-guide/workspace/source-code-management-git/README.md)
-    * [Git](user-guide/workspace/source-code-management-git/git.md)
+    * [Git Sidebar](user-guide/workspace/source-code-management-git/git-sidebar.md)
     * [Status](user-guide/workspace/source-code-management-git/status.md)
     * [Add](user-guide/workspace/source-code-management-git/add.md)
     * [Commit](user-guide/workspace/source-code-management-git/commit.md)

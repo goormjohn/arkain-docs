@@ -82,14 +82,14 @@ Right-click on a file to access all available file-related features, including r
 
 
 
-#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [\[Git\]](source-code-management-git/git.md) Sidebar
+#### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [\[Git\]](source-code-management-git/git-sidebar.md) Sidebar
 
 It opens Git, a distributed version control system, in the sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="source-code-management-git/git.md" %}
-[git.md](source-code-management-git/git.md)
+{% content-ref url="source-code-management-git/git-sidebar.md" %}
+[git-sidebar.md](source-code-management-git/git-sidebar.md)
 {% endcontent-ref %}
 
 <img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line"> [\[Source Code\]](./#source-code-sidebar) Sidebar

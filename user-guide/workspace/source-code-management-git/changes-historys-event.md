@@ -8,7 +8,7 @@ Check the revision status of the current project files/folders in the Changes, H
 
 ![](../../../.gitbook/assets/git_sidebar_tab.png)
 
-In the **Changes tab**, you can easily see whether a file is staged or unstaged at a glance. Click the + or trash can icon next to 'Unstaged files' to change the file status to staged or unstaged.
+In the **Changes tab**, you can easily see whether a file is staged or unstaged at a glance.&#x20;
 
 <figure><img src="../../../.gitbook/assets/git_01 (1).png" alt=""><figcaption></figcaption></figure>
 

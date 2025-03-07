@@ -4,8 +4,8 @@ icon: code-branch
 
 # Add
 
-When you edit a file/folder and save it, it will be automatically added to the "pre-stage files".
+When you add or modify a file/folder, it is automatically added to **Unstaged files**.
 
-Clicking the checkbox button in front of the file/folder name will move it to the **"Staged File"**. Conversely, if you want to move a staged file back to the pre-staged file, uncheck the box.
+Click the **\[+]** icon next to 'Unstaged files' to change the file status to staged or unstaged. You can also delete individual files or all files in that state by clicking the **trash can icon**.
 
 <figure><img src="../../../.gitbook/assets/git_01 (1).png" alt=""><figcaption></figcaption></figure>

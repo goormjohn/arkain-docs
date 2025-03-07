@@ -48,7 +48,7 @@ Click the \[**New Container]** button at the top of the page. By using the short
 
 ***
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Arkain Snap</p></figcaption></figure>
 
 ### Step 4: Complete the initial project setup using Arkain Snap
 

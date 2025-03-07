@@ -14,5 +14,11 @@ Clicking the **\[Git]**(<img src="../../../.gitbook/assets/image (37).png" alt="
 To use Arkain's distributed version control feature, a [GitHub](https://github.com/) account that supports Git repository hosting is required. GitHub is the most popular Git repository hosting service.
 {% endhint %}
 
+### Connecting to a GitHub remote repository
 
+❶ Click \[Register repository] in the Git sidebar. \
+❷ Select GitHub among Git, GitHub, and Bitbucket. \
+❸ Click \[GitHub Authorization] to link your GitHub account. \
+❹ Enter the repository name in \[Clone repository from] or select an existing repository from GitHub. \
+❺ If needed, fill in other required information and click \[Clone to repository].
 

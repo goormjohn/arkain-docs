@@ -2,7 +2,7 @@
 icon: code-branch
 ---
 
-# Git
+# Git Sidebar
 
 ### Use most Git commands through the GUI
 

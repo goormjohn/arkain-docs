@@ -10,9 +10,15 @@ Download files created in Arkain to your computer, or upload files from your com
 
 Upload a file from your computer to Arkain. Files with special characters other than Latin alphabets cannot be uploaded. To upload a file:
 
-❶ Right-click on an empty area in the Project sidebar and select **\[Import File]**.
+{% stepper %}
+{% step %}
+Right-click on an empty area in the Project sidebar and select **\[Import File]**.
+{% endstep %}
 
-❷ In the Import File pop-up window, upload the file, select the desired location, and click the **\[OK]** button to upload it.
+{% step %}
+In the Import File pop-up window, upload the file, select the desired location, and click the **\[OK]** button to upload it.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Import_01.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,11 +26,15 @@ Upload a file from your computer to Arkain. Files with special characters other 
 
 You can download Arcane's project files to your local system using the **Export File** feature.
 
-❶ Right-click on the desired file in the project sidebar and select **\[Export File]**.
+{% stepper %}
+{% step %}
+Right-click on the desired file in the project sidebar and select **\[Export File]**.
+{% endstep %}
 
-❷ Click **\[Yes]** to download the file to your local system.
-
-
+{% step %}
+Click **\[Yes]** to download the file to your local system.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Import_02.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,8 +44,15 @@ You can download Arcane's project files to your local system using the **Export 
 
 Download a folder from Arkain to your computer. To download:
 
-❶ Right-click on the desired file in the project sidebar and select **\[Export Folder]**.\
-❷ Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
+{% stepper %}
+{% step %}
+Right-click on the desired file in the project sidebar and select **\[Export Folder]**.
+{% endstep %}
+
+{% step %}
+Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Export_02.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,13 +60,23 @@ Download a folder from Arkain to your computer. To download:
 
 ## **4. Share File** <a href="#share-file" id="share-file"></a>
 
-❶ Right-click the file in the file tree and select \[Share This File].
+{% stepper %}
+{% step %}
+Right-click the file in the file tree and select **\[Share This File]**.
+{% endstep %}
 
-❷ Right-click on the file you want to share in the project sidebar and select **\[Share this File]**.
+{% step %}
+Right-click on the file you want to share in the project sidebar and select **\[Share this File]**.
+{% endstep %}
 
-❸ Choose one of the **Sharing Options**, copy the **Sharing URL**, and click **OK**.
+{% step %}
+Choose one of the **Sharing Options**, copy the **Sharing URL**, and click **OK**.
+{% endstep %}
 
-❹ Open the **Sharing URL** in a web browser to view the shared file in the cloud code viewer.
+{% step %}
+Open the **Sharing URL** in a web browser to view the shared file in the cloud code viewer.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Share File_01.png" alt=""><figcaption></figcaption></figure>
 

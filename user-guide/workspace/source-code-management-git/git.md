@@ -16,15 +16,27 @@ To use Arkain's distributed version control feature, a [GitHub](https://github.c
 
 ### Connecting to a GitHub remote repository
 
-❶ Click **\[Register repository]** in the Git sidebar.&#x20;
+{% stepper %}
+{% step %}
+Click **\[Register repository]** in the Git sidebar.&#x20;
+{% endstep %}
 
-❷ Select GitHub among Git, GitHub, and Bitbucket.&#x20;
+{% step %}
+Select GitHub among Git, GitHub, and Bitbucket.&#x20;
+{% endstep %}
 
-❸ Click **\[GitHub Authorization]** to link your GitHub account.&#x20;
+{% step %}
+Click **\[GitHub Authorization]** to link your GitHub account.&#x20;
+{% endstep %}
 
-❹ Select an existing repository from GitHub.&#x20;
+{% step %}
+Select an existing repository from GitHub.&#x20;
+{% endstep %}
 
-❺ If needed, fill in other required information and click **\[Clone to repository]**.
+{% step %}
+If needed, fill in other required information and click **\[Clone to repository]**.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2025-03-08 오후 1.33.10 (1).png" alt=""><figcaption></figcaption></figure>
 

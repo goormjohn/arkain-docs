@@ -65,7 +65,7 @@
     * [Container Specifications](user-guide/dashboard/container/container-specifications.md)
     * [Container Managing](user-guide/dashboard/container/container-managing/README.md)
       * [Creating Container](user-guide/dashboard/container/container-managing/creating-container.md)
-      * [Import Github Repos](user-guide/dashboard/container-managing/import-github-repos.md)
+      * [Import GitHub Repos](user-guide/dashboard/container-managing/import-github-repos.md)
       * [Setting Container](user-guide/dashboard/container/container-managing/setting-container/README.md)
         * [Init Script](user-guide/dashboard/container-managing/configuring-container/init-script.md)
         * [Environment Variable](user-guide/dashboard/container-managing/configuring-container/environment-variables.md)

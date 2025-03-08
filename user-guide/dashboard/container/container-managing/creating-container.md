@@ -11,15 +11,27 @@ Go to [Arkain Dashboard](https://arkain.io/my/dashboard), Click the **\[New Cont
 
 <figure><img src="../../../../.gitbook/assets/new_container.png" alt=""><figcaption></figcaption></figure>
 
-❶ Set Up a Container Stack. Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
+{% stepper %}
+{% step %}
+**Set Up a Container Stack**
 
-❷ Configure Template and OS. The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
+Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
+{% endstep %}
+
+{% step %}
+**Configure Template and OS**&#x20;
+
+The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
 
 {% hint style="info" %}
 The **NVIDIA Tesla T4** container stack is only available on **Ubuntu 20.04 LTS.**
 {% endhint %}
+{% endstep %}
 
-❸ **Set a Container Name.** Enter a name for your container.
+{% step %}
+**Set a Container Name**
+
+Enter a name for your container.
 
 {% hint style="warning" %}
 **Note**\
@@ -27,27 +39,35 @@ Container names **cannot be changed** once created and must only contain **lette
 
 Once the container is created, the container name cannot be changed.
 {% endhint %}
+{% endstep %}
 
-❹ Configure Container Specs. The available container specifications can be found on the following page.
+{% step %}
+**Configure Container Specs**
 
-{% content-ref url="../container-specifications.md" %}
-[container-specifications.md](../container-specifications.md)
-{% endcontent-ref %}
+You can check the available container specifications on [this page](https://docs.arkain.io/user-guide/dashboard/container/container-specifications).
+{% endstep %}
 
-❺ Configure Additional Storage.&#x20;
+{% step %}
+**Configure Additional Storage**
 
 * **Default:** 5GB / **Up to:** 200GB
 * **Free Plan**: 5GB for free
 * **Membership Plan**: 30GB for free
+{% endstep %}
+
+{% step %}
+**Activate Additional Modules/Packages**
+
+Install additional modules and packages during container creation to save time.
 
 {% hint style="warning" %}
-Note
+**Note**
 
 * Once upgraded, storage **cannot be downgraded.**
 * If you **exceed your free storage**, **additional charges** will apply based on your usage.
 {% endhint %}
-
-❻ Activate Additional Modules/Packages. Install additional modules and packages during container creation to save time.
+{% endstep %}
+{% endstepper %}
 
 ***
 

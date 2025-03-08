@@ -22,7 +22,7 @@ To use Arkain's distributed version control feature, a [GitHub](https://github.c
 
 ❸ Click **\[GitHub Authorization]** to link your GitHub account.&#x20;
 
-❹ Enter the repository name in **\[Clone repository from]** or select an existing repository from GitHub.&#x20;
+❹ Select an existing repository from GitHub.&#x20;
 
 ❺ If needed, fill in other required information and click **\[Clone to repository]**.
 

@@ -30,9 +30,13 @@ The **Dashboard** is where you can manage your development environments, created
 
 ## **How to Access Your Dashboard**
 
-❶ Log in to your Arkain account.
+{% stepper %}
+{% step %}
+Log in to your Arkain account.
+{% endstep %}
 
-❷ Navigate to the **Container Dashboard** section from the main menu.
+{% step %}
+Navigate to the **Container Dashboard** section from the main menu.
 
 {% hint style="info" %}
 ## **Tips for Managing Containers**
@@ -40,6 +44,8 @@ The **Dashboard** is where you can manage your development environments, created
 * **Organize Your Workspaces** : Give each container a clear and descriptive name to easily find them later.
 * **Clean Up Regularly** : Delete unused containers to keep your workspace tidy and efficient.
 {% endhint %}
+{% endstep %}
+{% endstepper %}
 
 ***
 

@@ -16,10 +16,23 @@ Source: BLACKDUCK's AppSec Decoded: Takeaways from the 2022 “[Software Vulnera
 
 In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With Arkain SBOM Manager you can;
 
-1. Quickly **track and respond to known and new vulnerabilities**.&#x20;
-2. Check the **latest component status**.&#x20;
-3. Check **licence compliance**.&#x20;
-4. Get **visibility** into your software.
+{% stepper %}
+{% step %}
+Quickly **track and respond to known and new vulnerabilities**.&#x20;
+{% endstep %}
+
+{% step %}
+Check the **latest component status**.&#x20;
+{% endstep %}
+
+{% step %}
+Check **licence compliance**.&#x20;
+{% endstep %}
+
+{% step %}
+Get **visibility** into your software.
+{% endstep %}
+{% endstepper %}
 
 ## Generate SBOM report
 

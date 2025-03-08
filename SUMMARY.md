@@ -33,7 +33,7 @@
   * [Commands](user-guide/workspace/commands.md)
   * [Source Code Management Git](user-guide/workspace/source-code-management-git/README.md)
     * [Git Sidebar](user-guide/workspace/source-code-management-git/git.md)
-    * [Changes, Historys, Event](user-guide/workspace/source-code-management-git/changes-historys-event.md)
+    * [Changes, Historys, Event tabs](user-guide/workspace/source-code-management-git/changes-historys-event-tabs.md)
     * [Add](user-guide/workspace/source-code-management-git/add.md)
     * [Commit](user-guide/workspace/source-code-management-git/commit.md)
     * [Push](user-guide/workspace/source-code-management-git/push.md)

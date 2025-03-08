@@ -38,16 +38,13 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ## **Additional Traffic Charges**
 
+The container's network traffic is provided for free up to 10GB per month. charged per GB when exceeded.
+
 {% hint style="warning" %}
-For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charged. ⚡
+For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charged.&#x20;
 {% endhint %}
-
-Plan your usage accordingly to **optimize costs** while using Arkain! 🚀
-
-***
 
 {% hint style="info" %}
 💡 **Tip**\
 Monitor your container's performance and storage needs regularly to ensure optimal usage and resource allocation.
 {% endhint %}
-

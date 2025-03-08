@@ -28,7 +28,7 @@ The email must be the one of a member who has registered on Arkain. You cannot s
 
 ❸ Users who access the container through the shared link will receive access to the container based on the shared link settings.
 
-### Sharing a Container from the Workspace <a href="#sharing-a-container-from-the-workspace" id="sharing-a-container-from-the-workspace"></a>
+### Sharing a Container from the Dashboard <a href="#sharing-a-container-from-the-workspace" id="sharing-a-container-from-the-workspace"></a>
 
 You can also share containers in [Arkain Dashboard](https://arkain.io/my/dashboard).
 

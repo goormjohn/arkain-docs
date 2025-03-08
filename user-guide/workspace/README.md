@@ -113,8 +113,8 @@ You can share your container with others to collaborate or showcase your project
 
 <figure><img src="../../.gitbook/assets/sourcecode_02.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="collaboration/contaienr-sharing.md" %}
-[contaienr-sharing.md](collaboration/contaienr-sharing.md)
+{% content-ref url="collaboration/container-sharing.md" %}
+[container-sharing.md](collaboration/container-sharing.md)
 {% endcontent-ref %}
 
 

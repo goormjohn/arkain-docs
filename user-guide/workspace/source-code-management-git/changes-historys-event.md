@@ -10,6 +10,4 @@ Check the revision status of the current project files/folders in the Changes, H
 
 In the **Changes tab**, you can easily see whether a file is staged or unstaged at a glance. In the **Historys tab**, you can view commit history, and in **Event tab**, you can check Git events.
 
-<figure><img src="../../../.gitbook/assets/git_01 (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/git_21.png" alt=""><figcaption></figcaption></figure>

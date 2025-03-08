@@ -42,7 +42,7 @@
     * [Ignore](user-guide/workspace/source-code-management-git/ignore.md)
     * [Diff](user-guide/workspace/source-code-management-git/diff.md)
   * [Collaboration](user-guide/workspace/collaboration/README.md)
-    * [Container Sharing](user-guide/workspace/collaboration/container-sharing.md)
+    * [Container Sharing](user-guide/workspace/collaboration/contaienr-sharing.md)
     * [Co-Editing](user-guide/workspace/collaboration/co-editing.md)
     * [Chatting](user-guide/workspace/collaboration/chatting.md)
   * [Build](user-guide/workspace/build/README.md)

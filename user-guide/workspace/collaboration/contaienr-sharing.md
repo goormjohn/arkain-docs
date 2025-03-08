@@ -1,4 +1,4 @@
-# Contaienr Sharing
+# Container Sharing
 
 You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
 
@@ -28,7 +28,9 @@ The email must be the one of a member who has registered on Arkain. You cannot s
 
 ❸ Users who access the container through the shared link will receive access to the container based on the shared link settings.
 
-#### You can also share containers in [Arkain Dashboard](https://arkain.io/my/dashboard).
+### Sharing a Container from the Workspace <a href="#sharing-a-container-from-the-workspace" id="sharing-a-container-from-the-workspace"></a>
+
+You can also share containers in [Arkain Dashboard](https://arkain.io/my/dashboard).
 
 {% content-ref url="../../dashboard/container/container-managing/setting-container/sharing-container.md" %}
 [sharing-container.md](../../dashboard/container/container-managing/setting-container/sharing-container.md)

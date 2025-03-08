@@ -30,7 +30,7 @@ There are two ways to share containers:
 
 #### Also, you can share a Container from the Workspace Settings
 
-{% content-ref url="../../../../workspace/collaboration/container-sharing.md" %}
-[container-sharing.md](../../../../workspace/collaboration/container-sharing.md)
+{% content-ref url="../../../../workspace/collaboration/contaienr-sharing.md" %}
+[contaienr-sharing.md](../../../../workspace/collaboration/contaienr-sharing.md)
 {% endcontent-ref %}
 

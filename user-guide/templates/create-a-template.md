@@ -16,13 +16,13 @@ Please note that Arkain's template content only supports English.
 
 {% stepper %}
 {% step %}
-### **Access the Template Creation Page**
+### **Access the** [**Templates**](https://arkain.io/template)
 
 There are three ways to create it:
 
-* Click the **\[Create template]** button on the Template page.
-* Click the **\[More(**<img src="../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png" alt="" data-size="line">**)] > \[Publish to template]** button on the Container card within the **Dashboard** **page**.
-* Click the \[Publish] button located at the top of the **Workspace**.
+* Click the **\[Create template]** button on the [Templates](https://arkain.io/template).
+* Click the **\[More]**(<img src="../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png" alt="" data-size="line">) → **\[Publish to template]** button on the Container card within the **Dashboard**.
+* Click the **\[Publish]** button located at the top of the Workspace.
 {% endstep %}
 
 {% step %}
@@ -32,17 +32,19 @@ There are three ways to create it:
 
 #### Select Your Container
 
-Select the container to publish as a template. Template creation in GPU containers is not yet supported.
+Select the container to publish as a template. GPU containers do not yet support template creation.
 
 #### **Enter Your Template Name**
 
-Write a name that will make your template stand out. We recommend that the name clearly reflect the purpose or technology being used (e.g., "React Starter Template" or "Python Flask API").
+Write a name that will make your template stand out. We recommend that the name clearly reflect the purpose or technology being used.\
+&#xNAN;_&#x65;.g., "React Starter Template" or "Python Flask API"_
 
 #### **Description**
 
 Provide a detailed description of your template
 
-* Specific use cases (e.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API.").
+* Specific use cases.\
+  &#xNAN;_&#x65;.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API."_
 * Description can be up to 280 characters long.
 
 #### **Stack**
@@ -68,14 +70,14 @@ Please note that **only one Temporary save is possible.**
 {% endstep %}
 
 {% step %}
-### **D**etailed description of the template
+### Detailed description of the template
 
 Please provide a detailed description of your template. We recommend including the following:
 
 * **Overview**: Describe the main function or purpose of the template. Also add the intended audience, expected benefits, and examples of its use.
-* P**review**: Add preview images of the result screen, code structure, or key features after the template is run.
-* Features: List the Key Features.
-* Requirements: Lists the environment and tools required to run this template.
+* **Preview**: Add preview images of the result screen, code structure, or key features after the template is run.
+* **Features**: List the Key Features.
+* **Requirements**: Lists the environment and tools required to run this template.
 
 If it's difficult to write, please refer to the sample document provided on this page.
 
@@ -85,7 +87,7 @@ If it's difficult to write, please refer to the sample document provided on this
 {% step %}
 ### Create a Template
 
-The template creation process is complete. Please review the content you've written, and if everything is correct, click the **\[Create]** button.
+Please review the content you've written, and if everything is correct, click the **\[Create]** button.
 
 Before template creation begins, make sure the following is met:
 
@@ -113,8 +115,10 @@ If your template **fails to create**:
 3. If you have resolved the cause, Click the **\[Re-create]** button.
 {% endhint %}
 {% endstep %}
+{% endstepper %}
 
-{% step %}
+***
+
 ### **Best Practices for Template Creation**
 
 * **Keep it Clean and Simple**\
@@ -125,9 +129,5 @@ If your template **fails to create**:
   Ensure your template is fully functional and error-free.
 * **Keep it Updated**\
   Periodically update your template to reflect new features or framework versions.
-{% endstep %}
-{% endstepper %}
-
-***
 
 By creating a template, you contribute to a collaborative and efficient development community. Start building your template today and share your expertise with the world.

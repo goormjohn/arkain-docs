@@ -105,7 +105,7 @@ Once a container is deleted, it cannot be recovered.
 ***
 
 {% hint style="info" %}
-💡 **Tip**
+**Tip**
 
 Stopping containers when not in use saves resources, and deleting unused containers helps keep your workspace organized.&#x20;
 {% endhint %}

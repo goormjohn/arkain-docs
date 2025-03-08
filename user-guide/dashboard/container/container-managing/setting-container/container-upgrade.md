@@ -24,10 +24,6 @@ Arkain provides flexible options to enhance container performance and storage ca
 
 ## **Add Container Storage**
 
-<figure><img src="../../../../../.gitbook/assets/Add Container Storage_01.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../../../.gitbook/assets/Add Container Storage_02.png" alt=""><figcaption></figcaption></figure>
-
 * **Expand Your Storage**: Increase the storage capacity of your container when needed, ensuring you have enough space for your projects and files.
 * **Important Note**: Once a container's storage capacity is increased, it **cannot be reduced**. Plan your storage upgrades carefully to avoid unnecessary allocations.
 * **Membership Requirement**: Storage upgrades are only available for users with a **membership plan**.
@@ -35,6 +31,10 @@ Arkain provides flexible options to enhance container performance and storage ca
 {% hint style="warning" %}
 **Adding 1GB** of storage equals **0.018432 credits** ($0.00037) per hour.
 {% endhint %}
+
+<figure><img src="../../../../../.gitbook/assets/Add Container Storage_01.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../../.gitbook/assets/Add Container Storage_02.png" alt=""><figcaption></figcaption></figure>
 
 ## **Additional Traffic Charges**
 

@@ -37,7 +37,7 @@ You can set **Auto-off** from the Dashboard and Workspace.
 ## From Workspace <a href="#from-ide" id="from-ide"></a>
 
 * Click the **\[Auto-off]** (<img src="../../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) button in the bottom bar, and then click **\[Using feature]** in the popup window to enable the container's auto-off feature.
-* To turn off the feature, click the **\[Auto-off]** (<img src="../../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) button again and then click **\[Turn off the feature]** in the popup.
+* To turn off the feature, click the **\[Auto-off]** (<img src="../../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) button again.
 
 <figure><img src="../../../.gitbook/assets/automaticstop_01-1.png" alt=""><figcaption></figcaption></figure>
 

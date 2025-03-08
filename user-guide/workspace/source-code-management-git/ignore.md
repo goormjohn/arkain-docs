@@ -4,14 +4,12 @@ icon: code-branch
 
 # Ignore
 
-Are there files in your project that you don't want to version control? If so, use the Ignore command. You can make them no longer appear when the Status command is run.
+Adding a file to the Ignore will exclude it from version control in the project. Click the **Settings**(![](<../../../.gitbook/assets/스크린샷 2025-03-08 오후 2.07.18.png>)) button in the top right corner of Git Sidebar, select the **\[ignore list]** tab.
 
-Click the **'Settings'** button in the top right corner of Git Sidebar → **Source Code Management** (<img src="../../../.gitbook/assets/image (33).png" alt="" data-size="line">) and select the **\[ignore list]** tab.
+Specify the files you don't want Git to track here. The Ignore command is good for things like error logs or automatically generated files.&#x20;
 
-<figure><img src="../../../.gitbook/assets/git_05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Ignore_list.png" alt=""><figcaption></figcaption></figure>
 
-Specify the files you don't want Git to track here.
-
-<figure><img src="../../../.gitbook/assets/git_06.png" alt=""><figcaption></figcaption></figure>
-
-The Ignore command is good for things like error logs or automatically generated files. However, **if a file is already versioned by Git** (if it has been added to the repository)**, it will not be ignored.** Git already knows about it, so it can't ignore it.
+{% hint style="warning" %}
+**if a file is already versioned by Git** (if it has been added to the repository)**, it will not be ignored.** Git already knows about it, so it can't ignore it.
+{% endhint %}

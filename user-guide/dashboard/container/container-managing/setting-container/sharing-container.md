@@ -26,7 +26,7 @@ The user's email **must be the email registered with Arkain.**
 {% step %}
 **Select permissions** to access the container.
 
-<table><thead><tr><th width="241">Permission</th><th>Possible actions</th></tr></thead><tbody><tr><td>Readonly</td><td>-</td></tr><tr><td>Editable (non-root)</td><td>-</td></tr><tr><td>Editable (root)</td><td><ul><li>Configuring init script, URL/Port, Environment Variable</li></ul></td></tr><tr><td>Editable &#x26; sharable (root)</td><td><ul><li>Configuring init script, URL/Port, Environment Variable</li><li>Sharing Container</li><li>Changing member permissions</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="241">Permission</th><th>Possible actions</th></tr></thead><tbody><tr><td>Read</td><td><ul><li>Source code view</li></ul></td></tr><tr><td>Read/Write</td><td><ul><li>Source code view, <strong>edit</strong></li></ul></td></tr><tr><td>Root</td><td><ul><li>Source code view, edit</li><li><strong>Version control (Git)</strong></li><li><strong>Configuring init script</strong></li><li><strong>URL/Port</strong></li><li><strong>Environment Variable</strong></li></ul></td></tr><tr><td>Sharable (Root)</td><td><ul><li>Source code view, edit</li><li>Version control (Git)</li><li>Configuring init script</li><li>URL/Port</li><li>Environment Variable</li><li><strong>Sharing Container</strong></li><li><strong>Changing member permissions</strong></li></ul></td></tr></tbody></table>
 {% endstep %}
 
 {% step %}

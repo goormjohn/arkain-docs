@@ -8,7 +8,11 @@ icon: file-waveform
 
 A **Software Bill of Material** (SBOM) is a statement of all software information that is utilised by a developer to complete a software or service.&#x20;
 
-As the use of open source has expanded, the problem of security vulnerabilities has also grown worldwide. [In fact, a security vulnerability scan of 2,700 of softwares found security vulnerabilities in more than 95% of applications.](#user-content-fn-1)[^1]
+As the use of open source has expanded, the problem of security vulnerabilities has also grown worldwide. In fact, a security vulnerability scan of 2,700 of softwares found security vulnerabilities in more than 95% of applications.
+
+{% hint style="info" %}
+Source: BLACKDUCK's AppSec Decoded: Takeaways from the 2022 “[Software Vulnerability Snapshot](https://www.blackduck.com/blog/appsec-decoded-2022-software-vulnerability-snapshot-report-takeaways.html)” report
+{% endhint %}
 
 In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With Arkain SBOM Manager you can;
 
@@ -16,8 +20,6 @@ In response to this, **Arkain provides a function to** **generate and manage SBO
 2. Check the **latest component status**.&#x20;
 3. Check **licence compliance**.&#x20;
 4. Get **visibility** into your software.
-
-
 
 ## Generate SBOM report
 
@@ -27,6 +29,3 @@ In response to this, **Arkain provides a function to** **generate and manage SBO
 
 {% embed url="https://app.arcade.software/share/mVUWG7tPd3zTMAIONuO3" %}
 
-
-
-[^1]: Source: BLACKDUCK's AppSec Decoded: Takeaways from the 2022 “Software Vulnerability Snapshot” report

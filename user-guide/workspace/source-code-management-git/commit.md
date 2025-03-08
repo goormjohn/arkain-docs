@@ -8,9 +8,15 @@ description: >-
 
 # Commit
 
-❶ Change the status of the files to staged files and write the commit message in the 'Commit message' at the bottom of the Git Sidebar.&#x20;
+{% stepper %}
+{% step %}
+Change the status of the files to staged files and write the commit message in the 'Commit message' at the bottom of the Git Sidebar.&#x20;
+{% endstep %}
 
-❷ Clicking the **\[Commit to master]** button will record the changes of the staged files.
+{% step %}
+Clicking the **\[Commit to master]** button will record the changes of the staged files.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/git_sidebar_command.png" alt=""><figcaption></figcaption></figure>
 

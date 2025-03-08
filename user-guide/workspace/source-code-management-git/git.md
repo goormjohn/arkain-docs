@@ -26,3 +26,8 @@ To use Arkain's distributed version control feature, a [GitHub](https://github.c
 
 ❺ If needed, fill in other required information and click **\[Clone to repository]**.
 
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-08 오후 1.33.10 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+To change the directory connected to the repository, go to the **\[Directory Setting]** tab in the Git window and select a different directory.
+{% endhint %}

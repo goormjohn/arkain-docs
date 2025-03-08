@@ -4,8 +4,6 @@ icon: sidebar
 
 # Create a Template
 
-## How to Create a Template
-
 Creating a template allows you to share your project setup with others and make development faster and easier. Here’s how to create and share your own template:
 
 <figure><img src="../../.gitbook/assets/template.png" alt=""><figcaption></figcaption></figure>

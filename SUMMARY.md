@@ -73,7 +73,7 @@
         * [Sharing Container](user-guide/dashboard/container/container-managing/setting-container/sharing-container.md)
       * [Container Run / Stop / Delete](user-guide/dashboard/container/container-managing/container-run-stop-delete.md)
     * [Container Stacks](user-guide/dashboard/container/available-container-stacks.md)
-    * [Automatic Stop](user-guide/dashboard/container/automatic-stop.md)
+    * [Auto-off](user-guide/dashboard/container/auto-off.md)
     * [Introduction to GPU](user-guide/dashboard/container/introduction-to-gpu.md)
     * [Inactive Container](user-guide/dashboard/container-managing/inactive-container.md)
   * [Credit Usage](user-guide/dashboard/credit-usage.md)

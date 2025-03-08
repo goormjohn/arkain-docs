@@ -12,22 +12,22 @@ Click![](<../../../../../.gitbook/assets/스크린샷 2025-02-
 
 ### **1. Container Basics**
 
-* **Description**\
-  Add a description to provide context for what the container is used for. This is especially helpful for collaboration.
+Add a description to provide context for what the container is used for. This is especially helpful for collaboration.
 
 ### &#x32;**. Container info**
 
-* You can check various container information, such as the container's hardware specs including CPU, memory, and storage, as well as the container region, stack and OS.
+You can check various container information, such as the container's hardware specs including CPU, memory, and storage, as well as the container region, stack and OS.
 
 {% content-ref url="../../container-specifications.md" %}
 [container-specifications.md](../../container-specifications.md)
 {% endcontent-ref %}
 
-* You can also add storage capacity or change the container specs (CPU and memory).
-  * Add Storage
-    * **Default:** 5GB / **Up to:** 200GB
-    * **Free Plan**: 5GB for free
-    * **Membership Plan**: 30GB for free
+You can also add storage capacity or change the container specs (CPU and memory).
+
+* Add Storage
+  * **Default:** 5GB / **Up to:** 200GB
+  * **Free Plan**: 5GB for free
+  * **Membership Plan**: 30GB for free
 
 {% hint style="info" %}
 You can change settings after stopping the container.
@@ -51,16 +51,15 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 
 ### **4. Container status**
 
-* **Automatic container stop**\
-  Save resources by activating the auto-shutdown feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
+Save resources by activating the **Auto-off** feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
 
-{% content-ref url="../../automatic-stop.md" %}
-[automatic-stop.md](../../automatic-stop.md)
+{% content-ref url="../../auto-off.md" %}
+[auto-off.md](../../auto-off.md)
 {% endcontent-ref %}
 
 ### **5. Init Script**
 
-* If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
+If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
 
 {% content-ref url="../../../container-managing/configuring-container/init-script.md" %}
 [init-script.md](../../../container-managing/configuring-container/init-script.md)
@@ -68,12 +67,13 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 
 ### **6. URL/Port**
 
-* View and manage the unique URL and Port for accessing your running application directly from the browser. Port is crucial for ensuring your application or services can be accessed externally.
+View and manage the unique URL and Port for accessing your running application directly from the browser. Port is crucial for ensuring your application or services can be accessed externally.
 
 ### **7. Environment Variables**
 
-* Environment variables are defined as key-value pairs and can be used to store database credentials, API keys, and other sensitive information for applications.&#x20;
-* By using environment variables, programs can be executed according to the environment without changing the source code, and sensitive security keys do not need to be stored directly in configuration files, enhancing security.
+Environment variables are defined as key-value pairs and can be used to store database credentials, API keys, and other sensitive information for applications.&#x20;
+
+By using environment variables, programs can be executed according to the environment without changing the source code, and sensitive security keys do not need to be stored directly in configuration files, enhancing security.
 
 {% content-ref url="../../../container-managing/configuring-container/environment-variables.md" %}
 [environment-variables.md](../../../container-managing/configuring-container/environment-variables.md)
@@ -81,5 +81,5 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 
 ### **8. Delete this container**
 
-* You can delete the container by clicking the **\[Delete]** button on the container settings page.
+You can delete the container by clicking the **\[Delete]** button on the container settings page.
 

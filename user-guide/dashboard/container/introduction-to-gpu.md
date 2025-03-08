@@ -11,9 +11,7 @@ icon: microchip
 <table><thead><tr><th width="243">Type</th><th align="center">Specification</th></tr></thead><tbody><tr><td>vCPU</td><td align="center">3.5</td></tr><tr><td>Memory</td><td align="center">13GB</td></tr><tr><td>Container creation</td><td align="center">unlimited</td></tr><tr><td>Weekly usage hours</td><td align="center">unlimited</td></tr></tbody></table>
 
 {% hint style="warning" %}
-_Please remind that you can use max. 12 hours a day depending on the GPU resources in the cloud._&#x20;
-
-You can check the usage time of the NVIDIA Tesla T4 container on the dashboard.\
+**Please remind that you can use max. 12 hours a day depending on the GPU resources in the cloud.** You can check the usage time of the NVIDIA Tesla T4 container on the dashboard.\
 
 {% endhint %}
 

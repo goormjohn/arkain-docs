@@ -12,20 +12,18 @@ Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key ins
 | -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
 | Open File                        | <kbd>Cmd ⌘</kbd> + <kbd>O</kbd>                           | <kbd>Ctrl</kbd> + <kbd>O</kbd>                          |
 | Close                            | <kbd>option ⌥</kbd> + <kbd>X</kbd>                        | <kbd>Alt</kbd> + <kbd>X</kbd>                           |
-| Close All                        | <kbd>Shift ⇧</kbd> + <kbd>X</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>        |
-| Reopen Closed File               | <kbd>Shift ⇧</kbd> + <kbd>T</kbd>                         | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>T</kbd>         |
+| Close All                        | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>X</kbd>   | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>        |
+| Reopen Closed File               | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>T</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>T</kbd>         |
 | Save                             | <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>                           | <kbd>Ctrl</kbd> + <kbd>S</kbd>                          |
-| Save As                          | <kbd>Shift ⇧</kbd> + <kbd>S</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>       |
-| Save All                         | <kbd>Shift ⇧</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>      | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd>         |
-| Rename                           | <kbd>Shift ⇧</kbd> + <kbd>R</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>       |
-| Duplicate                        | <kbd>Shift ⇧</kbd> + <kbd>A</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>       |
-| Delete                           | <kbd>Shift ⇧</kbd> + <kbd>D</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>        |
-| Print                            | <kbd>Cmd ⌘</kbd> + <kbd>P</kbd>                           | <kbd>Ctrl</kbd> + <kbd>P</kbd>                          |
-| Auto Complete                    | <kbd>Cmd ⌘</kbd> + <kbd>space ␣</kbd>                     | <kbd>Ctrl</kbd> + <kbd>Space</kbd>                      |
-| Code Advisor                     | <kbd>Shift ⇧</kbd> + <kbd>I</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>       |
-| Auto Import                      | <kbd>Shift ⇧</kbd> + <kbd>O</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>       |
-| Go to Symbol (Workspace)         | <kbd>Shift ⇧</kbd> + <kbd>U</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>        |
-| Go to Symbol (File)              | <kbd>Shift ⇧</kbd> + <kbd>O</kbd>                         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>        |
+| Save As                          | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>S</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>       |
+| Save All                         | <kbd>Cmd ⌘</kbd> + <kbd>option ⌥</kbd> + <kbd>S</kbd>     | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>S</kbd>         |
+| Rename                           | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>R</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>       |
+| Delete                           | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>D</kbd>   | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>        |
+| Print                            | <kbd>Cmd ⌘</kbd> + <kbd>option ⌥</kbd> + <kbd>P</kbd>     | <kbd>Ctrl</kbd> + <kbd>P</kbd>                          |
+| Auto-complete                    | <kbd>Cmd ⌘</kbd> + <kbd>space ␣</kbd>                     | <kbd>Ctrl</kbd> + <kbd>Space</kbd>                      |
+| Auto Import                      | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>O</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>       |
+| Jump to Symbol (Workspace)       | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>U</kbd>   | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>        |
+| Jump to Symbol (File)            | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>O</kbd>   | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>        |
 | Undo                             | <kbd>Cmd ⌘</kbd> + <kbd>Z</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Z</kbd>                          |
 | Redo                             | <kbd>Cmd ⌘</kbd> + <kbd>Y</kbd>                           | <kbd>Ctrl</kbd> + <kbd>Y</kbd>                          |
 | Cut                              | <kbd>Cmd ⌘</kbd> + <kbd>X</kbd>                           | <kbd>Ctrl</kbd> + <kbd>X</kbd>                          |

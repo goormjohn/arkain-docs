@@ -6,19 +6,19 @@ icon: brackets-curly
 
 ### Domain <a href="#domain" id="domain"></a>
 
-A domain is an address that identifies a website or application on the internet, and Arkain provides default sub domains like `https://mydomain.dev-k8s.arkain.io/` for each container.
+A domain is an address that identifies a website or application on the internet, and Arkain provides default sub domains like `https://mydomain.arkain.io/` for each container.
 
 Therefore, there is no need to purchase a domain.
 
 ### Running your application <a href="#running-your-application" id="running-your-application"></a>
 
-Run your application by the command or thorugh the terminal. Verify if the application is running successfully through the terminal panel, and note the port number where the application is running.
+Run your application by the **\[Run]** button or thorugh the terminal. Verify if the application is running successfully through the terminal panel, and note the port number where the application is running.
 
 The application's port number is necessary for registering a domain.
 
 ### Registering a sub domain <a href="#registering-a-domain" id="registering-a-domain"></a>
 
-Click on the **\[Preview]** (<img src="../../.gitbook/assets/image (32).png" alt="" data-size="line">)→ **\[Running URL and Port]** button in the menu bar of the workspace to open the sub domain settings modal. Here, you can register a new sub domain and view the list of registered sub domains.
+Click on the **\[Preview]** → **\[Running URL and Port]** button in the menu bar of the workspace to open the sub domain settings modal. Here, you can register a new sub domain and view the list of registered sub domains.
 
 To register a new sub domain, enter the URL and port number you want in the input field, and click the **\[Register]** button. Note that for some software stacks, sub domains for default ports may already be registered.
 
@@ -26,7 +26,7 @@ You cannot register multiple domains with the same port number.
 
 ### Registering a Custom domain <a href="#registering-a-custom-domain" id="registering-a-custom-domain"></a>
 
-You can register your own domain instead of the sub domains provided by Arkain such as `mydomain.run.arkain.app`. A custom domain can be set in Arkain's dashboard by going to **\[Container Settings]**(![](<../../.gitbook/assets/new_setting (1).png>)) → **URL/Port section**, then clicking the **\[+ Add]** button and selecting **\[Custom domain].**
+You can register your own domain instead of the sub domains provided by Arkain such as `mydomain.run.arkain.app`. A custom domain can be set in Arkain's Dashboard by going to **\[Container Settings]**(![](<../../.gitbook/assets/new_setting (1).png>)) → **URL/Port section**, then clicking the **\[+ Add]** button and selecting **\[Custom domain].**
 
 And enter the domain to register starting from `www`, and upload the `crt` and `key` files. If the certificate has a password, include the password in a file and upload it.
 

@@ -14,7 +14,7 @@ Arkain provides multiple ways to manage your containers efficiently. Here's how 
 
 You can start your container from two locations:
 
-* **Dashboard**
+**Dashboard**
 
 {% stepper %}
 {% step %}
@@ -26,7 +26,7 @@ Click the **\[Run]** button on the container card to launch it.
 {% endstep %}
 {% endstepper %}
 
-* **Container Settings Page**
+**Container Settings Page**
 
 {% stepper %}
 {% step %}
@@ -44,7 +44,7 @@ Use the **\[Run]** button located at the top or in the settings interface to ini
 
 To stop a running container, you have two options:
 
-* **Dashboard**
+**Dashboard**
 
 {% stepper %}
 {% step %}
@@ -56,7 +56,7 @@ Click the **\[Stop]** button on the container card to terminate its operation.
 {% endstep %}
 {% endstepper %}
 
-* **Container Settings Page**
+**Container Settings Page**
 
 {% stepper %}
 {% step %}
@@ -74,7 +74,7 @@ Click the **\[Stop]** button to safely terminate the container.
 
 To delete a container, you can choose from the following methods:
 
-* **Dashboard**
+**Dashboard**
 
 {% stepper %}
 {% step %}
@@ -86,7 +86,7 @@ Click the **\[More(** ![](<../../../../.gitbook/assets/스크린ᄉ�
 {% endstep %}
 {% endstepper %}
 
-* **Container Settings Page**
+**Container Settings Page**
 
 {% stepper %}
 {% step %}

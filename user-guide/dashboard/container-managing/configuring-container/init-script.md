@@ -12,17 +12,16 @@ It is commonly used to write scripts that execute your application.
 
 ### How to use init script?
 
+{% stepper %}
+{% step %}
 You can navigate to the **Dashboard** and enter the **Container Settings** page.
+{% endstep %}
 
-In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. Once you're done writing, it will be saved automatically. And these commands will automatically run when the container starts.
+{% step %}
+In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. Once you're done writing, it will be saved automatically. And these commands will automatically run when the container starts.&#x20;
+{% endstep %}
+{% endstepper %}
 
 {% hint style="warning" %}
 **Script will run in the root path(/).**
 {% endhint %}
-
-
-
-
-
-
-

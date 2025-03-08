@@ -8,9 +8,15 @@ If you want, you can compress a folder within the project to save storage space.
 
 ## 1. Compress
 
-❶ Right-click on a folder in the project sidebar and select **\[Compress]**.
+{% stepper %}
+{% step %}
+Right-click on a folder in the project sidebar and select **\[Compress]**.
+{% endstep %}
 
-❷ Enter the compressed file name, select the extension, then click **\[OK]** to compress the folder.
+{% step %}
+Enter the compressed file name, select the extension, then click **\[OK]** to compress the folder.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Compress_01.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,12 +28,16 @@ Arcane only supports **ZIP**, **TAR**, and **TAR.GZ** compression formats.
 
 
 
-## 2. Extract File
+## 2. Extract File&#x20;
 
-❶ In the compressed file of the project sidebar, right-click and click **\[Extract File]**.
+{% stepper %}
+{% step %}
+In the compressed file of the project sidebar, right-click and click **\[Extract File]**.
+{% endstep %}
 
-❷ When you click the **\[Yes]** button in the popup, the files will be extracted.&#x20;
-
-You can also extract a compressed file by double-clicking it in the Project Sidebar.
+{% step %}
+When you click the **\[Yes]** button in the popup, the files will be extracted. You can also extract a compressed file by double-clicking it in the Project Sidebar.
+{% endstep %}
+{% endstepper %}
 
 <figure><img src="../../../.gitbook/assets/Extract_file_01.png" alt=""><figcaption></figcaption></figure>

@@ -48,6 +48,6 @@ Users who access the container through the shared link will receive access to th
 
 You can also share containers in [Arkain Dashboard](https://arkain.io/my/dashboard).
 
-{% content-ref url="../../dashboard/container/container-managing/setting-container/sharing-container.md" %}
-[sharing-container.md](../../dashboard/container/container-managing/setting-container/sharing-container.md)
+{% content-ref url="../../dashboard/container/container-managing/container-settings/container-sharing.md" %}
+[container-sharing.md](../../dashboard/container/container-managing/container-settings/container-sharing.md)
 {% endcontent-ref %}

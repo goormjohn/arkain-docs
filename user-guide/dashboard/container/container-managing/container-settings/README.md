@@ -2,7 +2,7 @@
 icon: container-storage
 ---
 
-# Setting Container
+# Container Settings
 
 Click![](<../../../../../.gitbook/assets/스크린샷 2025-02-24 오후 1.32.16.png>) button in the Container Card. You can go to the container **settings page.**
 
@@ -45,8 +45,8 @@ You can change settings after stopping the container.
 
 You can invite other users to your container with 4 permissions (Readonly, Editable(non-root/root), Editable & sharable(root)). You can also share the container's shared link with other users.
 
-{% content-ref url="sharing-container.md" %}
-[sharing-container.md](sharing-container.md)
+{% content-ref url="container-sharing.md" %}
+[container-sharing.md](container-sharing.md)
 {% endcontent-ref %}
 
 ### **4. Container status**
@@ -61,8 +61,8 @@ Save resources by activating the **Auto-off** feature. The container will automa
 
 If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
 
-{% content-ref url="../../../container-managing/configuring-container/init-script.md" %}
-[init-script.md](../../../container-managing/configuring-container/init-script.md)
+{% content-ref url="init-script.md" %}
+[init-script.md](init-script.md)
 {% endcontent-ref %}
 
 ### **6. URL/Port**
@@ -75,8 +75,8 @@ Environment variables are defined as key-value pairs and can be used to store da
 
 By using environment variables, programs can be executed according to the environment without changing the source code, and sensitive security keys do not need to be stored directly in configuration files, enhancing security.
 
-{% content-ref url="../../../container-managing/configuring-container/environment-variables.md" %}
-[environment-variables.md](../../../container-managing/configuring-container/environment-variables.md)
+{% content-ref url="environment-variable.md" %}
+[environment-variable.md](environment-variable.md)
 {% endcontent-ref %}
 
 ### **8. Delete this container**

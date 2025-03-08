@@ -120,7 +120,7 @@ If your template **fails to create**:
 * **Keep it Clean and Simple**\
   Avoid unnecessary files or configurations to keep the template lightweight.
 * **Provide Clear Documentation**\
-  Include a **README.md** file to guide users on how to use the template effectively.
+  Include a README.md file to guide users on how to use the template effectively.
 * **Test Before Publishing**\
   Ensure your template is fully functional and error-free.
 * **Keep it Updated**\

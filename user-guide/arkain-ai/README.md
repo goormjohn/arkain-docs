@@ -4,9 +4,7 @@ icon: message-bot
 
 # Arkain AI
 
-## Introducing AI Code Assistant
-
-We’re thrilled to unveil **Side chat : AI code assistant**, an intelligent feature in our CDEs that lets you interact with your code like never before! With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
+The AI assistant, **Side Chat**, provides new CDEs that enable interaction with code like never before. With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
 
 ### What Does Side Chat Do?
 

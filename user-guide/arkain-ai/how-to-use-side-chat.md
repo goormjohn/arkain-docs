@@ -10,10 +10,8 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 
 ## **Getting Started with Side Chat**
 
-* Open Side Chat from the **ActivityBar** of your Arkain interface.
+* Open Side Chat from the **Activity bar** of your Arkain interface.
 * Side Chat will appear in the left area of the workspace. Side Chat supports a range of LLMs, such as **GPT-4o mini**, **GPT-4o**, **o3-mini**, **o3-mini-high**, **Claude 3.5 Sonnet and** **o1-preview**.
-
-***
 
 ## Ask a question in Side Chat
 
@@ -23,8 +21,6 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
   * _"What does this error mean in Python?"_
 
 
-
-***
 
 ## **Managing Chat History**
 
@@ -40,16 +36,12 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 * Click **\[History]** at the top left of Side Chat. When you hover your mouse over the chat history list, a trash can icon will appear.&#x20;
 * Click the trash can icon to delete the saved chat history.
 
-***
-
 ## **Advanced Features**
 
-1. **Multi-Model Support**
-   * Switch between LLMs in real-time depending on your query's complexity and model availability.
-2. **Conversation Continuity**
-   * Side Chat maintains context within a single session, ensuring the LLM remembers previous interactions for seamless conversations.
-
-***
+* **Multi-Model Support**\
+  Switch between LLMs in real-time depending on your query's complexity and model availability.
+* **Conversation Continuity**\
+  Side Chat maintains context within a single session, ensuring the LLM remembers previous interactions for seamless conversations.
 
 ## **Tips for Efficient Use**
 

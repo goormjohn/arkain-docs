@@ -4,39 +4,44 @@ icon: comment-question
 
 # How to run as background process
 
-Exiting the workspace does not terminate the container, but it does terminate the process running in the terminal. To avoid this, you should run it as a **background process**.
+If you turn off the **Auto-off** feature, the container will remain running even if you close the workspace, but processes running in the terminal will be terminated. To prevent this, you need to run the process as a **background process**.
 
 There are 2 options to set-up;
 
-1. Run in the background setting (recommended!)
-2. Use `nohup` command
+* Run in the background setting (recommended!)
+* Use `nohup` command
 
-## **1. Run in the background setting** <a href="#id-1-run-in-the-background-setting" id="id-1-run-in-the-background-setting"></a>
+## **Run in the background setting** <a href="#id-1-run-in-the-background-setting" id="id-1-run-in-the-background-setting"></a>
 
 Enter the execution command in the script, then tap the **Run in the background** checkbox to run the command.
 
-command tap > Run > click right on wanted run command > setting > **check Run in the background** > Save and run
+command tap → Run → click right on wanted run command → setting → **check Run in the background** → Save and run.
 
-## **2. Use nohup** command <a href="#id-2-use-nohup-command" id="id-2-use-nohup-command"></a>
+## **Use nohup** command <a href="#id-2-use-nohup-command" id="id-2-use-nohup-command"></a>
 
-### **1. How to run**
+### **How to run**
 
-* Prepare a file(ex. a.out) that you want to run in a background process.
-* Type the command
+{% stepper %}
+{% step %}
+If the file to be run in the background process is `a.out`, you can run it as a background process by entering the following command in the terminal.
 
 ```bash
-# nohup <absolute path>/a.out &
+# nohup <absolute path>/ filename &
 ```
+{% endstep %}
 
-* You can check for execution with the command below.
+{% step %}
+You can check for execution with the command below.
 
 ```bash
  # ps -aux | grep a.out
 ```
+{% endstep %}
+{% endstepper %}
 
-### **2. How to end**
+### **How to end**
 
-* After finding the PID value with the ps command, end the process with the kill command.
+After finding the PID value with the ps command, end the process with the kill command.
 
 ```bash
 # ps -ef | grep a.out
@@ -60,25 +65,31 @@ If you don't want to create this file, you can have it output to /dev/null.
 
 You can simply run it as a background process using the _**forever**_ command in the npm package.
 
-### **1. How to run**
-
-* Install `forever`
+{% stepper %}
+{% step %}
+Install `forever`
 
 ```bash
 $ npm install -g forever
 ```
+{% endstep %}
 
-* Run the app with the command below
+{% step %}
+Run the app with the command below
 
 ```bash
 $ forever start app.js
 ```
+{% endstep %}
 
-* You can verify whether it's running or not with the command below.
+{% step %}
+You can verify whether it's running or not with the command below.
 
 ```bash
 $ forever list
 ```
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 For detailed usage, please refer to **forever usage**.

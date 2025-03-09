@@ -10,7 +10,7 @@ There are two ways to report a bug:
 
 {% stepper %}
 {% step %}
-Clicking the **\[Contact Us chat]**( ![](<../.gitbook/assets/스크린샷 2025-02-24 오후 12.29.48.png>)) icon at the bottom right of Arcane's dashboard or workspace will open the inquiry chat.
+Clicking the **\[Contact Us chat]**( ![](<../.gitbook/assets/스크린샷 2025-02-24 오후 12.29.48.png>)) icon at the bottom right of Arcane's Dashboard or Workspace will open the inquiry chat.
 {% endstep %}
 
 {% step %}

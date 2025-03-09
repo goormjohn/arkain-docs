@@ -6,25 +6,25 @@ icon: comment-question
 
 {% tabs %}
 {% tab title="Windows & Linux" %}
-**\[Copy]**
+#### **Copy**
 
 Copy in one of the those ways:
 
-1. **`Ctrl + C`\***
-2. **`Ctrl + Shift + C`**
-3. Right-click the selected text
+* <kbd>`Ctrl`</kbd>`+`<kbd>`C`</kbd>\*
+* <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`C`</kbd>
+* Right-click the selected text
 
-**\[Paste]**
+#### **Paste**
 
 Paste in one of the those ways:
 
-1. **`Ctrl + V`\***
-2. **`Ctrl + Shift + V`**
-3. Right-click
+* <kbd>`Ctrl`</kbd>`+`<kbd>`V`</kbd>\*
+* <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`V`</kbd>
+* Right-click
 
-If you want to use Ctrl + C/V to copy/paste, please enable **Use Ctrl + C/V to copy/paste** option from **\[Preferences] - \[Terminal] - \[Setting] - \[Shortcut Key]**.
+If you want to use <kbd>Ctrl</kbd>+<kbd>C</kbd>/<kbd>V</kbd> to copy/paste, please enable \[**Use Ctrl + C/V to copy/paste]** option from **\[Preferences]** → **\[Terminal]** → **\[Setting]** → **\[Shortcut Key]**.
 
-In the Windows, CRLF is automatically converted to LF when pasting text. If you don't want to use this feature, please use **`Ctrl + Shift + V`**, or uncheck **Convert CRLF to LF when pasting text to the terminal** option from **\[Preferences] - \[Terminal] - \[Setting] - \[Paste]**.
+In the Windows, CRLF is automatically converted to LF when pasting text. If you don't want to use this feature, please use <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`V`</kbd>, or uncheck **Convert CRLF to LF when pasting text to the terminal** option from **\[Preferences]** → **\[Terminal]** → **\[Setting]** → **\[Paste]**.
 {% endtab %}
 
 {% tab title="macOS" %}

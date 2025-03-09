@@ -13,23 +13,29 @@ The **AI code completion** feature is a convenient function that recommends code
 
 ### How to Set Up the Feature <a href="#how-to-set-up-the-feature" id="how-to-set-up-the-feature"></a>
 
-* Clicking the **\[AI code completion]** button at the bottom right of the workspace toggles the feature on or off. When the feature is enabled, the **\[AI code completion]** button appears purple.
+* Clicking the **\[Auto completion]** button at the bottom right of the workspace toggles the feature on or off. When the feature is enabled, the **\[Auto completion]** button appears purple.
 
 <figure><img src="../../.gitbook/assets/Auto-complete_01.png" alt=""><figcaption></figcaption></figure>
 
-* In the ActivityBar → ![](<../../.gitbook/assets/new_setting (5).png>)Preferences → Editor → AI code completion → ??
+* In the Activity bar → Preferences(![](<../../.gitbook/assets/new_setting (5).png>) ) → Editor → AI code completion → ??
 
 <figure><img src="../../.gitbook/assets/Auto-complete_02.png" alt=""><figcaption></figcaption></figure>
 
 ### How to Use <a href="#how-to-use" id="how-to-use"></a>
 
-* When you enter code in the editor, AI-recommended code will be displayed as gray text to the right.
+{% stepper %}
+{% step %}
+When you enter code in the editor, AI-recommended code will be displayed as gray text to the right.
 
 <figure><img src="../../.gitbook/assets/Auto-complete_01 (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-* If you like to use the recommended code, press the <kbd>Tab</kbd> key to apply it.
+{% step %}
+If you like to use the recommended code, press the <kbd>Tab</kbd> key to apply it.
 
 <figure><img src="../../.gitbook/assets/Auto-complete_02 (1).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 * This feature is only available to credit plan (Free, Membership) users.

@@ -4,7 +4,7 @@ icon: user-robot
 
 # Supported Models
 
-## Supported Models : Choose the Best LLM for Your Needs&#x20;
+## Supported Models&#x20;
 
 | LLM Model            | Description                                      | Usage Limit        | Availability    |
 | -------------------- | ------------------------------------------------ | ------------------ | --------------- |

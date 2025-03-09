@@ -24,7 +24,7 @@ If the following programs are detected running, **you may be blocked from using 
 | Game Server                | High compute resource occupancy adversely affects service operations |
 | ### **Other reasons**      |                                                                      |
 
-## The program may also be blocked for the following reasons
+### The program may also be blocked for the following reasons
 
 * Cybercrime abuse
 * Violent, obscene, or hazardous content

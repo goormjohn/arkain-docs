@@ -1,31 +1,24 @@
 ---
 icon: coin-vertical
+description: >-
+  Credits are the currency required for using containers. When you use
+  containers, credits are deducted. The price of 1 credit is $0.02.
 ---
 
 # Credit
-
-## About Credits
-
-Credits are the currency required for using containers. When you use containers, credits are deducted. Here’s what you need to know:
-
-* **Price per Credit**: **$0.02**&#x20;
 
 ### **Conditions for Credit Deductions**
 
 Credits are deducted under the following conditions:
 
-1. **Container Usage**: Credit deductions occur while the container is running, based on the container specifications. See below for more details.
-2. **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged r**egardless of whether the container is running or stopped.**&#x20;
-   * The amount of **free storage** available **varies by plan.**
-3. **Traffic Usage**: If your container's monthly cumulative traffic exceeds **10GB**, you will be charged **10 credits** for each additional **1GB** of traffic per minute.&#x20;
-4. **Free Credits**: You get **45 free credits** per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.)\
-   If you have a **Membership plan,** you can get an **additional 90 credits.**
+* **Container Usage**: Credit deductions occur while the container is running, based on the container specifications.
+* **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged r**egardless of whether the container is running or stopped.**&#x20;
+  * The amount of **free storage** available **varies by plan.**
+* **Traffic Usage**: If your container's monthly cumulative traffic exceeds **10GB**, you will be charged **10 credits** for each additional **1GB** of traffic per minute.&#x20;
+* **Free Credits**: You get **45 free credits** per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.)\
+  If you have a **Membership plan,** you can get an **additional 90 credits.**
 
-{% hint style="info" %}
-A detailed comparison can also be found on our **pricing page.**
-{% endhint %}
-
-You can monitor network traffic and storage usage for each container in the **\[Resources Monitor]** panel at the bottom of the workspace.
+You can monitor network traffic and storage usage for each container in the **\[Resources Monitor]** panel at the bottom of the workspace. You can monitor your **real-time credit usage** on the **Home or Dashboard page.**
 
 {% hint style="info" %}
 **Hint**\
@@ -33,12 +26,6 @@ You can monitor network traffic and storage usage for each container in the **Re
 
 <img src="../.gitbook/assets/스크린샷 2025-02-24 오후 1.07.38.png" alt="" data-size="original">
 {% endhint %}
-
-
-
-
-
-You can monitor your **real-time credit usage** on the **Home or Dashboard page.**
 
 ***
 
@@ -84,10 +71,10 @@ Follow these steps to charge credits:
 
 This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
 
-1. **Duration**: Assumes **720 hours** per month and does not account for leap years.&#x20;
-2. **Promotional Credits**: Does not include promotional credits or discounts.
-3. **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
-4. **Currency**: Forecasts are based on a fixed exchange rate.
+* **Duration**: Assumes **720 hours** per month and does not account for leap years.&#x20;
+* **Promotional Credits**: Does not include promotional credits or discounts.
+* **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
+* **Currency**: Forecasts are based on a fixed exchange rate.
 
 ### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 

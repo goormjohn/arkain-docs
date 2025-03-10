@@ -58,7 +58,7 @@
   * [SBOM Management](user-guide/workspace/sbom-management.md)
   * [Multi Project](user-guide/workspace/multi-project.md)
   * [Merge Code](user-guide/workspace/merge-code.md)
-  * [URL/Port](user-guide/workspace/url-port.md)
+  * [URL / Port](user-guide/workspace/url-port.md)
   * [Keyboard Shortcut](user-guide/workspace/keyboard-shortcut.md)
 * [Dashboard](user-guide/dashboard/README.md)
   * [Container](user-guide/dashboard/container/README.md)

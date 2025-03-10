@@ -1,5 +1,8 @@
 ---
 icon: message-bot
+description: >-
+  This document is for all users of Arkain. Get familiar with Arkain and learn
+  how to code faster with AI.
 layout:
   title:
     visible: true
@@ -15,8 +18,8 @@ layout:
 
 # Arkain Guides
 
-This document is for all users of Arkain. Get familiar with Arkain and learn how to code faster with AI.
-
+Arkain is an AI-powered Cloud Development Environment (CDEs). Start coding quickly from anywhere and enhance your efficiency with AI assistance.\
+\
 Non-developers may benefit from reading this document from start to finish, but you can also refer to specific sections as needed.
 
 ***

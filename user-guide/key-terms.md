@@ -60,6 +60,6 @@ The **Editor**, located in the center of the workspace, is where you can view an
 
 The **Panel**, located below the editor, displays essential tools such as the terminal, search functionality, resource monitor, and linting inspection windows.
 
-### SideChat
+### Side Chat
 
 This is where Arkain communicates with AI. Most magical experiences happen here.

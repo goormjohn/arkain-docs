@@ -11,15 +11,15 @@ To access the **\[Make a WEB with Open API]** template, you must issue the requi
 
 1. Go to [https://openweathermap.org/](https://openweathermap.org/) and sign up.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. A confirmation email will be sent to the email address you entered when signing up. Click **\[Verify your email]**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on your nickname in the upper right corner of [https://openweathermap.org/ ](https://openweathermap.org/)and click on **\[MY API keys]**.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Enter the desired API key name in **\[Create key]** and click **\[Generate]**.
 

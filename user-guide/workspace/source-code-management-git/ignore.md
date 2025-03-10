@@ -4,7 +4,7 @@ icon: code-branch
 
 # Ignore
 
-Adding a file to the Ignore will exclude it from version control in the project. Click the **Settings**(<img src="../../../.gitbook/assets/image (1) (2).png" alt="" data-size="line">) button in the top right corner of Git Sidebar, select the **\[ignore list]** tab.
+Adding a file to the Ignore will exclude it from version control in the project. Click the **Settings**(<img src="../../../.gitbook/assets/image (1) (2) (1).png" alt="" data-size="line">) button in the top right corner of Git Sidebar, select the **\[ignore list]** tab.
 
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 

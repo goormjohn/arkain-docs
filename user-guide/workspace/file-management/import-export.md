@@ -1,12 +1,13 @@
 ---
 icon: cabinet-filing
+description: >-
+  Download files created in Arkain to your computer, or upload files from your
+  computer to Arkain. Arkain also supports uploading folders.
 ---
 
-# File import/export
+# Import / Export
 
-Download files created in Arkain to your computer, or upload files from your computer to Arkain. Arkain also supports uploading folders.
-
-## **1. Import File**
+## **Import File**
 
 Upload a file from your computer to Arkain. Files with special characters other than Latin alphabets cannot be uploaded. To upload a file:
 
@@ -22,7 +23,7 @@ In the Import File pop-up window, upload the file, select the desired location, 
 
 <figure><img src="../../../.gitbook/assets/Import_01.png" alt=""><figcaption></figcaption></figure>
 
-## **2. Export File** <a href="#export-file" id="export-file"></a>
+## **Export File** <a href="#export-file" id="export-file"></a>
 
 You can download Arcane's project files to your local system using the **Export File** feature.
 
@@ -38,9 +39,7 @@ Click **\[Yes]** to download the file to your local system.
 
 <figure><img src="../../../.gitbook/assets/Import_02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Import_03.png" alt=""><figcaption></figcaption></figure>
-
-## **3. Export Folder** <a href="#export-folder" id="export-folder"></a>
+## **Export Folder** <a href="#export-folder" id="export-folder"></a>
 
 Download a folder from Arkain to your computer. To download:
 
@@ -56,9 +55,7 @@ Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
 
 <figure><img src="../../../.gitbook/assets/Export_02.png" alt=""><figcaption></figcaption></figure>
 
-
-
-## **4. Share File** <a href="#share-file" id="share-file"></a>
+## **Share File** <a href="#share-file" id="share-file"></a>
 
 {% stepper %}
 {% step %}

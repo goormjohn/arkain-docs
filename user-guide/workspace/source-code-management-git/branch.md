@@ -21,7 +21,7 @@ The Branch tab offers 3 commands you can select a single branch to execute a com
 <figure><img src="../../../.gitbook/assets/git_08.png" alt=""><figcaption></figcaption></figure>
 
 * **Merge into selected branch:** Merges the selected branch into the desired branch.![](<../../../.gitbook/assets/스크린샷 2025-03-08 오후 2.35.37.png>)
-* **Checkout new branch**: Moves the working directory to the selected branch. After clicking the button, the Branch tab and Project Explorer will update and you will see that your current location has been moved to the selected branch.
+* **Checkout new branch**: Moves the working directory to the selected branch. After clicking the button, the Branch tab and Project Sidebar will update and you will see that your current location has been moved to the selected branch.
 
 When you create a branch, you can select a starting point for the branch.
 

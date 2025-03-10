@@ -2,19 +2,15 @@
 icon: code-branch
 ---
 
-# Changes, Historys, Event tabs
+# Changes / Historys / Event tabs
 
 Check the revision status of the current project files/folders in the Changes, Historys, Event tab of the Git Sidebar. You can use key Git commands such as **Add, Commit, Push, Pull,** and **Ignore** here.
 
 <figure><img src="../../../.gitbook/assets/git_03 (1).png" alt=""><figcaption></figcaption></figure>
 
-In the **Changes tab**, you can easily see whether a file is staged or unstaged at a glance. In the **Historys tab**, you can view commit history, and in **Event tab**, you can check Git GUI events.
+In the **Changes tab**, you can easily see whether a file is staged or unstaged at a glance. In the **Historys tab**, you can view commit history, and in **Event tab**, you can see what you've been working on using Arkain's Git GUI.
 
 <figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
-
-In the **"Events"** tab, you can see what you've been working on using Arkain's Git GUI.
-
-<figure><img src="../../../.gitbook/assets/git_10.png" alt=""><figcaption></figcaption></figure>
 
 We've also added a walkthrough feature that tells you in more detail what caused the failure and offers solutions to the problem, making it easier for beginners who aren't familiar with Git.
 

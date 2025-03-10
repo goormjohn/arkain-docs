@@ -1,14 +1,15 @@
 ---
 icon: code-branch
+description: >-
+  Diff lets you see what changes have been made in your Arkain before committing
+  to your linked Git account.
 ---
 
 # Diff
 
-Diff lets you see what changes have been made in your **Arkain** before committing to your linked Git account.
-
 ## How to use Diff <a href="#how-to-use-diff" id="how-to-use-diff"></a>
 
-Clicking a file in the Unstaged files or Staged files list in the Git sidebar will open the Diff tool. You can view the changes in the source code in the editor.
+Clicking a file in the Unstaged files or Staged files list in the Git Sidebar will open the Diff tool. You can view the changes in the source code in the editor.
 
 <figure><img src="../../../.gitbook/assets/git_11 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,8 +17,6 @@ Clicking a file in the Unstaged files or Staged files list in the Git sidebar wi
 **Note**\
 If you open the **\[Git]** tab and there is only a **\[Register repository]** button, you need to connect the repository first. See how to connect on [Import Github Repos](../../dashboard/container-managing/import-github-repos.md) page.
 {% endhint %}
-
-
 
 ### **The editor area**
 
@@ -28,7 +27,6 @@ You can compare the source code **before the change (left)** and the source code
 In the pre-change source code, **lines of code that were deleted are&#x20;**<mark style="color:red;">**highlighted in red**</mark> and marked with a - next to the line number. In the after-change source code shows the **lines of code that were added with a&#x20;**<mark style="color:green;">**green highlight**</mark> and a + next to the line number. Also, the code that was actually changed is highlighted darker.
 
 {% hint style="info" %}
-**Tip**\
 **The status of the file determines which source code is compared.**
 
 If you open the Diff Tool from a file that is ‘**off-stage’**, the source code before the change is the source code as of the last commit, and the source code after the change is the source code you are currently working on.

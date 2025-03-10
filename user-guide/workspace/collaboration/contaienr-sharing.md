@@ -1,10 +1,15 @@
-# Container Sharing
+---
+description: >-
+  You can share your container with others to collaborate or showcase your
+  projects. Even if someone doesn't have a Arkain account, they can still access
+  the shared container.
+---
 
-You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
+# Container Sharing
 
 ### Sharing a Container from the Workspace <a href="#sharing-a-container-from-the-workspace" id="sharing-a-container-from-the-workspace"></a>
 
-You can also share containers from Arkain's workspace. In the workspace of the container you want to share, click **\[Share This Container]**(![](<../../../.gitbook/assets/스크린샷 2025-03-08 오후 3.55.49.png>)) in the Activity bar to open the sidebar.
+You can also share containers from Arkain's Workspace. In the Workspace of the container you want to share, click **\[Share This Container]**(![](<../../../.gitbook/assets/스크린샷 2025-03-08 오후 3.55.49.png>)) in the Activity bar to open the Sidebar.
 
 #### **Share as an email**
 
@@ -32,7 +37,7 @@ The email must be the one of a member who has registered on Arkain. You cannot s
 
 {% stepper %}
 {% step %}
-Set the shared scope and Permission on invitation for the link. **\[Anyone]** allows access without logging in, while **\[Container member]** requires logging into Arkain.
+Set the shared scope and permission on invitation for the link. **\[Anyone]** allows access without logging in, while **\[Container member]** requires logging into Arkain.
 {% endstep %}
 
 {% step %}

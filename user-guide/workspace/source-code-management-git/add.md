@@ -1,10 +1,11 @@
 ---
 icon: code-branch
+description: >-
+  When you add or modify a file/folder, it is automatically added to Unstaged
+  files.
 ---
 
 # Add
-
-When you add or modify a file/folder, it is automatically added to **Unstaged files**.
 
 You can change the status of all or individual files to Staged by clicking the **\[+]** icon on the right side of Unstaged files or each file in that section. Clicking the **\[-]** icon in the Staged file will change the file status to Unstaged.&#x20;
 

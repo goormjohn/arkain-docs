@@ -1,12 +1,11 @@
 ---
 icon: rectangle-vertical-history
+description: >-
+  Multi-project is the feature to work on multiple projects in a single
+  container.
 ---
 
 # Multi Project
-
-Multi-project is the feature to work on multiple projects in a single container.
-
-### Creation <a href="#creation" id="creation"></a>
 
 {% stepper %}
 {% step %}
@@ -30,7 +29,7 @@ Sub projects can only have the same stack and the same templates as the main pro
 
 {% stepper %}
 {% step %}
-Click the **\[Register repository]** button on the Git sidebar, or click the **\[Directory settings]** icon (<img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">) on the top right to display the Git sidebar.&#x20;
+Click the **\[Register repository]** button on the Git Sidebar, or click the **\[Directory settings]** icon (<img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">) on the top right to display the Git Sidebar.&#x20;
 {% endstep %}
 
 {% step %}

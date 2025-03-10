@@ -14,23 +14,23 @@ As the use of open source has expanded, the problem of security vulnerabilities 
 Source: BLACKDUCK's AppSec Decoded: Takeaways from the 2022 “[Software Vulnerability Snapshot](https://www.blackduck.com/blog/appsec-decoded-2022-software-vulnerability-snapshot-report-takeaways.html)” report
 {% endhint %}
 
-In response to this, **Arkain provides a function to** **generate and manage SBOM information for safer SW development.** With Arkain SBOM Manager you can;
+In response to this, Arkain provides a function to generate and manage SBOM information for safer SW development. With Arkain SBOM Manager you can;
 
 {% stepper %}
 {% step %}
-Quickly **track and respond to known and new vulnerabilities**.&#x20;
+Quickly track and respond to known and new vulnerabilities.&#x20;
 {% endstep %}
 
 {% step %}
-Check the **latest component status**.&#x20;
+Check the latest component status.&#x20;
 {% endstep %}
 
 {% step %}
-Check **licence compliance**.&#x20;
+Check licence compliance.&#x20;
 {% endstep %}
 
 {% step %}
-Get **visibility** into your software.
+Get visibility into your software.
 {% endstep %}
 {% endstepper %}
 

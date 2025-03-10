@@ -26,14 +26,24 @@ We've also added a walkthrough feature that tells you in more detail what caused
 * **Reason**: The following error occurs when you make a branch change without saving your changes.
 * **Solution**: There are 3 possible workarounds
 
-1. Commit the changes directly to the current branch and then change the branch.
-2. Force checkout to delete unsaved changes and then change branches.
-3. Pressing Smart Checkout will merge your current changes into the branch you are moving to.
+{% stepper %}
+{% step %}
+Commit the changes directly to the current branch and then change the branch.
+{% endstep %}
+
+{% step %}
+Force checkout to delete unsaved changes and then change branches.
+{% endstep %}
+
+{% step %}
+Pressing Smart Checkout will merge your current changes into the branch you are moving to.
+{% endstep %}
+{% endstepper %}
 
 ### **Push**
 
 * **Reason**: If you don't have permissions on the Git origin repository, the following error occurs.&#x20;
-* **Solution**: After pressing the Register Permissions button, enter ID, PW, and push again.
+* **Solution**: After pressing the **\[Register Permissions]** button, enter ID, PW(Password), and push again.
 
 ### **Pull**
 

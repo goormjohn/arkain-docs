@@ -37,8 +37,6 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../credit-and-membership/credit.md) **will be consumed.** It is recommended to click the **\[EXIT]** button to exit Arkain.
 {% endhint %}
 
-***
-
 ## 2. Activity bar <a href="#sidebar" id="sidebar"></a>
 
 The sidebar is an area that helps you easily access key features needed for development. You can open a different Sidebar by clicking on the icons in the Activity bar.
@@ -142,15 +140,11 @@ You can navigate to the page where you can manage your member profile and contai
 * **Go to Dashboard :** You exit the workspace and move to the dashboard.
 * **Sign out** : You can log out.
 
-***
-
 ## 3. Editor <a href="#editor" id="editor"></a>
 
 The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ## 4. Toggle Panel <a href="#terminal" id="terminal"></a>
 

@@ -6,7 +6,7 @@ icon: square-check
 
 Arkain's **Workspace** is an IDE(Integrated Development Environment) designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The key area terms of the Workspace are as follows.
 
-<figure><img src="../../.gitbook/assets/Workspace_01 (1).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://app.arcade.software/share/EWhXYMTHK9Hpwxo89W9g" %}
 
 ***
 

@@ -4,7 +4,7 @@ icon: cabinet-filing
 
 # Open / Close in Editor
 
-In Arcane's Project Sidebar, you can open source code files using the editor.&#x20;
+In Arkain's Project Sidebar, you can open source code files using the editor.&#x20;
 
 ## 1. Major Editor <a href="#file-default-editor" id="file-default-editor"></a>
 

@@ -14,7 +14,7 @@ icon: circle-chevron-right
 
 ### **Supercharge Your Workflow with AI Code Assistance**
 
-Arkain isn't just a coding platform—it’s your **intelligent coding companion**. With an **AI-powered Code Assistant**, you can:
+Arkain isn't just a coding platform—it’s your [**intelligent coding companion**](../user-guide/arkain-ai/auto-complete.md). With an [**AI-powered Code Assistant**](../user-guide/arkain-ai/how-to-use-side-chat.md), you can:
 
 * Get **smart code suggestions** in real time.
 * **Auto-complete functions** and optimize your code.
@@ -51,7 +51,7 @@ Leverage **user-generated templates** to quickly start projects without the hass
 
 ### **AI-Powered Assistance with Side Chat**&#x20;
 
-Arkain’s **Side Chat**, powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
+Arkain’s [**Side Chat**](../user-guide/arkain-ai/how-to-use-side-chat.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
 * **Searchable Chat History** – Revisit past conversations anytime.

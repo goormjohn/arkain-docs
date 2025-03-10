@@ -24,7 +24,7 @@ Enter the compressed file name, select the extension, then click **\[OK]** to co
 <figure><img src="../../../.gitbook/assets/Compress_02.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Arcane only supports **ZIP**, **TAR**, and **TAR.GZ** compression formats.
+Arkain only supports **ZIP**, **TAR**, and **TAR.GZ** compression formats.
 {% endhint %}
 
 ## Extract File&#x20;

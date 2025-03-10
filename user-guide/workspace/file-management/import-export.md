@@ -25,7 +25,7 @@ In the Import File pop-up window, upload the file, select the desired location, 
 
 ## **Export File** <a href="#export-file" id="export-file"></a>
 
-You can download Arcane's project files to your local system using the **Export File** feature.
+You can download Arkain's project files to your local system using the **Export File** feature.
 
 {% stepper %}
 {% step %}

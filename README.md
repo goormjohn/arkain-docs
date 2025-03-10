@@ -18,8 +18,6 @@ layout:
 
 # Arkain Guides
 
-[**Arkain**](https://www.arkain.io/) is an AI-powered Cloud Development Environment (CDEs). Start coding quickly from anywhere and enhance your efficiency with AI assistance.\
-\
 Non-developers may benefit from reading this document from start to finish, but you can also refer to specific sections as needed.
 
 ***

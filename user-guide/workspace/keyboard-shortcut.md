@@ -53,18 +53,18 @@ Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key ins
 | Replace                    | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>F</kbd>    |
 | Search All                 | <kbd>option ⌥</kbd> + <kbd>H</kbd>                      | <kbd>Alt</kbd> + <kbd>H</kbd>                      |
 | Toggle Comment Selection   | <kbd>Cmd ⌘</kbd> +  <kbd>/</kbd>                        | <kbd>Ctrl</kbd> + <kbd>/</kbd>                     |
-| Preferences                | <kbd>option ⌥</kbd> + <kbd>P</kbd>                      |                                                    |
-| Jump To Definition         | <kbd>Cmd ⌘</kbd> +  <kbd>I</kbd>                        |                                                    |
-| Evaluate in Section        | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>K</kbd>   |                                                    |
+| Preferences                | <kbd>option ⌥</kbd> + <kbd>P</kbd>                      | <kbd>Alt</kbd> + <kbd>P</kbd>                      |
+| Jump To Definition         | <kbd>Cmd ⌘</kbd> +  <kbd>I</kbd>                        | <kbd>Ctrl</kbd> + <kbd>I</kbd>                     |
+| Evaluate in Section        | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>K</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>K</kbd>    |
 
 ## Project
 
-| Function                  | macOS Shortcut                                         | Windows/Linux Shortcut           |
-| ------------------------- | ------------------------------------------------------ | -------------------------------- |
-| Run                       | <kbd>Shift ⇧</kbd> + <kbd>F5</kbd>                     | <kbd>Shift</kbd> + <kbd>F5</kbd> |
-| Build                     | <kbd>F5</kbd>                                          | <kbd>F5</kbd>                    |
-| Refresh                   | <kbd>Cmd ⌘</kbd> +  <kbd>R</kbd>                       | <kbd>Ctrl</kbd> + <kbd>R</kbd>   |
-| Open Preview in Workspace | <kbd>option ⌥</kbd> +<kbd>Shift ⌘</kbd> + <kbd>J</kbd> | <kbd>Ctrl</kbd> + <kbd>R</kbd>   |
+| Function                  | macOS Shortcut                                         | Windows/Linux Shortcut                          |
+| ------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| Run                       | <kbd>Shift ⇧</kbd> + <kbd>F5</kbd>                     | <kbd>Shift</kbd> + <kbd>F5</kbd>                |
+| Build                     | <kbd>F5</kbd>                                          | <kbd>F5</kbd>                                   |
+| Refresh                   | <kbd>Cmd ⌘</kbd> +  <kbd>R</kbd>                       | <kbd>Ctrl</kbd> + <kbd>R</kbd>                  |
+| Open Preview in Workspace | <kbd>option ⌥</kbd> +<kbd>Shift ⌘</kbd> + <kbd>J</kbd> | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>R</kbd> |
 
 ## Window
 

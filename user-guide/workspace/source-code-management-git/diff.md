@@ -15,7 +15,7 @@ Clicking a file in the Unstaged files or Staged files list in the Git Sidebar wi
 
 {% hint style="warning" %}
 **Note**\
-If you open the **\[Git]** tab and there is only a **\[Register repository]** button, you need to connect the repository first. See how to connect on [Import Github Repos](../../dashboard/container-managing/import-github-repos.md) page.
+If you open the **\[Git]** tab and there is only a **\[Register repository]** button, you need to connect the repository first. See how to connect on [Import Github Repos](../../dashboard/container/container-management/import-github-repos.md) page.
 {% endhint %}
 
 ### **The editor area**

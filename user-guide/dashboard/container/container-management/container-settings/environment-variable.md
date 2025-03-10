@@ -9,7 +9,7 @@ Sensitive data like passwords and API keys can be stored in Environment Variable
 * **Global Environment Variables**\
   Global environment variables are variables that can be used in all terminals and Commands. You can set global environment variables on the Container setting page. You can view the list of `Key-Value` pairs in the table of environment variables on the Container setting page.
 * **Local Environment Variables**\
-  Local environment variables are variables that can be used only in specific commands. You can set local environment variables on the Command settings tab within the workspace. You can view the list of `Key-Value` pairs in the table of environment variables on the Command settings tab.
+  Local environment variables are variables that can be used only in specific commands. You can set local environment variables on the Command settings tab within the Workspace. You can view the list of `Key-Value` pairs in the table of environment variables on the Command settings tab.
 
 ### Using Environment Variables <a href="#using-environment-variables" id="using-environment-variables"></a>
 

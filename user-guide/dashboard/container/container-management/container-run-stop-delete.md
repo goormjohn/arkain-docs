@@ -1,14 +1,11 @@
 ---
 icon: container-storage
+description: >-
+  Arkain provides multiple ways to manage your containers efficiently. Here's
+  how you can run, stop, and delete containers:
 ---
 
 # Container Run / Stop / Delete
-
-## **Managing Your Container: Run, Stop, and Delete**
-
-Arkain provides multiple ways to manage your containers efficiently. Here's how you can run, stop, and delete containers:
-
-***
 
 ## **Run Your Container**
 
@@ -38,8 +35,6 @@ Use the **\[Run]** button located at the top or in the settings interface to ini
 {% endstep %}
 {% endstepper %}
 
-***
-
 ## **Stop Your Container**
 
 To stop a running container, you have two options:
@@ -67,8 +62,6 @@ Open the settings page of your container.
 Click the **\[Stop]** button to safely terminate the container.
 {% endstep %}
 {% endstepper %}
-
-***
 
 ## **Delete Your Container**
 

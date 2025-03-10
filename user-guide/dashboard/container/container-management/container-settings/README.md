@@ -10,11 +10,11 @@ Click![](<../../../../../.gitbook/assets/스크린샷 2025-02-
 
 ***
 
-### **1. Container Basics**
+### **Container Basics**
 
 Add a description to provide context for what the container is used for. This is especially helpful for collaboration.
 
-### &#x32;**. Container info**
+### **Container info**
 
 You can check various container information, such as the container's hardware specs including CPU, memory, and storage, as well as the container region, stack and OS.
 
@@ -41,7 +41,7 @@ You can change settings after stopping the container.
 * If you **exceed your free storage**, **additional charges** will apply based on your usage.
 {% endhint %}
 
-### 3. Share container
+### Share container
 
 You can invite other users to your container with 4 permissions (Readonly, Editable(non-root/root), Editable & sharable(root)). You can also share the container's shared link with other users.
 
@@ -49,7 +49,7 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 [container-sharing.md](container-sharing.md)
 {% endcontent-ref %}
 
-### **4. Container status**
+### **Container status**
 
 Save resources by activating the **Auto-off** feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
 
@@ -57,7 +57,7 @@ Save resources by activating the **Auto-off** feature. The container will automa
 [auto-off.md](../../auto-off.md)
 {% endcontent-ref %}
 
-### **5. Init Script**
+### **Init Script**
 
 If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
 
@@ -65,9 +65,13 @@ If you have a script that needs to be executed repeatedly when running a contain
 [init-script.md](init-script.md)
 {% endcontent-ref %}
 
-### **6. URL/Port**
+### **URL/Port**
 
 View and manage the unique URL and Port for accessing your running application directly from the browser. Port is crucial for ensuring your application or services can be accessed externally.
+
+{% content-ref url="../../../../workspace/url-port.md" %}
+[url-port.md](../../../../workspace/url-port.md)
+{% endcontent-ref %}
 
 ### **7. Environment Variables**
 

@@ -87,9 +87,7 @@ If it's difficult to write, please refer to the sample document provided on this
 {% step %}
 ### Create a Template
 
-Please review the content you've written, and if everything is correct, click the **\[Create]** button.
-
-Before template creation begins, make sure the following is met:
+Please review the content you've written, and if everything is correct, click the **\[Create]** button. Before template creation begins, make sure the following is met:
 
 * Don't you have a file like a password?
 * Is it possible to run the template right away?

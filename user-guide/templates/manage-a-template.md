@@ -6,25 +6,21 @@ icon: sidebar
 
 The **Templates** provides tools to help you manage the templates you've created. You can update your templates to reflect new changes, modify details, or delete templates you no longer need. Here's a guide to managing your templates effectively:
 
-***
-
 ## **Managing Your Templates**
 
 ### **Access Your Templates**
 
-You can access your templates through your Profile page or your **Template card in the list.**
+You can access your templates through your Profile page or your Template card in the list.
 
-* Click the **\[See all]** button in the **Templates** section of your Dashboard.
+* Click the **\[See all]** button in the Templates section of your Dashboard.
 * Click the **\[Go to profile]** button located at the top right of your Dashboard.
-* Click on **your profile information** included in your Template card.
+* Click on your profile information included in your Template card.
 
-If there are containers that failed to create, your **Profile page** will contain the **failed templates**.
+If there are containers that failed to create, your Profile page will contain the failed templates.
 
 ### Check the comments on your template
 
 If you click on your specific template, you can see comments left by other users. Check out the comments and exchange opinions with various users.
-
-***
 
 ## **Editing a Template**
 
@@ -63,8 +59,6 @@ You can **only modify the information and content** of the template.&#x20;
 If you want to change the container, we recommend **creating a new template.**
 {% endhint %}
 
-***
-
 ## **Deleting a Template**
 
 Deleting a template removes it permanently from the Templates. This will not affect templates already in use by other users, but new usage will no longer be available.
@@ -72,9 +66,9 @@ Deleting a template removes it permanently from the Templates. This will not aff
 Make sure to confirm before deleting to avoid accidental loss.&#x20;
 
 * **Delete from Template card**\
-  Click the ![](../../.gitbook/assets/delete.png) button above your **Template card** on your **Dashboard page** or **Profile page**.
+  Click the ![](../../.gitbook/assets/delete.png) button above your Template card on your Dashboard page or Profile page.
 * **Go to your specific Template page and delete**\
-  Click the **\[Delete]** button located at the top right of your specific **Template page.**
+  Click the **\[Delete]** button located at the top right of your specific Template page.
 
 Confirm the deletion in the pop-up window.
 

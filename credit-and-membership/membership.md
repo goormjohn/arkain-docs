@@ -22,24 +22,45 @@ The Membership plan is designed for those who want to create large projects with
 
 You can subscribe to the Membership at any time from the **Payment page**.
 
-1. **Navigate to the Payment Page**:
-   1. You can access it through the **\[Get started with membership]** button on the **Billing page.**
-   2. You can access it through the **\[Join membership]** button on the **Create container** and **Add Storage** popup.
-2. **Select Subscription Type**: Choose between a monthly or yearly subscription.&#x20;
-3. **Confirm Payment Amount**: Review the payment amount for your selected plan. ✔
-4. **Enter Payment Information**: Fill in your payment details and click the **\[Start Membership]** button.&#x20;
+{% stepper %}
+{% step %}
+### **Navigate to the Payment Page**
+
+* You can access it through the **\[Get started with membership]** button on the **Billing page.**
+* You can access it through the **\[Join membership]** button on the **Create container** and **Add Storage** popup.
+{% endstep %}
+
+{% step %}
+### **Select Subscription Type**
+
+Choose between a monthly or yearly subscription.&#x20;
+{% endstep %}
+
+{% step %}
+### **Confirm Payment Amount**
+
+Review the payment amount for your selected plan.
+{% endstep %}
+
+{% step %}
+### **Enter Payment Information**
+
+Fill in your payment details and click the **\[Start Membership]** button.&#x20;
+{% endstep %}
+{% endstepper %}
 
 ***
 
 ## Managing Membership&#x20;
 
-* **View Subscription Information**: You can check your subscription details on the **Billing page**.&#x20;
+* **View Subscription Information**\
+  You can check your subscription details on the **Billing page**.&#x20;
 
 ***
 
 ## Unsubscribe Membership
 
-* If you wish to **cancel your membership subscription**, go to the **Billing page** and click the **\[Cancel membership]** button.
+* If you wish to cancel your membership subscription, go to the Billing page and click the **\[Cancel membership]** button.
 
 
 

@@ -4,11 +4,11 @@ icon: coin-front
 
 # Credit Usage
 
-You can check your credit usage by clicking **\[View credit usage]** button at the right of the dashboard.
+You can check your credit usage by clicking **\[View credit usage]** button at the right of the Dashboard.
 
-## **How to Use the Credit usage**
+## **How to Use the Credit Usage**
 
-The **Credit usage page** provides an overview of your current credit consumption and detailed resource usage. Below is a description of each section:
+The **Credit Usage** page provides an overview of your current credit consumption and detailed resource usage. Below is a description of each section:
 
 <figure><img src="../../.gitbook/assets/Usage_01.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,9 +28,7 @@ Breaks down credit consumption based on resource types:
 
 ### Usage per container
 
-Shows a log of credits charged per container on a set date. Check the log by changing the date by day.
-
-You can view the resource usage that led to container credit charges.
+Shows a log of credits charged per container on a set date. Check the log by changing the date by day. You can view the resource usage that led to container credit charges.
 
 {% hint style="info" %}
 **How to calculate credit usage**

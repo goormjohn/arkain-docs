@@ -8,7 +8,7 @@ icon: key
 
 ### **Container**
 
-A **Container** refers to a cloud-hosted **Virtual Machine (VM)** that serves as a development environment owned by the user. It is the primary unit where coding, testing, and debugging occur.
+A **Container** refers to a cloud-hosted Virtual Machine (VM) that serves as a development environment owned by the user. It is the primary unit where coding, testing, and debugging occur.
 
 ### **Stack**
 

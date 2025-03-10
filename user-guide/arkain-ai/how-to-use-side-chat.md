@@ -4,13 +4,13 @@ icon: comment-exclamation
 
 # How to use Side Chat
 
-The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the **chat history** feature. Here's how to make the most of it:
+The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the chat history feature. Here's how to make the most of it:
 
 ***
 
 ## **Getting Started with Side Chat**
 
-* Open Side Chat from the **Activity bar** of your Arkain interface.
+* Open Side Chat from the Activity bar of your Arkain interface.
 * Side Chat will appear in the left area of the workspace. Side Chat supports a range of LLMs, such as **GPT-4o mini**, **GPT-4o**, **o3-mini**, **o3-mini-high**, **Claude 3.5 Sonnet and** **o1-preview**.
 
 ## Ask a question in Side Chat
@@ -24,17 +24,17 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 
 ## **Managing Chat History**
 
-### **1. Persistent Chat History**
+### **Persistent Chat History**
 
-* All your conversations in Side Chat are saved under **History**.
-* You can revisit past sessions to review previous answers or refer back to specific code solutions.
-
+All your conversations in Side Chat are saved under **History**. You can revisit past sessions to review previous answers or refer back to specific code solutions.
 
 
-### **2.** Delete Chat History
 
-* Click **\[History]** at the top left of Side Chat. When you hover your mouse over the chat history list, a trash can icon will appear.&#x20;
-* Click the trash can icon to delete the saved chat history.
+### Delete Chat History
+
+Click **\[History]** at the top left of Side Chat. When you hover your mouse over the chat history list, a trash can icon will appear.&#x20;
+
+Click the trash can icon to delete the saved chat history.
 
 ## **Advanced Features**
 

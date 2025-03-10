@@ -74,7 +74,7 @@
       * [Container Run / Stop / Delete](user-guide/dashboard/container/container-management/container-run-stop-delete.md)
     * [Container Stacks](user-guide/dashboard/container/available-container-stacks.md)
     * [Auto-off](user-guide/dashboard/container/auto-off.md)
-    * [Introduction to GPU](user-guide/dashboard/container/introduction-to-gpu.md)
+    * [NVIDIA Tesla T4 GPU Container](user-guide/dashboard/container/nvidia-tesla-t4-gpu-container.md)
     * [Inactive Container](user-guide/dashboard/container-managing/inactive-container.md)
   * [Credit Usage](user-guide/dashboard/credit-usage.md)
   * [Billing](user-guide/dashboard/billing.md)
@@ -92,7 +92,7 @@
 
 ## Pricing
 
-* [Credit](credit-and-membership/credit.md)
+* [Credits](pricing/credits.md)
 * [Membership](credit-and-membership/membership.md)
 
 ## FAQ

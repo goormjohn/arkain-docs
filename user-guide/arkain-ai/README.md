@@ -8,14 +8,14 @@ The AI assistant, **Side Chat**, provides new CDEs that enable interaction with 
 
 ### What Does Side Chat Do?
 
-1. **Understand your code**:\
-   Got a tricky block of code or a function that’s hard to decipher? Simply ask Side Chat, and it will explain the logic, syntax, or purpose in plain language.
-2. **Solve problems**:\
-   Debugging a pesky error? Paste the code snippet, describe the problem, and Side Chat will suggest fixes or optimizations.
-3. **Generate code**:\
-   Side Chat can write it for you based on your requirements—saving you time and effort.
-4. **Provide insights**:\
-   Whether you’re exploring algorithms or need suggestions on improving performance, Side Chat provides expert-level recommendations tailored to your code.
+* **Understand your code**:\
+  Got a tricky block of code or a function that’s hard to decipher? Simply ask Side Chat, and it will explain the logic, syntax, or purpose in plain language.
+* **Solve problems**:\
+  Debugging a pesky error? Paste the code snippet, describe the problem, and Side Chat will suggest fixes or optimizations.
+* **Generate code**:\
+  Side Chat can write it for you based on your requirements—saving you time and effort.
+* **Provide insights**:\
+  Whether you’re exploring algorithms or need suggestions on improving performance, Side Chat provides expert-level recommendations tailored to your code.
 
 ### Why Use Side Chat?
 

@@ -5,20 +5,23 @@ description: >-
   containers, credits are deducted. The price of 1 credit is $0.02.
 ---
 
-# Credit
+# Credits
 
 ### **Conditions for Credit Deductions**
 
 Credits are deducted under the following conditions:
 
-* **Container Usage**: Credit deductions occur while the container is running, based on the container specifications.
-* **Storage Usage**: If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged r**egardless of whether the container is running or stopped.**&#x20;
+* **Container Usage**\
+  Credit deductions occur while the container is running, based on the container specifications.
+* **Storage Usage**\
+  If the storage usage of each container exceeds the default capacity, **0.018 credits** will be deducted per **1GB** of storage per hour. Storage is charged r**egardless of whether the container is running or stopped.**&#x20;
   * The amount of **free storage** available **varies by plan.**
-* **Traffic Usage**: If your container's monthly cumulative traffic exceeds **10GB**, you will be charged **10 credits** for each additional **1GB** of traffic per minute.&#x20;
-* **Free Credits**: You get **45 free credits** per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.)\
-  If you have a **Membership plan,** you can get an **additional 90 credits.**
+* **Traffic Usage**\
+  If your container's monthly cumulative traffic exceeds 10GB, you will be charged 10 credits for each additional 1GB of traffic per minute.&#x20;
+* **Free Credits**\
+  You get 45 free credits per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.) If you have a Membership plan, you can get an additional 90 credits.
 
-You can monitor network traffic and storage usage for each container in the **\[Resources Monitor]** panel at the bottom of the workspace. You can monitor your **real-time credit usage** on the **Home or Dashboard page.**
+You can monitor network traffic and storage usage for each container in the **\[Resources Monitor]** panel at the bottom of the workspace. You can monitor your real-time credit usage on the Home or Dashboard page.
 
 {% hint style="info" %}
 **Hint**\
@@ -31,9 +34,9 @@ You can monitor network traffic and storage usage for each container in the **Re
 
 ## **Calculate Your Credit Usage**
 
-Arkain allows you to estimate **credit consumption** based on **performance and usage purpose**. Plan your credits wisely and optimize your service usage efficiently.&#x20;
+Arkain allows you to estimate credit consumption based on performance and usage purpose. Plan your credits wisely and optimize your service usage efficiently.&#x20;
 
-You can check the **Credit Calculator** on the **Pricing Page** or **Payment Page** to get a detailed estimate and ensure you're only using what you need!&#x20;
+You can check the Credit Calculator on the Pricing Page or Payment Page to get a detailed estimate and ensure you're only using what you need!&#x20;
 
 * The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
 * You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
@@ -45,24 +48,51 @@ You can check the **Credit Calculator** on the **Pricing Page** or **Payment Pag
 You can purchase credits as needed on the **Payment page**. \
 Follow these steps to charge credits:
 
-* **Minimum Purchase**: You can purchase credits starting from a minimum of **100 credits**.&#x20;
+{% stepper %}
+{% step %}
+### **Navigate to the Payment Page**
 
-1. **Navigate to the Payment Page**
-   1. You can access it through the **\[To buy credit]** button on the **Home or Dashboard page**.
-   2. You can access it through the **\[Buy now]** button on the **Pricing page**.
-   3. You can access it through the **\[Buy credit]** button on the **Billing page**.
-   4. You can access it through the **\[Buy additional credits]** button on the **Workspace.**
-2. **Enter the Number of Credits**: Specify how many credits you want to purchase. You can use bulk buttons for convenience.&#x20;
-3. **Calculate Credits**: Click the **\[Calculate credits]** button to estimate the amount based on your usage.&#x20;
-4. **Confirm Purchase**: Review the amount of credits and the total payment amount.&#x20;
-5. **Enter the Payment details**: Enter the required information, and click the **\[Charge credits]** button.&#x20;
+* You can access it through the **\[To buy credit]** button on the **Home or Dashboard page**.
+* You can access it through the **\[Buy now]** button on the **Pricing page**.
+* You can access it through the **\[Buy credit]** button on the **Billing page**.
+* You can access it through the **\[Buy additional credits]** button on the **Workspace.**
+{% endstep %}
 
-***
+{% step %}
+### **Enter the Number of Credits**
+
+Specify how many credits you want to purchase. You can use bulk buttons for convenience.&#x20;
+{% endstep %}
+
+{% step %}
+### **Calculate Credits**
+
+Click the **\[Calculate credits]** button to estimate the amount based on your usage.&#x20;
+{% endstep %}
+
+{% step %}
+### **Confirm Purchase**
+
+Review the amount of credits and the total payment amount.&#x20;
+{% endstep %}
+
+{% step %}
+### **Enter the Payment details**
+
+Enter the required information, and click the **\[Charge credits]** button.&#x20;
+{% endstep %}
+{% endstepper %}
+
+{% hint style="info" %}
+**Minimum Purchase**: You can purchase credits starting from a minimum of **100 credits**.&#x20;
+{% endhint %}
 
 ## Managing Credits
 
-* **Check Purchased Credits**: You can view the amount of credits you've purchased on the **Billing page**.&#x20;
-* **Monthly Usage Report**: Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently.&#x20;
+* **Check Purchased Credits**\
+  You can view the amount of credits you've purchased on the **Billing page**.&#x20;
+* **Monthly Usage Report**\
+  Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently.&#x20;
   * **The Credit Usage page** can be accessed by clicking **\[Profile]** → **\[Billing]** → **\[View usage]** in the dashboard.
 
 ***
@@ -71,10 +101,14 @@ Follow these steps to charge credits:
 
 This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
 
-* **Duration**: Assumes **720 hours** per month and does not account for leap years.&#x20;
-* **Promotional Credits**: Does not include promotional credits or discounts.
-* **Additional Charges**: Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
-* **Currency**: Forecasts are based on a fixed exchange rate.
+* **Duration**\
+  Assumes **720 hours** per month and does not account for leap years.&#x20;
+* **Promotional Credits**\
+  Does not include promotional credits or discounts.
+* **Additional Charges**\
+  Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
+* **Currency**\
+  Forecasts are based on a fixed exchange rate.
 
 ### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 

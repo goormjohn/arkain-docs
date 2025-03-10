@@ -1,18 +1,16 @@
 ---
 icon: eggplant
+description: >-
+  With just a few clicks, you can set up your development environment and start
+  developing with the powerful features of Arkain. Here’s a quick guide to get
+  started.
 ---
 
-# Arkain Snap
+# Quick Start
 
-## **How to Use Arkain in 1 Minute**&#x20;
 
-With just a few clicks, you can set up your development environment and start developing with the powerful features of Arkain. Here’s a quick guide to get started.
 
 <figure><img src="../.gitbook/assets/GitHub_01 (2).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-
 
 {% stepper %}
 {% step %}
@@ -50,8 +48,7 @@ Click the \[**New Container]** button at the top of the page. By using the short
 {% step %}
 ### Complete the initial project setup using Arkain Snap
 
-Enter the details you want to create in the prompt. Arkain Snap will quickly set up the project for you.\
-Or run the example project at the bottom of the prompt.
+Enter the details you want to create in the prompt. Arkain Snap will quickly set up the project for you. Or run the example project at the bottom of the prompt.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Arkain Snap</p></figcaption></figure>
 

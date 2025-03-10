@@ -19,7 +19,7 @@
 ## Getting Started
 
 * [What is Arkain?](getting-started-1/what-is-arkain.md)
-* [Arkain Snap](getting-started-1/arkain-snap.md)
+* [Quick Start](getting-started-1/quick-start.md)
 
 ## User Guide
 

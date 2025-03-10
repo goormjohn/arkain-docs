@@ -19,6 +19,7 @@ Arkain isn't just a coding platform—it’s your [**intelligent coding companio
 * Get **smart code suggestions** in real time.
 * **Auto-complete functions** and optimize your code.
 * Collaborate effortlessly with AI to **write, debug, and refine** your projects.
+* With **Arkain Snap**, you can automatically set up your development environment using prompts.
 
 Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today!&#x20;
 
@@ -32,9 +33,7 @@ Whether you're a beginner or a seasoned developer, Arkain empowers you to **code
 
 With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**.&#x20;
 
-\
-Additionally, it offers a **blank** stack with only the Ubuntu OS installed, allowing users to freely customize their own development environments. \
-
+Additionally, it offers a **blank** stack with only the Ubuntu OS installed, allowing users to freely customize their own development environments.&#x20;
 
 Arkain also specializes in AI by offering **GPU**-optimized development environments tailored for AI-related projects.
 
@@ -47,7 +46,7 @@ Arkain empowers developers to work together effortlessly with:
 
 ### **Templates: Jumpstart Your Projects**&#x20;
 
-Leverage **user-generated templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
+Leverage user-generated **Templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
 
 ### **AI-Powered Assistance with Side Chat**&#x20;
 

@@ -12,7 +12,7 @@ Arkain offers a standard Default Editor along with Vim Editor, Emacs Editor, and
 
 ### Default Editor
 
-The Default Editor is a text editor that can be opened within the editor section. To open a file, double-click the file you want to open in the Project Sidebar or right-click and go to **\[Open]** or **\[Open As]** → **\[Default Editor]**.
+The Default Editor is a text editor that can be opened within the editor section. To open a file, double-click the file you want to open in the Project Sidebar or right-click and go to **\[Open]** or **\[Open As]** → **\[Default Editor]**.
 
 Alternatively, press the default shortcut <kbd>**Ctrl**</kbd>**&#x20;+&#x20;**<kbd>**O**</kbd> (macOS <kbd>⌘</kbd> <kbd>O</kbd>). In the 'Open File' pop-up window that appears, select the file and press the **\[OK]** button to open it.&#x20;
 

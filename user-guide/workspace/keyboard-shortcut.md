@@ -38,15 +38,11 @@ Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key ins
 | Cut                        | <kbd>Cmd ⌘</kbd> + <kbd>X</kbd>                         | <kbd>Ctrl</kbd> + <kbd>X</kbd>                     |
 | Copy                       | <kbd>Cmd ⌘</kbd> + <kbd>C</kbd>                         | <kbd>Ctrl</kbd> + <kbd>C</kbd>                     |
 | Paste                      | <kbd>Cmd ⌘</kbd> + <kbd>V</kbd>                         | <kbd>Ctrl</kbd> + <kbd>V</kbd>                     |
-| Copy (Terminal)            | <kbd>Cmd ⌘</kbd> + <kbd>,</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>  |
-| Paste (Terminal)           | <kbd>Cmd ⌘</kbd> + <kbd>,</kbd>                         | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>  |
-| Delete Left                | <kbd>Cmd ⌘</kbd> + <kbd>backspace ⌫</kbd>               | <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>             |
-| Delete Right               | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>K</kbd>          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>K</kbd>      |
 | Increase Font Size         | <kbd>Cmd ⌘</kbd> + <kbd>=</kbd>                         | <kbd>Ctrl</kbd> + <kbd>=</kbd>                     |
 | Decrease Font Size         | <kbd>Cmd ⌘</kbd> + <kbd>-</kbd>                         | <kbd>Ctrl</kbd> + <kbd>-</kbd>                     |
 | Go to Line                 | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>L</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>L</kbd>    |
-| Go Backward                | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↓</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>↓</kbd>    |
 | Go Forward                 | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↑</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>↑</kbd>    |
+| Go Backward                | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↓</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>↓</kbd>    |
 | Toggle Bookmark            | <kbd>Cmd ⌘</kbd> + <kbd>F2</kbd>                        | <kbd>Ctrl</kbd> + <kbd>F2</kbd>                    |
 | Next Bookmark              | <kbd>F2</kbd>                                           | <kbd>F2</kbd>                                      |
 | Previous Bookmark          | <kbd>Shift ⇧</kbd> + <kbd>F2</kbd>                      | <kbd>Shift</kbd> + <kbd>F2</kbd>                   |

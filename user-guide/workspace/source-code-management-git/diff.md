@@ -1,8 +1,8 @@
 ---
-icon: code-branch
 description: >-
   Diff lets you see what changes have been made in your Arkain before committing
   to your linked Git account.
+icon: code-branch
 ---
 
 # Diff
@@ -24,7 +24,9 @@ If you open the **\[Git]** tab and there is only a **\[Register repository]** bu
 
 You can compare the source code **before the change (left)** and the source code **after the change (right)**.
 
-In the pre-change source code, **lines of code that were deleted are&#x20;**<mark style="color:red;">**highlighted in red**</mark> and marked with a - next to the line number. In the after-change source code shows the **lines of code that were added with a&#x20;**<mark style="color:green;">**green highlight**</mark> and a + next to the line number. Also, the code that was actually changed is highlighted darker.
+In the pre-change source code, **lines of code that were deleted are&#x20;**<mark style="color:red;">**highlighted in red**</mark> and marked with a - next to the line number. In the after-change source code shows the **lines of code that were added with a&#x20;**<mark style="color:green;">**green highlight**</mark> and a + next to the line number.&#x20;
+
+Also, the code that was actually changed is highlighted darker.
 
 {% hint style="info" %}
 **The status of the file determines which source code is compared.**

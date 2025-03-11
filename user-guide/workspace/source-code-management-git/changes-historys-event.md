@@ -4,7 +4,7 @@ icon: code-branch
 
 # Changes / Historys / Event tabs
 
-Check the revision status of the current project files/folders in the Changes, Historys, Event tab of the Git Sidebar. You can use key Git commands such as **Add, Commit, Push, Pull,** and **Ignore** here.
+Check the revision status of the current project files / folders in the Changes, Historys, Event tab of the Git Sidebar. You can use key Git commands such as **Add, Commit, Push, Pull,** and **Ignore** here.
 
 <figure><img src="../../../.gitbook/assets/git_03 (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ icon: container-storage
 
 # Container
 
-Arkain provides **container**, which is isolated environments that package everything needed to run software (code, libraries, configuration files, etc.) into a single package.
+Arkain provides **Container**, which is isolated environments that package everything needed to run software (code, libraries, configuration files, etc.) into a single package.
 
 A **stack** is a pre-configured software package that is installed by default in a container. Each container has a single stack, but users can install additional software based on their project requirements.
 

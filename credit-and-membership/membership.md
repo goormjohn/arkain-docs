@@ -10,6 +10,11 @@ The Membership plan is designed for those who want to create large projects with
 * **Payment Options**: You can choose to pay either monthly or annually.
 * **More info**: You can also check out our pricing page for more information about our membership benefits.
 
+{% hint style="success" %}
+**Enjoy full access to Arkain’s powerful features and explore a variety of LLMs with our exclusive Beta Membership—available only for a limited time during the beta period.** \
+Please note that this beta-exclusive membership is temporary, and your access will conclude once Arkain officially launches. We will provide clear notice in advance of this transition.
+{% endhint %}
+
 ***
 
 ## Free Plan vs. Membership Plan&#x20;

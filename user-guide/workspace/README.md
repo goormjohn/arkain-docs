@@ -4,13 +4,13 @@ icon: square-check
 
 # Workspace
 
-Arkain's **Workspace** is an IDE(Integrated Development Environment) designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The key area terms of the Workspace are as follows.
+Arkain's **Workspace** is an IDE (Integrated Development Environment) designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The key area terms of the Workspace are as follows.
 
 {% embed url="https://app.arcade.software/share/EWhXYMTHK9Hpwxo89W9g" %}
 
 ***
 
-## 1. Menu bar <a href="#menu-bar" id="menu-bar"></a>
+## Menu bar <a href="#menu-bar" id="menu-bar"></a>
 
 <figure><img src="../../.gitbook/assets/Workspace_02 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../pricing/credits.md) **will be consumed.** It is recommended to click the **\[EXIT]** button to exit Arkain.
 {% endhint %}
 
-## 2. Activity bar <a href="#sidebar" id="sidebar"></a>
+## Activity bar <a href="#sidebar" id="sidebar"></a>
 
 The sidebar is an area that helps you easily access key features needed for development. You can open a different Sidebar by clicking on the icons in the Activity bar.
 
@@ -140,13 +140,13 @@ You can navigate to the page where you can manage your member profile and contai
 * **Go to Dashboard :** You exit the workspace and move to the dashboard.
 * **Sign out** : You can log out.
 
-## 3. Editor <a href="#editor" id="editor"></a>
+## Editor <a href="#editor" id="editor"></a>
 
 The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## 4. Toggle Panel <a href="#terminal" id="terminal"></a>
+## Toggle Panel <a href="#terminal" id="terminal"></a>
 
 In Arkain's toggle panel, you can use features such as the terminal, search, and resource monitor.
 
@@ -176,7 +176,7 @@ The resource monitor panel displays the usage of container resources such as CPU
 
 <figure><img src="../../.gitbook/assets/Resource_01.png" alt=""><figcaption></figcaption></figure>
 
-## 5. Bottom bar <a href="#terminal" id="terminal"></a>
+## Bottom bar <a href="#terminal" id="terminal"></a>
 
 The bottom bar is an area that provides various tools and information to enhance convenience when using Arkain. It includes the editor's code Lint and Editor information, along with the Toggle Panel, Auto-completion, and Auto-off toggle buttons.
 

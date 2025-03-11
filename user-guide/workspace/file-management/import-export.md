@@ -1,8 +1,8 @@
 ---
-icon: cabinet-filing
 description: >-
   Download files created in Arkain to your computer, or upload files from your
   computer to Arkain. Arkain also supports uploading folders.
+icon: cabinet-filing
 ---
 
 # Import / Export
@@ -13,7 +13,7 @@ Upload a file from your computer to Arkain. Files with special characters other 
 
 {% stepper %}
 {% step %}
-Right-click on an empty area in the Project sidebar and select **\[Import File]**.
+Right-click on an empty area in the Project Sidebar and select **\[Import File]**.
 {% endstep %}
 
 {% step %}
@@ -29,7 +29,7 @@ You can download Arkain's project files to your local system using the **Export 
 
 {% stepper %}
 {% step %}
-Right-click on the desired file in the project sidebar and select **\[Export File]**.
+Right-click on the desired file in the Project Sidebar and select **\[Export File]**.
 {% endstep %}
 
 {% step %}
@@ -45,7 +45,7 @@ Download a folder from Arkain to your computer. To download:
 
 {% stepper %}
 {% step %}
-Right-click on the desired file in the project sidebar and select **\[Export Folder]**.
+Right-click on the desired file in the Project Sidebar and select **\[Export Folder]**.
 {% endstep %}
 
 {% step %}
@@ -63,7 +63,7 @@ Right-click the file in the file tree and select **\[Share This File]**.
 {% endstep %}
 
 {% step %}
-Right-click on the file you want to share in the project sidebar and select **\[Share this File]**.
+Right-click on the file you want to share in the Project Sidebar and select **\[Share this File]**.
 {% endstep %}
 
 {% step %}

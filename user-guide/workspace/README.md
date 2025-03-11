@@ -197,7 +197,7 @@ The lint information is only available in the Python container.
 * **Devtools**: You can open and close the Toggle Panel. Closing the Toggle Panel allows you to focus more on your code.
 * **Auto-Completion**: Get smart coding suggestions in real-time.
 * **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed.
-* **1:1 Support Chat** – Click to open a chat window for direct support.
+* [**Contact us**](https://arkain.channel.io/home) – Click to open a chat window for direct support.
 
 
 

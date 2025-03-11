@@ -11,8 +11,7 @@ The Membership plan is designed for those who want to create large projects with
 * **More info**: You can also check out our pricing page for more information about our membership benefits.
 
 {% hint style="success" %}
-**Enjoy full access to Arkain’s powerful features and explore a variety of LLMs with our exclusive Beta Membership—available only for a limited time during the beta period.** \
-Please note that this beta-exclusive membership is temporary, and your access will conclude once Arkain officially launches. We will provide clear notice in advance of this transition.
+**Get full access to Arkain's powerful features and explore a variety of LLMs with our exclusive Beta Membership—available only during the beta. This membership is temporary and will end when Arkain officially launches. We'll give you plenty of notice before this transition.**
 {% endhint %}
 
 ***

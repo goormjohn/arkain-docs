@@ -4,8 +4,6 @@ icon: circle-chevron-right
 
 # What is Arkain?
 
-
-
 <figure><img src="../.gitbook/assets/bg (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
@@ -19,7 +17,7 @@ Arkain isn't just a coding platform—it’s your [**intelligent coding companio
 * Get **smart code suggestions** in real time.
 * **Auto-complete functions** and optimize your code.
 * Collaborate effortlessly with AI to **write, debug, and refine** your projects.
-* Build a development environment with natural language using the intelligent AI agent **Arkain Snap**.
+* You can automatically build a development environment using natural language with the intelligent AI agent **Arkain Snap**.
 
 Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today!&#x20;
 
@@ -44,17 +42,19 @@ Arkain empowers developers to work together effortlessly with:
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
 
-### **Templates: Jumpstart Your Projects**&#x20;
-
-Leverage user-generated **Templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
-
-### **AI-Powered Assistance with Side Chat**&#x20;
+### **AI-Powered Assistance with Side Chat & Arkain Snap**&#x20;
 
 Arkain’s [**Side Chat**](../user-guide/arkain-ai/how-to-use-side-chat.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
 * **Searchable Chat History** – Revisit past conversations anytime.
 * **Flexible AI Models** – Switch between different AI assistants based on your needs.
+
+**Arkain Snap** enables fast and easy initial development environment setup with AI assistance when creating containers.
+
+### **Templates: Jumpstart Your Projects**&#x20;
+
+Leverage user-generated **Templates** to quickly start projects without the hassle of setting up environments from scratch. Browse through templates in the community, customize them to fit your needs, and share your own templates with others. Whether you're building an API, a web app, or a machine learning project, there's a template for you.
 
 ***
 

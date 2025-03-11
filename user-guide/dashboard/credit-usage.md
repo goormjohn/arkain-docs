@@ -1,10 +1,11 @@
 ---
+description: >-
+  You can check your credit usage by clicking [View credit usage] button at the
+  right of the Dashboard.
 icon: coin-front
 ---
 
 # Credit Usage
-
-You can check your credit usage by clicking **\[View credit usage]** button at the right of the Dashboard.
 
 ## **How to Use the Credit Usage**
 

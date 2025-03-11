@@ -2,7 +2,7 @@
 icon: brackets-curly
 ---
 
-# URL/Port
+# URL / Port
 
 ### Domain <a href="#domain" id="domain"></a>
 
@@ -37,9 +37,9 @@ And enter the domain to register starting from `www`, and upload the `crt` and `
 Set the DNS CNAME of Arkain on the domain management service page. You need to configure a different CNAME depending on the container's region.
 
 * **Seoul**: domain.run-ko-seoul1.arkain.site
-* **Oregon**: domain.run-us-west2.arkain.io
-* **Frankfrut**: domain.run-eu-central1.arkain.io
-* **Mumbai**: domain.run-ap-south1.arkain.io
+* **Oregon**: domain.run-us-west2.arkain.site
+* **Frankfrut**: domain.run-eu-central1.arkain.site
+* **Mumbai**: domain.run-ap-south1.arkain.site
 
 ### Accessing the Domain through browser <a href="#accessing-the-domain-through-browser" id="accessing-the-domain-through-browser"></a>
 

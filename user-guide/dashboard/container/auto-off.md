@@ -16,7 +16,7 @@ When **Auto-off** is **On**;
 
 When **Auto-off** is **Off**;
 
-* **Manual Exit(stop)**: The container will continue to run even if you close only browsers. Please manually stop the container by clicking the **\[Container Exit]** button located in the Workspace or the **\[Stop]** button located in the dashboard.
+* **Manual Exit** (stop): The container will continue to run even if you close only browsers. Please manually stop the container by clicking the **\[Container Exit]** button located in the Workspace or the **\[Stop]** button located in the dashboard.
 * **Credit use**: If you do not manually stop the container, it will continue to deduct credits. To avoid unnecessary credit use, be sure to exit and stop the container.
 
 {% hint style="danger" %}

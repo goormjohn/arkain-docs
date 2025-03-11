@@ -47,8 +47,8 @@ Clicking on **\[Side Chat]** will open a Side Chat on the left side of the Works
 
 <figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../arkain-ai/how-to-use-side-chat.md" %}
-[how-to-use-side-chat.md](../arkain-ai/how-to-use-side-chat.md)
+{% content-ref url="../arkain-ai/what-is-arkain-snap.md" %}
+[what-is-arkain-snap.md](../arkain-ai/what-is-arkain-snap.md)
 {% endcontent-ref %}
 
 ### <img src="../../.gitbook/assets/ActivityBar-item-2.png" alt="" data-size="line"> [Project](./#project-sidebar)

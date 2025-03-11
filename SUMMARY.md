@@ -79,6 +79,7 @@
   * [URL / Port](user-guide/workspace/url-port.md)
   * [Keyboard Shortcut](user-guide/workspace/keyboard-shortcut.md)
 * [Arkain AI](user-guide/arkain-ai/README.md)
+  * [What is Arkain Snap](user-guide/arkain-ai/what-is-arkain-snap.md)
   * [How to use Side Chat](user-guide/arkain-ai/how-to-use-side-chat.md)
   * [Supported Models](user-guide/arkain-ai/supported-models.md)
   * [Auto-completion](user-guide/arkain-ai/auto-complete.md)

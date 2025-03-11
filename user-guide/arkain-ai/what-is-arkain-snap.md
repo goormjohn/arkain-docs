@@ -20,11 +20,15 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
   * _"Can you optimize this SQL query?"_
   * _"What does this error mean in Python?"_
 
+
+
 ## **Managing Chat History**
 
 ### **Persistent Chat History**
 
 All your conversations in Side Chat are saved under **History**. You can revisit past sessions to review previous answers or refer back to specific code solutions.
+
+
 
 ### Delete Chat History
 

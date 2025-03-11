@@ -15,7 +15,8 @@ Clicking the [**\[Contact us\]**](https://arkain.channel.io/home)( ![](<../.gitb
 
 {% step %}
 Please provide details about the bug. We will check the bug and try to respond as soon as possible.
-
-<figure><img src="../.gitbook/assets/스크린샷 2025-02-24 오후 12.29.39.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../.gitbook/assets/스크린샷 2025-03-11 오후 4.41.27.png" alt=""><figcaption></figcaption></figure>
+

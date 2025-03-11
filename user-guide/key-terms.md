@@ -62,4 +62,16 @@ The **Panel**, located below the editor, displays essential tools such as the te
 
 ### Side Chat
 
-This is where Arkain communicates with AI. Most magical experiences happen here.
+The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the chat history feature.
+
+### Arkain Snap
+
+**Arkain Snap** is an AI assistance that turns ideas into reality. With just natural language, it automates the initial setup of container development environments, and for simple ideas, it creates prototypes just by making a request.
+
+### Auto-completion
+
+The **Auto-completion** feature is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
+
+### Auto-off
+
+This is w

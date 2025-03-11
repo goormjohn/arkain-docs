@@ -53,16 +53,14 @@ Fill in your payment details and click the **\[Start Membership]** button.&#x20;
 
 ## Managing Membership&#x20;
 
-* **View Subscription Information**\
-  You can check your subscription details on the **Billing page**.&#x20;
+**View Subscription Information**\
+You can check your subscription details on the **Billing page**.&#x20;
 
 ***
 
 ## Unsubscribe Membership
 
-* If you wish to cancel your membership subscription, go to the Billing page and click the **\[Cancel membership]** button.
-
-
+If you wish to cancel your membership subscription, go to the Billing page and click the **\[Cancel membership]** button.
 
 <details>
 

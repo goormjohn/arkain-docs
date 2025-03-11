@@ -86,7 +86,7 @@
 * [Arkain AI](user-guide/arkain-ai/README.md)
   * [How to use Side Chat](user-guide/arkain-ai/how-to-use-side-chat.md)
   * [Supported Models](user-guide/arkain-ai/supported-models.md)
-  * [Auto-complete](user-guide/arkain-ai/auto-complete.md)
+  * [Auto-completion](user-guide/arkain-ai/auto-completion.md)
 * [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 

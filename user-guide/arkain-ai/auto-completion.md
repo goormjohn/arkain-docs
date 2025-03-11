@@ -2,9 +2,9 @@
 icon: message-bot
 ---
 
-# Auto-complete
+# Auto-completion
 
-The **AI code completion** feature is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
+The **Auto-completion** feature is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
 
 ### Key features <a href="#key-features" id="key-features"></a>
 
@@ -16,10 +16,6 @@ The **AI code completion** feature is a convenient function that recommends code
 * Clicking the **\[Auto completion]** button at the bottom right of the workspace toggles the feature on or off. When the feature is enabled, the **\[Auto completion]** button appears purple.
 
 <figure><img src="../../.gitbook/assets/Auto-complete_01.png" alt=""><figcaption></figcaption></figure>
-
-* In the Activity bar → Preferences(![](<../../.gitbook/assets/new_setting (5).png>) ) → Editor → AI code completion → ??
-
-<figure><img src="../../.gitbook/assets/Auto-complete_02.png" alt=""><figcaption></figcaption></figure>
 
 ### How to Use <a href="#how-to-use" id="how-to-use"></a>
 

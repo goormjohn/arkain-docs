@@ -34,11 +34,6 @@ Get visibility into your software.
 {% endstep %}
 {% endstepper %}
 
-## Generate SBOM report
+## How to Generate SBOM and Automatic Generation Method
 
-{% embed url="https://app.arcade.software/share/YKWow1QuR3eMzjL1Zy3l" %}
-
-## Genrate SBOM report Automatically
-
-{% embed url="https://app.arcade.software/share/mVUWG7tPd3zTMAIONuO3" %}
-
+{% embed url="https://app.arcade.software/share/IKJqld6K1I5G5y5xCxog" %}

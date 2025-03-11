@@ -30,11 +30,7 @@ The **Workspace** is the IDE environment where developers create and manage thei
 
 **Membership** refers to Arkain's paid plan designed for users who want to create large projects with enhanced features and advanced support compared to the Free Plan.
 
-***
 
-## Dashboard Elements
-
-**\[ TBD ]**
 
 ***
 

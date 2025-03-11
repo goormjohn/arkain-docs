@@ -1,14 +1,12 @@
 ---
-icon: eggplant
 description: >-
   With just a few clicks, you can set up your development environment and start
-  developing with the powerful features of Arkain. Here’s a quick guide to get
-  started.
+  developing with the powerful features of Arkain. Get started quickly and
+  master Arkain with Quick Started.
+icon: eggplant
 ---
 
 # Quick Start
-
-
 
 <figure><img src="../.gitbook/assets/GitHub_01 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,36 +22,36 @@ The [**Dashboard**](https://arkain.io/my/dashboard) is a centralized space where
 {% step %}
 ### **Click \[New Container]**
 
-Click the \[**New Container]** button at the top of the page. By using the shortcut icon next to the **\[New Container]** button, you can create your desired container stack more quickly.
+Click the **\[New Container]** button at the top of the page. By using the shortcut icon next to the **\[New Container]** button, you can create your desired container stack more quickly.
 {% endstep %}
 
 {% step %}
 ### **Enter Container Information**
 
-1. **Select a Stack**\
-   Choose the stack that fits your project. You can search for stacks by name to find the one you need. Some stacks can set up the container environment by entering AI prompt when the container is running.
-2. **Select OS version**\
-   Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
-3. **Enter the Container Name**\
-   The name must only include alphabets, numbers, hyphens, and underscores.
-4. **Select Container Specifications**
-   1. Choose the container’s performance (Micro, Small, Medium, or Large). You can modify these settings after creation.
-   2. If additional storage capacity is required, enter the storage capacity you want to add.
-5. **Activate Additional Modules/Packages**\
-   If needed, activate any additional modules or packages you wish to install.
-6. **Click \[Create]**\
-   After entering all the required information, click the \[**Create]** button to set up your container.
+* **Select a Stack**\
+  Choose the stack that fits your project. You can search for stacks by name to find the one you need. Some stacks can set up the container environment by entering AI prompt when the container is running.
+* **Select OS version**\
+  Depending on the selected stack, you can configure operating system that best suit your project’s requirements.
+* **Enter the Container Name**\
+  The name must only include alphabets, numbers, hyphens, and underscores.
+* **Select Container Specifications**
+  * Choose the container’s performance (Micro, Small, Medium, or Large). You can modify these settings after creation.
+  * If additional storage capacity is required, enter the storage capacity you want to add.
+* **Activate Additional Modules/Packages**\
+  If needed, activate any additional modules or packages you wish to install.
+* **Click \[Create]**\
+  After entering all the required information, click the \[**Create]** button to set up your container.
 {% endstep %}
 
 {% step %}
 ### Complete the initial project setup using Arkain Snap
 
-Enter the details you want to create in the prompt. Arkain Snap will quickly set up the project for you. Or run the example project at the bottom of the prompt.
+Enter the details you want to create in the prompt. **Arkain Snap** will quickly set up the project for you. Or run the example project at the bottom of the prompt.
 
 <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Arkain Snap</p></figcaption></figure>
 
 {% hint style="info" %}
-Click the **\[Skip]** button to enter the IDE directly.
+Click the **\[Skip]** button to enter the Arkain's Workspace directly.
 {% endhint %}
 {% endstep %}
 

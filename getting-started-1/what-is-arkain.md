@@ -19,7 +19,7 @@ Arkain isn't just a coding platform—it’s your [**intelligent coding companio
 * Get **smart code suggestions** in real time.
 * **Auto-complete functions** and optimize your code.
 * Collaborate effortlessly with AI to **write, debug, and refine** your projects.
-* With **Arkain Snap**, you can automatically set up your development environment using prompts.
+* Build a development environment with natural language using the intelligent AI agent **Arkain Snap**.
 
 Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today!&#x20;
 

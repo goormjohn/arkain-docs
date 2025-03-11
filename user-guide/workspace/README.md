@@ -16,12 +16,12 @@ Arkain's **Workspace** is an IDE (Integrated Development Environment) designed t
 
 The Menu bar is where you perform general operations on your Arkain Workspace. It includes, from left to right
 
-* The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button (1).png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and project properties, New Terminal Window.
+* The **\[Menu]** button(<img src="../../.gitbook/assets/[core] Button (1).png" alt="" data-size="line">) of the menu bar allowing users to Process list, SSH Configuration, Manage SBOM, and New Terminal Window.
 
 <figure><img src="../../.gitbook/assets/Workspace_03 (1).png" alt=""><figcaption></figcaption></figure>
 
 * The **\[Save]** button(<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) allows you to save the open file, save as a new name, or save all files.
-* The **\[Preview]** button(![](../../.gitbook/assets/preview.png)) allows users to preview their project within the workspace or in a new tab or workspace. It also provides options for configuring the execution URL and port settings.
+* The **\[Preview]** button(<img src="../../.gitbook/assets/preview.png" alt="" data-size="line">) allows users to preview their project within the Workspace or in a new tab or Workspace. It also provides options for configuring the execution URL and port settings.
 
 <figure><img src="../../.gitbook/assets/Workspace_04 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,11 +39,11 @@ Even if you close the web browser, the container will remain running. **While th
 
 ## Activity bar <a href="#sidebar" id="sidebar"></a>
 
-The sidebar is an area that helps you easily access key features needed for development. You can open a different Sidebar by clicking on the icons in the Activity bar.
+The Sidebar is an area that helps you easily access key features needed for development. You can open a different Sidebar by clicking on the icons in the Activity bar.
 
 ### &#x20;![](../../.gitbook/assets/aichat.png) [Side Chat](../arkain-ai/)
 
-Clicking on **\[Side Chat]** will open a Side Chat on the left side of the workspace, where you can converse with the **AI code assistant**.
+Clicking on **\[Side Chat]** will open a Side Chat on the left side of the Workspace, where you can converse with the **AI Code Assistant**.
 
 <figure><img src="../../.gitbook/assets/Workspace_06 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ Right-click on a file to access all available file-related features, including r
 
 ### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [Git](source-code-management-git/git.md)
 
-It opens Git, a distributed version control system, in the sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
+It opens Git, a distributed version control system, in the Sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
 
 <figure><img src="../../.gitbook/assets/git_11 (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -88,7 +88,7 @@ It opens Git, a distributed version control system, in the sidebar to track and 
 
 ### <img src="../../.gitbook/assets/ActivityBar-item-3.png" alt="" data-size="line"> [Source Code](./#source-code-sidebar)
 
-It opens a sidebar where you can view the source code's hierarchy, bookmarks, and change history.
+It opens a Sidebar where you can view the source code's hierarchy, bookmarks, and change history.
 
 <figure><img src="../../.gitbook/assets/2025-02-012.48.21-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
@@ -119,13 +119,13 @@ Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), an
 
 ### &#x20;<img src="../../.gitbook/assets/preference.png" alt="" data-size="line"> Preference
 
-You can open the project settings modal. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as AI auto-completion.
+You can open the project settings modal. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as **Auto-Completion**.
 
 <figure><img src="../../.gitbook/assets/Workspace_09.png" alt=""><figcaption></figcaption></figure>
 
-#### Profile and Container Info : You can navigate to the page where you can manage your **member profile** and **container information**.
+#### Profile and Container Info
 
-You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
+You can navigate to the page where you can manage your **member profile** and **container information**. You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
 
 ### ![](../../.gitbook/assets/avatar.png) Account
 
@@ -150,7 +150,7 @@ The Editor section of the Workspace displays the content of the currently select
 
 In Arkain's toggle panel, you can use features such as the terminal, search, and resource monitor.
 
-### Terminal Panel
+### Terminal
 
 **Arkain** provides a built-in terminal, so developers who are comfortable with commands can use it to perform advanced tasks.
 
@@ -164,13 +164,13 @@ You can open the Terminal in a new window by right-clicking on a folder or file 
 As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as `ufw`, `systemctl`, `docker`(docker in docker) cannot be used.
 {% endhint %}
 
-### Search Panel
+### Search
 
 The Search Panel displays search results for all documents within the project. When you change the search scope to 'Search All' in search or replace, the Search Panel will show keyword search results for each file.
 
 <figure><img src="../../.gitbook/assets/Search_01.png" alt=""><figcaption></figcaption></figure>
 
-### Resource monitor Panel
+### Resource monitor
 
 The resource monitor panel displays the usage of container resources such as CPU, memory, disk, and network in a graphical format.
 
@@ -197,7 +197,7 @@ The lint information is only available in the Python container.
 * **Devtools**: You can open and close the Toggle Panel. Closing the Toggle Panel allows you to focus more on your code.
 * **Auto-Completion**: Get smart coding suggestions in real-time.
 * **Auto-off**: You can toggle the feature to automatically stop container usage when the browser is closed.
-* [**Contact us**](https://arkain.channel.io/home) – Click to open a chat window for direct support.
+* **Contact us** – Click to open a chat window for direct support.
 
 
 

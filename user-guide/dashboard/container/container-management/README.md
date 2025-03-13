@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here is an introduction to creating, deleting, and modifying the settings of
-  containers.
+  Here is an introduction to creating, starting, stopping, deleting containers,
+  and modifying container settings.
 icon: container-storage
 ---
 

@@ -2,11 +2,6 @@
 
 * [Arkain Guides](README.md)
 
-## Getting Started
-
-* [Quickstart - 임시](getting-started/quickstart.md)
-* [Publish your docs - 임시](getting-started/publish-your-docs.md)
-
 ## Basics
 
 * [Editor - 임시](basics/editor.md)
@@ -18,9 +13,9 @@
 
 ## Getting Started
 
-* [What is Arkain?](getting-started-1/what-is-arkain.md)
-* [Quick Start](getting-started-1/quick-start.md)
-* [Copy of Quick Start](getting-started-1/copy-of-quick-start.md)
+* [What is Arkain?](getting-started/what-is-arkain.md)
+* [Quick Started](getting-started/quick-started.md)
+* [Copy of Quick Started](getting-started/copy-of-quick-started.md)
 
 ## User Guide
 

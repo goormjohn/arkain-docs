@@ -1,3 +1,7 @@
+---
+icon: play
+---
+
 # How to use Side Chat
 
 ## How to Vibe Coding with Arkain's Side Chat

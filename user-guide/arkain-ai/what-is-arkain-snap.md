@@ -1,5 +1,5 @@
 ---
-icon: comment-exclamation
+icon: play
 ---
 
 # What is Arkain Snap

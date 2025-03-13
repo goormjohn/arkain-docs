@@ -43,50 +43,6 @@ You can check the Credit Calculator on the Pricing Page or Payment Page to get a
 
 ***
 
-## Purchasing Credits
-
-You can purchase credits as needed on the **Payment page**. \
-Follow these steps to charge credits:
-
-{% stepper %}
-{% step %}
-### **Navigate to the Payment Page**
-
-* You can access it through the **\[To buy credit]** button on the **Home or Dashboard page**.
-* You can access it through the **\[Buy now]** button on the **Pricing page**.
-* You can access it through the **\[Buy credit]** button on the **Billing page**.
-* You can access it through the **\[Buy additional credits]** button on the **Workspace.**
-{% endstep %}
-
-{% step %}
-### **Enter the Number of Credits**
-
-Specify how many credits you want to purchase. You can use bulk buttons for convenience.&#x20;
-{% endstep %}
-
-{% step %}
-### **Calculate Credits**
-
-Click the **\[Calculate credits]** button to estimate the amount based on your usage.&#x20;
-{% endstep %}
-
-{% step %}
-### **Confirm Purchase**
-
-Review the amount of credits and the total payment amount.&#x20;
-{% endstep %}
-
-{% step %}
-### **Enter the Payment details**
-
-Enter the required information, and click the **\[Charge credits]** button.&#x20;
-{% endstep %}
-{% endstepper %}
-
-{% hint style="info" %}
-**Minimum Purchase**: You can purchase credits starting from a minimum of **100 credits**.&#x20;
-{% endhint %}
-
 ## Managing Credits
 
 * **Check Purchased Credits**\
@@ -94,38 +50,6 @@ Enter the required information, and click the **\[Charge credits]** button.&#x20
 * **Monthly Usage Report**\
   Access the **Credit Usage page** to review your monthly credit usage report. This helps you manage your credit payments efficiently.&#x20;
   * **The Credit Usage page** can be accessed by clicking **\[Profile]** → **\[Billing]** → **\[View usage]** in the dashboard.
-
-***
-
-## How Credits Are Calculated
-
-This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
-
-* **Duration**\
-  Assumes **720 hours** per month and does not account for leap years.&#x20;
-* **Promotional Credits**\
-  Does not include promotional credits or discounts.
-* **Additional Charges**\
-  Does not account for additional usage not included in the forecast (e.g., if you use more than **5GB** of storage on the Free plan, you pay **0.018 credits** per GB per hour).&#x20;
-* **Currency**\
-  Forecasts are based on a fixed exchange rate.
-
-### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
-
-**General Containers**
-
-<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Micro</td><td>0.5</td><td>1 GB</td><td>2.25 credits</td></tr><tr><td>Small</td><td>2</td><td>2 GB</td><td>5.25 credits</td></tr><tr><td>Medium</td><td>4</td><td>4 GB</td><td>9.75 credits</td></tr><tr><td>Large</td><td>8</td><td>8 GB</td><td>18.75 credits</td></tr></tbody></table>
-
-**GPU Containers**
-
-<table><thead><tr><th>Container Type</th><th width="115">vCPU</th><th>Memory</th><th>Cost per Hour (Credits)</th></tr></thead><tbody><tr><td>Basic</td><td>3.5</td><td>13 GB</td><td>13.2 credits</td></tr></tbody></table>
-
-**Additional Charges**
-
-| Type             | Cost (Credits)                                   |
-| ---------------- | ------------------------------------------------ |
-| Traffic Addition | 10 credits/1GB/minute (exceeding 10GB per month) |
-| Storage Addition | \~0.018 credits/1GB/hour (exceeding free)        |
 
 ***
 

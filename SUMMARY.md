@@ -93,7 +93,9 @@
 
 ## Pricing
 
-* [Credits](pricing/credits.md)
+* [Credits](pricing/credits/README.md)
+  * [Page 1](pricing/credits/page-1.md)
+  * [Purchasing Credits](pricing/credits/purchasing-credits.md)
 * [Membership](credit-and-membership/membership.md)
 
 ## FAQ

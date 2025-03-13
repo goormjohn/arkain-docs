@@ -1,8 +1,8 @@
 ---
-icon: coin-vertical
 description: >-
   Credits are the currency required for using containers. When you use
   containers, credits are deducted. The price of 1 credit is $0.02.
+icon: coin-vertical
 ---
 
 # Credits
@@ -27,7 +27,7 @@ You can monitor network traffic and storage usage for each container in the **\[
 **Hint**\
 You can monitor network traffic and storage usage for each container in the **Resources monitor** panel at the bottom of the workspace.
 
-<img src="../.gitbook/assets/스크린샷 2025-02-24 오후 1.07.38.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/스크린샷 2025-02-24 오후 1.07.38.png" alt="" data-size="original">
 {% endhint %}
 
 ***

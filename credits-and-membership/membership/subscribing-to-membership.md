@@ -31,7 +31,7 @@ Fill in your payment details and click the **\[Start Membership]** button.&#x20;
 
 ## Managing Membership&#x20;
 
-You can check your subscription details on the **Billing page**.
+You can check your subscription details on the [**Billing page**](https://arkain.io/my/dashboard#/billing).
 
 ## Unsubscribe Membership
 

@@ -8,7 +8,7 @@ You can import a project from a **GitHub repository** and continue working on it
 
 {% stepper %}
 {% step %}
-### **Go to the** [**dashboard**](https://ide.goorm.io/my/dashboard) **and click \[+ New container].** <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>
+### **Go to the** [**Dashboard**](https://ide.goorm.io/my/dashboard) **and click \[+ New container].** <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>
 
 <figure><img src="../../../../.gitbook/assets/GitHub_02 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

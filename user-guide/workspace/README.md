@@ -34,7 +34,7 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 
 {% hint style="warning" %}
 **Warnning**\
-Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../pricing/credits/) **will be consumed.** It is recommended to click the **\[EXIT]** button to exit Arkain.
+Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../credits-and-membership/credits/) **will be consumed.** It is recommended to click the **\[EXIT]** button to exit Arkain.
 {% endhint %}
 
 ## Activity bar <a href="#sidebar" id="sidebar"></a>

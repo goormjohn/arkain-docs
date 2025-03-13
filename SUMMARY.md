@@ -91,13 +91,13 @@
 * [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 
-## Pricing
+## Credits & Membership
 
-* [Credits](pricing/credits/README.md)
-  * [Calculate Your Credit Usage](pricing/credits/calculate-your-credit-usage.md)
-  * [Purchasing Credits](pricing/credits/purchasing-credits.md)
-  * [Page 1](pricing/credits/page-1.md)
-* [Membership](credit-and-membership/membership.md)
+* [Credits](credits-and-membership/credits/README.md)
+  * [Calculate Your Credit Usage](credits-and-membership/credits/calculate-your-credit-usage.md)
+  * [Purchasing Credits](credits-and-membership/credits/purchasing-credits.md)
+* [Membership](credits-and-membership/membership/README.md)
+  * [Subscribing to Membership](credits-and-membership/membership/subscribing-to-membership.md)
 
 ## FAQ
 

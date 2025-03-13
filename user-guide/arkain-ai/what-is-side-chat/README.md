@@ -2,7 +2,7 @@
 icon: comment-exclamation
 ---
 
-# How to use Side Chat
+# What is Side Chat
 
 The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the chat history feature. Here's how to make the most of it:
 
@@ -20,7 +20,7 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
   * _"Can you optimize this SQL query?"_
   * _"What does this error mean in Python?"_
 
-## **Managing Chat History**
+## **'Managing Chat History**
 
 ### **Persistent Chat History**
 

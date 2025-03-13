@@ -3,10 +3,10 @@ description: >-
   With just a few clicks, you can set up your development environment and start
   developing with the powerful features of Arkain. Get started quickly and learn
   the basics of Arkain with Quick Started.
-icon: eggplant
+icon: gauge-max
 ---
 
-# Copy of Quick Started
+# Quick Started
 
 ## Sign up to Arkain
 

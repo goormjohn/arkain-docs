@@ -20,6 +20,7 @@
 
 * [What is Arkain?](getting-started-1/what-is-arkain.md)
 * [Quick Start](getting-started-1/quick-start.md)
+* [Copy of Quick Start](getting-started-1/copy-of-quick-start.md)
 
 ## User Guide
 

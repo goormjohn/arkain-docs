@@ -4,8 +4,8 @@ Arkain allows you to estimate credit consumption based on performance and usage 
 
 You can check the Credit Calculator on the Pricing Page or Payment Page to get a detailed estimate and ensure you're only using what you need!&#x20;
 
-* The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
-* You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
+* The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking [**\[Pricing\]**](https://arkain.io/pricing) in the top menu of the Arkain website.
+* You can use the credit calculator by clicking **\[Profile]** → [**\[Pricing\]**](https://arkain.io/pricing) at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
 
 ## How Credits Are Calculated
 

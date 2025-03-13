@@ -7,9 +7,9 @@ Follow these steps to charge credits:
 {% step %}
 ### **Navigate to the Payment Page**
 
-* You can access it through the **\[To buy credit]** button on the **Home or Dashboard page**.
-* You can access it through the **\[Buy now]** button on the **Pricing page**.
-* You can access it through the **\[Buy credit]** button on the **Billing page**.
+* You can access it through the **\[To buy credit]** button on the **Home or** [**Dashboard page**](https://arkain.io/my/dashboard).
+* You can access it through the **\[Buy now]** button on the [**Pricing page**](https://arkain.io/pricing).
+* You can access it through the **\[Buy credit]** button on the [**Billing page**](https://arkain.io/my/dashboard#/billing).
 * You can access it through the **\[Buy additional credits]** button on the **Workspace.**
 {% endstep %}
 

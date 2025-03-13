@@ -94,7 +94,7 @@
 ## Pricing
 
 * [Credits](pricing/credits/README.md)
-  * [How Credits Are Calculated](pricing/credits/how-credits-are-calculated.md)
+  * [Calculate Your Credit Usage](pricing/credits/calculate-your-credit-usage.md)
   * [Purchasing Credits](pricing/credits/purchasing-credits.md)
   * [Page 1](pricing/credits/page-1.md)
 * [Membership](credit-and-membership/membership.md)

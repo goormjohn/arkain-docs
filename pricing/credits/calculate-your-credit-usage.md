@@ -1,4 +1,13 @@
-# How Credits Are Calculated
+# Calculate Your Credit Usage
+
+Arkain allows you to estimate credit consumption based on performance and usage purpose. Plan your credits wisely and optimize your service usage efficiently.&#x20;
+
+You can check the Credit Calculator on the Pricing Page or Payment Page to get a detailed estimate and ensure you're only using what you need!&#x20;
+
+* The credit calculator can be accessed from the 'How much credit do I need?' section on the page opened by clicking **\[Pricing]** in the top menu of the Arkain website.
+* You can use the credit calculator by clicking **\[Profile]** → **\[Pricing]** at the bottom left of the Arkain dashboard, or by clicking **\[Billing]** → **\[Buy credit]** → **\[Calculate credits]**.
+
+## How Credits Are Calculated
 
 This is a forecasting tool that provides an approximate cost based on your specified project or usage. However, the forecasted cost may differ from the actual cost due to various factors:
 
@@ -11,7 +20,7 @@ This is a forecasting tool that provides an approximate cost based on your speci
 * **Currency**\
   Forecasts are based on a fixed exchange rate.
 
-### Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
+## Credit amount by resource <a href="#credit-amount-by-resource" id="credit-amount-by-resource"></a>
 
 **General Containers**
 

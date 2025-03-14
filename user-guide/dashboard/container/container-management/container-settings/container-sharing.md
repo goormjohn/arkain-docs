@@ -6,7 +6,7 @@ icon: share-nodes
 
 You can share your container with others to collaborate or showcase your projects. Even if someone doesn't have a Arkain account, they can still access the shared container.
 
-Click the **\[Setting]** button (![](<../../../../../.gitbook/assets/new_setting (1).png>)) of the container you want to share on the Arkain's Dashboard. In the Container Settings page, click the **\[Share]** button (![](<../../../../../.gitbook/assets/스크린샷 2025-02-10 오후 4.18.57.png>)) at the top-right corner.
+Click the **\[Setting]** button (<img src="../../../../../.gitbook/assets/setting.png" alt="" data-size="line">) of the container you want to share on the Arkain's Dashboard. In the Container Settings page, click the **\[Share]** button (<img src="../../../../../.gitbook/assets/share (1).png" alt="" data-size="line">) at the top-right corner.
 
 <figure><img src="../../../../../.gitbook/assets/share.png" alt=""><figcaption></figcaption></figure>
 

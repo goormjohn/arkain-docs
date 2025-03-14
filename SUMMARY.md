@@ -84,7 +84,7 @@
   * [Create a Template](user-guide/templates/create-a-template.md)
   * [Browse Templates](user-guide/templates/browse-templates.md)
   * [Manage a Template](user-guide/templates/manage-a-template.md)
-  * [Report Processing](user-guide/templates/report-processing.md)
+  * [Malicious Templates and Comment Policy](user-guide/templates/malicious-templates-and-comment-policy.md)
 * [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 
@@ -106,7 +106,7 @@
   * [Using MySQL Workbench with Arkain](faq/faq/using-mysql-workbench-with-arkain.md)
   * [Why my container blocked](faq/faq/why-my-container-blocked.md)
   * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)
-  * [How do I copy/paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
+  * [How do I copy / paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
   * [Official Template Guide](faq/faq/official-template-guide/README.md)
     * [Make a WEB with Open API](faq/faq/official-template-guide/make-a-web-with-open-api.md)
 

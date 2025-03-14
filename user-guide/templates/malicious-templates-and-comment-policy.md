@@ -2,11 +2,11 @@
 icon: flag
 ---
 
-# Report Processing
+# Malicious Templates and Comment Policy
 
-To create a healthy Template Community, we provide a reporting function for Templates and Comments.
+To create a healthy Templates Community, we provide a reporting function for Templates and Comments.
 
-## Report Template
+## Malicious Template
 
 ### Reporting Target
 
@@ -26,9 +26,9 @@ To create a healthy Template Community, we provide a reporting function for Temp
 If no objection is raised within 7 days, the template will be deleted by the administrator.
 {% endhint %}
 
-## Report Comment
+## Malicious Report Comment
 
-### Reporting Target&#x20;
+### Malicious Reporting Target&#x20;
 
 1. **Profanity and slander**: Hate speech that insults or criticizes others.&#x20;
 2. **Spam**: Advertisements, promotional content, repeated meaningless messages.&#x20;
@@ -37,7 +37,7 @@ If no objection is raised within 7 days, the template will be deleted by the adm
 5. **Inappropriate content**: Violent, obscene, or offensive content.&#x20;
 6. **Other rule violations**: Other inappropriate behaviors specified in the Terms of Service.&#x20;
 
-### Report Processing Procedure
+### Malicious Report Processing Procedure
 
 1. If another user reports a specific comment within a template, the comment will be reviewed and deleted by an administrator.&#x20;
    1. At this point, the comment owner will be notified via notification on the Dashboard page.

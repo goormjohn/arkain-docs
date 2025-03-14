@@ -4,8 +4,6 @@ icon: file-waveform
 
 # SBOM Management
 
-## Understanding SBOM
-
 A **Software Bill of Material** (SBOM) is a statement of all software information that is utilised by a developer to complete a software or service.&#x20;
 
 As the use of open source has expanded, the problem of security vulnerabilities has also grown worldwide. In fact, a security vulnerability scan of 2,700 of softwares found security vulnerabilities in more than 95% of applications.

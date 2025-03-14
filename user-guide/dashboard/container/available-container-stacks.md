@@ -5,8 +5,6 @@ icon: cubes
 
 # Container Stacks
 
-## **Available Container Stacks in Arkain**
-
 Arkain offers a variety of container stacks to meet the needs of different development projects. These stacks come pre-configured with the necessary software for each respective language or framework, making it easier to start development right away!
 
 Below are the available stacks you can choose from when creating a container:

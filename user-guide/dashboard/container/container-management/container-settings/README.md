@@ -4,7 +4,7 @@ icon: container-storage
 
 # Container Settings
 
-Click![](<../../../../../.gitbook/assets/스크린샷 2025-02-24 오후 1.32.16.png>) button in the Container Card. You can go to the container **settings page.**
+Click **\[Setting]**(<img src="../../../../../.gitbook/assets/setting (1).png" alt="" data-size="line">) button in the Container Card. You can go to the container **settings page.**
 
 <figure><img src="../../../../../.gitbook/assets/Setting.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,8 +1,8 @@
 ---
-icon: container-storage
 description: >-
   Arkain provides multiple ways to manage your containers efficiently. Here's
   how you can run, stop, and delete containers:
+icon: container-storage
 ---
 
 # Container Run / Stop / Delete
@@ -75,7 +75,7 @@ Go to the Dashboard, where your containers are displayed as cards.
 {% endstep %}
 
 {% step %}
-Click the **\[More(** ![](<../../../../.gitbook/assets/스크린샷 2025-02-24 오후 7.26.46.png>)**)]** → **\[Delete this container]** button on the container card to remove it permanently.
+Click the **\[More]**(<img src="../../../../.gitbook/assets/more.png" alt="" data-size="line">) → **\[Delete this container]** button on the container card to remove it permanently.
 {% endstep %}
 {% endstepper %}
 

@@ -41,6 +41,5 @@ For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charg
 {% endhint %}
 
 {% hint style="info" %}
-💡 **Tip**\
 Monitor your container's performance and storage needs regularly to ensure optimal usage and resource allocation.
 {% endhint %}

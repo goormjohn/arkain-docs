@@ -44,7 +44,7 @@ Arkain empowers developers to work together effortlessly with:
 
 ### **AI-Powered Assistance with Side Chat & Arkain Snap**&#x20;
 
-Arkain’s [**Side Chat**](../user-guide/arkain-ai/what-is-arkain-snap.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
+Arkain’s [**Side Chat**](../user-guide/arkain-ai/how-to-use-side-chat.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
 * **Searchable Chat History** – Revisit past conversations anytime.

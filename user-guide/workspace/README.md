@@ -20,7 +20,7 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 
 <figure><img src="../../.gitbook/assets/Workspace_03 (1).png" alt=""><figcaption></figcaption></figure>
 
-* The **\[Save]** button(<img src="../../.gitbook/assets/save (1).png" alt="" data-size="line">) allows you to save the open file, save as a new name, or save all files.
+* The **\[Save]** button(<img src="../../.gitbook/assets/save (2).png" alt="" data-size="line">) allows you to save the open file, save as a new name, or save all files.
 * The **\[Preview]** button(<img src="../../.gitbook/assets/preview.png" alt="" data-size="line">) allows users to preview their project within the Workspace or in a new tab or Workspace. It also provides options for configuring the execution URL and port settings.
 
 <figure><img src="../../.gitbook/assets/Workspace_04 (1).png" alt=""><figcaption></figcaption></figure>

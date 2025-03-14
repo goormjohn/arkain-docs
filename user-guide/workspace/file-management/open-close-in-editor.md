@@ -28,7 +28,7 @@ You can open Emacs Editor and Emmet Editor in the same way.
 
 ## Close <a href="#close" id="close"></a>
 
-Files opened in the Editor section can be closed by clicking the **\[X]** button on the tab of each file. Alternatively, you can press the default keyboard shortcut **`Alt + X (Mac: ⌥X)`** to close the open file.
+Files opened in the Editor section can be closed by clicking the **\[X]** button on the tab of each file. Alternatively, you can press the default keyboard shortcut <kbd>Alt</kbd> + <kbd>X</kbd> (Mac: <kbd>⌥</kbd> <kbd>X</kbd>) to close the open file.
 
 You can also right-click a file tab in the Editor section and select \[**Close]** to close that specific file tab. Selecting **\[Close All]** will close all open file tabs.
 

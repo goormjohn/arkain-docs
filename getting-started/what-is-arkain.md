@@ -40,7 +40,7 @@ Arkain empowers developers to work together effortlessly with:
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
 
-### **Arkain Snap**
+### **Arkain Snap:** AI agent
 
 **Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.
 

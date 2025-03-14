@@ -40,10 +40,14 @@ Make sure the selected container is the one you selected when creating the templ
 
 Update template information such as:
 
-* **Template name**: Ensure it accurately reflects the template's purpose.
-* **Description**: Add or revise details to clarify its features and use cases.
-* **Stack:** If there is a stack missing when creating it, add it.
-* **Recommended Spec**: If you want to change the recommended container spec, change it.
+* **Template name**\
+  Ensure it accurately reflects the template's purpose.
+* **Description**\
+  Add or revise details to clarify its features and use cases.
+* **Stack**\
+  If there is a stack missing when creating it, add it.
+* **Recommended Spec**\
+  If you want to change the recommended container spec, change it.
 {% endstep %}
 
 {% step %}
@@ -66,8 +70,8 @@ Deleting a template removes it permanently from the Templates. This will not aff
 Make sure to confirm before deleting to avoid accidental loss.&#x20;
 
 * **Delete from Template card**\
-  Click the ![](../../.gitbook/assets/delete.png) button above your Template card on your Dashboard page or Profile page.
-* **Go to your specific Template page and delete**\
+  Click the **\[Trash]** button(![](../../.gitbook/assets/delete.png)) above your Template card on your Dashboard page or Profile page.
+* **Go to your specific Templates and delete**\
   Click the **\[Delete]** button located at the top right of your specific Template page.
 
 Confirm the deletion in the pop-up window.

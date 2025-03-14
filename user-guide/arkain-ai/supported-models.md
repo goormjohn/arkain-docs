@@ -18,7 +18,11 @@ icon: user-robot
 
 ## **Key Features**
 
-* **Customizable Model Selection:** Tailor your LLM choice based on your project's complexity and performance needs.
-* **Membership Benefits:** Advanced models like **O1**, **O1-preview**, and **Claude-sonet-3.5** are exclusive to **Membership Users**, providing enhanced capabilities and higher token limits.
-* **Daily Quota Management:** Token limits reset every 24 hours, covering both input and output tokens.
-* **Wide Accessibility:** Essential models (**GPT-4o** and **GPT-4o-mini**) are accessible to all users, ensuring a seamless experience for standard tasks.
+* **Customizable Model Selection**\
+  Tailor your LLM choice based on your project's complexity and performance needs.
+* **Membership Benefits**\
+  Advanced models like **O1**, **O1-preview**, and **Claude-sonet-3.5** are exclusive to **Membership Users**, providing enhanced capabilities and higher token limits.
+* **Daily Quota Management**\
+  Token limits reset every 24 hours, covering both input and output tokens.
+* **Wide Accessibility**\
+  Essential models (**GPT-4o** and **GPT-4o-mini**) are accessible to all users, ensuring a seamless experience for standard tasks.

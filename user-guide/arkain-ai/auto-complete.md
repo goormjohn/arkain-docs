@@ -8,8 +8,10 @@ The **Auto-completion** feature is a convenient function that recommends code ba
 
 ### Key features <a href="#key-features" id="key-features"></a>
 
-* **Real-time code completion:** As you type, AI predicts the next code to be entered and automatically completes it for you.
-* **Support for various programming languages:** It supports a wide range of languages, including Python, JavaScript, and Java, for your convenience.
+* **Real-time code completion**\
+  As you type, AI predicts the next code to be entered and automatically completes it for you.
+* **Support for various programming languages**\
+  It supports a wide range of languages, including Python, JavaScript, and Java, for your convenience.
 
 ### How to Set Up the Feature <a href="#how-to-set-up-the-feature" id="how-to-set-up-the-feature"></a>
 

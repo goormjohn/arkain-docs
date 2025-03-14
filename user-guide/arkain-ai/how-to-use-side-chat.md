@@ -25,7 +25,7 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 
 ### **Persistent Chat History**
 
-All your conversations in Side Chat are saved under **History**. You can revisit past sessions to review previous answers or refer back to specific code solutions.
+All your conversations in Side Chat are saved under **\[History]**. You can revisit past sessions to review previous answers or refer back to specific code solutions.
 
 ### Delete Chat History
 
@@ -35,9 +35,12 @@ Click the trash can icon to delete the saved chat history.
 
 ## **Tips for Efficient Use**
 
-* **Be Specific**: Provide clear and concise questions to get accurate and relevant answers.
-* **Share Relevant Code**: Paste snippets or files directly into the chat for more contextual responses.
-* **Utilize History**: Review past sessions to avoid redundant queries and improve your workflow.
+* **Be Specific**\
+  Provide clear and concise questions to get accurate and relevant answers.
+* **Share Relevant Code**\
+  Paste snippets or files directly into the chat for more contextual responses.
+* **Utilize History**\
+  Review past sessions to avoid redundant queries and improve your workflow.
 
 ***
 

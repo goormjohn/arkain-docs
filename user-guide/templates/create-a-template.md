@@ -74,10 +74,14 @@ Please note that **only one Temporary save is possible.**
 
 Please provide a detailed description of your template. We recommend including the following:
 
-* **Overview**: Describe the main function or purpose of the template. Also add the intended audience, expected benefits, and examples of its use.
-* **Preview**: Add preview images of the result screen, code structure, or key features after the template is run.
-* **Features**: List the Key Features.
-* **Requirements**: Lists the environment and tools required to run this template.
+* **Overview**\
+  Describe the main function or purpose of the template. Also add the intended audience, expected benefits, and examples of its use.
+* **Preview**\
+  Add preview images of the result screen, code structure, or key features after the template is run.
+* **Features**\
+  List the Key Features.
+* **Requirements**\
+  Lists the environment and tools required to run this template.
 
 If it's difficult to write, please refer to the sample document provided on this page.
 

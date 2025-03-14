@@ -5,6 +5,12 @@ icon: cubes
 
 # Container Stacks
 
+Arkain provides **Container**, which is isolated environments that package everything needed to run software (code, libraries, configuration files, etc.) into a single package.
+
+A **stack** is a pre-configured software package that is installed by default in a container. Each container has a single stack, but users can install additional software based on their project requirements.
+
+### **Available Container Stacks in Arkain** <a href="#available-container-stacks-in-arkain" id="available-container-stacks-in-arkain"></a>
+
 Arkain offers a variety of container stacks to meet the needs of different development projects. These stacks come pre-configured with the necessary software for each respective language or framework, making it easier to start development right away!
 
 Below are the available stacks you can choose from when creating a container:

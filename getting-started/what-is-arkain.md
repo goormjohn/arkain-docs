@@ -23,8 +23,6 @@ Whether you're a beginner or a seasoned developer, Arkain empowers you to **code
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fvv0eKmOn3DY36Ox1EqCE%2Fuploads%2FQ9jN7FgtfFOunwifGPP3%2Fimage.png?alt=media&#x26;token=aa2617da-1f40-4b40-a84f-4cfc755ceb86" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## **Key Features of Arkain**
 
 ### **Seamless Setup for Any Language**&#x20;
@@ -42,15 +40,19 @@ Arkain empowers developers to work together effortlessly with:
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
 
-### **AI-Powered Assistance with Side Chat & Arkain Snap**&#x20;
+### **Arkain Snap**
+
+**Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.
+
+It automatically selects and configures the necessary libraries, frameworks, and databases based on the service or app you're creating. The AI also writes the code for frontend, backend, and more.
+
+### **AI-Powered Assistance with Side Chat**
 
 Arkain’s [**Side Chat**](../user-guide/arkain-ai/how-to-use-side-chat.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
 * **Searchable Chat History** – Revisit past conversations anytime.
 * **Flexible AI Models** – Switch between different AI assistants based on your needs.
-
-**Arkain Snap** enables fast and easy initial development environment setup with AI assistance when creating containers.
 
 ### **Templates: Jumpstart Your Projects**&#x20;
 

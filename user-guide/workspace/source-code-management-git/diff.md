@@ -48,7 +48,11 @@ The buttons area in the top right corner of the screen provides 4 functions.
 
 <figure><img src="../../../.gitbook/assets/git_14.png" alt=""><figcaption></figcaption></figure>
 
-* **Open file:** Opens the Diff Tool's source file editor for the file you are currently viewing.
-* **Previous change, Next change**: Moves the cursor to the previous, next change of the current cursor in the source code area after a change.
-* **Toggle collapse unchanged regions**: Unchanged source code areas are hidden. If the unchanged source code area is small, it may not be hidden. Click the button one more time to see the full source code again.
-* **Change the way the editor area is viewed**: You can change the placement of the source code before changes and the source code after changes. Click the `Split` button to change to a left-to-right orientation, or the `Inline` button to change to a top-to-bottom orientation.
+* **Open file**\
+  Opens the Diff Tool's source file editor for the file you are currently viewing.
+* **Previous change, Next change**\
+  Moves the cursor to the previous, next change of the current cursor in the source code area after a change.
+* **Toggle collapse unchanged regions**\
+  Unchanged source code areas are hidden. If the unchanged source code area is small, it may not be hidden. Click the button one more time to see the full source code again.
+* **Change the way the editor area is viewed**\
+  You can change the placement of the source code before changes and the source code after changes. Click the `Split` button to change to a left-to-right orientation, or the `Inline` button to change to a top-to-bottom orientation.

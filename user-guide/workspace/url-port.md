@@ -26,7 +26,7 @@ You cannot register multiple domains with the same port number.
 
 ### Registering a Custom domain <a href="#registering-a-custom-domain" id="registering-a-custom-domain"></a>
 
-You can register your own domain instead of the sub domains provided by Arkain such as `mydomain.run.arkain.app`. A custom domain can be set in Arkain's Dashboard by going to **\[Container Settings]**(![](<../../.gitbook/assets/new_setting (1).png>)) → **URL/Port section**, then clicking the **\[+ Add]** button and selecting **\[Custom domain].**
+You can register your own domain instead of the sub domains provided by Arkain such as `mydomain.run.arkain.app`. A custom domain can be set in Arkain's Dashboard by going to **\[Container Settings]**(<img src="../../.gitbook/assets/setting.png" alt="" data-size="line">) → **URL/Port section**, then clicking the **\[+ Add]** button and selecting **\[Custom domain].**
 
 And enter the domain to register starting from `www`, and upload the `crt` and `key` files. If the certificate has a password, include the password in a file and upload it.
 

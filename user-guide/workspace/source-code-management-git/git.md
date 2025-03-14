@@ -6,7 +6,7 @@ icon: code-branch
 
 ### Use most Git commands through the GUI
 
-Clicking the **\[Git]**(<img src="../../../.gitbook/assets/image (37).png" alt="" data-size="line">) button in the Activity bar allows you to manage source code versions. In the Git Sidebar, you can easily use Git-related features without commands.
+Clicking the **\[Git]** button(<img src="../../../.gitbook/assets/image (37).png" alt="" data-size="line">) in the Activity bar allows you to manage source code versions. In the Git Sidebar, you can easily use Git-related features without commands.
 
 <figure><img src="../../../.gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
 

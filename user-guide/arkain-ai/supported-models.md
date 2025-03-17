@@ -6,23 +6,41 @@ icon: user-robot
 
 ## Supported Models&#x20;
 
-| LLM Model            | Description                                      | Usage Limit        | Availability    |
-| -------------------- | ------------------------------------------------ | ------------------ | --------------- |
-| **GPT-4o**           | High-performance GPT-4 model                     | 50,000 tokens/day  | All Users       |
-| **GPT-4o-mini**      | Lightweight version of GPT-4o                    | 100,000 tokens/day | All Users       |
-| **O1**               | Optimized general-purpose model                  | 200,000 tokens/day | Membership Only |
-| **O1-preview**       | Preview version of O1 with experimental features | 150,000 tokens/day | Membership Only |
-| **Claude-sonet-3.5** | Conversational AI model by Anthropic             | 75,000 tokens/day  | Membership Only |
+***
+
+<table><thead><tr><th width="113.1328125">Category</th><th>Model</th><th>Free Usage</th><th>Membership Usage</th><th>Reset Time</th></tr></thead><tbody><tr><td>BASIC</td><td>GPT-4o mini</td><td>Unlimited</td><td>Unlimited</td><td>-</td></tr><tr><td>PREMIUM</td><td>GPT-4o</td><td>10 times</td><td>Unlimited</td><td>2 housrs</td></tr><tr><td>PREMIUM</td><td>o3-mini</td><td>10 times</td><td>Unlimited</td><td>2 housrs</td></tr><tr><td>PREMIUM</td><td>o3-mini-high</td><td>10 times</td><td>Unlimited</td><td>2 housrs</td></tr><tr><td>PREMIUM</td><td>Claude-sonet-3.7</td><td>10 times</td><td>Unlimited</td><td>2 housrs</td></tr><tr><td>SPECIAL</td><td>GPT-4.5</td><td>Not available</td><td>10 times</td><td>12 housrs</td></tr><tr><td>SPECIAL</td><td>o1-preview</td><td>Not available</td><td>10 times</td><td>12 housrs</td></tr></tbody></table>
 
 ***
 
 ## **Key Features**
 
-* **Customizable Model Selection**\
-  Tailor your LLM choice based on your project's complexity and performance needs.
-* **Membership Benefits**\
-  Advanced models like **O1**, **O1-preview**, and **Claude-sonet-3.5** are exclusive to **Membership Users**, providing enhanced capabilities and higher token limits.
-* **Daily Quota Management**\
-  Token limits reset every 24 hours, covering both input and output tokens.
-* **Wide Accessibility**\
-  Essential models (**GPT-4o** and **GPT-4o-mini**) are accessible to all users, ensuring a seamless experience for standard tasks.
+#### **BASIC Plan**
+
+• Model: **GPT-4o mini**
+
+• Free Usage: Unlimited
+
+• Membership Usage: Unlimited
+
+• Reset Time: Not applicable
+
+#### **PREMIUM Plan**
+
+• Models: **GPT-4o, o3-mini, o3-mini-high, Claude-sonet-3.7**
+
+• Free Usage: 10 times
+
+• Membership Usage: Unlimited
+
+• Reset Time: Resets 2 hours after the last usage
+
+#### **SPECIAL Plan**
+
+• Models: **GPT-4.5, o1-preview**
+
+• Free Usage: Not available
+
+• Membership Usage: 10 times
+
+• Reset Time: Resets 12 hours after the last usage
+

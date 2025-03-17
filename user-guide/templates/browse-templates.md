@@ -33,6 +33,8 @@ The **Templates page** is where you can view and explore all the templates you h
 
     If you like the template you're looking at, try creating your own container using the template. The default settings for the container follow the selected template.
 
+    <mark style="background-color:purple;">ℹ️ The template's main folder under the /workspace path is renamed to the name of the created container.</mark>
+
 ***
 
 ### What is Arkain's official template?

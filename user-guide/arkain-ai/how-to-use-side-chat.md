@@ -11,7 +11,7 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
 ## **Getting Started with Side Chat**
 
 * Open Side Chat from the Activity bar of your Arkain interface.
-* Side Chat will appear in the left area of the workspace. Side Chat supports a range of LLMs, such as **GPT-4o mini**, **GPT-4o**, **o3-mini**, **o3-mini-high**, **Claude 3.5 Sonnet and** **o1-preview**.
+* Side Chat will appear in the left area of the workspace. Side Chat supports a range of LLMs, such as **GPT-4o mini**, **GPT-4o, GPT-4.5**, **o3-mini**, **o3-mini-high**, **Claude 3.7 Sonnet and** **o1-preview**.
 * Side Chat maintains context within a single session, ensuring the LLM remembers previous interactions for seamless conversations.
 
 ## Ask a question in Side Chat

@@ -90,6 +90,7 @@
 
 ## Credits & Membership
 
+* [About Arkain Beta Crew](credits-and-membership/about-arkain-beta-crew.md)
 * [Credits](credits-and-membership/credits/README.md)
   * [Calculate Your Credit Usage](credits-and-membership/credits/calculate-your-credit-usage.md)
   * [Purchasing Credits](credits-and-membership/credits/purchasing-credits.md)
@@ -114,7 +115,3 @@
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
   * [Jan 10, 2025](whats-new/arkain-release-note/jan-10-2025.md)
-
-***
-
-* [About Arkain Beta Crew](about-arkain-beta-crew.md)

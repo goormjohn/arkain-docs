@@ -114,3 +114,7 @@
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
   * [Jan 10, 2025](whats-new/arkain-release-note/jan-10-2025.md)
+
+***
+
+* [About Arkain Beta Crew](about-arkain-beta-crew.md)

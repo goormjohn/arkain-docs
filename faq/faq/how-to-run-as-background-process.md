@@ -94,3 +94,36 @@ $ forever list
 {% hint style="info" %}
 For detailed usage, please refer to **forever usage**.
 {% endhint %}
+
+
+
+## An app that uses npm start <a href="#if-you-are-using-node-app" id="if-you-are-using-node-app"></a>
+
+You can run the command set in `scripts.start` of `package.json` using `npm start`, but with PM2, you can run it more easily as a background application.
+
+{% stepper %}
+{% step %}
+Install `pm2`
+
+```bash
+$ npm install -g pm2
+```
+{% endstep %}
+
+{% step %}
+Run the app with the command below
+
+```bash
+$ pm2 start npm -- start
+```
+{% endstep %}
+
+{% step %}
+You can verify whether it's running or not with the command below.
+
+```bash
+$ pm2 status
+```
+{% endstep %}
+{% endstepper %}
+

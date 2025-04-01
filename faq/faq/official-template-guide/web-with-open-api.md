@@ -1,11 +1,10 @@
 ---
 icon: comment-question
-hidden: true
 ---
 
-# Make a WEB with Open API
+# Web with Open API
 
-To access the **\[Make a WEB with Open API]** template, you must issue the required API KEY.
+To access the [**\[Web with Open API\]** ](https://arkain.io/template/template_kcLwmCWohkfmkvDTib)template, you must issue the required API KEY.
 
 ## How do I obtain an OpenWeatherMap API Key?
 

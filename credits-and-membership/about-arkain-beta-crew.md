@@ -10,10 +10,6 @@ The **Arkain Beta Crew (a.k.a. ABC)** is more than just a group of testers — i
 
 As an ABC, you’ll get early access to Arkain, enjoy unlimited features during the beta, and receive a membership that provides additional access after the official launch.Share your thoughts in our Discord’s **#beta-feedback** channel to earn extra perks, and don’t miss **#beta-crew-only** for private updates and ABC–only announcements.
 
-As an ABC, you’ll get early access to Arkain, enjoy unlimited features during the beta, and receive a membership that provides additional access after the official launch.
-
-
-
 To join, simply tap the chatbot on the bottom-right of the Arkain homepage and apply. Once accepted, you'll receive access within 24 hours via email.
 
 ## 📌 **Important:**

@@ -8,7 +8,7 @@ Click on the **\[Profile Icon]** located at the bottom of the left sidebar on th
 
 The **Billing Page** on the Arkain Dashboard is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits!&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/billing (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -35,6 +35,12 @@ In the **Membership Plan section**, you can do the following:
   * View your free credit history and check the expiration date.
 * **Membership Subscription**&#x20;
   * Check your Membership subscription history.
+
+### Add coupon
+
+{% content-ref url="coupon.md" %}
+[coupon.md](coupon.md)
+{% endcontent-ref %}
 
 ***
 

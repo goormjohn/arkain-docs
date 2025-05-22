@@ -4,7 +4,7 @@ icon: message-bot
 
 # Auto-completion
 
-The **Auto-completion** feature is a convenient function that recommends code based on the user's input using GPT-4o mini-based AI, which can be immediately applied in the editor.
+The **Auto-completion** feature is a convenient function that recommends code based on the user's input using GPT-4.1-mini-based AI, which can be immediately applied in the editor.
 
 ### Key features <a href="#key-features" id="key-features"></a>
 

@@ -120,4 +120,4 @@
   * [Apr 14, 2025](whats-new/arkain-release-note/apr-14-2025.md)
   * [Apr 24, 2025](whats-new/arkain-release-note/apr-24-2025.md)
   * [May 15, 2025](whats-new/arkain-release-note/may-15-2025.md)
-  * [May 22, 2025](whats-new/arkain-release-note/may-22-2025.md)
+  * [May 23, 2025](whats-new/arkain-release-note/may-23-2025.md)

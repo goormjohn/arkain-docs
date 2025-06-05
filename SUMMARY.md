@@ -29,6 +29,7 @@
         * [Init Script](user-guide/dashboard/container/container-management/container-settings/init-script.md)
         * [Environment Variable](user-guide/dashboard/container/container-management/container-settings/environment-variable.md)
         * [Container Upgrade](user-guide/dashboard/container/container-management/container-settings/container-upgrade.md)
+        * [Rename the Container](user-guide/dashboard/container/container-management/container-settings/rename-the-container.md)
         * [Container Sharing](user-guide/dashboard/container/container-management/container-settings/container-sharing.md)
       * [Container Run / Stop / Delete](user-guide/dashboard/container/container-management/container-run-stop-delete.md)
     * [Container Stacks](user-guide/dashboard/container/available-container-stacks.md)

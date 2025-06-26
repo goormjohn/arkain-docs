@@ -40,7 +40,7 @@ The **Workspace** is the IDE environment where developers create and manage thei
 
 **Arkain Snap** is an AI assistance that turns ideas into reality. With just natural language, it automates the initial setup of container development environments, and for simple ideas, it creates prototypes just by making a request.
 
-<figure><img src="../.gitbook/assets/snap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/snap (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Auto-completion
 

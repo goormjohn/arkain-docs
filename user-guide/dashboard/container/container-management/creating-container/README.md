@@ -1,15 +1,15 @@
 ---
-icon: container-storage
 description: >-
   Creating a new container in Arkain is simple and efficient! Follow these steps
   to set up your container and start working on your project seamlessly.
+icon: container-storage
 ---
 
 # Creating Container
 
 Go to [Arkain Dashboard](https://arkain.io/my/dashboard), Click the **\[New Container]** button at the top of the page.
 
-<figure><img src="../../../../.gitbook/assets/new_container.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/new_container.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -36,8 +36,6 @@ Enter a name for your container.
 {% hint style="warning" %}
 **Note**\
 Container names **cannot be changed** once created and must only contain **letters, numbers, underscores (\_), or hyphens (-).**
-
-Once the container is created, the container name cannot be changed.
 {% endhint %}
 {% endstep %}
 

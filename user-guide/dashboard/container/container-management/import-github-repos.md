@@ -10,13 +10,13 @@ You can import a project from a **GitHub repository** and continue working on it
 {% step %}
 ### **Go to the** [**Dashboard**](https://ide.goorm.io/my/dashboard) **and click \[+ New container].** <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>
 
-<figure><img src="../../../../.gitbook/assets/GitHub_02 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/quick_container.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### **Authenticate your GitHub account** <a href="#step-2-authenticate-your-github-account" id="step-2-authenticate-your-github-account"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/GitHub_03 (2).png" alt=""><figcaption></figcaption></figure>
 
 * In the 'Create Container' popup, click the **\[Import from GitHub]** button in the top right corner.
 * Click the **\[Github authorization]** button to link your account through GitHub account.
@@ -26,7 +26,7 @@ You can import a project from a **GitHub repository** and continue working on it
 {% step %}
 ### **Create a container from GitHub repository** <a href="#step-3-create-a-container-from-github-repository" id="step-3-create-a-container-from-github-repository"></a>
 
-<figure><img src="../../../../.gitbook/assets/GitHub_04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/GitHub_04 (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select the repository you want to import. If the repository is set as private, it will be indicated with a badge in the list.
 * The software stack and name will be automatically entered based on the selected repository, and you can freely modify them if needed.

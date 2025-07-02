@@ -24,7 +24,7 @@ Click **\[Container]** → **\[SSH Configuration]** on the top menu to open the 
 {% step %}
 Click the copy icon to the right of the command and paste it from your local environment or other external instances shell.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

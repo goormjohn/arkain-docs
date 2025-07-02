@@ -144,7 +144,7 @@ You can navigate to the page where you can manage your member profile and contai
 
 The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Toggle Panel <a href="#terminal" id="terminal"></a>
 

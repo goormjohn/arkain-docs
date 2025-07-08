@@ -125,3 +125,7 @@
   * [May 23, 2025](whats-new/arkain-release-note/may-23-2025.md)
   * [Jun 5, 2025](whats-new/arkain-release-note/jun-5-2025.md)
   * [July 26, 2025](whats-new/arkain-release-note/july-26-2025.md)
+
+## Notice
+
+* [\[Notice\] Scheduled maintenance on July 11th](notice/notice-scheduled-maintenance-on-july-11th.md)

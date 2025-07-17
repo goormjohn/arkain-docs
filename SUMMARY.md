@@ -117,14 +117,15 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
-  * [March 31, 2025](whats-new/arkain-release-note/march-31-2025.md)
-  * [Apr 7, 2025](whats-new/arkain-release-note/apr-7-2025.md)
-  * [Apr 14, 2025](whats-new/arkain-release-note/apr-14-2025.md)
-  * [Apr 24, 2025](whats-new/arkain-release-note/apr-24-2025.md)
-  * [May 15, 2025](whats-new/arkain-release-note/may-15-2025.md)
-  * [May 23, 2025](whats-new/arkain-release-note/may-23-2025.md)
+  * [July 17, 2025](whats-new/arkain-release-note/july-17-2025.md)
+  * [Jun 26, 2025](whats-new/arkain-release-note/jun-26-2025.md)
   * [Jun 5, 2025](whats-new/arkain-release-note/jun-5-2025.md)
-  * [July 26, 2025](whats-new/arkain-release-note/july-26-2025.md)
+  * [May 23, 2025](whats-new/arkain-release-note/may-23-2025.md)
+  * [May 15, 2025](whats-new/arkain-release-note/may-15-2025.md)
+  * [Apr 24, 2025](whats-new/arkain-release-note/apr-24-2025.md)
+  * [Apr 14, 2025](whats-new/arkain-release-note/apr-14-2025.md)
+  * [Apr 7, 2025](whats-new/arkain-release-note/apr-7-2025.md)
+  * [March 31, 2025](whats-new/arkain-release-note/march-31-2025.md)
 
 ## Notice
 

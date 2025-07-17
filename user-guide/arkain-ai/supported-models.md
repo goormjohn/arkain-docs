@@ -28,7 +28,7 @@ icon: user-robot
 
 ### **PREMIUM Plan**
 
-• Models:  gp&#x74;**-4.1, gpt-o4-mini, gpt-o4-mini-high, claude-sonnet-4, gemini-2.5-pro**
+• Models:  **gpt-4.1, gpt-o4-mini, gpt-o4-mini-high, claude-sonnet-4, gemini-2.5-pro**
 
 • Free Usage: 10 times
 

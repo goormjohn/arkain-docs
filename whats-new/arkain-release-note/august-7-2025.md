@@ -12,8 +12,6 @@ Available now on the  ‘Create Template’ page – **save time with instant, i
 
 
 
-## New Features
-
 ## **Changes**
 
 * Container names are now automatically generated based on your request when using Snap on the Dashboard page.

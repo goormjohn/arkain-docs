@@ -33,7 +33,6 @@
         * [Rename the Container](user-guide/dashboard/container/container-management/container-settings/rename-the-container.md)
         * [Container Sharing](user-guide/dashboard/container/container-management/container-settings/container-sharing.md)
       * [Container Run / Stop / Delete](user-guide/dashboard/container/container-management/container-run-stop-delete.md)
-    * [Container Stacks](user-guide/dashboard/container/available-container-stacks.md)
     * [Auto-off](user-guide/dashboard/container/auto-off.md)
     * [NVIDIA Tesla T4 GPU Container](user-guide/dashboard/container/nvidia-tesla-t4-gpu-container.md)
     * [Inactive Container](user-guide/dashboard/container-managing/inactive-container.md)

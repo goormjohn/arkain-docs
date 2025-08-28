@@ -21,6 +21,4 @@ Below are the available stacks you can choose from when creating a container:
 
 * Ubuntu 22.04 LTS
 * Ubuntu 20.04 LTS
-
-:warning: The NVIDIA Tesla T4 container stack is only available on Ubuntu 20.04 LTS.
 {% endhint %}

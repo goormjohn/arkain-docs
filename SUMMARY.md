@@ -116,6 +116,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [August 28, 2025](whats-new/arkain-release-note/august-28-2025.md)
   * [August 7, 2025](whats-new/arkain-release-note/august-7-2025.md)
   * [July 17, 2025](whats-new/arkain-release-note/july-17-2025.md)
   * [Jun 26, 2025](whats-new/arkain-release-note/jun-26-2025.md)

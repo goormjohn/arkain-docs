@@ -60,7 +60,7 @@ The **Toolbar** is located on the left side of the workspace and houses icons fo
 
 ### **Sidebar**
 
-The **Sidebar**, situated to the right of the toolbar, contains development tools, including a file tree for easy project management.
+The **Sidebar**, situated to the right of the toolbar, contains development tools, including a file tree for easy project management and the ‘Search All’ feature for searching across the entire project.
 
 ### **Editor**
 
@@ -68,7 +68,7 @@ The **Editor**, located in the center of the workspace, is where you can view an
 
 ### Toggle Panel
 
-The **Panel**, located below the editor, displays essential tools such as the terminal, search functionality, resource monitor, and linting inspection windows.
+The **Panel**, located below the editor, displays the terminal.
 
 ### Side Chat
 

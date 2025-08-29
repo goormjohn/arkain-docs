@@ -1,8 +1,8 @@
 ---
-icon: keyboard
 description: >-
   Keyboard Shortcuts are the simplest but the most effective way to save time
   and boost development productivity.
+icon: keyboard
 ---
 
 # Keyboard Shortcut
@@ -51,7 +51,7 @@ Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key ins
 | Find Next                  | <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                         | <kbd>Ctrl</kbd> + <kbd>G</kbd>                     |
 | Find Previous              | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>G</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>  |
 | Replace                    | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>   | <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>F</kbd>    |
-| Search All                 | <kbd>option ⌥</kbd> + <kbd>H</kbd>                      | <kbd>Alt</kbd> + <kbd>H</kbd>                      |
+| Search All                 | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>F</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>  |
 | Toggle Comment Selection   | <kbd>Cmd ⌘</kbd> +  <kbd>/</kbd>                        | <kbd>Ctrl</kbd> + <kbd>/</kbd>                     |
 | Preferences                | <kbd>option ⌥</kbd> + <kbd>P</kbd>                      | <kbd>Alt</kbd> + <kbd>P</kbd>                      |
 | Jump To Definition         | <kbd>Cmd ⌘</kbd> +  <kbd>I</kbd>                        | <kbd>Ctrl</kbd> + <kbd>I</kbd>                     |
@@ -78,11 +78,11 @@ Below shortcuts are for Windows, so If you're using a Mac, use the `Cmd` key ins
 | Show Top Panel               | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>A</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>      |
 | Show Left Panel              | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>L</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>      |
 | Show Bottom Panel            | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>B</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>      |
-| Full Screen Mode             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>W</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>      |
-| Split Vertically             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>V</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>      |
-| Split Horizontally           | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>H</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>      |
+| Split Right                  | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>R</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>      |
+| Split Down                   | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>D</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>      |
 | Close Workspace              | <kbd>option ⌥</kbd>+<kbd>C</kbd>                          | <kbd>Alt</kbd> + <kbd>C</kbd>                         |
-| Project Explorer             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>E</kbd>       | <kbd>Ctrl</kbd> + <kbd>#Num</kbd>                     |
+| Open Specific Window         | <kbd>Cmd ⌘</kbd> + <kbd>#Num</kbd>                        | <kbd>Ctrl</kbd> + <kbd>#Num</kbd>                     |
+| Project Explorer             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>E</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>      |
 
 ## Help
 

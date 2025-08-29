@@ -22,10 +22,6 @@ Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, J
 **Configure Template and OS**&#x20;
 
 The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
-
-{% hint style="info" %}
-The **NVIDIA Tesla T4** container stack is only available on **Ubuntu 20.04 LTS.**
-{% endhint %}
 {% endstep %}
 
 {% step %}

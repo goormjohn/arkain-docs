@@ -15,7 +15,7 @@ The **Templates page** is where you can view and explore all the templates you h
     This page shows all templates of Arkain users, including templates you have created or registered. Each template displays information such as the template name, stack, and description for quick reference.
 *   **Search, Filter and Sort**
 
-    Use the search bar to find a specific template by name or stack. \
+    Use the search bar to find a specific template by description and introduction, in addition to name and stack.\
     You can filter stacks or use the **Most used** option to quickly access templates you want.
 *   **View Template Details**
 

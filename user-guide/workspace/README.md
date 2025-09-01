@@ -76,6 +76,15 @@ Right-click on a file to access all available file-related features, including r
 
 <figure><img src="../../.gitbook/assets/Right-Click for File Actions.png" alt=""><figcaption></figcaption></figure>
 
+### <img src="../../.gitbook/assets/스크린샷 2025-08-29 오후 1.43.52.png" alt="" data-size="line"> Search
+
+Click the **\[Search]** button on the Activity Bar to open the Search Sidebar area.
+
+Enter a keyword in the input field at the top to view all matching results, grouped by file. This is useful when searching across your entire project.\
+Each result displays the file name, line number, and matching content. You can quickly jump to the relevant location by clicking the matching result.
+
+<figure><img src="../../.gitbook/assets/search panel.png" alt=""><figcaption></figcaption></figure>
+
 ### <img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line"> [Git](source-code-management-git/git.md)
 
 It opens Git, a distributed version control system, in the Sidebar to track and synchronize changes to files. **Arkain** provides most of the Git commands.
@@ -119,15 +128,15 @@ Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), an
 
 ### &#x20;<img src="../../.gitbook/assets/preference.png" alt="" data-size="line"> Preference
 
-You can open the project settings modal. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as **Auto-Completion**.
+You can open the project settings tab. You can change the editor, terminal, and theme styles, as well as configure key Arkain features such as **Auto-Completion**.
 
-<figure><img src="../../.gitbook/assets/Workspace_09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/preference (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Profile and Container Info
 
 You can navigate to the page where you can manage your **member profile** and **container information**. You can check the available credits along with Container usage time, Estimated uptime, and Used credit.
 
-### ![](../../.gitbook/assets/avatar.png) Account
+### ![](../../.gitbook/assets/avatar.png) Account
 
 You can navigate to the page where you can manage your member profile and container information.
 
@@ -144,11 +153,20 @@ You can navigate to the page where you can manage your member profile and contai
 
 The Editor section of the Workspace displays the content of the currently selected file. You can perform several actions in the Editor's top-right side such as format code with [Prettier](https://prettier.io/) or manage the file tabs if you have several open.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### Find and Replace
+
+**Find and Replace** allows you to search and replace text within the currently active file.
+
+There are two ways to open the Find and Replace input at the bottom of the Editor:
+
+* Press `Ctrl` + `F` (Windows/Linux) or `Cmd` + `F` (Mac)
+* Right-click inside the Editor and select **Find** from the context menu
+
+<figure><img src="../../.gitbook/assets/findandreplace.png" alt=""><figcaption></figcaption></figure>
 
 ## Toggle Panel <a href="#terminal" id="terminal"></a>
 
-In Arkain's toggle panel, you can use features such as the terminal, search, and resource monitor.
+In Arkain's toggle panel, you can use the terminal.
 
 ### Terminal
 
@@ -158,23 +176,11 @@ By default, the terminal is available as the Terminal tab in the toggle Panel of
 
 You can open the Terminal in a new window by right-clicking on a folder or file in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
-<figure><img src="../../.gitbook/assets/Terminal_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-09-01 오후 5.00.23.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as `ufw`, `systemctl`, `docker`(docker in docker) cannot be used.
 {% endhint %}
-
-### Search
-
-The Search Panel displays search results for all documents within the project. When you change the search scope to 'Search All' in search or replace, the Search Panel will show keyword search results for each file.
-
-<figure><img src="../../.gitbook/assets/Search_01.png" alt=""><figcaption></figcaption></figure>
-
-### Resource monitor
-
-The resource monitor panel displays the usage of container resources such as CPU, memory, disk, and network in a graphical format.
-
-<figure><img src="../../.gitbook/assets/Resource_01.png" alt=""><figcaption></figcaption></figure>
 
 ## Bottom bar <a href="#terminal" id="terminal"></a>
 

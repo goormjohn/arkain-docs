@@ -6,10 +6,10 @@ icon: sidebar
 
 Creating a template allows you to share your project setup with others and make development faster and easier. Here’s how to create and share your own template:
 
-<figure><img src="../../.gitbook/assets/template.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/template (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Please note that Arkain's template content only supports English.
+Please note that template name and description fields only support English.
 {% endhint %}
 
 
@@ -20,15 +20,15 @@ Please note that Arkain's template content only supports English.
 
 There are three ways to create it:
 
-* Click the **\[Create template]** button on the [Templates](https://arkain.io/template).
-* Click the **\[More]**(<img src="../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png" alt="" data-size="line">) → **\[Publish to template]** button on the Container card within the **Dashboard**.
+* Click the **\[Create template]** button on the [Templates](https://arkain.io/template) page.
+* Click the **\[More]**(<img src="../../../.gitbook/assets/스크린샷 2025-02-24 오후 8.41.53.png" alt="" data-size="line">) → **\[Publish to community]** button on the Container card within the **Dashboard page**.
 * Click the **\[Publish]** button located at the top of the Workspace.
 {% endstep %}
 
 {% step %}
 ### **Fill in Template Details**
 
-<figure><img src="../../.gitbook/assets/template_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/template_01.png" alt=""><figcaption></figcaption></figure>
 
 #### Select Your Container
 
@@ -47,6 +47,10 @@ Provide a detailed description of your template
   &#xNAN;_&#x65;.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API."_
 * Description can be up to 280 characters long.
 
+{% hint style="info" %}
+**Tip:** The description will be shown on the template card. Write a short and clear explanation to help users quickly grasp what your template offers.
+{% endhint %}
+
 #### **Stack**
 
 Please enter the technology stack used in the container. You can add up to 10 items.
@@ -60,9 +64,7 @@ Please select the Recommended Spec.&#x20;
 * Medium (4vCPU, 4GB Memory)
 * Large (8vCPU, 8GB Memory)
 
-Click **\[Temporary save]** to save temporarily, or click **\[Next]** to proceed to the next step.
-
-<figure><img src="../../.gitbook/assets/template_03.png" alt=""><figcaption></figcaption></figure>
+Click the **\[Temporary save]** button to save temporarily, or click the **\[Next]** button to proceed to the next step.
 
 {% hint style="warning" %}
 Please note that **only one Temporary save is possible.**
@@ -70,9 +72,20 @@ Please note that **only one Temporary save is possible.**
 {% endstep %}
 
 {% step %}
-### Detailed description of the template
+### Enter your template introduction
 
-Please provide a detailed description of your template. We recommend including the following:
+A text file that contains basic information and usage instructions for software. It typically explains the purpose of the project, installation steps, and how to use it, serving as an important first impression that introduces the project.
+
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+_**New**_ 🎉\
+With the AI-Generated Template Introduction feature, you can now let AI automatically create an introduction for your template. The AI reads the code in your container and generates a clear, helpful overview—saving you time and effort.
+
+[ai-generated-template-introduction.md](ai-generated-template-introduction.md "mention")
+{% endhint %}
+
+Please provide introduction of your template. We recommend including the following:
 
 * **Overview**\
   Describe the main function or purpose of the template. Also add the intended audience, expected benefits, and examples of its use.
@@ -83,13 +96,13 @@ Please provide a detailed description of your template. We recommend including t
 * **Requirements**\
   Lists the environment and tools required to run this template.
 
-If it's difficult to write, please refer to the sample document provided on this page.
-
-<figure><img src="../../.gitbook/assets/template_04.png" alt=""><figcaption></figcaption></figure>
+If it’s difficult to write, you can use the [AI-Generated Template Introduction](ai-generated-template-introduction.md) feature!
 {% endstep %}
 
 {% step %}
 ### Create a Template
+
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 Please review the content you've written, and if everything is correct, click the **\[Create]** button. Before template creation begins, make sure the following is met:
 
@@ -101,7 +114,7 @@ Please review the content you've written, and if everything is correct, click th
 Note
 
 * **When a template is created, any containers running will be terminated.**
-* Templates are created after a **security review process.**&#x20;
+* After a template is created, it undergoes a security review.
 * If the container has **a large file size** or the security review process takes a long time, template creation **may take a long time.**
 {% endhint %}
 
@@ -112,7 +125,7 @@ If your template **fails to create**:
 
 1. **Click your failed template.**
 2. **Check fail reasons**&#x20;
-   1. If a file contained in the container is causing the issue, click the  ![](../../.gitbook/assets/run_container.png) button to run the container and resolve the issue.
+   1. If a file contained in the container is causing the issue, click the  ![](../../../.gitbook/assets/run_container.png) button to run the container and resolve the issue.
    2. If you are having trouble solving the problem, please contact us.
 3. If you have resolved the cause, Click the **\[Re-create]** button.
 {% endhint %}

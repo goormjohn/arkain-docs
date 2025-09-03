@@ -21,7 +21,18 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
   * _"Can you optimize this SQL query?"_
   * _"What does this error mean in Python?"_
 
-## **'Managing Chat History**
+## **Add Context**: Elevate Side Chat with Project File Context
+
+Click  the **\[Add context]** button to feed relevant files from your project directly into Side Chat.
+
+You can quickly include:
+
+* **Your 5 Most Recently Opened Files**, instantly accessible
+* **Any File via Project-Wide Search**, by name or path
+
+This eliminates manual copy-pasting—Side Chat immediately gains visibility into your actual work, delivering sharper, context-aware responses.
+
+## **Managing Chat History**
 
 ### **Persistent Chat History**
 

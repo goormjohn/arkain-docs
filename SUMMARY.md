@@ -113,6 +113,7 @@
   * [How do I copy / paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
   * [Official Template Guide](faq/faq/official-template-guide/README.md)
     * [Web with Open API](faq/faq/official-template-guide/web-with-open-api.md)
+  * [Can't use AI-Generated Template Introduction](faq/faq/cant-use-ai-generated-template-introduction.md)
 
 ## What's new?
 

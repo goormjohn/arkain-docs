@@ -24,3 +24,6 @@ icon: comment-question
 [how-do-i-copy-paste-from-the-terminal.md](how-do-i-copy-paste-from-the-terminal.md)
 {% endcontent-ref %}
 
+{% content-ref url="cant-use-ai-generated-template-introduction.md" %}
+[cant-use-ai-generated-template-introduction.md](cant-use-ai-generated-template-introduction.md)
+{% endcontent-ref %}

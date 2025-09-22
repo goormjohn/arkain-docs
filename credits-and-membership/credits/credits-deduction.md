@@ -31,13 +31,13 @@ For containers that use **credits for storage,** once credits are exhausted, the
 
 ### AI features
 
-*   ### Arkain Snap [what-is-arkain-snap.md](../../user-guide/arkain-ai/what-is-arkain-snap.md "mention")
+*   ### [Arkain Snap](../../user-guide/arkain-ai/what-is-arkain-snap.md)
 
     When you create a container through Snap, credits will be consumed based on AI usage.
-*   ### Side Chat [side-chat](../../user-guide/arkain-ai/side-chat/ "mention")
+*   ### [Side Chat](../../user-guide/arkain-ai/side-chat/)
 
     When you ask a question in the workspace side chat, credits will be used based on the model and token usage.
-*   ### AI Supporter [ai-supporter.md](../../user-guide/arkain-ai/ai-supporter.md "mention")&#x20;
+*   ### [AI Supporter](../../user-guide/arkain-ai/ai-supporter.md)
 
     Using AI Supporter incurs credits charges for AI to understand your code.
 

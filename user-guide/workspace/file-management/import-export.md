@@ -1,8 +1,8 @@
 ---
 description: >-
   Download files created in Arkain to your computer, or upload files from your
-  computer to Arkain. Arkain also supports uploading folders.
-icon: cabinet-filing
+  computer to Arkain. Arkain also supports uploading files and folders.
+icon: file-arrow-up
 ---
 
 # Import / Export
@@ -13,31 +13,41 @@ Upload a file from your computer to Arkain. Files with special characters other 
 
 {% stepper %}
 {% step %}
-Right-click on an empty area in the Project Sidebar and select **\[Import File]**.
+Right-click on an empty area in the **Project Sidebar** and select **\[Import File]**.
 {% endstep %}
 
 {% step %}
-In the Import File pop-up window, upload the file, select the desired location, and click the **\[OK]** button to upload it.
+In the Import File popup, upload the file, select the desired location, and click the **\[OK]** button to upload it.
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../../.gitbook/assets/Import_01.png" alt=""><figcaption></figcaption></figure>
+## **Upload Folder** <a href="#export-file" id="export-file"></a>
 
-## **Export File** <a href="#export-file" id="export-file"></a>
-
-You can download Arkain's project files to your local system using the **Export File** feature.
+Upload a folder from your computer to Arkain. To upload a folder:
 
 {% stepper %}
 {% step %}
-Right-click on the desired file in the Project Sidebar and select **\[Export File]**.
+Right-click on an empty area in the **Project Sidebar** and select **\[Upload Folder]**.
 {% endstep %}
 
 {% step %}
-Click **\[Yes]** to download the file to your local system.
+In the Import Folder popup, upload the folder, select the desired location, and click the **\[Import]** button to upload it.
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../../.gitbook/assets/Import_02.png" alt=""><figcaption></figcaption></figure>
+## **Export File** <a href="#export-file" id="export-file"></a>
+
+You can download project files from Arkain to your computer using the **Export File** feature.
+
+{% stepper %}
+{% step %}
+Right-click on the desired file in the **Project Sidebar** and select **\[Export File]**.
+{% endstep %}
+
+{% step %}
+Click the **\[Yes]** button to download the file to your computer.
+{% endstep %}
+{% endstepper %}
 
 ## **Export Folder** <a href="#export-folder" id="export-folder"></a>
 
@@ -53,28 +63,3 @@ Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../../.gitbook/assets/Export_02.png" alt=""><figcaption></figcaption></figure>
-
-## **Share File** <a href="#share-file" id="share-file"></a>
-
-{% stepper %}
-{% step %}
-Right-click the file in the file tree and select **\[Share This File]**.
-{% endstep %}
-
-{% step %}
-Right-click on the file you want to share in the Project Sidebar and select **\[Share this File]**.
-{% endstep %}
-
-{% step %}
-Choose one of the **Sharing Options**, copy the **Sharing URL**, and click **OK**.
-{% endstep %}
-
-{% step %}
-Open the **Sharing URL** in a web browser to view the shared file in the cloud code viewer.
-{% endstep %}
-{% endstepper %}
-
-<figure><img src="../../../.gitbook/assets/Share File_01.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/Share File_02.png" alt=""><figcaption></figcaption></figure>

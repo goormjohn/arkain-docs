@@ -1,6 +1,7 @@
 ---
-icon: bulldozer
 hidden: true
+noIndex: true
+icon: bulldozer
 ---
 
 # Build

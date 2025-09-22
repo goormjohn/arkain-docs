@@ -7,19 +7,19 @@ icon: container-storage
 
 # Creating Container
 
-Go to [Arkain Dashboard](https://arkain.io/my/dashboard), Click the **\[New Container]** button at the top of the page.
+Go to the [Arkain Dashboard](https://arkain.io/my/dashboard) page, Click the **\[New container]** button.
 
-<figure><img src="../../../../../.gitbook/assets/new_container.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Creating Container (2).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
-**Set Up a Container Stack**
+**Set Up a Container Base template**
 
-Currently, the supported stacks are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
+Currently, the supported base templates are **Blank, NVIDIA Tesla T4, Python, Node.js, Java, React and Go**.
 {% endstep %}
 
 {% step %}
-**Configure Template and OS**&#x20;
+**Configure OS**&#x20;
 
 The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
 {% endstep %}
@@ -30,15 +30,27 @@ The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
 Enter a name for your container.
 
 {% hint style="warning" %}
-**Note**\
-Container names **cannot be changed** once created and must only contain **letters, numbers, underscores (\_), or hyphens (-).**
+**Note**
+
+* Container names must only contain **alphabets, numbers, underscores (\_), or hyphens (-).**
+* The container name must be **unique** among your containers.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-**Configure Container Specs**
+**Configure Container Performance**
 
-You can check the available container specifications on [this page](https://docs.arkain.io/user-guide/dashboard/container/container-specifications).
+You can check the available container performance on [this page](https://docs.arkain.io/user-guide/dashboard/container/container-specifications).
+{% endstep %}
+
+{% step %}
+**Enable the advanced features (optional)**
+
+You can enable the advanced features such as [**AI Supporter**](../../../../arkain-ai/ai-supporter.md) **and** [**Code Supporter**](../../../../workspace/editor/code-supporter.md).
+
+{% hint style="warning" %}
+The cost for using the advanced features such as **AI Supporter and Code Supporter** is added to your container cost. However, when using a GPU container, there is no additional charge for these features; instead, your allocated **GPU compute and memory resources** will be reduced.
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -46,20 +58,25 @@ You can check the available container specifications on [this page](https://docs
 
 * **Default:** 5GB / **Up to:** 200GB
 * **Free Plan**: 5GB for free
-* **Membership Plan**: 30GB for free
-{% endstep %}
+* **Membership Plan**: 15GB for free
 
-{% step %}
-**Activate Additional Modules/Packages**
-
-Install additional modules and packages during container creation to save time.
+{% hint style="info" %}
+GPU containers are created with **30GB of storage by default**.
+{% endhint %}
 
 {% hint style="warning" %}
 **Note**
 
 * Once upgraded, storage **cannot be downgraded.**
 * If you **exceed your free storage**, **additional charges** will apply based on your usage.
+* You can also **upgrade storage after the container has been created**.
 {% endhint %}
+{% endstep %}
+
+{% step %}
+**Activate Additional Modules/Packages (optional)**
+
+Install additional modules and packages during container creation to save time.
 {% endstep %}
 {% endstepper %}
 

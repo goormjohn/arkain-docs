@@ -4,42 +4,69 @@ icon: sidebar
 
 # Browse Templates
 
-The **Templates page** is where you can view and explore all the templates you have created or added in Arkain. You can quickly check out the templates being added and quickly search for the template you want whenever you need it.
+You can browse all the templates you have created in Arkain, while also discovering templates from other users. Search and filtering tools make it easy to find the right template whenever you need it.
 
 ***
 
-## **Key Features of the Templates Page**
+## Template List
 
-*   **View All Templates**
+Browse your created templates or community templates.
 
-    This page shows all templates of Arkain users, including templates you have created or registered. Each template displays information such as the template name, stack, and description for quick reference.
-*   **Search, Filter and Sort**
+Each card includes:
 
-    Use the search bar to find a specific template by description and introduction, in addition to name and stack.\
-    You can filter stacks or use the **Most used** option to quickly access templates you want.
-*   **View Template Details**
+* **Template name**
+* **Description (optional)**
+* **Stack**
+* **Creator**
+* **Usage Stats**
+* and the **\[Remix]** button
 
-    Click on any template to view more details, including the software stack, configurations, and additional information. Check out the template creator and template usage.
-*   **Communicate with Other Users**
+### **Search, Filter, and Sort**
 
-    You can comment on the templates you are looking at. Leave compliments on great templates and give feedback on what you think could be improved.
-*   **Create New Template**
+Quickly find the right template using the built-in tools:
 
-    You can also create a new template directly from the Templates page.
-*   **Explore Profiles of Users**
+* **Search** by name, stack, description, or introduction—even if you don’t remember the exact name.
+* **Filter** results by a specific stack.
+* **Sort** templates with options like _**Recent**_ or _**Most used**_ to bring popular ones to the top.
 
-    You can browse profiles of users who have created templates, view templates created by specific users, and interact with various developers.
-*   **Use Templates**
 
-    If you like the template you're looking at, try creating your own container using the template. The default settings for the container follow the selected template.
-
-    <mark style="background-color:purple;">ℹ️ The template's main folder under the /workspace path is renamed to the name of the created container.</mark>
-
-***
 
 ### What is Arkain's official template?
 
-If you look through the templates, you will see templates with ![](../../.gitbook/assets/CertificateIcon.png)icon attached. These are templates that Arkain provides and produces, and as described, packages/modules for environment configuration are automatically installed and executed.
+If you look through the templates, you will see templates with an ![](../../.gitbook/assets/CertificateIcon.png)icon attached. These are templates that Arkain provides and produces, and as described, packages/modules for environment configuration are automatically installed and executed.
 
 We hope that one day your templates will become official templates for Arkain.
+
+***
+
+## Template Detail Info
+
+When viewing a specific template, you can access detailed information including:
+
+* **Template Information** - Name, description, stack, and recommended performance
+* **Creator Details** - Template creator and creation date
+* **Usage Counts** - Number of times Arkain users have used this template
+
+### Template Actions
+
+* **Use Template** - Deploy the template with recommended settings&#x20;
+* **Comment** - Share feedback and engage with the template creator
+* **Social Sharing** - Share templates on social media platforms
+
+You can report a template if you find its content inappropriate:
+
+* **Report Template** - Flag inappropriate or problematic templates
+
+{% content-ref url="malicious-templates-and-comment-policy.md" %}
+[malicious-templates-and-comment-policy.md](malicious-templates-and-comment-policy.md)
+{% endcontent-ref %}
+
+For your own templates, you can also:&#x20;
+
+* **Edit Template** - Modify template details and settings
+* **Delete Template** - Remove templates permanently from the platform
+
+{% content-ref url="manage-templates.md" %}
+[manage-templates.md](manage-templates.md)
+{% endcontent-ref %}
 

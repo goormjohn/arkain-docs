@@ -9,13 +9,13 @@ icon: container-storage
 
 ## **Run Your Container**
 
-You can start your container from two locations:
+You can run your container from two locations:
 
-**Dashboard**
+**Dashboard page**
 
 {% stepper %}
 {% step %}
-Go to the Dashboard, where your containers are displayed as cards.
+Go to the Dashboard page, where your containers are displayed as cards.
 {% endstep %}
 
 {% step %}
@@ -23,27 +23,31 @@ Click the **\[Run]** button on the container card to launch it.
 {% endstep %}
 {% endstepper %}
 
-**Container Settings Page**
+**Container Settings page**
 
 {% stepper %}
 {% step %}
-Open the settings page of your container.
+Open the **Container Settings page** of your container.
 {% endstep %}
 
 {% step %}
-Use the **\[Run]** button located at the top or in the settings interface to initiate the container.
+Click the **\[Run]** button located at the top-right corner to initiate the container.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+If you're the owner of a container, you can run it by accessing the container's sharing link.
+{% endhint %}
 
 ## **Stop Your Container**
 
 To stop a running container, you have two options:
 
-**Dashboard**
+**Dashboard page**
 
 {% stepper %}
 {% step %}
-Go to the Dashboard, here your containers are displayed as cards.
+Go to the Dashboard page, where your containers are displayed as cards.
 {% endstep %}
 
 {% step %}
@@ -51,11 +55,11 @@ Click the **\[Stop]** button on the container card to terminate its operation.
 {% endstep %}
 {% endstepper %}
 
-**Container Settings Page**
+**Container Settings page**
 
 {% stepper %}
 {% step %}
-Open the settings page of your container.
+Open the Container Settings page of your container.
 {% endstep %}
 
 {% step %}
@@ -67,11 +71,11 @@ Click the **\[Stop]** button to safely terminate the container.
 
 To delete a container, you can choose from the following methods:
 
-**Dashboard**
+**Dashboard page**
 
 {% stepper %}
 {% step %}
-Go to the Dashboard, where your containers are displayed as cards.
+Go to the Dashboard page, where your containers are displayed as cards.
 {% endstep %}
 
 {% step %}
@@ -79,11 +83,11 @@ Click the **\[More]**(<img src="../../../../.gitbook/assets/more.png" alt="" dat
 {% endstep %}
 {% endstepper %}
 
-**Container Settings Page**
+**Container Settings page**
 
 {% stepper %}
 {% step %}
-Open the settings page of your container.
+Open the Container Settings page of your container.
 {% endstep %}
 
 {% step %}

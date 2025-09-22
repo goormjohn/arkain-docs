@@ -4,11 +4,11 @@ icon: money-bill
 
 # Billing
 
-Click on the **\[Profile Icon]** located at the bottom of the left sidebar on the **Dashboard page** and Click on the **\[Billing]** button in the pop-up that opens.
+Click the **\[Avatar] button** located at the top-right corner on the **Dashboard page** and Click the **\[Billing]** button in the popup that opens.
 
-The **Billing Page** on the Arkain Dashboard is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits!&#x20;
+The **Billing page** on the Dashboard page is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits!&#x20;
 
-<figure><img src="../../../.gitbook/assets/billing (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Billing (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -19,7 +19,7 @@ The **Billing Page** on the Arkain Dashboard is where you can manage all your pa
 * Current Credit Balance shows you how many credits you currently have available.&#x20;
 * You can see at a glance the paid credits you purchased and the credits you received for free during the month, and check the regular recharge date for free credits.&#x20;
 * You can set whether to receive email notifications related to credits.&#x20;
-* Buy Credits: If your balance is low, you can quickly add credits by clicking the **\[Buy credit]** button! Just select the amount you want to purchase and complete the transaction.&#x20;
+* Buy credits: If your balance is low, you can quickly add credits by clicking the **\[Buy credits]** button! Just select the amount you want to purchase and complete the transaction.&#x20;
 
 ### **Subscribe to a Membership Plan**
 
@@ -33,8 +33,31 @@ In the **Membership Plan section**, you can do the following:
 * **Credit History**&#x20;
   * View your credit purchase history and get a refund for unused credits.
   * View your free credit history and check the expiration date.
+  * View your refunded credit history.
+
+{% hint style="info" %}
+### Credit Refund Policy
+
+* We offer **full refunds** for eligible transactions.
+* Please note that **partial refunds are not available**.
+* If the payment was made by credit card, any cancellation will be processed back to the card used for the transaction.
+* For more details, please refer to the link provided. [credits](../../../credits-and-membership/credits/ "mention")
+{% endhint %}
+
 * **Membership Subscription**&#x20;
-  * Check your Membership subscription history.
+  * Check your current membership status (e.g., subscribing or subscribing to be terminated) and your subscription history.
+  * To cancel your membership subscription, click the **\[Cancel membership]** button. The next payment will not be charged, and you can continue to use your membership benefits until the expiration date.
+  * You can view your membership cancellation history.
+
+{% hint style="info" %}
+### Membership Refund Policy
+
+* You can get a refund for your subscription within 7 days from the subscription date, provided that the credits received as a membership benefit have not been used.
+* If you want to get a refund for your membership subscription, please contact us through our [chat](https://arkain.channel.io) support.
+* For more details, please refer to the link provided. [membership](../../../credits-and-membership/membership/ "mention")
+{% endhint %}
+
+
 
 ### Add coupon
 

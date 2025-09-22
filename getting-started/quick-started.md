@@ -4,6 +4,7 @@ description: >-
   developing with the powerful features of Arkain. Get started quickly and learn
   the basics of Arkain with Quick Started.
 hidden: true
+noIndex: true
 icon: eggplant
 ---
 
@@ -49,7 +50,7 @@ Click the **\[New Container]** button at the top of the page. By using the short
 
 Enter the details you want to create in the prompt. **Arkain Snap** will quickly set up the project for you. Or run the example project at the bottom of the prompt.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Arkain Snap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Arkain AI.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Click the **\[Skip]** button to enter the Arkain's Workspace directly.
@@ -62,7 +63,7 @@ Click the **\[Skip]** button to enter the Arkain's Workspace directly.
 Click the **\[Run]** button to launch the newly created container.\
 Once the container is running, your **Arkain's Workspace** will open, and you’re ready to start coding!
 
-<figure><img src="../.gitbook/assets/내용-2 (1).png" alt=""><figcaption><p>Arkain's Workspace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/run container (2).png" alt=""><figcaption><p>Arkain's Workspace</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

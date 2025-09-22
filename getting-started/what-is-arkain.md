@@ -4,7 +4,7 @@ icon: circle-chevron-right
 
 # What is Arkain?
 
-<figure><img src="../.gitbook/assets/bg (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/What is Arkain_.png" alt=""><figcaption></figcaption></figure>
 
 ## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
 
@@ -12,16 +12,15 @@ icon: circle-chevron-right
 
 ### **Supercharge Your Workflow with AI Code Assistance**
 
-Arkain isn't just a coding platform—it’s your [**intelligent coding companion**](../user-guide/arkain-ai/auto-complete.md). With an [**AI-powered Code Assistant**](../user-guide/arkain-ai/what-is-arkain-snap.md), you can:
+Arkain isn't just a coding platform—it’s your **intelligent coding companion**. With an [**AI Code Assistant**](../user-guide/arkain-ai/what-is-arkain-snap.md), you can:
 
 * Get **smart code suggestions** in real time.
-* **Auto-complete functions** and optimize your code.
 * Collaborate effortlessly with AI to **write, debug, and refine** your projects.
 * You can automatically build a development environment using natural language with the intelligent AI agent **Arkain Snap**.
 
 Whether you're a beginner or a seasoned developer, Arkain empowers you to **code smarter, faster, and more efficiently than ever before**. Start building with **AI-driven precision** today!&#x20;
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fvv0eKmOn3DY36Ox1EqCE%2Fuploads%2FQ9jN7FgtfFOunwifGPP3%2Fimage.png?alt=media&#x26;token=aa2617da-1f40-4b40-a84f-4cfc755ceb86" alt=""><figcaption></figcaption></figure>
+
 
 ## **Key Features of Arkain**
 
@@ -29,7 +28,7 @@ Whether you're a beginner or a seasoned developer, Arkain empowers you to **code
 
 With just a few clicks, Arkain provides pre-configured development environments for various programming languages like **Python, Java**, and **Go**, as well as frameworks and runtimes like **Node.js** and **React**.&#x20;
 
-Additionally, it offers a **blank** stack with only the Ubuntu OS installed, allowing users to freely customize their own development environments.&#x20;
+Additionally, it offers a **Blank** template with only the Ubuntu OS installed, allowing users to freely customize their own development environments.&#x20;
 
 Arkain also specializes in AI by offering **GPU**-optimized development environments tailored for AI-related projects.
 
@@ -46,12 +45,12 @@ Arkain empowers developers to work together effortlessly with:
 
 It automatically selects and configures the necessary libraries, frameworks, and databases based on the service or app you're creating. The AI also writes the code for frontend, backend, and more.
 
-### **AI-Powered Assistance with Side Chat**
+### **Side Chat: AI Code Assistance**
 
-Arkain’s [**Side Chat**](../user-guide/arkain-ai/how-to-use-side-chat.md), powered by advanced **LLMs (GPT-4o, Claude-sonet-3.5)**, offers:
+Arkain’s [**Side Chat**](../user-guide/arkain-ai/side-chat/), powered by advanced **LLMs**([Supported Models](../user-guide/arkain-ai/supported-models.md)), offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
-* **Searchable Chat History** – Revisit past conversations anytime.
+* **Chat History** – Revisit past conversations anytime.
 * **Flexible AI Models** – Switch between different AI assistants based on your needs.
 
 ### **Templates: Jumpstart Your Projects**&#x20;

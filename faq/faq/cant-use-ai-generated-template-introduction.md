@@ -33,7 +33,7 @@ You can check both regions in the following ways:
 When creating a container, the region closest to your current location is automatically selected.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. What to Do if Regions Don’t Match
 
@@ -63,7 +63,7 @@ Alternatively, you can create a **template** from your existing container and th
 **Steps:**
 
 1. Go to the container you want to migrate.
-2. [create-a-template](../../user-guide/templates/create-a-template/ "mention") from it.
+2. [create-a-template.md](../../user-guide/templates/create-a-template.md "mention") from it.
 3. In your currently accessed region, create a new container using that template.
 
 

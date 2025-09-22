@@ -4,24 +4,20 @@ icon: scroll
 
 # Init Script
 
-If you have a script that needs to be executed repeatedly when running a container, try the Init script! The Init script runs from the root directory `(/)` of the container and is executed when the container starts.
+If you have a script that needs to be executed repeatedly when running a container, you can use the Init script. The **Init script** runs from the root directory `(/)` of the container and is executed when the container starts.
 
 It is commonly used to write scripts that execute your application.
 
-<figure><img src="../../../../../.gitbook/assets/InitScript_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Init Script.png" alt=""><figcaption></figcaption></figure>
 
-### How to use init script?
+### How to use the Init Script?
 
 {% stepper %}
 {% step %}
-You can navigate to the **Dashboard** and enter the **Container Settings** page.
+You can navigate to the **Dashboard** page and enter the **Container Settings** page.
 {% endstep %}
 
 {% step %}
-In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. Once you're done writing, it will be saved automatically. And these commands will automatically run when the container starts.&#x20;
+In the **Container Settings** page, under the **Init Script** section, you can write the execution commands. Once you're done writing, it will be saved automatically, and these commands will automatically run when the container starts.&#x20;
 {% endstep %}
 {% endstepper %}
-
-{% hint style="warning" %}
-**Script will run in the root path(/).**
-{% endhint %}

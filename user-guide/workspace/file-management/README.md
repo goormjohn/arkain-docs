@@ -1,9 +1,9 @@
 ---
-icon: cabinet-filing
 description: >-
-  Arkain provides a full range of functions such as file/folder creation,
-  renaming, deletion, import, and export through the Project Sidebar, which acts
-  as a file explorer.
+  Arkain provides a full range of functions for managing your project files
+  through the Project Sidebar. The Project Sidebar acts as a file explorer, and
+  most file management tasks begin here.
+icon: cabinet-filing
 ---
 
 # File Management

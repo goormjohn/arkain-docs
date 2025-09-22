@@ -8,36 +8,34 @@ icon: container-storage
 
 Arkain provides flexible options to enhance container performance and storage capacity. Here's how you can manage these features:
 
-<figure><img src="../../../../../.gitbook/assets/setting_05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Container Upgrade (1).png" alt=""><figcaption></figcaption></figure>
 
-#### **Upgrade Container Performance**
+#### **Upgrade Container Performance** [container-performance.md](../../container-performance.md "mention")
 
-* You can **boost your container’s resources** (such as CPU and memory) directly from the **settings page**.
+* You can **boost your container’s resources** (such as CPU and memory) directly on the **Container Settings page**.
 * Upgrading performance is ideal for handling larger workloads or improving application efficiency.
 * A container’s resources (such as CPU and memory) can only be modified when the container is in a stopped state, and its performance can be increased or decreased as needed at any time.
-
-<table><thead><tr><th>Type</th><th width="224">Specification</th><th width="188">Credits per hour</th><th>Price</th></tr></thead><tbody><tr><td>Micro</td><td>0.5 vCPU, 1GB Memory</td><td>2.25</td><td>$0.045</td></tr><tr><td>Small</td><td>2 vCPU, 2GB Memory</td><td>5.25</td><td>$0.105</td></tr><tr><td>Medium</td><td>4 vCPU, 4GB Memory</td><td>9.75</td><td>$0.195</td></tr><tr><td>Large</td><td>8 vCPU, 8GB Memory</td><td>18.75</td><td>$0.375</td></tr><tr><td>GPU Basic</td><td>3.5 vCPU, 13GB Memory</td><td><del>17.25</del> → 13.2</td><td><del>$0.345</del> → $0.264</td></tr></tbody></table>
 
 ### **Add Container Storage**
 
 * **Expand Your Storage**: Increase the storage capacity of your container when needed, ensuring you have enough space for your projects and files.
-* **Important Note**: Once a container's storage capacity is increased, it **cannot be reduced**. Plan your storage upgrades carefully to avoid unnecessary allocations.
-* **Membership Requirement**: Storage upgrades are only available for users with a **membership plan**.
+* You can upgrade the storage **up to 200GB.**
+* If you exceed the default storage, additional storage will be charged in credits based on usage.\
+  <sub>For detailed credit deductions, please visit this page.</sub> [credits](../../../../../credits-and-membership/credits/ "mention")
 
-{% hint style="warning" %}
-**Adding 1GB** of storage equals **0.018432 credits** ($0.00037) per hour.
+{% hint style="danger" %}
+Once a container's storage capacity is increased, it **cannot be reduced**. \
+Plan your storage upgrades carefully to avoid unnecessary allocations.
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/Add Container Storage_01.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../../../.gitbook/assets/Add Container Storage_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/add storage.png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Traffic Charges**
 
-The container's network traffic is provided for free up to 10GB per month. charged per GB when exceeded.
+The container's network traffic is provided for free up to 10GB per month, with charges applied per GB when exceeded.
 
 {% hint style="warning" %}
-For every **1GB of traffic**, an additional **10 credits ($0.20)** will be charged.&#x20;
+For every **1GB of traffic**, an additional **8 credits** will be charged.&#x20;
 {% endhint %}
 
 {% hint style="info" %}

@@ -3,10 +3,12 @@ description: >-
   With just a few clicks, you can set up your development environment and start
   developing with the powerful features of Arkain. Get started quickly and learn
   the basics of Arkain with Quick Started.
+hidden: true
+noIndex: true
 icon: play
 ---
 
-# Quick Started
+# Quick Started(아케이드)
 
 ## Sign up to Arkain
 
@@ -16,7 +18,7 @@ icon: play
 
 {% embed url="https://app.arcade.software/share/jPdot7CHh5Yu8aVTzyhj" %}
 
-## Create containder&#x20;
+## Create Container&#x20;
 
 {% embed url="https://app.arcade.software/share/t87Ay67N46Ab7tfK7vu5" %}
 

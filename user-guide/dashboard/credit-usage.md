@@ -7,6 +7,14 @@ icon: coin-front
 
 # Credit usage
 
+{% hint style="success" %}
+**✨ Open Beta Exclusive: Arkain Snap & Side Chat Free Trial**
+
+We’re offering **3 total free trial uses** to let you deploy AI-powered containers with **Snap** and get instant AI help in your workspace with **Side Chat**. Experience the power of Arkain’s AI for yourself!
+
+For detailed information about Snap and Side Chat usage charges, please check [here](https://docs.arkain.io/credits-and-membership/credits/calculate-credits-usage).
+{% endhint %}
+
 Click the current **Credit & Plan** button at the top-right corner on the Dashboard page. In the popup that appears, you can check your current remaining credits and plan, and click the \[**View credit usage**] button to go to the **Credit usage page**.
 
 ## **How to Use the Credit Usage**

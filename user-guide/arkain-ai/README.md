@@ -4,6 +4,14 @@ icon: message-bot
 
 # Arkain AI
 
+{% hint style="success" %}
+**✨ Open Beta Exclusive: Arkain Snap & Side Chat Free Trial**
+
+We’re offering **3 total free trial uses** to let you deploy AI-powered containers with **Snap** and get instant AI help in your workspace with **Side Chat**. Experience the power of Arkain’s AI for yourself!
+
+For detailed information about Snap and Side Chat usage charges, please check [here](https://docs.arkain.io/credits-and-membership/credits/calculate-credits-usage).
+{% endhint %}
+
 ## Arkain Snap
 
 **Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.

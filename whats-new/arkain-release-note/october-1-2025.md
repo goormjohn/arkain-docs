@@ -2,7 +2,7 @@
 
 ## Highlights
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/하이라이트 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **✨ Open Beta Exclusive: Arkain Snap & Side Chat Free Trial**
 

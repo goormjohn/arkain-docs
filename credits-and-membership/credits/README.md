@@ -58,7 +58,7 @@ If you subscribe to the membership, you will receive 1,000 credits each month.
 *   **Daily check-in credit**
 
     Check in once a day to receive 5 event credits. These credits are valid for one month.
-*   **Coupon** [coupon.md](../../user-guide/dashboard/billing/coupon.md "mention")
+*   [**Coupon**](../../user-guide/dashboard/billing/coupon.md)
 
     Using a coupon allows you to receive the free credit applied to the coupon and use it within its validity period.&#x20;
 *   **Other Event**

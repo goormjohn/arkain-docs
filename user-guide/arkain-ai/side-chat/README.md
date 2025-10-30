@@ -21,7 +21,9 @@ The **Side Chat** feature in **Arkain** allows you to interact with powerful LLM
   * _"Can you optimize this SQL query?"_
   * _"What does this error mean in Python?"_
 
-## **Add Context**: Elevate Side Chat with Project File Context
+## **Add Context**: Elevate Side Chat with Project Files and Images
+
+### Adding Project Files
 
 Click  the **\[Add context]** button to feed relevant files from your project directly into Side Chat.
 
@@ -31,6 +33,20 @@ You can quickly include:
 * **Any File via Project-Wide Search**, by name or path
 
 This eliminates manual copy-pasting—Side Chat immediately gains visibility into your actual work, delivering sharper, context-aware responses.
+
+### Adding Images
+
+Click the **\[Upload Images]** button or drag and drop images directly into Side Chat to provide visual context. The LLM will automatically analyze and understand the image content to enhance its responses.
+
+Image Upload Details:
+
+* Supports common image formats: JPG, PNG, SVG, and more
+* Add up to 5 images per message (separate from file attachments)
+* Maximum file size: 20MB per image
+* Large images are automatically compressed during upload.
+* Uploaded images are saved within your project folder, and you can freely upload images within the container's storage capacity.
+
+This feature is particularly useful for analyzing UI designs or mockups, or  for debugging visual rendering issues.
 
 ## **Managing Chat History**
 

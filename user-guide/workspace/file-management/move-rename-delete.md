@@ -44,6 +44,20 @@ Alternatively, you can select the file or folder and press <kbd>**F2**</kbd>. Th
 If the new name already exists, the input field turns red and the change is blocked. The same applies if you use characters other than English letters and approved special characters.
 {% endhint %}
 
+### Rename Container
+
+You can also rename the container **by renaming the main project**.
+
+To rename the container, open the **More Actions**(<img src="../../../.gitbook/assets/스크린샷 2025-10-27 오후 4.39.30.png" alt="" data-size="line">) menu in the **Project header** and select the **\[Rename Container]**.\
+Alternatively, you can rename the container by selecting the main project and pressing <kbd>**F2**</kbd> (the same method used for renaming files).
+
+Renaming the container updates the container name in both the **Project Sidebar** and the **Dashboard page**, ensuring the new name is applied across the Workspace and visible to collaborators.
+
+{% hint style="warning" %}
+* Only the container **owner** can rename the container.
+* Containers can be renamed while running, but the editor will refresh right after, which may clear unsaved edits.
+{% endhint %}
+
 ## Delete File
 
 The Delete feature allows you to remove files or folders from the **Project Sidebar**.

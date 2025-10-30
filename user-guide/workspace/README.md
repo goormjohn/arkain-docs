@@ -6,7 +6,7 @@ icon: square-check
 
 Arkain's **Workspace** is an IDE (Integrated Development Environment) designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The main components of the Workspace are as follows.&#x20;
 
-<figure><img src="../../.gitbook/assets/Workspace_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_01 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -54,7 +54,7 @@ The Sidebar is an area that helps you easily access key features needed for deve
 
 Clicking on the **\[Side Chat]** button will open a Side Chat on the left side of the Workspace, where you can converse with the **AI Code Assistant**.
 
-<figure><img src="../../.gitbook/assets/sidechat_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sidechat_01 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Side Chat is only available for the container's **owner**.
@@ -70,16 +70,17 @@ The **\[Project]** button opens the Project Sidebar area. The project sidebar is
 
 You can click on files, such as a README or source code, to open them in the editor.
 
-<figure><img src="../../.gitbook/assets/project_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
-Click the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> **button** to create new **files, folders** and sub projects within your project.
+Click the <img src="../../.gitbook/assets/스크린샷 2025-10-27 오후 4.12.39.png" alt="" data-size="line"> **button** to create new **files, folders** and sub projects within your project.
 
 #### **Folder Management**
 
-* Use the <img src="../../.gitbook/assets/ActivityBar-item -11.png" alt="" data-size="line"> **icon** to collapse all folders.
-* Click the <img src="../../.gitbook/assets/ActivityBar-item-7.png" alt="" data-size="line"> **refresh button** to update the file tree and keep it in sync.
+* Use the <img src="../../.gitbook/assets/스크린샷 2025-10-27 오후 4.12.15.png" alt="" data-size="line"> **icon** to collapse all folders.
+* Click the <img src="../../.gitbook/assets/스크린샷 2025-10-27 오후 4.12.45.png" alt="" data-size="line"> **refresh button** to update the file tree and keep it in sync.
+* Click the <img src="../../.gitbook/assets/스크린샷 2025-10-27 오후 4.39.30 (1).png" alt="" data-size="line"> **more actions button** to access project-level utilities, such as renaming the container, uploading local files or folders, and downloading items from the workspace.
 
 
 
@@ -87,7 +88,7 @@ Click the <img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"
 
 Right-click on a file to access all available file-related features, including renaming, deleting, moving, and more!&#x20;
 
-<figure><img src="../../.gitbook/assets/Right-Click for File Actions (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Right-Click for File Actions.png" alt=""><figcaption></figcaption></figure>
 
 ### <img src="../../.gitbook/assets/ActivityBar-item-4 (1).png" alt="" data-size="line"> [Search](search.md)
 
@@ -116,7 +117,7 @@ It opens Git, a distributed version control system, in the Sidebar to track and 
 
 You can share your container with other Arkain users to collaborate or showcase your projects.
 
-<figure><img src="../../.gitbook/assets/share (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/share.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="collaboration/contaienr-sharing.md" %}
 [contaienr-sharing.md](collaboration/contaienr-sharing.md)
@@ -132,7 +133,7 @@ Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), an
 
 You can open the project settings tab. You can change the editor, terminal, and theme styles.
 
-<figure><img src="../../.gitbook/assets/Workspace_09 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_09 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ![](../../.gitbook/assets/avatar.png) Account
 

@@ -9,18 +9,18 @@ icon: keyboard
 
 ## File
 
-| Function           | macOS Shortcut                                          | macOS Shortcut                                    |
-| ------------------ | ------------------------------------------------------- | ------------------------------------------------- |
-| Open File          | <kbd>Cmd ⌘</kbd> + <kbd>O</kbd>                         | <kbd>Ctrl</kbd> + <kbd>O</kbd>                    |
-| Close              | <kbd>option ⌥</kbd> + <kbd>W</kbd>                      | <kbd>Alt</kbd> + <kbd>W</kbd>                     |
-| Close All          | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>W</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>  |
-| Reopen Closed File | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>O</kbd>   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>   |
-| Save               | <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>                         | <kbd>Ctrl</kbd> + <kbd>S</kbd>                    |
-| Save As            | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>S</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> |
-| Save All           | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>   |
-| Rename             | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>R</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> |
-| Duplicate          | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>A</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> |
-| Delete             | <kbd>Cmd ⌘</kbd> + <kbd>Backspace ⌫</kbd>               | <kbd>Ctrl</kbd> + <kbd>Backspace ⌫</kbd>          |
+| Function                  | macOS Shortcut                                          | Windows/Linux Shortcut                            |
+| ------------------------- | ------------------------------------------------------- | ------------------------------------------------- |
+| Open File / Toggle Folder | <kbd>Return ⏎</kbd>                                     | <kbd>Enter</kbd>                                  |
+| Close                     | <kbd>option ⌥</kbd> + <kbd>W</kbd>                      | <kbd>Alt</kbd> + <kbd>W</kbd>                     |
+| Close All                 | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>W</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>  |
+| Reopen Closed File        | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>O</kbd>   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>O</kbd>   |
+| Save                      | <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>                         | <kbd>Ctrl</kbd> + <kbd>S</kbd>                    |
+| Save As                   | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>S</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> |
+| Save All                  | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>S</kbd>   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>   |
+| Rename                    | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>R</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> |
+| Duplicate                 | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>A</kbd>    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> |
+| Delete                    | <kbd>Cmd ⌘</kbd> + <kbd>Backspace ⌫</kbd>               | <kbd>Ctrl</kbd> + <kbd>Backspace ⌫</kbd>          |
 
 ## Edit
 
@@ -37,8 +37,8 @@ icon: keyboard
 | Select Line                | <kbd>Ctrl ^</kbd> + <kbd>L</kbd>                                                        | <kbd>Alt</kbd> + <kbd>L</kbd>                               |
 | Select Parent Syntax Unit  | <kbd>Cmd ⌘</kbd> + <kbd>I</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>I</kbd>                              |
 | Select Between Brackets    | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>M</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>           |
-| Insert New Line Below      | <kbd>Cmd ⌘</kbd> + <kbd>Enter ⏎</kbd>                                                   | <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                          |
-| Insert New Line Above      | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Enter ⏎</kbd>                              | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>       |
+| Insert New Line Below      | <kbd>Cmd ⌘</kbd> + <kbd>Return ⏎</kbd>                                                  | <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                          |
+| Insert New Line Above      | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Return ⏎</kbd>                             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>       |
 | Go To Line                 | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>             |
 | Go To Bracket              | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>\\</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>          |
 | Go To Line Start           | <kbd>Cmd ⌘</kbd> + <kbd>←</kbd>                                                         | <kbd>Home</kbd>                                             |
@@ -102,21 +102,21 @@ icon: keyboard
 
 ## Window
 
-| Function                     | macOS Shortcut                                             | Windows/Linux Shortcut                               |
-| ---------------------------- | ---------------------------------------------------------- | ---------------------------------------------------- |
-| Toggle Side Chat             | <kbd>F1</kbd>                                              | <kbd>F1</kbd>                                        |
-| New Terminal Window          | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>T</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>     |
-| Terminal To Current Location | <kbd>option ⌥</kbd>+<kbd>T</kbd>                           | <kbd>Alt</kbd> + <kbd>T</kbd>                        |
-| Open Previous Window         | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>\[</kbd>       | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>    |
-| Open Next Window             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>]</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>     |
-| Open Specific Window         | <kbd>Cmd ⌘</kbd> + <kbd>#Num</kbd>                         | <kbd>Ctrl</kbd> + <kbd>#Num</kbd>                    |
-| Split Right                  | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>R</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>    |
-| Split Down                   | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>D</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>     |
-| Close Workspace              | <kbd>option ⌥</kbd>+<kbd>C</kbd>                           | <kbd>Alt</kbd> + <kbd>C</kbd>                        |
-| Move Layout Focus            | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+ <kbd>Enter ⏎</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> |
-| Toggle Header                | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>A</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>     |
-| Toggle Sidebar               | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>L</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>     |
-| Toggle Devtools              | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>B</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>     |
+| Function                     | macOS Shortcut                                              | Windows/Linux Shortcut                               |
+| ---------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
+| Toggle Side Chat             | <kbd>F1</kbd>                                               | <kbd>F1</kbd>                                        |
+| New Terminal Window          | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>T</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>     |
+| Terminal To Current Location | <kbd>option ⌥</kbd>+<kbd>T</kbd>                            | <kbd>Alt</kbd> + <kbd>T</kbd>                        |
+| Open Previous Window         | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>\[</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>    |
+| Open Next Window             | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>]</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>     |
+| Open Specific Window         | <kbd>Cmd ⌘</kbd> + <kbd>#Num</kbd>                          | <kbd>Ctrl</kbd> + <kbd>#Num</kbd>                    |
+| Split Right                  | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>R</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>    |
+| Split Down                   | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>D</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>     |
+| Close Workspace              | <kbd>option ⌥</kbd>+<kbd>C</kbd>                            | <kbd>Alt</kbd> + <kbd>C</kbd>                        |
+| Move Layout Focus            | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+ <kbd>Return ⏎</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> |
+| Toggle Header                | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>A</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>     |
+| Toggle Sidebar               | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>L</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>     |
+| Toggle Devtools              | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>B</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>     |
 
 ## Help
 

@@ -35,9 +35,9 @@
   * [File Management](user-guide/workspace/file-management/README.md)
     * [New File / Folder](user-guide/workspace/file-management/new-file-folder.md)
     * [Move / Rename / Delete](user-guide/workspace/file-management/move-rename-delete.md)
-    * [Copy / Paste](user-guide/workspace/file-management/copy-paste.md)
+    * [Copy / Paste / Duplicate](user-guide/workspace/file-management/copy-paste-duplicate.md)
     * [Open / Close in Editor](user-guide/workspace/file-management/open-close-in-editor.md)
-    * [Import / Export](user-guide/workspace/file-management/import-export.md)
+    * [Upload / Download](user-guide/workspace/file-management/upload-download.md)
     * [Compress / Extract File](user-guide/workspace/file-management/compress-extract-file.md)
     * [Copy File Path](user-guide/workspace/file-management/copy-file-path.md)
   * [Editor](user-guide/workspace/editor/README.md)
@@ -126,6 +126,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [October 30, 2025](whats-new/arkain-release-note/october-30-2025.md)
   * [October 1, 2025](whats-new/arkain-release-note/october-1-2025.md)
   * [September 22, 2025](whats-new/arkain-release-note/september-22-2025.md)
   * [August 28, 2025](whats-new/arkain-release-note/august-28-2025.md)

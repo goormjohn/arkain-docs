@@ -18,9 +18,8 @@ There are two ways to create a new file or folder:
 
 ### Using Right-clicking
 
-1. Right-click on any folder in the Project Sidebar.
-2. Select **\[New].**
-3. Select **\[File]** or **\[Folder].**
+1. Right-click on any sub project or folder in the Project Sidebar.
+2. Select **\[New File]** or **\[New Folder].**
 
 
 

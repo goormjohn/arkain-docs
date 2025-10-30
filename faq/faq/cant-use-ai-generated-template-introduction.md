@@ -52,8 +52,8 @@ You can **export the container** and then **import it into a new container in th
 5. Right-click on an empty area in the **Project Sidebar** and select **\[Upload Folder].**
 6. In the Import Folder popup, upload the exported folder, select the desired location, and click the **\[Import]** button to upload it.
 
-{% content-ref url="../../user-guide/workspace/file-management/import-export.md" %}
-[import-export.md](../../user-guide/workspace/file-management/import-export.md)
+{% content-ref url="../../user-guide/workspace/file-management/upload-download.md" %}
+[upload-download.md](../../user-guide/workspace/file-management/upload-download.md)
 {% endcontent-ref %}
 
 ### <mark style="color:$primary;">**Option 2: Creating a Template**</mark>

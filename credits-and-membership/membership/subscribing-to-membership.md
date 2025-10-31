@@ -36,3 +36,7 @@ You can check your subscription details on the [**Billing page**](https://arkain
 ## Unsubscribe Membership
 
 If you wish to cancel your membership subscription, go to the Billing page and click the **\[Cancel membership]** button.
+
+{% hint style="success" %}
+Membership benefits will remain active until the end of the current plan period, even when an automatic payment cancellation is scheduled.
+{% endhint %}

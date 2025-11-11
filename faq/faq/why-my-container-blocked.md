@@ -22,7 +22,6 @@ If the following programs are detected running, **you may be blocked from using 
 | Browser                    | High compute resource occupancy adversely affects service operations |
 | Cryptocurrency trading bot | High compute resource occupancy adversely affects service operations |
 | Game Server                | High compute resource occupancy adversely affects service operations |
-| ### **Other reasons**      |                                                                      |
 
 ### The program may also be blocked for the following reasons
 

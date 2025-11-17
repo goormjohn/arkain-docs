@@ -143,4 +143,5 @@
 
 ## Notice
 
+* [\[Notice\] GPU Container Policy Update on November 24th](notice/notice-gpu-container-policy-update-on-november-24th.md)
 * [\[Notice\] Scheduled maintenance on July 11th](notice/notice-scheduled-maintenance-on-july-11th.md)

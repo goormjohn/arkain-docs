@@ -143,6 +143,6 @@
 
 ## Notice
 
-* [\[Notice\] Service Outage and Restoration Notice](notice/notice-service-outage-and-restoration-notice.md)
-* [\[Notice\] GPU Container Policy Update on November 24th](notice/notice-gpu-container-policy-update-on-november-24th.md)
-* [\[Notice\] Scheduled maintenance on July 11th](notice/notice-scheduled-maintenance-on-july-11th.md)
+* [(Nov 19, 2025) Service Outage and Restoration Notice](notice/nov-19-2025-service-outage-and-restoration-notice.md)
+* [(Nov 17, 2025) GPU Container Policy Update on November 24th](notice/nov-17-2025-gpu-container-policy-update-on-november-24th.md)
+* [(Jul 8, 2025) Scheduled maintenance on July 11th](notice/jul-8-2025-scheduled-maintenance-on-july-11th.md)

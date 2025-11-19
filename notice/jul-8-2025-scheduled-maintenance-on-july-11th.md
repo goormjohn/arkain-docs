@@ -1,4 +1,8 @@
-# \[Notice] Scheduled maintenance on July 11th
+---
+description: '2025-07-08'
+---
+
+# (Jul 8, 2025) Scheduled maintenance on July 11th
 
 Hello, this is Arkain Customer Experience team.
 

@@ -56,7 +56,7 @@ The cost for using the advanced features such as **AI Supporter and Code Support
 {% step %}
 **Configure Additional Storage**
 
-* **Default:** 5GB / **Up to:** 200GB
+* **Default:** 5GB / **Up to:** 80GB
 * **Free Plan**: 5GB for free
 * **Membership Plan**: 15GB for free
 

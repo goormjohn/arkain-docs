@@ -9,7 +9,7 @@ icon: file-arrow-up
 
 ## **Upload File**
 
-Upload a file from your computer to Arkain. Files with special characters other than Latin alphabets cannot be uploaded. To upload a file:
+Upload a file from your computer to Arkain. To upload a file:
 
 {% stepper %}
 {% step %}
@@ -17,7 +17,11 @@ Right-click on an empty area in the **Project Sidebar** and select **\[Upload Fi
 {% endstep %}
 
 {% step %}
-In the Upload File popup, upload the file, select the desired location, and click the **\[OK]** button to upload it.
+A pop-up will appear allowing you to **browse and select a file from your computer**.
+{% endstep %}
+
+{% step %}
+The file will be uploaded to the currently selected location in the **Project Sidebar**.
 {% endstep %}
 {% endstepper %}
 
@@ -31,7 +35,11 @@ Right-click on an empty area in the **Project Sidebar** and select **\[Upload Fo
 {% endstep %}
 
 {% step %}
-In the Upload Folder popup, upload the folder, select the desired location, and click the **\[Upload]** button to upload it.
+A pop-up will appear allowing you to **browse and select a folder from your computer**.
+{% endstep %}
+
+{% step %}
+The folder and its contents will be uploaded to the currently selected location in the **Project Sidebar**.
 {% endstep %}
 {% endstepper %}
 

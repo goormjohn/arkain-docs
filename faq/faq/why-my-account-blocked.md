@@ -2,7 +2,7 @@
 icon: comment-question
 ---
 
-# Why my container blocked
+# Why my account blocked
 
 If the following programs are detected running, **you may be blocked from using Arkain.**
 
@@ -23,11 +23,12 @@ If the following programs are detected running, **you may be blocked from using 
 | Cryptocurrency trading bot | High compute resource occupancy adversely affects service operations |
 | Game Server                | High compute resource occupancy adversely affects service operations |
 
-### The program may also be blocked for the following reasons
+### Your account may also be blocked for the following reasons
 
 * Cybercrime abuse
 * Violent, obscene, or hazardous content
 * Infringement of others' rights, including patents, trademarks, trade secrets, copyrights, or publicity rights
+* Suspicious payment behavior: Excessive payment attempts with different credit cards in a short period of time.
 
 
 

@@ -26,8 +26,8 @@ There are two ways to create a new file or folder:
 An input field will appear at the currently selected location in the Project Sidebar. Enter the desired name and press Enter to confirm. This will create the new item within the chosen location.
 
 {% hint style="warning" %}
-* The file or folder names must only contain alphabets, numbers, and approved special characters such as underscores (\_), and hyphens (-).
 * The name must be unique within your project.
+* A few characters that could cause functional issues are restricted, including /, \\, :, <, >, $, quotes or control characters. File names cannot be comprised solely of spaces or periods ('.') either.
 {% endhint %}
 
 

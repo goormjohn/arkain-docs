@@ -24,64 +24,64 @@ icon: keyboard
 
 ## Edit
 
-| Function                   | macOS Shortcut                                                                          | Windows/Linux Shortcut                                      |
-| -------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Copy                       | <kbd>Cmd ⌘</kbd> + <kbd>C</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>C</kbd>                              |
-| Cut                        | <kbd>Cmd ⌘</kbd> + <kbd>X</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>X</kbd>                              |
-| Paste                      | <kbd>Cmd ⌘</kbd> + <kbd>V</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>V</kbd>                              |
-| Undo                       | <kbd>Cmd ⌘</kbd> + <kbd>Z</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>Z</kbd>                              |
-| Redo                       | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Z</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Y</kbd>                              |
-| Undo Selection             | <kbd>Cmd ⌘</kbd> + <kbd>U</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>U</kbd>                              |
-| Redo Selection             | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>U</kbd>                                    | <kbd>Alt</kbd> + <kbd>U</kbd>                               |
-| Select All                 | <kbd>Cmd ⌘</kbd> + <kbd>A</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>A</kbd>                              |
-| Select Line                | <kbd>Ctrl ^</kbd> + <kbd>L</kbd>                                                        | <kbd>Alt</kbd> + <kbd>L</kbd>                               |
-| Select Parent Syntax Unit  | <kbd>Cmd ⌘</kbd> + <kbd>I</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>I</kbd>                              |
-| Select Between Brackets    | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>M</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>           |
-| Insert New Line Below      | <kbd>Cmd ⌘</kbd> + <kbd>Return ⏎</kbd>                                                  | <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                          |
-| Insert New Line Above      | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Return ⏎</kbd>                             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>       |
-| Go To Line                 | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>             |
-| Go To Bracket              | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>\\</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>          |
-| Go To Line Start           | <kbd>Cmd ⌘</kbd> + <kbd>←</kbd>                                                         | <kbd>Home</kbd>                                             |
-| Go To Line End             | <kbd>Cmd ⌘</kbd> + <kbd>→</kbd>                                                         | <kbd>End</kbd>                                              |
-| Go To Previous Syntax Unit | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>←</kbd>                                  | <kbd>Alt</kbd> + <kbd>←</kbd>                               |
-| Go To Next Syntax Unit     | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>→</kbd>                                  | <kbd>Alt</kbd> + <kbd>→</kbd>                               |
-| Go To Previous Word        | <kbd>option ⌥</kbd> + <kbd>←</kbd>                                                      | <kbd>Ctrl</kbd> + <kbd>←</kbd>                              |
-| Go To Next Word            | <kbd>option ⌥</kbd> + <kbd>→</kbd>                                                      | <kbd>Ctrl</kbd> + <kbd>→</kbd>                              |
-| Delete Lines               | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>K</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>           |
-| Delete To Line Start       | <kbd>Cmd ⌘</kbd>  + <kbd>Backspace ⌫</kbd>                                              | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Backspace ⌫</kbd> |
-| Delete To Line End         | <p><kbd>Cmd ⌘</kbd>  + <kbd>Delete ⌦</kbd></p><p>/ <kbd>Ctrl ^</kbd> + <kbd>K</kbd></p> | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Del</kbd>         |
-| Copy Lines Down            | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>↓</kbd>                                 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd>            |
-| Copy Lines Up              | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>↑</kbd>                                 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>            |
-| Move Lines Down            | <kbd>option ⌥</kbd> + <kbd>↓</kbd>                                                      | <kbd>Alt</kbd> + <kbd>↓</kbd>                               |
-| Move Lines Up              | <kbd>option ⌥</kbd> + <kbd>↑</kbd>                                                      | <kbd>Alt</kbd> + <kbd>↑</kbd>                               |
-| Join Lines                 | <kbd>Cmd ⌘</kbd> + <kbd>J</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>J</kbd>                              |
-| Transpose Characters       | <kbd>Ctrl ^</kbd> + <kbd>T</kbd>                                                        | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>             |
-| Toggle Comment             | <kbd>Cmd ⌘</kbd> + <kbd>/</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>/</kbd>                              |
-| Toggle Block Comment       | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>/</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd>           |
-| Convert To Lowercase       | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>L</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>L</kbd>               |
-| Convert To Uppercase       | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>U</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>U</kbd>               |
-| Evaluate Selection         | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>K</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd>             |
-| Select Next Occurrence     | <kbd>Cmd ⌘</kbd> + <kbd>D</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>D</kbd>                              |
-| Add Cursor                 | <kbd>option ⌥</kbd> + <kbd>Click</kbd>                                                  | <kbd>Alt</kbd> + <kbd>Click</kbd>                           |
-| Add Cursor Below           | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↓</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd>             |
-| Add Cursor Above           | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↑</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd>             |
-| Add Cursors To Line Ends   | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>L</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>           |
-| Convert To Single Cursor   | <kbd>Esc</kbd>                                                                          | <kbd>Esc</kbd>                                              |
-| Scroll To Center           | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>C</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>C</kbd>               |
-| Scroll Down                | <kbd>Ctrl ^</kbd> +<kbd>option ⌥</kbd> + <kbd>↓</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                              |
-| Scroll Up                  | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>↑</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                              |
-| Fold                       | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>\[</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>          |
-| Unfold                     | <kbd>option ⌥</kbd> +<kbd>Cmd ⌘</kbd> + <kbd>]</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>           |
-| Fold All                   | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>\[</kbd>                                 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>\[</kbd>            |
-| Unfold All                 | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>]</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>]</kbd>             |
-| Increase Font Size         | <kbd>Cmd ⌘</kbd> + <kbd>=</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>=</kbd>                              |
-| Decrease Font Size         | <kbd>Cmd ⌘</kbd> + <kbd>-</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>-</kbd>                              |
-| Reset Font Size            | <kbd>Cmd ⌘</kbd> + <kbd>0</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>0</kbd>                              |
-| Find                       | <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>F</kbd>                              |
-| Find Next                  | <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>G</kbd>                              |
-| Find Previous              | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>G</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>           |
-| Replace                    | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>             |
-| Search All                 | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>F</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>           |
+| Function                        | macOS Shortcut                                                                          | Windows/Linux Shortcut                                      |
+| ------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Copy                            | <kbd>Cmd ⌘</kbd> + <kbd>C</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>C</kbd>                              |
+| Cut                             | <kbd>Cmd ⌘</kbd> + <kbd>X</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>X</kbd>                              |
+| Paste                           | <kbd>Cmd ⌘</kbd> + <kbd>V</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>V</kbd>                              |
+| Undo                            | <kbd>Cmd ⌘</kbd> + <kbd>Z</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>Z</kbd>                              |
+| Redo                            | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Z</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Y</kbd>                              |
+| Undo Selection                  | <kbd>Cmd ⌘</kbd> + <kbd>U</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>U</kbd>                              |
+| Redo Selection                  | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>U</kbd>                                    | <kbd>Alt</kbd> + <kbd>U</kbd>                               |
+| Select All                      | <kbd>Cmd ⌘</kbd> + <kbd>A</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>A</kbd>                              |
+| Select Line                     | <kbd>Ctrl ^</kbd> + <kbd>L</kbd>                                                        | <kbd>Alt</kbd> + <kbd>L</kbd>                               |
+| Select Parent Syntax Unit       | <kbd>Cmd ⌘</kbd> + <kbd>I</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>I</kbd>                              |
+| Select Between Brackets         | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>M</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>           |
+| Insert New Line Below           | <kbd>Cmd ⌘</kbd> + <kbd>Return ⏎</kbd>                                                  | <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                          |
+| Insert New Line Above           | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>Return ⏎</kbd>                             | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>       |
+| Go To Line                      | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>             |
+| Go To Bracket                   | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>\\</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\\</kbd>          |
+| Go To Line Start                | <kbd>Cmd ⌘</kbd> + <kbd>←</kbd>                                                         | <kbd>Home</kbd>                                             |
+| Go To Line End                  | <kbd>Cmd ⌘</kbd> + <kbd>→</kbd>                                                         | <kbd>End</kbd>                                              |
+| Go To Previous Syntax Unit      | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>←</kbd>                                  | <kbd>Alt</kbd> + <kbd>←</kbd>                               |
+| Go To Next Syntax Unit          | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>→</kbd>                                  | <kbd>Alt</kbd> + <kbd>→</kbd>                               |
+| Go To Previous Word             | <kbd>option ⌥</kbd> + <kbd>←</kbd>                                                      | <kbd>Ctrl</kbd> + <kbd>←</kbd>                              |
+| Go To Next Word                 | <kbd>option ⌥</kbd> + <kbd>→</kbd>                                                      | <kbd>Ctrl</kbd> + <kbd>→</kbd>                              |
+| Delete Lines                    | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>K</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>           |
+| Delete To Line Start            | <kbd>Cmd ⌘</kbd>  + <kbd>Backspace ⌫</kbd>                                              | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Backspace ⌫</kbd> |
+| Delete To Line End              | <p><kbd>Cmd ⌘</kbd>  + <kbd>Delete ⌦</kbd></p><p>/ <kbd>Ctrl ^</kbd> + <kbd>K</kbd></p> | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Del</kbd>         |
+| Copy Lines Down                 | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>↓</kbd>                                 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd>            |
+| Copy Lines Up                   | <kbd>option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>↑</kbd>                                 | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>            |
+| Move Lines Down                 | <kbd>option ⌥</kbd> + <kbd>↓</kbd>                                                      | <kbd>Alt</kbd> + <kbd>↓</kbd>                               |
+| Move Lines Up                   | <kbd>option ⌥</kbd> + <kbd>↑</kbd>                                                      | <kbd>Alt</kbd> + <kbd>↑</kbd>                               |
+| Join Lines                      | <kbd>Cmd ⌘</kbd> + <kbd>J</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>J</kbd>                              |
+| Transpose Characters            | <kbd>Ctrl ^</kbd> + <kbd>T</kbd>                                                        | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>             |
+| Toggle Comment                  | <kbd>Cmd ⌘</kbd> + <kbd>/</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>/</kbd>                              |
+| Toggle Block Comment            | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>/</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>/</kbd>           |
+| Convert To Lowercase            | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>L</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>L</kbd>               |
+| Convert To Uppercase            | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>U</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>U</kbd>               |
+| Evaluate Selection              | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>K</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>K</kbd>             |
+| Select Next Occurrence          | <kbd>Cmd ⌘</kbd> + <kbd>D</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>D</kbd>                              |
+| Add Cursor                      | <kbd>option ⌥</kbd> + <kbd>Click</kbd>                                                  | <kbd>Alt</kbd> + <kbd>Click</kbd>                           |
+| Add Cursor Below                | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↓</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd>             |
+| Add Cursor Above                | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>↑</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd>             |
+| Add Cursors To Line Ends        | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>L</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>           |
+| Convert To Single Cursor        | <kbd>Esc</kbd>                                                                          | <kbd>Esc</kbd>                                              |
+| Scroll To Center                | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd> + <kbd>C</kbd>                                          | <kbd>Ctrl</kbd> + <kbd>K</kbd> + <kbd>C</kbd>               |
+| Scroll Down                     | <kbd>Ctrl ^</kbd> +<kbd>option ⌥</kbd> + <kbd>↓</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>↓</kbd>                              |
+| Scroll Up                       | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>↑</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>↑</kbd>                              |
+| Fold                            | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>\[</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>          |
+| Unfold                          | <kbd>option ⌥</kbd> +<kbd>Cmd ⌘</kbd> + <kbd>]</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>           |
+| Fold All                        | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>\[</kbd>                                 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>\[</kbd>            |
+| Unfold All                      | <kbd>Ctrl ^</kbd> + <kbd>option ⌥</kbd> + <kbd>]</kbd>                                  | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>]</kbd>             |
+| Increase Font Size (Zoom In)    | <kbd>Cmd ⌘</kbd> + <kbd>=</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>=</kbd>                              |
+| Decrease Font Size (Zoom out)   | <kbd>Cmd ⌘</kbd> + <kbd>-</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>-</kbd>                              |
+| Reset Font Size (Reset Scaling) | <kbd>Cmd ⌘</kbd> + <kbd>0</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>0</kbd>                              |
+| Find                            | <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>F</kbd>                              |
+| Find Next                       | <kbd>Cmd ⌘</kbd> + <kbd>G</kbd>                                                         | <kbd>Ctrl</kbd> + <kbd>G</kbd>                              |
+| Find Previous                   | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>G</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>           |
+| Replace                         | <kbd>option ⌥</kbd> + <kbd>Cmd ⌘</kbd> + <kbd>F</kbd>                                   | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>             |
+| Search All                      | <kbd>Cmd ⌘</kbd> + <kbd>Shift ⇧</kbd> + <kbd>F</kbd>                                    | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>           |
 
 ## Terminal
 

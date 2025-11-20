@@ -12,7 +12,7 @@ There are two ways to use Arkain Snap:
 
 [**Arkain Snap**](../../../../arkain-ai/what-is-arkain-snap.md)  is available on the Dashboard page for easy access.
 
-<figure><img src="../../../../../.gitbook/assets/Using Arkain Snap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

@@ -2,12 +2,12 @@
 description: '2025-11-17'
 ---
 
-# \[Notice] GPU Container Policy Update on November 24th
+# (Nov 17, 2025) GPU Container Policy Update on Nov 24
 
 Hello, this is the Arkain Customer Experience Team.\
 We sincerely thank you for your continued support of Arkain.
 
-We would like to inform you of an important update to our [GPU Container](../user-guide/dashboard/container/nvidia-tesla-t4-gpu-container.md) Policy, aimed at improving service stability and overall performance.
+We would like to inform you of an important update to our [GPU Container](../../user-guide/dashboard/container/nvidia-tesla-t4-gpu-container.md) Policy, aimed at improving service stability and overall performance.
 
 ***
 

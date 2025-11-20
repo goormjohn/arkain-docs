@@ -19,7 +19,7 @@ Arkain provides flexible options to enhance container performance and storage ca
 ### **Add Container Storage**
 
 * **Expand Your Storage**: Increase the storage capacity of your container when needed, ensuring you have enough space for your projects and files.
-* You can upgrade the storage **up to 200GB.**
+* You can upgrade the storage **up to 80GB.**
 * If you exceed the default storage, additional storage will be charged in credits based on usage.\
   <sub>For detailed credit deductions, please visit this page.</sub> [credits](../../../../../credits-and-membership/credits/ "mention")
 

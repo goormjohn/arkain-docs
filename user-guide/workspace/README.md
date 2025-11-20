@@ -131,9 +131,9 @@ Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), an
 
 ### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-10.png" alt="" data-size="line"> Preference
 
-You can open the project settings tab. You can change the editor, terminal, and theme styles.
+You can open the project settings tab. You can change the editor, terminal, theme styles, and Image Viewer settings.
 
-<figure><img src="../../.gitbook/assets/Workspace_09 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 ### ![](../../.gitbook/assets/avatar.png) Account
 

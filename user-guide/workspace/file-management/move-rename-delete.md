@@ -41,7 +41,7 @@ To rename an item, right-click the file or folder and select **\[Rename]**. An i
 Alternatively, you can select the file or folder and press <kbd>**F2**</kbd>. This will immediately activate the Rename input field, allowing you to type a new name.
 
 {% hint style="info" %}
-If the new name already exists, the input field turns red and the change is blocked. The same applies if you use characters other than English letters and approved special characters.
+If the new name already exists, the input field turns red and the change is blocked.
 {% endhint %}
 
 ### Rename Container

@@ -25,7 +25,7 @@ You can check various container information, such as the container's hardware sp
 You can also add storage capacity or change the container specs (CPU and memory).
 
 * Add Storage
-  * **Default:** 5GB / **Up to:** 200GB
+  * **Default:** 5GB / **Up to:** 80GB
   * **Free Plan**: 5GB for free
   * **Membership Plan**: 15GB for free
 

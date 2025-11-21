@@ -48,7 +48,7 @@ For detailed information about Snap and Side Chat usage charges, please check [h
 
 ## Side Chat
 
-The AI assistant, **Side Chat**, provides new CDEs that enable interaction with code like never before. With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
+The AI assistant, **Side Chat**, provides new CDE that enable interaction with code like never before. With the power of advanced **Large Language Models (LLMs)**, you can now ask questions about your code and receive instant, actionable responses—all without leaving your development environment.
 
 ### What Does Side Chat Do?
 
@@ -66,7 +66,7 @@ The AI assistant, **Side Chat**, provides new CDEs that enable interaction with 
 ### Why Use Side Chat?
 
 * **Boost Productivity**\
-  No more searching forums or switching between tabs—get answers directly in your CDEs.
+  No more searching forums or switching between tabs—get answers directly in your CDE.
 * **Learn as You Code**\
   Improve your coding skills with detailed explanations and best practices.
 * **Accelerate Development**\

@@ -10,7 +10,7 @@ icon: sidebar
 
 ## Introducing the Templates
 
-We’re excited to announce the launch of **Templates**, a brand-new feature in our CDEs that takes your development experience to the next level!&#x20;
+We’re excited to announce the launch of **Templates**, a brand-new feature in our CDE that takes your development experience to the next level!&#x20;
 
 
 
@@ -25,7 +25,7 @@ Template Community is a platform where users can **create, share, and explore pr
 3. **Communicate with a variety of people**\
    Develop a broad perspective by exchanging opinions with a variety of people.
 4. **Start Projects Quickly**\
-   Import templates directly into your CDEs and get coding immediately—no setup hassles!
+   Import templates directly into your CDE and get coding immediately—no setup hassles!
 
 ### Why Use Templates?
 

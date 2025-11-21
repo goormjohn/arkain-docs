@@ -8,7 +8,7 @@ icon: circle-chevron-right
 
 ## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
 
-[**Arkain**](https://arkain.io) is a **Cloud Development Environments (CDEs)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Node.js, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
+[**Arkain**](https://arkain.io) is a **Cloud Development Environments (CDE)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Node.js, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
 
 ### **Supercharge Your Workflow with AI Code Assistance**
 

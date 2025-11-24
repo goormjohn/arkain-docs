@@ -12,6 +12,6 @@ icon: bullhorn
 [nov-17-2025-gpu-container-policy-update-on-nov-24.md](nov-17-2025-gpu-container-policy-update-on-nov-24.md)
 {% endcontent-ref %}
 
-{% content-ref url="jul-8-2025-scheduled-maintenance-on-jul-11.md" %}
-[jul-8-2025-scheduled-maintenance-on-jul-11.md](jul-8-2025-scheduled-maintenance-on-jul-11.md)
+{% content-ref url="../notice-scheduled-maintenance-on-july-11th.md" %}
+[notice-scheduled-maintenance-on-july-11th.md](../notice-scheduled-maintenance-on-july-11th.md)
 {% endcontent-ref %}

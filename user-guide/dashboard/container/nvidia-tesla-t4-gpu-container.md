@@ -4,6 +4,10 @@ icon: microchip
 
 # NVIDIA Tesla T4 GPU Container
 
+{% hint style="info" %}
+**Access Restriction:** Creating or running NVIDIA Tesla T4 GPU containers is available exclusively to _Membership_ users.
+{% endhint %}
+
 **NVIDIA Tesla T4** GPU resources can be paired with **Arkain** to create containers that can perform tasks that require high-performance computing, such as deep learning.
 
 ### GPU Container Specification
@@ -21,7 +25,6 @@ Using advanced features like **AI Supporter and Code Supporter** on a GPU contai
 ### **GPU Storage Billing Policy**
 
 * GPU containers are created with **30GB of storage by default.** If you want more storage, you can upgrade and use it.
-* **Free Plan: Up to 5GB can be used for free.**
 * **Membership Plan:** **Up to 15GB** **can be used for free.**
 * Additional storage will be charged in credits based on usage.
 
@@ -33,8 +36,3 @@ For more information about pricing and container performance, refer to the [Cont
 
 To create a GPU container, select \[**NVIDIA Tesla T4]** as the base template when creating the container. The creation time for GPU containers can be longer than for regular containers.
 
-{% hint style="warning" %}
-GPU resources in Arkain are configured in the cloud environment. As such, the creation and execution of GPU containers may be limited by the available GPU resources in the cloud.\
-Therefore, if creation fails, **please try again after a short while.**\
-You can receive a notification 1 minute before your GPU container is terminated due to insufficient cloud resources.
-{% endhint %}

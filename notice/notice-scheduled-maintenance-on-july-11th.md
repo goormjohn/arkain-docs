@@ -2,7 +2,7 @@
 description: '2025-07-08'
 ---
 
-# (Jul 8, 2025) Scheduled maintenance on July 11th
+# (Jul 8, 2025) Scheduled maintenance on Jul 11
 
 Hello, this is Arkain Customer Experience team.
 

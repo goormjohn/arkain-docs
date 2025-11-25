@@ -28,7 +28,7 @@ Once a container's storage capacity is increased, it **cannot be reduced**. \
 Plan your storage upgrades carefully to avoid unnecessary allocations.
 {% endhint %}
 
-<figure><img src="../../../../../.gitbook/assets/add storage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/add storage (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Traffic Charges**
 

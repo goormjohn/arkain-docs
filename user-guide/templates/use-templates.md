@@ -41,7 +41,7 @@ The base template of the container is selected as the base template set in the t
 {% step %}
 **Configure Additional Storage**
 
-* **Default:** 5GB / **Up to:** 200GB
+* **Default:** 5GB / **Up to:** 80GB
 * **Free Plan**: 5GB for free
 * **Membership Plan**: 15GB for free
 

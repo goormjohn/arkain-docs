@@ -4,11 +4,11 @@
 
 ## Notice
 
-* [Notice](notice/notice/README.md)
-  * [(Dec 3, 2025) Update to Terms of Service and Privacy Policy on Jan 2, 2026](notice/notice/dec-3-2025-update-to-terms-of-service-and-privacy-policy-on-jan-2-2026.md)
-  * [(Nov 19, 2025) Service Outage and Restoration on Nov 18](notice/notice/nov-19-2025-service-outage-and-restoration-on-nov-18.md)
-  * [(Nov 17, 2025) GPU Container Policy Update on Nov 24](notice/notice/nov-17-2025-gpu-container-policy-update-on-nov-24.md)
-  * [(Jul 8, 2025) Scheduled maintenance on Jul 11](notice/notice-scheduled-maintenance-on-july-11th.md)
+* [Notice](notice/view/README.md)
+  * [(Dec 3, 2025) Update to Terms of Service and Privacy Policy on Jan 2, 2026](notice/view/dec-3-2025-update-to-terms-of-service-and-privacy-policy-on-jan-2-2026.md)
+  * [(Nov 19, 2025) Service Outage and Restoration on Nov 18](notice/view/nov-19-2025-service-outage-and-restoration-on-nov-18.md)
+  * [(Nov 17, 2025) GPU Container Policy Update on Nov 24](notice/view/nov-17-2025-gpu-container-policy-update-on-nov-24.md)
+  * [(Jul 8, 2025) Scheduled maintenance on Jul 11](notice/view/jul-8-2025-scheduled-maintenance-on-jul-11.md)
 
 ## Getting Started
 

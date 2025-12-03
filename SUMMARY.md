@@ -123,11 +123,11 @@
 
 * [FAQ](faq/faq/README.md)
   * [Can I use Arkain on a mobile device](faq/faq/can-i-use-arkain-on-a-mobile-device.md)
+  * [Why my account blocked](faq/faq/why-my-account-blocked.md)
   * [How to run as background process](faq/faq/how-to-run-as-background-process.md)
   * [React native container is not working](faq/faq/react-native-container-is-not-working.md)
   * [SSH Configuration](faq/faq/ssh-port-forwarding-configuration.md)
   * [Using MySQL Workbench with Arkain](faq/faq/using-mysql-workbench-with-arkain.md)
-  * [Why my account blocked](faq/faq/why-my-account-blocked.md)
   * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)
   * [How do I copy / paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
   * [Can't use AI-Generated Template Introduction](faq/faq/cant-use-ai-generated-template-introduction.md)

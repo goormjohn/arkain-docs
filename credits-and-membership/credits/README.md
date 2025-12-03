@@ -61,6 +61,12 @@ If you subscribe to the membership, you will receive 1,000 credits each month.
 *   [**Coupon**](../../user-guide/dashboard/billing/coupon.md)
 
     Using a coupon allows you to receive the free credit applied to the coupon and use it within its validity period.&#x20;
+*   **Feedback Reward**
+
+    Join our [Arkain Discord community](https://discord.gg/9EG6rN6X79) and share your feedback!
+
+    * Get **10 credits** for every feedback post.
+    * Earn up to **50 credits** if your feedback is chosen as the "Best Feedback"!
 *   **Other Event**
 
     You can receive free credits through events such as first-purchase events or survey events. The amount and validity period of each credit will be announced via notices.\

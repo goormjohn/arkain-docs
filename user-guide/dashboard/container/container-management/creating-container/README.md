@@ -21,7 +21,13 @@ Currently, the supported base templates are **Blank, NVIDIA Tesla T4, Python, No
 {% step %}
 **Configure OS**&#x20;
 
-The available OS versions are **Ubuntu 22.04 LTS** and **Ubuntu 20.04 LTS**.
+{% hint style="success" %}
+**Available OS Versions**
+
+* Ubuntu 24.04 LTS
+* Ubuntu 22.04 LTS
+* Ubuntu 20.04 LTS
+{% endhint %}
 {% endstep %}
 
 {% step %}

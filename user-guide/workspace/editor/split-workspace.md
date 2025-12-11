@@ -23,6 +23,8 @@ There are two ways to split the Workspace:
 1. Click the **Split** button at the top right corner of the editor.
 2. This creates a new split group to the right of the current one.
 
-
+{% hint style="success" %}
+For maximum efficiency, you have full control over your screen real estate. Once you've split your Workspace, you can adjust the size of the panels by **clicking and dragging the divider line**. Furthermore, **double-clicking the divider line** allows you to instantly balance and set the split panels to equal sizes.
+{% endhint %}
 
 If all editors are closed, the default **Welcome screen** will appear. From here, you can right-click and select **\[Split Right]** or **\[Split Down]** to add a new split group to the Workspace.

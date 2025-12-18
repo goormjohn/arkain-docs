@@ -18,7 +18,7 @@ You can enable **AI Supporter** in two ways:
 
 If you haven’t created the container yet, simply enable the **AI Supporter** feature while creating a new container.
 
-<figure><img src="../../.gitbook/assets/AI Supporter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 ### Enable in an Existing Container [container-settings](../dashboard/container/container-management/container-settings/ "mention")
 
@@ -27,7 +27,7 @@ If the container is already created:
 1. Go to the **Container Settings** page by clicking the **\[Settings]** button(<img src="../../.gitbook/assets/ActivityBar-item-10 (2).png" alt="" data-size="line">) in the Container Card.
 2. In the **Container Status** section, enable the **AI Supporter** feature. Make sure the container is **stopped** before you enable it.
 
-<figure><img src="../../.gitbook/assets/AI Supporter_setting (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Warning**

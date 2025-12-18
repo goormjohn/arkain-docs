@@ -21,7 +21,7 @@ Click the current **Credit & Plan** button at the top-right corner on the Dashbo
 
 The **Credit usage** page provides an overview of your current credit deduction and detailed resource usage. Below is a description of each section:
 
-<figure><img src="../../.gitbook/assets/Usage (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 ### **Total Usage**
 

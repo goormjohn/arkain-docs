@@ -8,7 +8,7 @@ Click the **\[Avatar] button** located at the top-right corner on the **Dashboar
 
 The **Billing page** on the Dashboard page is where you can manage all your payment-related activities, including subscribing to membership plans, viewing your credit history, and checking your current credit balance. It's your one-stop-shop for managing your subscription and credits!&#x20;
 
-<figure><img src="../../../.gitbook/assets/Billing (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

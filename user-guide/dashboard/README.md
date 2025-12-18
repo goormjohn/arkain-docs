@@ -8,7 +8,7 @@ icon: table-columns
 
 The **Dashboard** is where you can manage your development environments, created and owned by you. Here's everything you need to know to get started.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 ## **What Can You Do on the Dashboard?**
 

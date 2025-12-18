@@ -8,7 +8,7 @@ You can share your container with others to collaborate or showcase your project
 
 Click the **\[Settings]** button (<img src="../../../../../.gitbook/assets/setting (1).png" alt="" data-size="line">) of the container you want to share on the Dashboard page. On the Container Settings page, click the **\[Share]** button (<img src="../../../../../.gitbook/assets/share (1) (1).png" alt="" data-size="line">) at the top-right corner.
 
-<figure><img src="../../../../../.gitbook/assets/Container Sharing (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 There are two ways to share containers:
 

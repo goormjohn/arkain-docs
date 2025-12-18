@@ -6,7 +6,7 @@ icon: container-storage
 
 Click the **\[Settings]** button(<img src="../../../../../.gitbook/assets/setting (1) (1) (1).png" alt="" data-size="line">) in the Container Card. You can go to the **Container Settings page.**
 
-<figure><img src="../../../../../.gitbook/assets/Container Settings (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

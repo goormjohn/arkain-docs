@@ -6,6 +6,8 @@ icon: message-minus
 
 The Dashboard Side Chat, an AI Assistant, helps users operate Arkain more efficiently by providing guidance on platform usage, container management, credit tracking, and template recommendations. It is designed as a personal assistant that supports administrative and operational tasks within the Arkain Dashboard.
 
+<figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### **Key Features**

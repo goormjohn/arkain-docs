@@ -32,7 +32,7 @@ icon: question
 Side Chat enforces strict access control and only supports searching data owned by the **authenticated user.**
 {% endhint %}
 
-#### 2-1. Credit calculation
+#### 2.1. Credit calculation
 
 * **What it does**
   * Calculates credit usage based on container specifications and usage duration, allowing you to estimate hourly and monthly credit consumption.
@@ -42,7 +42,7 @@ Side Chat enforces strict access control and only supports searching data owned 
   * Calculate the monthly credit usage for the GPU container.
   * Calculate the hourly usage for a 10GB container with micro specs.
 
-#### 2-2. Check credits
+#### 2.2. Check credits
 
 * **What it does**
   * Shows your current credit balance, monthly credit usage, and real-time credit consumption for the active container.

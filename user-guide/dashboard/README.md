@@ -24,13 +24,13 @@ Check out the popular templates. See a list of templates you've created.
 
 Create your container, modify its information, update resources and options directly, or delete any containers you no longer need.
 
-#### **Check Your Credit**&#x20;
+#### **Check Your** [**Credit** ](../../credits-and-membership/credits/)
 
 Purchase credits to use the container and check your credit usage.
 
-{% content-ref url="../../credits-and-membership/credits/" %}
-[credits](../../credits-and-membership/credits/)
-{% endcontent-ref %}
+#### Access the AI Assistant (Side Chat)
+
+Get real-time guidance on platform usage, container management, credit tracking, and template recommendations across all Dashboard pages.
 
 {% hint style="info" %}
 ## **Tips for Managing Containers**

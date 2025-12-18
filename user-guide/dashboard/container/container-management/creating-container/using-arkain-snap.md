@@ -5,6 +5,8 @@ icon: wand-magic-sparkles
 
 # Using Arkain Snap
 
+<div align="center" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/1218_Area_v2 (1).gif" alt="" width="563"><figcaption></figcaption></figure></div>
+
 **Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.\
 There are two ways to use Arkain Snap:
 

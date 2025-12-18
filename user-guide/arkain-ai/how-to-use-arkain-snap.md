@@ -76,5 +76,5 @@ Once Arkain Snap finishes building the project, the **Preview** will automatical
 <figure><img src="../../.gitbook/assets/스크린샷 2025-09-11 오후 12.53.39.png" alt=""><figcaption><p>snap 워크플로우 이미지. 워크플로우와 Preview 화면 강조</p></figcaption></figure>
 
 {% hint style="success" %}
-Want to take it even further? Use [Side Chat](side-chat/how-to-use-side-chat-1.md) to vibe coding and keep improving your app in real time.
+Want to take it even further? Use [Side Chat](/broken/pages/zF4s8B1CyX42hZ7SLKtL) to vibe coding and keep improving your app in real time.
 {% endhint %}

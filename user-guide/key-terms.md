@@ -58,9 +58,12 @@ The **Editor**, located in the center of the Workspace, is where you can view an
 
 The **Toggle Panel**, located below the editor, displays the terminal.
 
-### Side Chat
+### [Side Chat](arkain-ai/side-chat.md)
 
-The **Side Chat** feature in **Arkain** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. You can ask questions about your code, get real-time assistance, and track your interactions with the chat history feature.
+The **Side Chat** allows you to directly interact with powerful large language models (LLMs) within the Arkain environment.\
+Depending on where you use it, **Side Chat** provides different capabilities optimized for each workspace.
+
+**Side Chat** is available in two main areas: the **Dashboard** and the **Workspace**, each offering features tailored to its purpose.&#x20;
 
 ### AI Supporter
 

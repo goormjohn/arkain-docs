@@ -34,7 +34,7 @@ For containers that use **credits for storage,** once credits are exhausted, the
 *   ### [Arkain Snap](../../user-guide/arkain-ai/what-is-arkain-snap.md)
 
     When you create a container through Snap, credits will be consumed based on AI usage.
-*   ### [Side Chat](../../user-guide/arkain-ai/side-chat/)
+*   ### [Side Chat](../../user-guide/arkain-ai/side-chat.md)
 
     When you ask a question in the workspace side chat, credits will be used based on the model and token usage.
 *   ### [AI Supporter](../../user-guide/arkain-ai/ai-supporter.md)

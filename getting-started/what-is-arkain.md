@@ -47,7 +47,7 @@ It automatically selects and configures the necessary libraries, frameworks, and
 
 ### **Side Chat: AI Code Assistance**
 
-Arkain’s [**Side Chat**](../user-guide/arkain-ai/side-chat/), powered by advanced **LLMs**([Supported Models](../user-guide/arkain-ai/supported-models.md)), offers:
+Arkain’s [**Side Chat**](../user-guide/arkain-ai/side-chat.md), powered by advanced **LLMs**([Supported Models](../user-guide/arkain-ai/supported-models.md)), offers:
 
 * **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
 * **Chat History** – Revisit past conversations anytime.

@@ -60,8 +60,8 @@ Clicking on the **\[Side Chat]** button will open a Side Chat on the left side o
 Side Chat is only available for the container's **owner**.
 {% endhint %}
 
-{% content-ref url="../arkain-ai/side-chat/" %}
-[side-chat](../arkain-ai/side-chat/)
+{% content-ref url="../arkain-ai/side-chat.md" %}
+[side-chat.md](../arkain-ai/side-chat.md)
 {% endcontent-ref %}
 
 ### <img src="../../.gitbook/assets/ActivityBar-item-5 (1).png" alt="" data-size="line"> Project

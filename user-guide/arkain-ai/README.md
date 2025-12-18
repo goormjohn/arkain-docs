@@ -76,8 +76,8 @@ Side Chat leverages powerful LLMs, like those in Cursor and Windsurf, to deliver
 
 **Try Side Chat now and code smarter, faster, and with confidence!**&#x20;
 
-{% content-ref url="side-chat/how-to-use-side-chat-1.md" %}
-[how-to-use-side-chat-1.md](side-chat/how-to-use-side-chat-1.md)
+{% content-ref url="/broken/pages/zF4s8B1CyX42hZ7SLKtL" %}
+[Broken link](/broken/pages/zF4s8B1CyX42hZ7SLKtL)
 {% endcontent-ref %}
 
 ## Advanced features

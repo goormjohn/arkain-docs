@@ -37,6 +37,16 @@ A Google sign-in window will appear. Click the account you want to use for regis
 {% endstep %}
 
 {% step %}
+### Verify your phone
+
+To keep your account secure, Arkain requires phone number verification.
+
+* Select your country code and enter your mobile phone number in the \[Phone Number] field.
+* Click the \[Verify] button to receive a 6-digit verification code via SMS.
+* Once you receive the code, enter it into the \[Verification Code] field and click the \[Next] button to proceed to the profile setup.
+{% endstep %}
+
+{% step %}
 ### Enter Personal Details
 
 * **Username:** Enter a username that is 20 characters or fewer and contains only letters and numbers.

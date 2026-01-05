@@ -76,20 +76,24 @@ If you subscribe to the membership, you will receive 1,000 credits each month.
 
 <summary>Credit terms</summary>
 
-This policy constitutes part of the Arkain Terms of Service, and any matters not specified in this policy shall be governed by the terms and conditions of the Arkain Terms of Service.
+By paying for Arkain credits, you are deemed to have agreed to the paid service agreement. Members may cancel their unused credit purchase within 7 days from the date of purchase. However, if the contents of the contract are different from the contents displayed or advertised by the company or implemented differently from the contents of the contract, the subscription may be withdrawn within three months from the date of subscription or within 30 days from the date on which the fact was known or could have been known.
 
-By paying for Arkain credits, you are deemed to have agreed to the paid service agreement.
+The refund amount will be calculated based on the following formulas.
 
-Members may cancel their credit purchase within 7 days from the date of purchase, provided that the purchased credits remain entirely unused.However, if the contents of the contract are different from the contents displayed or advertised by the company or if the contents of the contract are different from the contents of the contract, the subscription may be withdrawn within 1 month from the date of subscription or within 14 days from the date on which the fact was known or could have been known.
+●      Unused Amount = (Total Billed Amount / Number of Credits Purchased) x (Number of Credits that Remain Unused)
+
+●      Refund Amount = Ceiling (Unused Amount)
+
+The final refund amount will be rounded up to the nearest whole number (Ceiling) if it includes a decimal.
 
 Arkain may provide credits to members based on promotions or members’ activity history, and the conditions and details of credit provision will be announced separately through Arkain.
 
-If a member’s service is restricted or the member withdraws due to the member’s fault, the remaining credits will be forfeited and the member cannot claim repayment or compensation for the forfeited credits. However, if the member’s service restriction is lifted, the credits will not be forfeited.
+If a member’s service is restricted or the member withdraws, the remaining credits shall be refunded if the request is made within 7 days from the date of purchase. In such cases, the refund process must be initiated through the Customer Center or the representative email address.
 
-Arkain may change the price of credits at any time and will not compensate members for any loss caused by the changed price.
+Arkain may change the price of credits at any time with prior consent from the members, and will not compensate members for any loss caused by the changed price.
 
 Events can only be redeemed once. All purchase credits, including event credits, will be refunded upon refund.
 
-If you paid for a credit purchase with a card, then canceling a payment will cancel to the card that you paid with.
+If you paid for a credit purchase with a card, then canceling a payment will cancel to the card that you paid with. Upon refund, all promotional credits provided through this event will expire and are excluded from the refund amount. Please note that refunds cannot be processed if your remaining balance is less than the promotional credits received.
 
 </details>

@@ -36,7 +36,7 @@ If the following programs are detected running, **you may be blocked from using 
 ### **Additional notes**
 
 * You can request unblocking via chat by clicking the [**\[Contact us\]**](https://arkain.channel.io/home)( ![](<../../.gitbook/assets/스크린샷 2025-02-24 오후 12.29.48.png>)) icon at the bottom right of the Dashboard page or the Workspace.
-* A **30-day appeal period** is provided after the account is blocked. If no appeal is made during this time, the account and all associated containers and data will be **permanently deleted** and cannot be recovered.
+* A **7-day appeal period** is provided after the account is blocked. If no appeal is made during this time, the account and all associated containers and data will be **permanently deleted** and cannot be recovered.
 * When the account is blocked, the **automatic payment** for the membership subscription is **automatically canceled**.
 * A refund is possible for any **remaining paid credits within 7 days from the payment date**, and for the **unused portion of the membership period**. Please contact us via chat to inquire about a refund.
 * When the account is blocked, all its containers will automatically enter an **inactive state**.

@@ -89,6 +89,7 @@ icon: keyboard
 | ------------------ | ------------------------------- | ------------------------------------------------- |
 | Copy From Terminal | <kbd>Cmd ⌘</kbd> + <kbd>C</kbd> | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> |
 | Paste To Terminal  | <kbd>Cmd ⌘</kbd> + <kbd>V</kbd> | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> |
+| Find               | <kbd>Cmd ⌘</kbd> + <kbd>F</kbd> | <kbd>Ctrl</kbd> + <kbd>F</kbd>                    |
 
 ## Project
 

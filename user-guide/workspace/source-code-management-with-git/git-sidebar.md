@@ -16,6 +16,8 @@ To use Arkain's distributed version control feature, a [GitHub](https://github.c
 
 ### Connecting to a GitHub remote repository
 
+<figure><img src="../../../.gitbook/assets/git_11 (4).png" alt=""><figcaption></figcaption></figure>
+
 {% stepper %}
 {% step %}
 Click the **\[Register repository]** button in the **Git Sidebar**.&#x20;
@@ -37,8 +39,6 @@ Select an existing repository from GitHub.&#x20;
 If needed, fill in other required information and click the **\[Clone to repository]** button.
 {% endstep %}
 {% endstepper %}
-
-<figure><img src="../../../.gitbook/assets/git_11.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To change the directory connected to the repository, go to the **\[Directory Setting]** tab in the Git window and select a different directory.

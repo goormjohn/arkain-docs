@@ -109,7 +109,6 @@
   * [Official Template Guide](user-guide/templates/official-template-guide/README.md)
     * [Web with Open API](user-guide/templates/official-template-guide/web-with-open-api.md)
   * [Malicious Templates and Comment Policy](user-guide/templates/malicious-templates-and-comment-policy.md)
-* [Bug Reporting](user-guide/bug-reporting.md)
 * [Key Terms](user-guide/key-terms.md)
 
 ## Credits & Membership
@@ -138,6 +137,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [Jan 22, 2026](whats-new/arkain-release-note/jan-22-2026.md)
   * [Jan 5, 2026](whats-new/arkain-release-note/jan-5-2026.md)
   * [Dec 18, 2025](whats-new/arkain-release-note/dec-18-2025.md)
   * [Dec 11, 2025](whats-new/arkain-release-note/dec-11-2025.md)
@@ -156,3 +156,7 @@
   * [Apr 14, 2025](whats-new/arkain-release-note/apr-14-2025.md)
   * [Apr 7, 2025](whats-new/arkain-release-note/apr-7-2025.md)
   * [Mar 31, 2025](whats-new/arkain-release-note/mar-31-2025.md)
+
+## Help
+
+* [Contact Us](help/contact-us.md)

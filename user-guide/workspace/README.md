@@ -6,7 +6,7 @@ icon: square-check
 
 Arkain's **Workspace** is an IDE (Integrated Development Environment) designed to help you efficiently develop software. It provides features such as editing, building, testing, and deploying software. The main components of the Workspace are as follows.&#x20;
 
-<figure><img src="../../.gitbook/assets/Workspace_01 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 2610737.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -37,7 +37,7 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 
 
 
-<figure><img src="../../.gitbook/assets/Workspace_06 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_06.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Warning**
@@ -70,7 +70,7 @@ The **\[Project]** button opens the Project Sidebar area. The project sidebar is
 
 You can click on files, such as a README or source code, to open them in the editor.
 
-<figure><img src="../../.gitbook/assets/project_01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project_01.png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ **Create Files & Folders**
 
@@ -97,17 +97,17 @@ The **\[Search]** button opens the Search Sidebar area.
 Enter a keyword in the input field at the top to view all matching results, grouped by file. This is useful when searching across your entire project.\
 Each result displays the file name, line number, and matching content. You can quickly jump to the relevant location by clicking the matching result.
 
-<figure><img src="../../.gitbook/assets/search_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/search.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="search.md" %}
 [search.md](search.md)
 {% endcontent-ref %}
 
-### <img src="../../.gitbook/assets/ActivityBar-item (1).png" alt="" data-size="line"> [Git](source-code-management-with-git/git-sidebar.md)
+### <img src="../../.gitbook/assets/ActivityBar-item (1) (1).png" alt="" data-size="line"> [Git](source-code-management-with-git/git-sidebar.md)
 
 It opens Git, a distributed version control system, in the Sidebar to track and synchronize changes to files. Arkain provides support for most common Git commands.
 
-<figure><img src="../../.gitbook/assets/git_12 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/git_12 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="source-code-management-with-git/git-sidebar.md" %}
 [git-sidebar.md](source-code-management-with-git/git-sidebar.md)
@@ -123,23 +123,23 @@ You can share your container with other Arkain users to collaborate or showcase 
 [contaienr-sharing.md](collaboration/contaienr-sharing.md)
 {% endcontent-ref %}
 
-### <img src="../../.gitbook/assets/ActivityBar-item-9.png" alt="" data-size="line"> Help
+### <img src="../../.gitbook/assets/ActivityBar-item-9 (2).png" alt="" data-size="line"> Help
 
 Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), and access help.
 
-<figure><img src="../../.gitbook/assets/Workspace_07 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_07.png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-10.png" alt="" data-size="line"> Preference
 
 You can open the project settings tab. You can change the editor, terminal, theme styles, and Image Viewer settings.
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_09 (1).png" alt=""><figcaption></figcaption></figure>
 
-### ![](../../.gitbook/assets/avatar.png) Account
+### <img src="../../.gitbook/assets/avatar.png" alt="" data-size="line"> Account
 
 You can navigate to the page where you can manage your member profile and container information.
 
-<figure><img src="../../.gitbook/assets/Workspace_10 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Workspace_10.png" alt=""><figcaption></figcaption></figure>
 
 * **Account** : You can navigate to the Account Settings page to edit your account information.
 * **Container Info** : You can navigate to the Container Settings page to configure detailed container settings.
@@ -158,20 +158,34 @@ The Editor section of the Workspace shows the content of the file you have curre
 
 In Arkain's toggle panel, you can use the terminal.
 
-### Terminal
+### <img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line"> Terminal
 
 **Arkain** provides a built-in terminal, so developers who are familiar with command-line interfaces can use it for advanced tasks.
 
-By default, the terminal is available as the Terminal tab in the toggle Panel of the Arkain interface. To open it in a new terminal window, go to **\[Menu]**(<img src="../../.gitbook/assets/[core] Button.png" alt="" data-size="line">) → **\[New Terminal Window]** or press the default shortcut <kbd>Alt</kbd> + <kbd>Shift</kbd> + `T` (macOS <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>T</kbd>).&#x20;
+By default, the terminal is available as the Terminal tab in the toggle Panel of the Arkain interface. To open it in a new terminal window, go to **\[Menu]**(<img src="../../.gitbook/assets/[core] Button (3).png" alt="" data-size="line">) → **\[New Terminal Window]** or press the default shortcut <kbd>Alt</kbd> + <kbd>Shift</kbd> + `T` (macOS <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>T</kbd>).&#x20;
 
 You can open the Terminal in a new window by right-clicking on a folder or file in the Project Sidebar and clicking the **\[Open Terminal with this location]** menu, which will automatically take you to the folder.
 
 <figure><img src="../../.gitbook/assets/editor (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Terminal (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Terminal.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 As a docker container-based service, Arkain does not support system privileges for containers due to security policy. Therefore, commands that access system resources such as `ufw`, `systemctl`, `docker`(docker in docker) cannot be used.
+{% endhint %}
+
+#### Terminal Tab Control Guide&#x20;
+
+Manage your terminal sessions using the buttons located on the terminal tab.
+
+* Refresh(<img src="../../.gitbook/assets/ActivityBar-item.png" alt="" data-size="line">) Button: Restart Terminal Session
+  * Clicking this will re-initialize the current terminal session.
+  * Use this to reset the session or apply new environment settings.
+* Close(<img src="../../.gitbook/assets/ActivityBar-item-1.png" alt="" data-size="line">) Button: Close Terminal & Terminate Processes
+  * Clicking this closes the terminal tab and stops all active processes running within that session.
+
+{% hint style="info" %}
+If you need a process to continue running after closing the tab, we recommend using the default terminal or executing the task with background commands (e.g., `nohup`, `pm2`).
 {% endhint %}
 
 ## Bottom bar <a href="#terminal" id="terminal"></a>

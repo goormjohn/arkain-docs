@@ -20,7 +20,7 @@ If you open the **\[Git]** tab and there is only a **\[Register repository]** bu
 
 ### **The editor area**
 
-<figure><img src="../../../.gitbook/assets/git_12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_12 (4).png" alt=""><figcaption></figcaption></figure>
 
 You can compare the source code **before the change (left)** and the source code **after the change (right)**.
 

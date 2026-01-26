@@ -4,7 +4,7 @@ icon: comment-question
 
 # SSH Configuration
 
-You can access containers in Arkain from the outside using the SSH / Port Forwarding feature.
+You can access containers in Arkain from the outside using the **SSH Configuration**.
 
 ## **SSH Configuration** <a href="#ssh-configuration" id="ssh-configuration"></a>
 

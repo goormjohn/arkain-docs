@@ -6,21 +6,21 @@ description: '2026-01-30'
 
 Hello. This is the Arkain Customer Experience team.
 
-Some of our services experienced temporary inaccessibility specifically within the Seoul Region starting on Jan 30 (Fri) at 03:00 (UTC). The issue has been resolved as of Jan 30 at 03:13 (UTC), and all services are now operating normally.
+Some of our services experienced temporary inaccessibility within the Seoul Region starting on Jan 30 (Fri) at 02:56 (UTC). The issue has been fully resolved as of Jan 30 at 03:12 (UTC), and all services are now operating normally.
 
-While the service has been restored, we are currently conducting a thorough investigation to identify the exact root cause of this localized disruption. We will provide further updates as soon as more details are confirmed.
+The disruption occurred due to an issue during internal system maintenance and updates. We have completed the necessary measures to restore service stability and will continue to monitor the system to ensure seamless performance.
 
 **Details of the Incident**
 
-* **Cause:** Under investigation
+* **Cause:** Internal system update and maintenance
 * **Impact:** Temporary service inaccessibility in the Seoul Region
 * **Current Status:** All services are running normally.
 
-Incident Timeline (UTC)
+**Incident Timeline (UTC)**
 
-* **Jan 30. 03:00** - Service disruption occurs (Initial discovery)
-* **Jan 30. 03:11** - Emergency technical investigation initiated
-* **Jan 30. 03:13** – Service Restoration and Stability Checks Completed (Final Resolution)
+* **Jan 30. 02:56** – Service Disruption Occurs
+* **Jan 30. 03:02** – Emergency Investigation and Response Initiated
+* **Jan 30. 03:12** – System Restoration and Stability Checks Completed
 
 We sincerely apologize for any inconvenience this outage may have caused to our users in the affected region, and we will do our best to provide a more reliable service.
 

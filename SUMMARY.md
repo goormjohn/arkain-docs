@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(Jan 30, 2026) Notice of Service Inaccessibility](notice/view/jan-30-2026-notice-of-service-inaccessibility.md)
   * [(Dec 3, 2025) Update to Terms of Service and Privacy Policy on Jan 2, 2026](notice/view/dec-3-2025-update-to-terms-of-service-and-privacy-policy-on-jan-2-2026.md)
   * [(Nov 19, 2025) Service Outage and Restoration on Nov 18](notice/view/nov-19-2025-service-outage-and-restoration-on-nov-18.md)
   * [(Nov 17, 2025) GPU Container Policy Update on Nov 24](notice/view/nov-17-2025-gpu-container-policy-update-on-nov-24.md)

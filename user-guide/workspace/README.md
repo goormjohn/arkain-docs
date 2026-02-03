@@ -35,16 +35,14 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 * The **\[Publish]** (<img src="../../.gitbook/assets/[core] Button-1.png" alt="" data-size="line">) button deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
 * Clicking the **\[Exit]** button (<img src="../../.gitbook/assets/[core] Button-2.png" alt="" data-size="line">) exits the Workspace.
 
-
-
-<figure><img src="../../.gitbook/assets/Workspace_06.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="warning" %}
 **Warning**
 
 \
 Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../credits-and-membership/credits/) **will be deducted.** To prevent further credit deduction, you must select the **\[Exit container after stopping]** checkbox before clicking the **\[Exit container]** button.
 {% endhint %}
+
+
 
 ## Sidebar <a href="#sidebar" id="sidebar"></a>
 
@@ -134,6 +132,12 @@ Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), an
 You can open the project settings tab. You can change the editor, terminal, theme styles, and Image Viewer settings.
 
 <figure><img src="../../.gitbook/assets/Workspace_09 (1).png" alt=""><figcaption></figcaption></figure>
+
+### Credit & Usage
+
+You can check your real-time credit balance and estimated uptime for the current container. You can monitor specific credit consumption for running containers, storage, and traffic, as well as purchase additional credits or view your complete billing history.
+
+<figure><img src="../../.gitbook/assets/Workspace_06.png" alt=""><figcaption></figcaption></figure>
 
 ### <img src="../../.gitbook/assets/avatar.png" alt="" data-size="line"> Account
 

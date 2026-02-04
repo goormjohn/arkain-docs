@@ -2,29 +2,23 @@
 icon: comment-question
 ---
 
-# How do I copy/paste from the terminal?
+# How do I copy / paste from the terminal?
 
 {% tabs %}
 {% tab title="Windows & Linux" %}
 #### **Copy**
 
-Copy in one of the those ways:
+Copy in one of the two ways:
 
-* <kbd>`Ctrl`</kbd>`+`<kbd>`C`</kbd>\*
-* <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`C`</kbd>
+* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd>
 * Right-click the selected text
 
 #### **Paste**
 
-Paste in one of the those ways:
+Paste in one of the two ways:
 
-* <kbd>`Ctrl`</kbd>`+`<kbd>`V`</kbd>\*
-* <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`V`</kbd>
+* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>V</kbd>
 * Right-click
-
-If you want to use <kbd>Ctrl</kbd>+<kbd>C</kbd>/<kbd>V</kbd> to copy/paste, please enable \[**Use Ctrl + C/V to copy/paste]** option from **\[Preferences]** → **\[Terminal]** → **\[Setting]** → **\[Shortcut Key]**.
-
-In the Windows, CRLF is automatically converted to LF when pasting text. If you don't want to use this feature, please use <kbd>`Ctrl`</kbd>`+`<kbd>`Shift`</kbd>`+`<kbd>`V`</kbd>, or uncheck **Convert CRLF to LF when pasting text to the terminal** option from **\[Preferences]** → **\[Terminal]** → **\[Setting]** → **\[Paste]**.
 {% endtab %}
 
 {% tab title="macOS" %}
@@ -32,14 +26,14 @@ In the Windows, CRLF is automatically converted to LF when pasting text. If you 
 
 Copy in one of the two ways:
 
-* <kbd>`command ⌘`</kbd>`+`<kbd>`C`</kbd>
+* <kbd>command ⌘</kbd>+<kbd>C</kbd>
 * Right-click the selected text
 
 #### **Paste**
 
 Paste in one of the two ways:
 
-* <kbd>`command ⌘`</kbd>`+`<kbd>`V`</kbd>
+* <kbd>command ⌘</kbd>+<kbd>V</kbd>
 * Right-click
 {% endtab %}
 {% endtabs %}

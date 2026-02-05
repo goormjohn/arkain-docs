@@ -4,6 +4,10 @@ icon: bullhorn
 
 # Notice
 
+{% content-ref url="feb-5-2026-update-to-privacy-policy-on-feb-12.md" %}
+[feb-5-2026-update-to-privacy-policy-on-feb-12.md](feb-5-2026-update-to-privacy-policy-on-feb-12.md)
+{% endcontent-ref %}
+
 {% content-ref url="jan-30-2026-service-outage-in-seoul-region-and-restoration.md" %}
 [jan-30-2026-service-outage-in-seoul-region-and-restoration.md](jan-30-2026-service-outage-in-seoul-region-and-restoration.md)
 {% endcontent-ref %}

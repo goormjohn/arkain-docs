@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(Feb 5, 2026) Update to Privacy Policy on Feb 12](notice/view/feb-5-2026-update-to-privacy-policy-on-feb-12.md)
   * [(Jan 30, 2026) Service Outage in Seoul Region and Restoration](notice/view/jan-30-2026-service-outage-in-seoul-region-and-restoration.md)
   * [(Dec 3, 2025) Update to Terms of Service and Privacy Policy on Jan 2, 2026](notice/view/dec-3-2025-update-to-terms-of-service-and-privacy-policy-on-jan-2-2026.md)
   * [(Nov 19, 2025) Service Outage and Restoration on Nov 18](notice/view/nov-19-2025-service-outage-and-restoration-on-nov-18.md)

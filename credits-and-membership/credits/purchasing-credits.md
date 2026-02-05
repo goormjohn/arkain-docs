@@ -1,3 +1,7 @@
+---
+icon: coin-vertical
+---
+
 # Purchasing Credits
 
 You can purchase credits as needed on the **Payment page**. \

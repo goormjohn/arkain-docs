@@ -1,3 +1,7 @@
+---
+icon: coin-vertical
+---
+
 # Calculate Credits Usage
 
 Arkain allows you to estimate credits consumption based on performance and usage purpose. Plan your credits wisely and optimize your service usage efficiently.&#x20;

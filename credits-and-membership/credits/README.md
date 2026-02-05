@@ -24,6 +24,15 @@ Credits are deducted under the following conditions:
 You can check the credits you've used in the **Credit usage** page. [credit-usage.md](../../user-guide/dashboard/credit-usage.md "mention")
 {% endhint %}
 
+{% hint style="info" %}
+#### Credit Deduction Order
+
+Credits are deducted in the following order:
+
+1. **Free Credits:** Deducted first (shortest expiration date first).
+2. **Purchased Credits:** Deducted after all free credits are exhausted.
+{% endhint %}
+
 ## Managing Credits
 
 * **Check Purchased Credits**\

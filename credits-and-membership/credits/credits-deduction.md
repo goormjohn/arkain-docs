@@ -1,12 +1,16 @@
+---
+icon: coin-vertical
+---
+
 # Credits Deduction
 
 ## Credits Deduction Situation
 
-### Container stop
+#### 1. Container stop
 
 When the container is stop, you will be billed based on the time, storage, and traffic used by the container up to that point.
 
-### Container run
+#### 2. Container run
 
 When a container is run, you are charged for the storage used while the container is in a stopped state.
 
@@ -17,11 +21,11 @@ Using the Advanced feature will consume additional credits per hour.&#x20;
 * [ai-supporter.md](../../user-guide/arkain-ai/ai-supporter.md "mention")
 {% endhint %}
 
-### Monthly deduction
+#### 3. Monthly deduction
 
 On the 1st of each month, we perform billing for all containers currently using resource.
 
-### Overused
+#### 4. Overused
 
 If the credits due to be deducted exceed the available credits, all running containers will be stopped.
 
@@ -29,33 +33,36 @@ If the credits due to be deducted exceed the available credits, all running cont
 For containers that use **credits for storage,** once credits are exhausted, the container is **automatically inactivation.** [inactive-container.md](../../user-guide/dashboard/container-managing/inactive-container.md "mention")
 {% endhint %}
 
-### AI features
+#### 5. AI features
 
-*   ### [Arkain Snap](../../user-guide/arkain-ai/what-is-arkain-snap.md)
+*   [**Arkain Snap**](../../user-guide/arkain-ai/what-is-arkain-snap.md)
 
     When you create a container through Snap, credits will be consumed based on AI usage.
-*   ### [Side Chat](../../user-guide/arkain-ai/side-chat.md)
+*   [**Side Chat**](../../user-guide/arkain-ai/side-chat.md)
 
     When you ask a question in the workspace side chat, credits will be used based on the model and token usage.
-*   ### [AI Supporter](../../user-guide/arkain-ai/ai-supporter.md)
+*   [**AI Supporter**](../../user-guide/arkain-ai/ai-supporter.md)
 
     Using AI Supporter incurs credits charges for AI to understand your code.
 
-### Change plan
+#### 6. Change plan
 
 If the plan changes, all credits currently being charged will be deducted.
 
-{% hint style="warning" %}
-### Order of deduction by credits type
+{% hint style="info" %}
+#### Credit Deduction Order
 
-The order of credits usage is free credits first, then purchased credits. Free credits are used in order of shortest expiration date.
+Credits are deducted in the following order:
+
+1. **Free Credits:** Deducted first (shortest expiration date first).
+2. **Purchased Credits:** Deducted after all free credits are exhausted.
 {% endhint %}
 
-## Low Credits Mail
+## Low Credit Mail Notifications
 
-When the remaining credits allows for less than 1 hour of usage, you will receive an email notification that your credits balance is low.
+To prevent service interruption, Arkain sends an automated alert when your balance is nearly exhausted.
 
-{% hint style="warning" %}
-The same email will not be sent again until you purchase credits. \
-Additionally, if you have opted out of receiving credits emails, the email will not be sent.
-{% endhint %}
+* **Trigger:** Sent when your remaining credits allow for less than **1 hour** of usage.
+* **Frequency:** This notification is sent only once per purchase cycle. You will not receive another alert until you top up your credits.
+* **Settings:** You can enable or disable these alerts via the **\[Credit mail]** toggle on the **Billing page**.
+

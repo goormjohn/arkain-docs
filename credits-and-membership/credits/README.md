@@ -1,45 +1,46 @@
 ---
-description: >-
-  Credits are the currency required for using containers. When you use
-  containers, credits are deducted. The price of 1 credits is $0.02.
 icon: coin-vertical
 ---
 
 # Credits
 
-## **Conditions for Credit Deductions**
+## What is **Credit?**
 
-Credits are deducted under the following conditions:
+Credits are the currency required for using Arkain. When you use containers or AI features, credits are deducted from your balance.
 
-* **Container Usage**\
-  Credits deductions occur while the container is running, based on the container performance.
-* **Storage Usage**\
-  If the storage usage of each container exceeds **the free storage available for your plan**, 0.018 credits will be deducted per 1GB of storage per hour. Storage is charged **regardless of whether the container is running or stopped.**&#x20;
-  * **Free Plan**: 5GB for free
-  * **Membership Plan**: 15GB for free
-* **Traffic Usage**\
-  If your container's monthly cumulative traffic exceeds 10GB, you will be charged 8 credits for each additional 1GB of traffic.&#x20;
+* **Price:** 1 Credit = $0.02
+* **Deduction Basis:** Credits are deducted based on container performance, storage, traffic, and AI token usage.
 
-{% hint style="success" %}
-You can check the credits you've used in the **Credit usage** page. [credit-usage.md](../../user-guide/dashboard/credit-usage.md "mention")
-{% endhint %}
+## How to Acquire Credits
 
-{% hint style="info" %}
-#### Credit Deduction Order
+#### 1. Purchasing Credits
 
-Credits are deducted in the following order:
+You can top up credits as needed through the following steps:
 
-1. **Free Credits:** Deducted first (shortest expiration date first).
-2. **Purchased Credits:** Deducted after all free credits are exhausted.
-{% endhint %}
+* **Navigate to the Payment Page:** Access it via the **\[Buy credits]** button on the Dashboard page, Pricing, or Billing page, or the **\[Buy additional credits]** button within the Workspace.
+* **Enter the Number of Credits:** Specify the amount **(Minimum: 50 credits)**. You can use bulk buttons for convenience.
+* **Confirm Purchase:** Review the credit amount and total payment.
+* **Enter Payment Details:** Provide the required information and click **\[Charge credits]**.
+
+#### 2. Free & Event Credits
+
+You can receive free credits through various programs. Note that the validity period varies by credit type.
+
+* **Monthly Credits:**
+  * **Free Plan:** 50 credits / **Membership:** 1,000 credits. (Open beta exclusive)
+  * Credits are issued monthly and expire on the last day of the month (Based on UTC).
+* **Daily Check-in**: Receive 5 event credits daily by checking in. (Valid for 1 month)
+* **Coupons:** Redeem promotional codes to receive credits with specific validity periods.
+* **Feedback Rewards:** Join our [**Arkain Discord community**](https://discord.gg/9EG6rN6X79) and share feedback. Get 10 credits per post, and up to 50 credits if selected as "Best Feedback."
+* **Other Events:** Participate in surveys or first-purchase events. Details and validity periods are announced via notices and can be checked on the Billing page.
 
 ## Managing Credits
 
 * **Check Purchased Credits**\
   You can view the amount of credits you've purchased on the **Billing page**.&#x20;
 
-{% content-ref url="purchasing-credits.md" %}
-[purchasing-credits.md](purchasing-credits.md)
+{% content-ref url="../../user-guide/dashboard/billing/" %}
+[billing](../../user-guide/dashboard/billing/)
 {% endcontent-ref %}
 
 * **Monthly Usage Report**\
@@ -51,35 +52,6 @@ Credits are deducted in the following order:
 {% endcontent-ref %}
 
 ***
-
-## Free Credits Category
-
-*   **Free monthly credit**
-
-    You get 50 free credits per month, which expire on the last day of the month. (Award and expiration times are based on Coordinated Universal Time - UTC.)&#x20;
-
-{% hint style="success" %}
-If you subscribe to the membership, you will receive 1,000 credits each month.
-
-[#free-plan-vs.-membership-plan](../membership/#free-plan-vs.-membership-plan "mention")
-{% endhint %}
-
-*   **Daily check-in credit**
-
-    Check in once a day to receive 5 event credits. These credits are valid for one month.
-*   [**Coupon**](../../user-guide/dashboard/billing/coupon.md)
-
-    Using a coupon allows you to receive the free credit applied to the coupon and use it within its validity period.&#x20;
-*   **Feedback Reward**
-
-    Join our [Arkain Discord community](https://discord.gg/9EG6rN6X79) and share your feedback!
-
-    * Get **10 credits** for every feedback post.
-    * Earn up to **50 credits** if your feedback is chosen as the "Best Feedback"!
-*   **Other Event**
-
-    You can receive free credits through events such as first-purchase events or survey events. The amount and validity period of each credit will be announced via notices.\
-    The validity period of received credits can also be checked on the billing page.
 
 <details>
 

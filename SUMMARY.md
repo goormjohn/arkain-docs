@@ -30,6 +30,7 @@
       * [Import GitHub Repos](user-guide/dashboard/container/container-management/import-github-repos.md)
       * [Container Settings](user-guide/dashboard/container/container-management/container-settings/README.md)
         * [Init Script](user-guide/dashboard/container/container-management/container-settings/init-script.md)
+        * [SSH Configuration](user-guide/dashboard/container/container-management/container-settings/ssh-configuration.md)
         * [Environment Variable](user-guide/dashboard/container/container-management/container-settings/environment-variable.md)
         * [Container Upgrade](user-guide/dashboard/container/container-management/container-settings/container-upgrade.md)
         * [Rename the Container](user-guide/dashboard/container/container-management/container-settings/rename-the-container.md)
@@ -111,6 +112,9 @@
   * [Official Template Guide](user-guide/templates/official-template-guide/README.md)
     * [Web with Open API](user-guide/templates/official-template-guide/web-with-open-api.md)
   * [Malicious Templates and Comment Policy](user-guide/templates/malicious-templates-and-comment-policy.md)
+* [Account](user-guide/account/README.md)
+  * [Referral](user-guide/account/referral.md)
+  * [Block Policy](user-guide/account/block-policy.md)
 * [Key Terms](user-guide/key-terms.md)
 
 ## Credits & Membership
@@ -130,7 +134,6 @@
   * [Why my account blocked](faq/faq/why-my-account-blocked.md)
   * [How to run as background process](faq/faq/how-to-run-as-background-process.md)
   * [React native container is not working](faq/faq/react-native-container-is-not-working.md)
-  * [SSH Configuration](faq/faq/ssh-port-forwarding-configuration.md)
   * [Using MySQL Workbench with Arkain](faq/faq/using-mysql-workbench-with-arkain.md)
   * [I want to use Selenium.](faq/faq/i-want-to-use-selenium..md)
   * [How do I copy / paste from the terminal?](faq/faq/how-do-i-copy-paste-from-the-terminal.md)
@@ -139,6 +142,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [Feb 12, 2026](whats-new/arkain-release-note/feb-12-2026.md)
   * [Jan 22, 2026](whats-new/arkain-release-note/jan-22-2026.md)
   * [Jan 5, 2026](whats-new/arkain-release-note/jan-5-2026.md)
   * [Dec 18, 2025](whats-new/arkain-release-note/dec-18-2025.md)

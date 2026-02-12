@@ -32,14 +32,14 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 
 <figure><img src="../../.gitbook/assets/Menu bar_05 (2).png" alt=""><figcaption></figcaption></figure>
 
-* The **\[Publish]** (<img src="../../.gitbook/assets/[core] Button-1.png" alt="" data-size="line">) button deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
-* Clicking the **\[Exit]** button (<img src="../../.gitbook/assets/[core] Button-2.png" alt="" data-size="line">) exits the Workspace.
+* The **\[Create Template]** button (<i class="fa-up-from-line">:up-from-line:</i>) deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
+* The **\[Power]** button (<i class="fa-power-off">:power-off:</i>) allows users to manage the container status through **Restart** and **Stop** options.
+  * **Exiting:** Users can exit the Workspace by simply closing the web browser tab.
+  * **Stop:** The **\[Stop]** button terminates all running processes and stops further credit deduction.
+  * **Restart:** The **\[Restart]** button reboots the container to refresh the environment.
 
 {% hint style="warning" %}
-**Warning**
-
-\
-Even if you close the web browser, the container will remain running. **While the container is running,** [**credits**](../../credits-and-membership/credits/) **will be deducted.** To prevent further credit deduction, you must select the **\[Exit container after stopping]** checkbox before clicking the **\[Exit container]** button.
+Closing the browser tab does not stop the container. Users must manually click **\[Stop]** to prevent continued credit usage.
 {% endhint %}
 
 
@@ -121,11 +121,27 @@ You can share your container with other Arkain users to collaborate or showcase 
 [contaienr-sharing.md](collaboration/contaienr-sharing.md)
 {% endcontent-ref %}
 
+### <i class="fa-bell">:bell:</i> Notifications
+
+You can receive real-time notifications of various events occurring in your project.
+
+* **Mark as Read**: Click the **\[Read]** button on individual notifications or use the **\[Read All]** button to clear all notifications
+* **Category Filter**: View notifications by category using All, Containers, Collaboration, and Credit tabs
+
+
+
 ### <img src="../../.gitbook/assets/ActivityBar-item-9 (2).png" alt="" data-size="line"> Help
 
-Here, you can find Arkain's features, view [shortcuts](keyboard-shortcut.md), and access help.
+Here, you can find Arkain's features, view shortcuts, and access help.
 
 <figure><img src="../../.gitbook/assets/Workspace_07.png" alt=""><figcaption></figcaption></figure>
+
+* **View All Shortcuts**: View all available [keyboard shortcuts](keyboard-shortcut.md) in Workspace.
+* **Notice**: Check the latest Arkain announcements.
+* **Guides**: Access Arkain guides.
+* **What's New**: View the latest updates and new features via Arkain Release Note.
+* **Discord**: Join the Arkain community and connect with other users.
+* **Contact Us**: Click to open a chat window for direct support. Unread responses can be identified by the notification dot on the Help button and the chat bubble in the bottom right corner.
 
 ### &#x20;<img src="../../.gitbook/assets/ActivityBar-item-10.png" alt="" data-size="line"> Preference
 
@@ -133,7 +149,7 @@ You can open the project settings tab. You can change the editor, terminal, them
 
 <figure><img src="../../.gitbook/assets/Workspace_09 (1).png" alt=""><figcaption></figcaption></figure>
 
-### Credit & Usage
+### <i class="fa-coin-front">:coin-front:</i> Credit Usage
 
 You can check your real-time credit balance and estimated uptime for the current container. You can monitor specific credit consumption for running containers, storage, and traffic, as well as purchase additional credits or view your complete billing history.
 
@@ -214,7 +230,6 @@ The lint information is only available in the Python container.
 
 * **Terminal**: You can open and close the Terminal panel. Closing the Toggle Panel allows you to focus more on your code.
 * **Auto-stop**: You can toggle the feature to automatically stop container usage when the browser is closed.
-* **Contact us** – Click to open a chat window for direct support.
 
 {% content-ref url="../dashboard/container/auto-stop.md" %}
 [auto-stop.md](../dashboard/container/auto-stop.md)

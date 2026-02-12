@@ -44,14 +44,14 @@ The zoom range is limited between **10% and 300%**. Once the limit is reached, t
 
 To return to the default scaling:
 
-* Click the **\[View with default scaling]\(**<img src="../../.gitbook/assets/image.png" alt="" data-size="line">**)** button in the toolbar.
+* Click the **\[View with default scaling]\(**<img src="../../.gitbook/assets/image (6).png" alt="" data-size="line">**)** button in the toolbar.
 * Or press the shortcut <kbd>Ctrl + 0</kbd>(macOS: <kbd>⌘0</kbd>).
 
 This resets the image to the scaling option defined in your settings (e.g., Actual Size or Fit Width and Height).
 
 #### Adjusting Scaling Options
 
-You can change how the image is displayed by clicking the **\[Change scaling option]\(**<img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">**)** button in the toolbar to open the dropdown menu.
+You can change how the image is displayed by clicking the **\[Change scaling option]\(**<img src="../../.gitbook/assets/image (3) (3).png" alt="" data-size="line">**)** button in the toolbar to open the dropdown menu.
 
 From there, you can choose between:
 
@@ -62,9 +62,9 @@ From there, you can choose between:
 
 You can change the image viewer’s background color for better visibility:
 
-* Click the **\[Change background color]\(**<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line">**)** button in the toolbar.
+* Click the **\[Change background color]\(**<img src="../../.gitbook/assets/image (1) (3).png" alt="" data-size="line">**)** button in the toolbar.
 * Select a color from the **color picker** in the toolbar.
-* Click the **\[Reset]\(**<img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">**)** button to restore the default background color.
+* Click the **\[Reset]\(**<img src="../../.gitbook/assets/image (2) (3).png" alt="" data-size="line">**)** button to restore the default background color.
 * Click the **displayed HEX code** to copy it to your clipboard.
 
 {% hint style="info" %}
@@ -75,7 +75,7 @@ Scaling option and Background color changes apply **only to the current viewer**
 
 You can access **Image Viewer settings tab** in three ways:
 
-* From the **background color picker**, click the **\[settings icon]\(**<img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">**)** in the top-right corner.
+* From the **background color picker**, click the **\[settings icon]\(**<img src="../../.gitbook/assets/image (4) (3).png" alt="" data-size="line">**)** in the top-right corner.
 * From the **scaling options dropdown**, click the **Advanced Settings** at the bottom of the list.
 * From the **Preference tab**, click the **Image Viewer** of the list.
 

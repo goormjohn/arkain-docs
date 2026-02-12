@@ -12,63 +12,51 @@ icon: play
 
 {% stepper %}
 {% step %}
-#### Open the Arkain Homepage
+#### **Access & Start Registration**
 
-Start by navigating to the Arkain homepage at [`https://arkain.io`](https://arkain.io/) in your Chrome web browser.
+* Navigate to [https://arkain.io](https://www.google.com/url?sa=E\&source=gmail\&q=https://arkain.io) using a Google Chrome browser.
+* Click the **\[Get started free]** button located in the top-right corner of the homepage.
 {% endstep %}
 
 {% step %}
-#### Start Registration
+#### **Choose Your Sign-Up Method**
 
-Once on the homepage, click the \[Sign up] button located in the top-right corner.
+Select how you would like to create your account:
+
+* **Social Sign-up:** Quickly connect via Google, GitHub, or Apple. (Follow the prompts to grant Arkain access to your basic profile).
+* **Email Sign-up:** Click \[Continue with email] to register using your email address and password.
 {% endstep %}
 
 {% step %}
-#### Choose Your Sign-Up Method
-
-* **Social Sign-up:** Arkain supports signing up with Google, Github, and Apple. For this example, we'll use Google. Click the \[Google] button.
-* **Email Sign-up:** If you prefer not to use a social account, click the \[Continue with email] button to sign up with an email address and password.
-{% endstep %}
-
-{% step %}
-#### Connect Your Account
-
-A Google sign-in window will appear. Click the account you want to use for registration, then click the \[Continue] button to grant Arkain permission to access your name and email address.
-{% endstep %}
-
-{% step %}
-#### Verify your phone
+#### **Verify Your Phone Number**
 
 To keep your account secure, Arkain requires phone number verification.
 
-* Select your country code and enter your mobile phone number in the \[Phone Number] field.
-* Click the \[Verify] button to receive a 6-digit verification code via SMS.
-* Once you receive the code, enter it into the \[Verification Code] field and click the \[Next] button to proceed to the profile setup.
+* Select your country code and enter your mobile number.
+* Click \[Verify] to receive a 6-digit code via SMS.
+* Enter the code and click \[Next] to proceed.
 {% endstep %}
 
 {% step %}
-#### Enter Personal Details
+#### Enter Profile Details & Verify Age
 
-* **Username:** Enter a username that is 20 characters or fewer and contains only letters and numbers.
+Provide your basic information and confirm your eligibility.
+
+* **Username:** Create a unique ID (up to 20 letters and numbers).
 * **Role:** Select your role from the dropdown menu.
+* **Date of Birth:** Enter your birthdate.
+
+{% hint style="warning" %}
+In compliance with our privacy policy, users must be at least 16 years old to use the Arkain service. If you are under 16, registration will be restricted.
+{% endhint %}
 {% endstep %}
 
 {% step %}
-#### Agree to Terms
+#### Agree to Terms and Finalize
 
-Before you can finish, you must agree to the terms and conditions. Check the box to indicate your agreement.
-{% endstep %}
-
-{% step %}
-#### Complete Registration
-
-Click the \[Sign up] button to finalize your registration.
-{% endstep %}
-
-{% step %}
-#### Welcome to Arkain!
-
-A _"Welcome to Arkain!"_ screen will appear, confirming that your registration is complete. Click the \[Get started] button to begin using your new account.
+* **Agreement:** Check the box to agree to the Arkain Terms and Conditions.
+* **Complete:** Click the \[Sign up] button to finalize your registration.
+* **Welcome:** When the "Welcome to Arkain!" screen appears, click \[Get started] to enter your new workspace!
 {% endstep %}
 {% endstepper %}
 

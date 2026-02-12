@@ -99,8 +99,8 @@ View and manage the SSH command and password for accessing containers in Arkain 
 The SSH feature is available only to **membership** plan users.
 {% endhint %}
 
-{% content-ref url="../../../../../faq/faq/ssh-port-forwarding-configuration.md" %}
-[ssh-port-forwarding-configuration.md](../../../../../faq/faq/ssh-port-forwarding-configuration.md)
+{% content-ref url="ssh-configuration.md" %}
+[ssh-configuration.md](ssh-configuration.md)
 {% endcontent-ref %}
 
 ### **Environment Variables**

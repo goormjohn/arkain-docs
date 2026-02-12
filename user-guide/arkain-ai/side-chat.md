@@ -8,7 +8,7 @@ icon: comment-exclamation
 **Side Chat** allows you to directly interact with powerful large language models (LLMs) within the Arkain environment.\
 Depending on where you use it, **Side Chat** provides different capabilities optimized for each workspace.
 
-**Side Chat** is available in two main areas: the **Dashboard** and the **Workspace**, each offering features tailored to its purpose.
+**Side Chat** is available in two main areas: the **Dashboard** page and the **Workspace**, each offering features tailored to its purpose.
 
 ***
 

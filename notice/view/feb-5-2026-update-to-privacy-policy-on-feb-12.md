@@ -1,3 +1,7 @@
+---
+description: '2026-02-05'
+---
+
 # (Feb 5, 2026) Update to Privacy Policy on Feb 12
 
 Hello, this is the Arkain Customer Experience Team.

@@ -24,6 +24,13 @@ Check out the popular templates. See a list of templates you've created.
 
 Create your container, modify its information, update resources and options directly, or delete any containers you no longer need.
 
+{% hint style="info" %}
+## **Tips for Managing Containers**
+
+* **Organize Your Workspaces** : Give each container a clear and descriptive name to easily find them later.
+* **Clean Up Regularly** : Delete unused containers to keep your workspace tidy and efficient.
+{% endhint %}
+
 #### **Check Your** [**Credit** ](../../credits-and-membership/credits/)
 
 Purchase credits to use the container and check your credit usage.
@@ -32,9 +39,6 @@ Purchase credits to use the container and check your credit usage.
 
 Get real-time guidance on platform usage, container management, credit tracking, and template recommendations across all Dashboard pages.
 
-{% hint style="info" %}
-## **Tips for Managing Containers**
+#### Refer Your Friends
 
-* **Organize Your Workspaces** : Give each container a clear and descriptive name to easily find them later.
-* **Clean Up Regularly** : Delete unused containers to keep your workspace tidy and efficient.
-{% endhint %}
+Click the Gift Box button (<i class="fa-gift">:gift:</i>) in the bottom-left corner to invite friends and earn bonus credits together.

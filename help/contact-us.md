@@ -6,15 +6,18 @@ icon: circle-question
 
 #### **Need Help or Found a Bug?**
 
-If you have questions that aren't addressed in this guide, encounter any issues, or find a bug (abnormal behavior) while using Arkain, please reach out to our Customer experience team.
+If you have questions that aren't addressed in this guide, encounter any issues, or find a bug (abnormal behavior) while using Arkain, please reach out to our Customer Experience team.
 
 {% stepper %}
 {% step %}
-Clicking the [**\[Contact us\]**](https://arkain.channel.io/home)( ![](<../.gitbook/assets/스크린샷 2025-02-24 오후 12.29.48.png>)) icon at the bottom right of the Dashboard page or the Workspace will open the inquiry chat.
+**Access the Chat:**&#x20;
+
+* **Dashboard & Workspace:** Click the **\[Help]** button (<i class="fa-circle-question">:circle-question:</i>) at the bottom left of the page and select the [**\[Contact us\]**](https://arkain.channel.io/home) menu.
+* **Account & Referral Pages:** Click the Arkain logo button (<img src="../.gitbook/assets/image (5).png" alt="" data-size="line">) located at the bottom right of the page to open the chat window directly.
 {% endstep %}
 
 {% step %}
-Please provide as much detail as possible regarding your question or the issue you're facing. If you're reporting a bug, attaching screenshots or logs will help us resolve it faster.
+**Start Your Inquiry:** Provide as much detail as possible about your question or issue. For bug reports, attaching screenshots or logs will help us resolve the problem faster.
 {% endstep %}
 {% endstepper %}
 

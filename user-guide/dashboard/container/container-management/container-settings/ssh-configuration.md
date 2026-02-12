@@ -1,5 +1,5 @@
 ---
-icon: comment-question
+icon: link
 ---
 
 # SSH Configuration

@@ -25,3 +25,7 @@ The cost for using the advanced features such as **AI Supporter and Code Support
 You can set the performance of the container when you create it, based on your requirements. Similarly, when creating a container through **Templates**, you can set the container performance.
 
 Additionally, you can modify the performance of an existing container on the **Container Settings page** at any time, depending on your needs and purposes.
+
+{% hint style="warning" %}
+To ensure infrastructure stability, processes or containers **exceeding their allocated resource limits** may be **automatically terminated** to protect system performance.
+{% endhint %}

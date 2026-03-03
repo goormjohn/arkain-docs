@@ -4,6 +4,10 @@ icon: bullhorn
 
 # Notice
 
+{% content-ref url="mar-3-2026-notice-of-system-optimization-on-mar-5.md" %}
+[mar-3-2026-notice-of-system-optimization-on-mar-5.md](mar-3-2026-notice-of-system-optimization-on-mar-5.md)
+{% endcontent-ref %}
+
 {% content-ref url="feb-5-2026-update-to-privacy-policy-on-feb-12.md" %}
 [feb-5-2026-update-to-privacy-policy-on-feb-12.md](feb-5-2026-update-to-privacy-policy-on-feb-12.md)
 {% endcontent-ref %}

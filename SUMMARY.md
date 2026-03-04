@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(Mar 4, 2026) Container Spec Optimization & New XLarge Performance Launch on Mar 10](notice/view/mar-4-2026-container-spec-optimization-and-new-xlarge-performance-launch-on-mar-10.md)
   * [(Mar 3, 2026) Notice of System Optimization on Mar 5](notice/view/mar-3-2026-notice-of-system-optimization-on-mar-5.md)
   * [(Feb 5, 2026) Update to Privacy Policy on Feb 12](notice/view/feb-5-2026-update-to-privacy-policy-on-feb-12.md)
   * [(Jan 30, 2026) Service Outage in Seoul Region and Restoration](notice/view/jan-30-2026-service-outage-in-seoul-region-and-restoration.md)

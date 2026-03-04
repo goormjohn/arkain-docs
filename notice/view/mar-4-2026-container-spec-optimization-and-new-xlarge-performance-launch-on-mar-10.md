@@ -16,7 +16,7 @@ To support the latest AI tools, we have optimized our container specs to a 1:4 (
 
 New or stopped containers apply the update automatically upon creation or startup. For active ones, please \[Restart] or \[Stop & Run] to apply the new specs—your files and configurations will remain safe. (Micro and GPU remain unchanged.)
 
-<table data-header-hidden><thead><tr><th width="170">Performance</th><th width="206">Previous Spec</th><th width="213">Updated Spec</th><th width="137">Credits / hour</th></tr></thead><tbody><tr><td>Small</td><td>2 vCPU / 2GB Memory</td><td>1 vCPU / 4GB Memory</td><td>6.80</td></tr><tr><td>Medium</td><td>4 vCPU / 4GB Memory</td><td>2 vCPU / 8GB Memory</td><td>13.60</td></tr><tr><td>Large</td><td>8 vCPU / 8GB Memory</td><td>4 vCPU / 16GB Memory</td><td>27.20</td></tr><tr><td>XLarge <span data-gb-custom-inline data-tag="emoji" data-code="2728">✨</span>(New!)</td><td>-</td><td>8 vCPU / 32GB Memory</td><td>54.40</td></tr></tbody></table>
+<table><thead><tr><th width="170">Performance</th><th width="206">Previous Spec</th><th width="213">Updated Spec</th><th width="137">Credits / hour</th></tr></thead><tbody><tr><td>Small</td><td>2 vCPU / 2GB Memory</td><td>1 vCPU / 4GB Memory</td><td>6.80</td></tr><tr><td>Medium</td><td>4 vCPU / 4GB Memory</td><td>2 vCPU / 8GB Memory</td><td>13.60</td></tr><tr><td>Large</td><td>8 vCPU / 8GB Memory</td><td>4 vCPU / 16GB Memory</td><td>27.20</td></tr><tr><td>XLarge <span data-gb-custom-inline data-tag="emoji" data-code="2728">✨</span>(New!)</td><td>-</td><td>8 vCPU / 32GB Memory</td><td>54.40</td></tr></tbody></table>
 
 #### Need More Power?🔒 Exclusively for Membership
 

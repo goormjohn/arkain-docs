@@ -18,9 +18,9 @@ The issue was confirmed to be a temporary impact from the System Optimization ta
 
 #### Incident Timeline (UTC)
 
-* Mar 5. 04:54 – Login service disruption identified
-* Mar 5. 05:00 – Emergency response team deployed and investigation initiated
-* Mar 5. 05:11 – System restoration and stability checks completed
+* Mar 5. 04:20 – Login service disruption occurs
+* Mar 5. 04:40 – Disruption identified and emergency response initiated
+* Mar 5. 05:20 – System restoration and stability checks completed
 
 We sincerely apologize for the inconvenience this brief disruption may have caused during your work. We are committed to providing a more stable and reliable service.
 

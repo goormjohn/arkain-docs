@@ -24,7 +24,7 @@ There are three ways to create a template:
 
 <figure><img src="../../.gitbook/assets/template_01.png" alt=""><figcaption></figcaption></figure>
 
-#### Select Your Container
+#### **Select Your Container**
 
 Select the container to publish as a template.
 
@@ -56,12 +56,9 @@ Please enter the technology stack used in the container. You can add up to 10 it
 #### **Recommended** Performance
 
 Please select the Recommended Performance.\
-Your container's performance is preselected as the Recommended Performance. This setting will then be the default choice for all users who create a new container using your template. [container-performance.md](../dashboard/container/container-performance.md "mention")
+Your container's performance is preselected as the Recommended Performance. This setting will then be the default choice for all users who create a new container using your template.&#x20;
 
-* Micro (0.5vCPU, 1GB Memory)
-* Small (2vCPU, 2GB Memory)
-* Medium (4vCPU, 4GB Memory)
-* Large (8vCPU, 8GB Memory)
+For more details, see our [container-performance.md](../dashboard/container/container-performance.md "mention") guide.
 
 
 

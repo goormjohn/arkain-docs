@@ -48,7 +48,7 @@ Closing the browser tab does not stop the container. Users must manually click *
 
 The Sidebar is an area that helps you easily access key features needed for development.
 
-### &#x20;<img src="../../.gitbook/assets/Sidechat_Button.png" alt="" data-size="line"> [Side Chat](../arkain-ai/)
+### &#x20;<img src="../../.gitbook/assets/Sidechat_Button.png" alt="" data-size="line"> Side Chat
 
 Clicking on the **\[Side Chat]** button will open a Side Chat on the left side of the Workspace, where you can converse with the **AI Code Assistant**.
 
@@ -58,8 +58,8 @@ Clicking on the **\[Side Chat]** button will open a Side Chat on the left side o
 Side Chat is only available for the container's **owner**.
 {% endhint %}
 
-{% content-ref url="../arkain-ai/side-chat.md" %}
-[side-chat.md](../arkain-ai/side-chat.md)
+{% content-ref url="side-chat-workspace/" %}
+[side-chat-workspace](side-chat-workspace/)
 {% endcontent-ref %}
 
 ### <img src="../../.gitbook/assets/ActivityBar-item-5 (1).png" alt="" data-size="line"> Project

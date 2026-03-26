@@ -4,7 +4,7 @@ icon: books
 
 # AI Supporter
 
-The **AI Supporter** is a background enhancement feature that learns from your project to elevate the quality of **Side Chat**’s responses. By assimilating your project's context—such as codebase, configuration, and structure—it enables more precise, relevant, and context-aware assistance.
+**AI Supporter** is a background enhancement feature that indexes your entire project to elevate the quality of **Side Chat**’s responses. By understanding your unique codebase, configuration, and structure, it provides precise, context-aware assistance.
 
 ### Key Features
 
@@ -14,7 +14,7 @@ The **AI Supporter** is a background enhancement feature that learns from your p
 
 You can enable **AI Supporter** in two ways:
 
-#### **Enable During Container Creation** [creating-container](../dashboard/container/container-management/creating-container/ "mention")
+#### Enable During Container Creation [creating-container](../dashboard/container/container-management/creating-container/ "mention")
 
 If you haven’t created the container yet, simply enable the **AI Supporter** feature while creating a new container.
 

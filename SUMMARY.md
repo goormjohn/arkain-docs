@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(Apr 15, 2026) Scheduled maintenance on Apr 16](notice/view/apr-15-2026-scheduled-maintenance-on-apr-16.md)
   * [(Mar 5, 2026) Service Restoration: Brief Login Service Disruption](notice/view/mar-5-2026-service-restoration-brief-login-service-disruption.md)
   * [(Mar 4, 2026) Container Spec Optimization & New XLarge Performance Launch on Mar 10](notice/view/mar-4-2026-container-spec-optimization-and-new-xlarge-performance-launch-on-mar-10.md)
   * [(Mar 3, 2026) Notice of System Optimization on Mar 5](notice/view/mar-3-2026-notice-of-system-optimization-on-mar-5.md)

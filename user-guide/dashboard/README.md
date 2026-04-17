@@ -8,11 +8,11 @@ icon: table-columns
 
 The **Dashboard** is where you can manage your development environments, created and owned by you. Here's everything you need to know to get started.
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/#1_Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 ## **What Can You Do on the Dashboard?**
 
-#### **View Your Containers**&#x20;
+#### **View Your Containers** &#x20;
 
 View all the containers you’ve created or own, along with their statuses, configurations, and more.
 

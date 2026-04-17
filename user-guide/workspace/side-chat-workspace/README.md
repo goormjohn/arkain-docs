@@ -6,7 +6,7 @@ icon: comment-exclamation
 
 The **Side Chat (Workspace)** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. Whether you're debugging, optimizing, or "Vibe Coding" from scratch, Side Chat provides real-time assistance and deep project awareness.
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sidechat_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -16,8 +16,8 @@ The **Side Chat (Workspace)** allows you to interact with powerful LLMs (Large L
 * **Model Selection:** Select your preferred LLM from the dropdown menu before starting a conversation.
   * You can check the credit consumption for each model in the [**\[Supported Models\]**](../../arkain-ai/supported-models.md) guide.
 * **Session Context:** Side Chat maintains context within a single session, ensuring a seamless flow of interaction.
-* **Mode Selection:** Switch between Chat and Agent modes using the toggle in the input box.
-  * **Chat Mode:** A conversational assistant that answers questions and suggests code changes for you to review and apply.
+* **Mode Selection:** Switch between Ask and Agent modes using the toggle in the input box.
+  * **Ask Mode:** A read-only conversational assistant for questions, code reviews, and explanations. Code blocks are displayed for reference and can be copied, but cannot be applied directly.
   * **Agent Mode:** An autonomous AI agent that can explore your codebase, modify files, and execute terminal commands on your behalf.
 
 
@@ -32,7 +32,6 @@ Click the **\[Add context]** button to reference specific code without manual co
 
 * **Recent Files:** Instantly access your 5 most recently opened files.
 * **Search:** Find any file by name or path within the project.
-* [**AI Supporter**](../../arkain-ai/ai-supporter.md)**:** Enable this feature to allow the AI to automatically reference the most relevant files across your entire project.
 
 #### Visual Context (Images)
 
@@ -45,6 +44,8 @@ Click the **\[Upload Images]** button or **drag and drop images** directly into 
 | Formats    | JPG, PNG, SVG, and more              |
 
 Uploaded images are saved within your project folder, and you can freely upload images within the container's storage capacity.
+
+
 
 ## Applying Code Suggestions
 
@@ -72,6 +73,17 @@ Never lose a valuable solution by utilizing the history features.
 * **Recently Used List:** Quickly load recent conversations from the "Recently used chat" list.
 * **Persistent History**: Click the \[History icon] (top left) to view all past sessions.
 * **Deleting History:** Open the History list, hover over a session, and click the Trash can icon to remove it.
+
+
+
+## Message Queue
+
+You can continue sending messages while the AI is still generating a response. Side Chat supports a **message queue** that lets you type and send follow-up messages while the AI is still responding.
+
+* **Queue messages**: Send up to 5 messages while the AI is responding. Messages appear in order and are sent automatically once the current response completes.
+* **Model Switching:** If you change the selected model while messages are queued, the remaining messages will be sent using the newly selected model.
+* **Queue Persistence:** Queued messages are saved when you close or refresh the browser tab. When you return to the same conversation, click \[Resume Sending] to continue where you left off, or \[Discard All] to clear the queue.
+* **Interruptions:** If you stop a response or an error occurs, the queue pauses. You can click \[Continue Sending] to resume, \[Skip & Continue] to skip the failed message and proceed with the rest, or \[Discard All] to clear the queue.
 
 
 

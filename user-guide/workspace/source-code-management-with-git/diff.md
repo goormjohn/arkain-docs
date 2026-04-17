@@ -11,7 +11,7 @@ icon: code-branch
 
 Clicking a file in the Unstaged files or Staged files list in the Git Sidebar will open the Diff tool. You can view the changes in the source code in the editor.
 
-<figure><img src="../../../.gitbook/assets/git_12 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_12 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Note**\
@@ -20,7 +20,7 @@ If you open the **\[Git]** tab and there is only a **\[Register repository]** bu
 
 ### **The editor area**
 
-<figure><img src="../../../.gitbook/assets/git_12 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_12 (2).png" alt=""><figcaption></figcaption></figure>
 
 You can compare the source code **before the change (left)** and the source code **after the change (right)**.
 
@@ -38,7 +38,7 @@ If you open the Diff Tool from a ‘staged file’, the pre-change source code i
 You can tell which status of the Diff Tool was opened in by looking at the Editor tab. Diff tool opened from `Files Removed from Stage` are named with the original filename followed by _(Working Tree)_, Diff tool opened from `Files Added to Stage` will have the original filename followed by _(Index)_.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/git_13 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_13.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,7 +46,7 @@ You can tell which status of the Diff Tool was opened in by looking at the Edito
 
 The buttons area in the top right corner of the screen provides 4 functions.
 
-<figure><img src="../../../.gitbook/assets/git_14 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_14.png" alt=""><figcaption></figcaption></figure>
 
 * **Open file**\
   Opens the Diff Tool's source file editor for the file you are currently viewing.

@@ -12,7 +12,7 @@ It automatically selects and configures the necessary libraries, frameworks, and
 
 Experience the magic of creating with Arkain Snap today.\
 \
-You can get started right from the [Dashboard](../dashboard/container/container-management/creating-container/using-arkain-snap.md) page.
+You can get started right from the [Dashboard](../dashboard/creative-tools/using-arkain-snap.md) page.
 
 {% embed url="https://app.arcade.software/share/NCnGfswz6qNvchadnF5O" %}
 

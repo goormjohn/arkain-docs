@@ -8,8 +8,6 @@ Arkain allows you to rename your containers for better organization and clarity.
 
 Click the **\[Settings]** button (![](../../../../../.gitbook/assets/setting.svg)) of the container card you want to rename on the Dashboard page. On the Container Settings page, click the **\[Edit]** button (![](<../../../../../.gitbook/assets/edit (2).svg>)) at the top-left corner.
 
-<figure><img src="../../../../../.gitbook/assets/Rename the Container (1).png" alt=""><figcaption></figcaption></figure>
-
 #### Step-by-Step
 
 {% stepper %}
@@ -21,8 +19,6 @@ Enter the new name for the container. The name must be unique within your worksp
 Click the **\[Save]** button to rename the container.
 {% endstep %}
 {% endstepper %}
-
-
 
 #### **Rename the Container**
 

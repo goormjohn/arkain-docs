@@ -15,10 +15,10 @@ icon: microchip
 <table><thead><tr><th width="243">Type</th><th align="center">Specification</th></tr></thead><tbody><tr><td>vCPU</td><td align="center">3.5</td></tr><tr><td>Memory</td><td align="center">13GB</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Using advanced features like **AI Supporter and Code Supporter** on a GPU container will reduce your allocated GPU compute and memory resources. This does not incur an additional credit charge.
+Using advanced feature like **Code Supporter** on a GPU container will reduce your allocated GPU compute and memory resources. This does not incur an additional credit charge.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/NVIDIA Tesla T4 GPU Container.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NVIDIA Tesla T4 GPU Container (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

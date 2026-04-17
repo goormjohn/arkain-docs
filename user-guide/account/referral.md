@@ -6,7 +6,7 @@ icon: gift
 
 🚀 Ready to start earning? Visit the [**Referral Page**](https://account.arkain.io/account/referral) now to generate your unique code and start sharing Arkain with your network!
 
-<figure><img src="../../.gitbook/assets/KV (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/KV.png" alt=""><figcaption></figcaption></figure>
 
 Invite your network to Arkain and earn credits together. Our referral program is designed to reward both you and your friends as you build and grow on the platform.
 

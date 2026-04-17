@@ -5,16 +5,14 @@ icon: wand-magic-sparkles
 
 # Using Arkain Snap
 
-<div align="center" data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/1218_Area_v2 (1).gif" alt="" width="563"><figcaption></figcaption></figure></div>
-
 **Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.\
 There are two ways to use Arkain Snap:
 
 ## Start from the Dashboard
 
-[**Arkain Snap**](../../../../arkain-ai/what-is-arkain-snap.md)  is available on the Dashboard page for easy access.
+[**Arkain Snap**](../../arkain-ai/what-is-arkain-snap.md)  is available on the Dashboard page for easy access.
 
-<figure><img src="../../../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Using Arkain Snap (1).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -40,13 +38,13 @@ Once the container is created, your workspace is created and the AI agent starts
 
 ## Start with a Specific Base Template
 
-<figure><img src="../../../../../.gitbook/assets/Arkain AI (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Arkain AI (2).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
 ### Create a Container
 
-Go to the [Arkain Dashboard](https://arkain.io/my/dashboard), click the **\[New container]** button and create a container by following the instuctions on [this page](./).
+Go to the [Arkain Dashboard](https://arkain.io/my/dashboard), click the **\[New container]** button and create a container by following the instuctions on [this page](../container/container-management/creating-container.md).
 
 {% hint style="info" %}
 Arkain Snap is available with **Python, Node.js, Java, React, and Go** Containers.
@@ -69,18 +67,13 @@ Arkain Snap will automatically:
 * Configure the environment for the selected base template and your project.
 * Generate the project structure and code.
 * Install dependencies and start the application.
-
-{% hint style="warning" %}
-**Note**
-
-* If a command fails to run, click the **\[Run]** button in the top-right corner of the Workspace to re-execute it.
-* The success or failure of the command will be shown at the bottom of the code block as **"Success"** or **"Failed building the project"**.
-{% endhint %}
+* Self-heal on errors — If any issue arises during setup or startup, the agent automatically\
+  detects and fixes it.
 {% endstep %}
 {% endstepper %}
 
 ## Preview the Result
 
-<figure><img src="../../../../../.gitbook/assets/PREVIEW_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PREVIEW_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 Once Arkain Snap finishes building the project, the **Preview** will automatically open in your Workspace so you can test the app right away. Check the service created based on your prompt and use the **Side Chat** to make changes to your service.

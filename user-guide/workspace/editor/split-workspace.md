@@ -4,8 +4,6 @@ icon: table-columns
 
 # Split Workspace
 
-<figure><img src="../../../.gitbook/assets/split (1).png" alt=""><figcaption></figcaption></figure>
-
 In Arkain’s editor, you can view multiple files side by side using the **Split Workspace** feature.
 
 The **Split Workspace** feature allows you to divide the editor into multiple panes to work on several files at the same time.

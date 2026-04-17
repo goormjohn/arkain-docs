@@ -9,8 +9,6 @@ icon: container-storage
 
 Go to the [Arkain Dashboard](https://arkain.io/my/dashboard) page, Click the **\[New container]** button.
 
-<figure><img src="../../../../../.gitbook/assets/Creating Container (2).png" alt=""><figcaption></figcaption></figure>
-
 {% stepper %}
 {% step %}
 **Set Up a Container Base template**
@@ -50,12 +48,12 @@ You can check the available container performance on [this page](https://docs.ar
 {% endstep %}
 
 {% step %}
-**Enable the advanced features (optional)**
+**Enable the advanced feature (optional)**
 
-You can enable the advanced features such as [**AI Supporter**](../../../../arkain-ai/ai-supporter.md) **and** [**Code Supporter**](../../../../workspace/editor/code-supporter.md).
+You can enable the advanced features such as [**Code Supporter**](../../../arkain-ai/code-supporter.md).
 
 {% hint style="warning" %}
-The cost for using the advanced features such as **AI Supporter and Code Supporter** is added to your container cost. However, when using a GPU container, there is no additional charge for these features; instead, your allocated **GPU compute and memory resources** will be reduced.
+The cost for using the advanced feature such as **Code Supporter** is added to your container cost. However, when using a GPU container, there is no additional charge for this feature; instead, your allocated **GPU compute and memory resources** will be reduced.
 {% endhint %}
 {% endstep %}
 

@@ -6,8 +6,6 @@ icon: github
 
 You can import a project from a **GitHub repository** and continue working on it in Arkain.
 
-<figure><img src="../../../../.gitbook/assets/Import GitHub Repos (2).png" alt=""><figcaption></figcaption></figure>
-
 {% stepper %}
 {% step %}
 ### **Go to the** [**Dashboard**](https://arkain.io/my/dashboard) **page and click the \[+ New container] button.** <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>

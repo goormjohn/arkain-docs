@@ -25,11 +25,11 @@ Currently, this feature is available for **JavaScript** and **TypeScript**. Supp
 
 ### How to Enable
 
-You can enable the Code Supporter feature when you create a container, based on your requirements. [creating-container](../../dashboard/container/container-management/creating-container/ "mention")
+You can enable the Code Supporter feature when you create a container, based on your requirements. [creating-container.md](../dashboard/container/container-management/creating-container.md "mention")
 
 Similarly, when creating a container through **Templates**, you can enable the Code Supporter feature.&#x20;
 
-Additionally, you can enable or disable the feature of an existing container on the **Container Settings page** at any time, depending on your needs and purposes. [container-settings](../../dashboard/container/container-management/container-settings/ "mention")
+Additionally, you can enable or disable the feature of an existing container on the **Container Settings page** at any time, depending on your needs and purposes. [container-settings](../dashboard/container/container-management/container-settings/ "mention")
 
 {% hint style="info" %}
 The container must be shut down to change Code Supporter feature.

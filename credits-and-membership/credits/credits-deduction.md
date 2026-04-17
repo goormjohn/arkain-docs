@@ -29,7 +29,7 @@ Credits are deducted during the following specific scenarios:
 When you stop a container, the following are calculated and deducted at once:
 
 * **Time-based usage:** Credits for the container performance tier.
-* **Advanced Features:** Additional hourly credits for using [code-supporter.md](../../user-guide/workspace/editor/code-supporter.md "mention") or [ai-supporter.md](../../user-guide/arkain-ai/ai-supporter.md "mention").
+* **Advanced Feature:** Additional hourly credits for using [code-supporter.md](../../user-guide/arkain-ai/code-supporter.md "mention").
 * **Active usage:** Storage and traffic credits used during the session.
 
 #### **2. Container Run**

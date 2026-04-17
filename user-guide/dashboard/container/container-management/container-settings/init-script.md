@@ -8,8 +8,6 @@ If you have a script that needs to be executed repeatedly when running a contain
 
 It is commonly used to write scripts that execute your application.
 
-<figure><img src="../../../../../.gitbook/assets/Init Script.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="warning" %}
 #### Shell environment limitations
 

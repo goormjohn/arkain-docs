@@ -22,7 +22,7 @@ Depending on the image dimensions, it will be scaled as follows:
 
 In the bottom-right corner of the Image Viewer, you'll find a toolbar that lets you control how the image appears — you can zoom in or out, change the background color, switch scaling modes, or access advanced settings.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image view tools.png" alt=""><figcaption></figcaption></figure>
 
 #### Zooming In and Out
 

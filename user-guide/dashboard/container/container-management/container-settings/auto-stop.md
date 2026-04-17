@@ -30,13 +30,13 @@ You can set **Auto-stop** from the Dashboard page and the Workspace.
 
 ### From Dashboard <a href="#from-dashboard" id="from-dashboard"></a>
 
-* Click the **\[Settings]**(<img src="../../../.gitbook/assets/setting (2).png" alt="" data-size="line">) button of the container → Active **\[Auto-stop]** in Container Status section.
+* Click the **\[Settings]**(<img src="../../../../../.gitbook/assets/setting (2).png" alt="" data-size="line">) button of the container → Active **\[Auto-stop]** in Container Status section.
 
-<figure><img src="../../../.gitbook/assets/automaticstop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/automaticstop (1).png" alt=""><figcaption></figcaption></figure>
 
-## From Workspace <a href="#from-ide" id="from-ide"></a>
+### From Workspace <a href="#from-ide" id="from-ide"></a>
 
-* Click the **\[Auto-stop]** button(<img src="../../../.gitbook/assets/stop.png" alt="Auto-off" data-size="line">) in the bottom bar, and then click the **\[Using feature]** button in the popup to enable the container's auto-off feature.
-* To turn off the feature, click the **\[Auto-stop]** button(<img src="../../../.gitbook/assets/stop (1).png" alt="Auto-off" data-size="line">) again.
+* Click the **\[Auto-stop]** button(<img src="../../../../../.gitbook/assets/stop.png" alt="Auto-off" data-size="line">) in the bottom bar, and then click the **\[Using feature]** button in the popup to enable the container's auto-off feature.
+* To turn off the feature, click the **\[Auto-stop]** button(<img src="../../../../../.gitbook/assets/stop (1).png" alt="Auto-off" data-size="line">) again.
 
-<figure><img src="../../../.gitbook/assets/Terminal2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Terminal2 (1).png" alt=""><figcaption></figcaption></figure>

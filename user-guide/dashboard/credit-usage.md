@@ -8,7 +8,7 @@ icon: coin-front
 # Credit usage
 
 {% hint style="success" %}
-**✨ Open Beta Exclusive: Arkain Snap & Side Chat Free Trial**
+**✨ Arkain Snap & Side Chat Free Trial**
 
 We’re offering **3 total free trial uses** to let you deploy AI-powered containers with **Snap** and get instant AI help in your workspace with **Side Chat**. Experience the power of Arkain’s AI for yourself!
 
@@ -21,8 +21,6 @@ Click the current **Credit & Plan** button at the top-right corner on the Dashbo
 
 The **Credit usage** page provides an overview of your current credit deduction and detailed resource usage. Below is a description of each section:
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
 ### **Total Usage**
 
 Displays the total amount of credits deducted during the current month.
@@ -34,7 +32,7 @@ Breaks down credit deduction based on resource types:
 * **Container usage**: Credits deducted for running containers.
 * **Storage**: Credits deducted for storage capacity allocated to the container.
 * **Traffic**: Credits deducted for data transfer and traffic.
-* **AI**: Credits deducted for AI features such as the Arkain Snap and the Side Chat.
+* **AI**: Credits deducted for AI features such as the Arkain Snap and the Side Chat(Workspace).
 
 
 
@@ -55,7 +53,7 @@ Hover over the info icon to see information on your container's advanced feature
 
 Displays detailed credit logs for AI feature usage. You can browse the logs by switching pages, and view the Type and Container associated with each usage log.&#x20;
 
-Types include **AI Supporter**, **Chat(Side Chat)**, and **Arkain Snap.**&#x20;
+Types include **Chat(Side Chat)**, and **Arkain Snap.**&#x20;
 
 Information on LLMs is shown only for the **Chat** type, and not for the other types.
 

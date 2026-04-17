@@ -6,7 +6,7 @@ icon: container-storage
 
 Click the **\[Settings]** button(<img src="../../../../../.gitbook/assets/setting (1) (1) (1).png" alt="" data-size="line">) in the Container Card. You can go to the **Container Settings page.**
 
-<figure><img src="../../../../../.gitbook/assets/Container Settings (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Container Settings (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,24 +55,16 @@ You can invite other users to your container with 4 permissions (Readonly, Edita
 
 Save resources by activating the **Auto-stop** feature. The container will automatically stop after a period of inactivity, reducing unnecessary costs and improving efficiency.
 
-{% content-ref url="../../auto-stop.md" %}
-[auto-stop.md](../../auto-stop.md)
-{% endcontent-ref %}
-
-* **AI Supporter**
-
-Boost Side Chat's effectiveness with the **AI Supporter** feature. By learning your project's context—including codebase, configurations, and structure—it enables more precise, relevant, and context-aware assistance.
-
-{% content-ref url="../../../../arkain-ai/ai-supporter.md" %}
-[ai-supporter.md](../../../../arkain-ai/ai-supporter.md)
+{% content-ref url="auto-stop.md" %}
+[auto-stop.md](auto-stop.md)
 {% endcontent-ref %}
 
 * **Code Supporter**
 
 Write and fix code more easily and accurately with the **Code Supporter** feature. It provides real-time assistance through features like Go to Definition, Autocomplete Suggestions, and Live Diagnostics.
 
-{% content-ref url="../../../../workspace/editor/code-supporter.md" %}
-[code-supporter.md](../../../../workspace/editor/code-supporter.md)
+{% content-ref url="../../../../arkain-ai/code-supporter.md" %}
+[code-supporter.md](../../../../arkain-ai/code-supporter.md)
 {% endcontent-ref %}
 
 ### **Init Script**

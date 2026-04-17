@@ -106,6 +106,7 @@ icon: keyboard
 | Function                     | macOS Shortcut                                              | Windows/Linux Shortcut                               |
 | ---------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
 | Toggle Side Chat             | <kbd>F1</kbd>                                               | <kbd>F1</kbd>                                        |
+| Toggle Agent/Ask Mode        | <kbd>Shift ⇧</kbd> + <kbd>Tab</kbd>                         | <kbd>Shift</kbd> + <kbd>Tab</kbd>                    |
 | New Terminal Window          | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>T</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>     |
 | Terminal To Current Location | <kbd>option ⌥</kbd>+<kbd>T</kbd>                            | <kbd>Alt</kbd> + <kbd>T</kbd>                        |
 | Open Previous Window         | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>\[</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>    |

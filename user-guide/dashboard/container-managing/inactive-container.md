@@ -18,7 +18,7 @@ Your container will automatically enter an inactive state under the following ci
 * **Please note that deleted containers cannot be recovered.** If you have important data, please log in to the Dashboard page and click the **\[Reactivate]** button to activate your container.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Inactive Container (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Inactive Container (3).png" alt=""><figcaption></figcaption></figure>
 
 ## **If it takes too long to reactivate**
 

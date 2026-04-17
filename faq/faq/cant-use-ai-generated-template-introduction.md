@@ -39,24 +39,24 @@ When creating a container, the region closest to your current location is automa
 
 If the **currently accessed region** and the **container’s region** are different, you need to migrate your container to the **currently accessed region**.
 
-### <mark style="color:$primary;">**Option 1: Using Export / Import feature**</mark>
+### <mark style="color:$primary;">Option 1: Using</mark> <mark style="color:$primary;">Download/Upload feature</mark>
 
-You can **export the container** and then **import it into a new container in the currently accessed region.**
+You can download the container and then upload it into a new container in the currently accessed region.
 
 **Steps:**
 
 1. Go to your container's **Workspace**.
-2. Right-click on your project folder in the **Project Sidebar** and select **\[Export Folder]**.
+2. Right-click on your project folder in the **Project Sidebar** and select **\[Download Folder]**.
 3. Choose your preferred compression format: ZIP, TAR, or TAR.GZ.
 4. In your currently accessed region, create a new container and run it.
 5. Right-click on an empty area in the **Project Sidebar** and select **\[Upload Folder].**
-6. In the Import Folder popup, upload the exported folder, select the desired location, and click the **\[Import]** button to upload it.
+6. In the Upload Folder popup, upload the downloaded folder, select the desired location, and click the **\[Upload]** button.
 
 {% content-ref url="../../user-guide/workspace/file-management/upload-download.md" %}
 [upload-download.md](../../user-guide/workspace/file-management/upload-download.md)
 {% endcontent-ref %}
 
-### <mark style="color:$primary;">**Option 2: Creating a Template**</mark>
+### <mark style="color:$primary;">Option 2: Creating a Template</mark>
 
 Alternatively, you can create a **template** from your existing container and then create a new container from that template in the **currently accessed region**.
 

@@ -6,7 +6,7 @@ icon: flag
 
 To create a healthy Templates Community, we provide a reporting function for Templates and Comments.
 
-<figure><img src="../../.gitbook/assets/Malicious Templates and Comment Policy (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Malicious Templates and Comment Policy.png" alt=""><figcaption></figcaption></figure>
 
 ## Malicious Template
 

@@ -6,7 +6,7 @@ icon: circle-chevron-right
 
 <figure><img src="../.gitbook/assets/What is Arkain_.png" alt=""><figcaption></figcaption></figure>
 
-## Introducing Arkain: The Future of **Cloud Development Environments**&#x20;
+## Introducing Arkain: The Future of Cloud Development Environments&#x20;
 
 [**Arkain**](https://arkain.io) is a **Cloud Development Environments (CDE)** designed to simplify and enhance the software development process. Whether you're building a web app in **JavaScript, Node.js, React**, a data science project in **Python,** Arkain provides all the tools you need to get started quickly and efficiently.
 
@@ -39,19 +39,23 @@ Arkain empowers developers to work together effortlessly with:
 * **Live Code Editing** – Multiple developers can edit the same file simultaneously.
 * **Global Collaboration** – Work with teammates worldwide, breaking time and space constraints.
 
-### **Arkain Snap:** AI agent
+### **Arkain Snap:** AI agent App Builder
 
-**Arkain Snap** is an AI agent that turns ideas into reality. You can create services or apps just with natural language prompts, without needing to learn programming languages anymore.
+[Arkain Snap](../user-guide/dashboard/creative-tools/using-arkain-snap.md) is an AI agent that turns ideas into working apps. Describe what you want to build in natural language — Snap plans, codes, and iterates automatically until the project is successfully generated.
 
-It automatically selects and configures the necessary libraries, frameworks, and databases based on the service or app you're creating. The AI also writes the code for frontend, backend, and more.
+It selects and configures the necessary libraries, frameworks, and databases based on your request, and writes the code for frontend, backend, and more. If something fails during generation, Snap automatically retries and fixes it.
+
+You can also attach images, code files, or PDFs to provide more specific context and improve generation accuracy.
 
 ### **Side Chat: AI Code Assistance**
 
-Arkain’s [**Side Chat**](../user-guide/arkain-ai/side-chat.md), powered by advanced **LLMs**([Supported Models](../user-guide/arkain-ai/supported-models.md)), offers:
+Arkain’s [**Side Chat**](../user-guide/arkain-ai/side-chat.md) gives you direct access to powerful AI models([Supported Models](../user-guide/arkain-ai/supported-models.md)) inside your development environment.
 
-* **Instant Coding Help** – Debug, optimize, and get AI-driven suggestions.
-* **Chat History** – Revisit past conversations anytime.
-* **Flexible AI Models** – Switch between different AI assistants based on your needs.
+* **Agent Mode:** The AI autonomously explores your codebase, writes and edits files, and runs terminal commands — step by step, with full transparency.
+* **Ask Mode:** A read-only assistant for questions, code reviews, debugging, and explanations. Code blocks are displayed for reference and can be copied, but are not applied directly.
+* **Message Queue:** Send follow-up messages while the AI is still responding — no need to wait.
+* **Chat History:** Revisit and resume past conversations anytime.
+* **Flexible AI Models:** Switch between different models based on your needs.
 
 ### **Templates: Jumpstart Your Projects**&#x20;
 

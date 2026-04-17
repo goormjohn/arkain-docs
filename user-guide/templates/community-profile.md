@@ -6,7 +6,7 @@ icon: sidebar
 
 The user profile feature allows you to browse templates uploaded by a specific user and manage your own profile content.
 
-<figure><img src="../../.gitbook/assets/Community Profile (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Community Profile.png" alt=""><figcaption></figcaption></figure>
 
 ## Exploring User Templates
 

@@ -5,7 +5,7 @@ icon: message-bot
 # Arkain AI
 
 {% hint style="success" %}
-**✨ Open Beta Exclusive: Arkain Snap & Side Chat Free Trial**
+**✨ Arkain Snap & Side Chat Free Trial**
 
 We’re offering **3 total free trial uses** to let you deploy AI-powered containers with **Snap** and get instant AI help in your workspace with **Side Chat**. Experience the power of Arkain’s AI for yourself!
 
@@ -42,8 +42,8 @@ For detailed information about Snap and Side Chat usage charges, please check [h
 
 **Experience the magic of creating with Arkain Snap today!**
 
-{% content-ref url="../dashboard/container/container-management/creating-container/using-arkain-snap.md" %}
-[using-arkain-snap.md](../dashboard/container/container-management/creating-container/using-arkain-snap.md)
+{% content-ref url="../dashboard/creative-tools/using-arkain-snap.md" %}
+[using-arkain-snap.md](../dashboard/creative-tools/using-arkain-snap.md)
 {% endcontent-ref %}
 
 ## Side Chat
@@ -60,8 +60,6 @@ The AI assistant, **Side Chat**, provides new CDE that enable interaction with c
   Side Chat can write it for you based on your requirements—saving you time and effort.
 * **Provide insights**\
   Whether you’re exploring algorithms or need suggestions on improving performance, Side Chat provides expert-level recommendations tailored to your code.
-* **Boost Your Project Chat with AI Supporter** [ai-supporter.md](ai-supporter.md "mention")\
-  The **AI Supporter** enhances Side Chat by learning from your project to improve response relevance, quality, and context awareness.
 
 ### Why Use Side Chat?
 
@@ -80,20 +78,12 @@ Side Chat leverages powerful LLMs, like those in Cursor and Windsurf, to deliver
 [side-chat.md](side-chat.md)
 {% endcontent-ref %}
 
-## Advanced features
-
-### AI Supporter
-
-The **AI Supporter** is a background enhancement feature that learns from your project to elevate the quality of Side Chat’s responses. By assimilating your project's context—such as codebase, configuration, and structure—it enables more precise, relevant, and context-aware assistance.
-
-{% content-ref url="ai-supporter.md" %}
-[ai-supporter.md](ai-supporter.md)
-{% endcontent-ref %}
+## Advanced feature
 
 ### Code Supporter
 
 The **Code Supporter** helps you write and fix code more easily and accurately. You can enable this feature when you **create** or **start** a container.
 
-{% content-ref url="../workspace/editor/code-supporter.md" %}
-[code-supporter.md](../workspace/editor/code-supporter.md)
+{% content-ref url="code-supporter.md" %}
+[code-supporter.md](code-supporter.md)
 {% endcontent-ref %}

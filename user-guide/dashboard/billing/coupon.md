@@ -4,7 +4,7 @@ icon: money-bill
 
 # Coupon
 
-<figure><img src="../../../.gitbook/assets/Coupon (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Coupon (5).png" alt=""><figcaption></figcaption></figure>
 
 ### How to add coupon
 

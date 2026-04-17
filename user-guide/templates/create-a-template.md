@@ -22,7 +22,7 @@ There are three ways to create a template:
 {% step %}
 ### **Fill in Template Details**
 
-<figure><img src="../../.gitbook/assets/template_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Templates (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **Select Your Container**
 
@@ -53,7 +53,7 @@ Please note that template name and description fields only support English.
 
 Please enter the technology stack used in the container. You can add up to 10 items.
 
-#### **Recommended** Performance
+#### Recommended Performance
 
 Please select the Recommended Performance.\
 Your container's performance is preselected as the Recommended Performance. This setting will then be the default choice for all users who create a new container using your template.&#x20;
@@ -73,8 +73,6 @@ Please note that **only one Temporary save is possible.**
 ### Enter your template introduction
 
 A text file that contains basic information and usage instructions for software. It typically explains the purpose of the project, installation steps, and how to use it, serving as an important first impression that introduces the project.
-
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Please provide introduction of your template. We recommend including the following:
 
@@ -99,8 +97,6 @@ With the AI-Generated Template Introduction feature, you can now let AI automati
 
 {% step %}
 ### Create a Template
-
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 Please review the content you've written, and if everything is correct, click the **\[Create]** button. Before template creation begins, make sure the following is met:
 

@@ -1,4 +1,6 @@
 ---
+hidden: true
+noIndex: true
 icon: books
 ---
 
@@ -14,7 +16,7 @@ icon: books
 
 You can enable **AI Supporter** in two ways:
 
-#### Enable During Container Creation [creating-container](../dashboard/container/container-management/creating-container/ "mention")
+#### Enable During Container Creation [creating-container.md](../dashboard/container/container-management/creating-container.md "mention")
 
 If you haven’t created the container yet, simply enable the **AI Supporter** feature while creating a new container.
 

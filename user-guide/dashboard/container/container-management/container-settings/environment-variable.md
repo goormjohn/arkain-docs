@@ -15,7 +15,7 @@ Sensitive data like passwords and API keys can be stored in Environment Variable
 
 * **In the Container Settings page**
 
-<figure><img src="../../../../../.gitbook/assets/Environment variable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Environment variable (1).png" alt=""><figcaption></figcaption></figure>
 
 * **In the Workspace**\
   You can use environment variables in terminals with the following command:

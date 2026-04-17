@@ -14,8 +14,6 @@ You can use templates from the following locations:
 * Community Profile
 * Hot Templates in the [Dashboard page](../dashboard/)
 
-<figure><img src="../../.gitbook/assets/Use Templates (1).png" alt=""><figcaption></figcaption></figure>
-
 {% stepper %}
 {% step %}
 **Set a Container Name**

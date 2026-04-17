@@ -27,7 +27,7 @@ You can top up credits as needed through the following steps:
 You can receive free credits through various programs. Note that the validity period varies by credit type.
 
 * **Monthly Credits:**
-  * **Free Plan:** 50 credits / **Membership:** 1,000 credits. (Open beta exclusive)
+  * **Free Plan:** 50 credits / **Membership:** 1,000 credits.
   * Credits are issued monthly and expire on the last day of the month (Based on UTC).
 * **Daily Check-in**: Receive 5 event credits daily by checking in. (Valid for 1 month)
 * **Coupons:** Redeem promotional codes to receive credits with specific validity periods.

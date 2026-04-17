@@ -14,7 +14,7 @@ _<mark style="color:$info;">Recommended if you simply want to try Arkain Snap</m
 
 Go to the [Arkain Dashboard](https://arkain.io/my/dashboard) to start using Arkain Snap.
 
-For a detailed step-by-step guide, follow the instructions on [this page](../dashboard/container/container-management/creating-container/using-arkain-snap.md).
+For a detailed step-by-step guide, follow the instructions on [this page](../dashboard/creative-tools/using-arkain-snap.md).
 
 {% hint style="warning" %}
 **Note**
@@ -34,7 +34,7 @@ _<mark style="color:$info;">Recommended if you want to work with a specific prog
 {% step %}
 ### Create a Container
 
-Go to the [Arkain Dashboard](https://arkain.io/my/dashboard), click the **\[New container]** button and create a container by following the instuctions on [this page](../dashboard/container/container-management/creating-container/).
+Go to the [Arkain Dashboard](https://arkain.io/my/dashboard), click the **\[New container]** button and create a container by following the instuctions on [this page](../dashboard/container/container-management/creating-container.md).
 
 {% hint style="info" %}
 Arkain Snap is available with **Python, Node.js, Java, React, and Go** Containers.

@@ -8,7 +8,7 @@ icon: code-branch
 
 Clicking the **\[Git]** button(<img src="../../../.gitbook/assets/image (37).png" alt="" data-size="line">) in the Sidebar allows you to manage source code versions. In the Git Sidebar, you can easily use Git-related features without commands.
 
-<figure><img src="../../../.gitbook/assets/git_01 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 To use Arkain's distributed version control feature, a [GitHub](https://github.com/) account that supports Git repository hosting is required. GitHub is the most popular Git repository hosting service.
@@ -16,7 +16,7 @@ To use Arkain's distributed version control feature, a [GitHub](https://github.c
 
 ### Connecting to a GitHub remote repository
 
-<figure><img src="../../../.gitbook/assets/git_11 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/git_11.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}

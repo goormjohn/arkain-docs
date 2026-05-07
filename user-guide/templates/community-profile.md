@@ -14,8 +14,9 @@ To browse templates uploaded by a specific user, use that user's profile page.
 
 ### How to Access a User Profile page
 
-* Click the username or the Avatar on the template card.
-* Navigate via the Community Profile button on the Dashboard page.
+* **Via Template Cards:** Click the username or the Avatar displayed on a template card.
+* **Via the My Templates Button:** Click the \[My Templates] button on the Template List page to go directly to your own profile.
+* **Via the Dashboard:** Navigate by clicking the \[Community Profile] button located in the user menu (accessible via the Avatar button) on the Dashboard page.
 
 ### Profile Information
 

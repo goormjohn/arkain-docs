@@ -10,10 +10,11 @@ The **Templates** feature provides tools to help you manage the templates you've
 
 ## **Access Your Templates** [community-profile.md](community-profile.md "mention")
 
-You can access your templates through your Profile page or your Template card in the list.
+You can access and manage your personal templates through your **Community Profile**, the **\[My Templates]** button, or directly from your template cards.
 
-* Click the **\[Community profile]** button located at the top right of the Dashboard page after clicking the Avatar button.
-* Click on your profile information included in your Template card.
+* **Via Community Profile:** Click the \[Avatar] button at the top right of the Dashboard, then select the \[Community Profile] button.
+* **Via My Templates Button:** Click the \[My Templates] button located at the top of the Template List page for instant access to your work.
+* **Via Template Card:** Click on your profile information displayed within any of your template cards in the list.
 
 If there are containers that failed to create, your Profile page will contain the failed templates.
 

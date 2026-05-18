@@ -59,6 +59,10 @@ The Side Chat(Dashboard) will open and show a **"Creating Snap prompt..."** indi
 
 Once the AI finishes, you'll see **"Arkain Snap is ready"** in the Side Chat along with a generated project summary. Click the **\[Generate with Arkain Snap]** button to proceed.
 
+{% hint style="info" %}
+If you'd like to modify the AI-generated prompt before using **\[Generate with Arkain Snap]**, click the **Edit** button to customize the prompt as needed.
+{% endhint %}
+
 {% hint style="warning" %}
 If you've reached your container limit or have insufficient credits, you'll be prompted to upgrade your plan or purchase more credits before proceeding.
 {% endhint %}

@@ -4,7 +4,7 @@ icon: comment-exclamation
 
 # Side Chat (Workspace)
 
-The **Side Chat (Workspace)** allows you to interact with powerful LLMs (Large Language Models) directly within your development environment. Whether you're debugging, optimizing, or "Vibe Coding" from scratch, Side Chat provides real-time assistance and deep project awareness.
+**Side Chat** is a powerful LLM-driven assistant integrated directly into your Workspace. It moves beyond simple Q\&A by understanding your entire project context, suggesting code, and even executing tasks autonomously.
 
 <figure><img src="../../../.gitbook/assets/sidechat_01 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -13,29 +13,52 @@ The **Side Chat (Workspace)** allows you to interact with powerful LLMs (Large L
 ## Getting Started
 
 * **Access:** Open Side Chat(<img src="../../../.gitbook/assets/Sidechat_Button.png" alt="" data-size="line">) from the Sidebar in your Workspace.
-* **Model Selection:** Select your preferred LLM from the dropdown menu before starting a conversation.
-  * You can check the credit consumption for each model in the [**\[Supported Models\]**](../../arkain-ai/supported-models.md) guide.
-* **Session Context:** Side Chat maintains context within a single session, ensuring a seamless flow of interaction.
-* **Mode Selection:** Switch between Ask and Agent modes using the toggle in the input box.
-  * **Ask Mode:** A read-only conversational assistant for questions, code reviews, and explanations. Code blocks are displayed for reference and can be copied, but cannot be applied directly.
-  * **Agent Mode:** An autonomous AI agent that can explore your codebase, modify files, and execute terminal commands on your behalf.
+* **Model Selection:** Select your preferred LLM from the dropdown menu before starting a conversation. You can check the credit consumption for each model in the [**\[Supported Models\]**](../../arkain-ai/supported-models.md) guide.
+* **Session Context:** Side Chat maintains context within a single session, ensuring a seamless flow of interaction as you build your project.
 
 
 
-## Adding Context: Precision Responses
+## The Three Modes of Side Chat
 
-To get the most accurate answers, provide the AI with visibility into your actual work.
+Choose the mode that best fits your current objective. You can switch between them using the dropdown menu in the input box.
 
-#### Project Files
+#### 1. [Agent Mode](agent-mode.md) (Autonomous Execution)
 
-Click the **\[Add context]** button to reference specific code without manual copy-pasting.
+* **Best for:** Automating repetitive tasks, creating new files, and running terminal commands.
+* **How it works:** An autonomous agent that can independently explore your codebase, modify files, and use terminal tools to complete tasks on your behalf.
 
-* **Recent Files:** Instantly access your 5 most recently opened files.
-* **Search:** Find any file by name or path within the project.
+#### 2. [Plan Mode](plan-mode.md) (Collaborative Strategy)
 
-#### Visual Context (Images)
+* **Best for:** Designing new features or complex refactorings that require a roadmap.
+* **How it works:** The AI interacts with you through interactive questions to clarify your intent. It then generates a structured Action Plan (.md) in your editor. You can view and edit this plan manually.
+* **Execution:** Once you are satisfied, click the **\[Approve & Run]** button to transition to Agent Mode and implement the plan.
 
-Click the **\[Upload Images]** button or **drag and drop images** directly into Side Chat to provide visual context. The LLM analyzes the content to enhance its response—perfect for UI debugging or mockup analysis.
+#### 3. Ask Mode (Read-Only)
+
+* **Best for:** Explaining code, debugging advice, and general questions.
+* **How it works:** A conversational assistant that can read your files but cannot modify them. It provides code snippets you can manually copy or apply.
+
+
+
+## [Skills](skills.md) & Capabilities
+
+**Skills** are specialized tools the AI uses to interact with your environment. Powered by the MCP (Model Context Protocol) framework, they allow the AI to perform actions beyond just generating text.
+
+* **Code Search:** Finding specific logic across your entire project.
+* **Terminal Execution:** Running builds, tests, or installations.
+* **Web Fetch:** Retrieves and references live web content, such as documentation or API specifications, during task execution. Domain permissions and restrictions are managed through the **Preferences** panel.
+
+
+
+## Key Features for Precision
+
+#### Adding Context
+
+To get the most accurate results, give the AI visibility into your work:
+
+* **Files:** Click the **\[Add context]** button to reference specific files. You can quickly pick from your 5 most recently opened files or find any file by name or path within the project.
+* **Images:** Click the **\[Upload Images]** button or drag and drop images directly into Side Chat. The LLM analyzes the content to enhance its response—perfect for UI debugging or mockup analysis.
+  * **Note:** Uploaded images are saved within your project folder. You can freely upload images within your container's storage capacity.
 
 | Feature    | Details                              |
 | ---------- | ------------------------------------ |
@@ -43,42 +66,28 @@ Click the **\[Upload Images]** button or **drag and drop images** directly into 
 | Size Limit | Max 20MB per image (Auto-compressed) |
 | Formats    | JPG, PNG, SVG, and more              |
 
-Uploaded images are saved within your project folder, and you can freely upload images within the container's storage capacity.
+#### Applying Code Suggestions (Ask & Plan Modes)
+
+In **Ask** and **Plan** modes, you can manually integrate suggested code into your editor:
+
+* **Apply/Insert:** Integrate code directly into your editor or at your cursor position with one click.
+* **Diff View:** Review changes in a "Before/After" view. Use **\[Accept]** or **\[Discard]** to finalize the edits.
 
 
 
-## Applying Code Suggestions
+#### Managing Chat History
 
-When Side Chat provides a code block, you can integrate it directly into your editor:
-
-* **Apply**: Click to apply the suggested changes directly to the target file.
-* **Insert:** Paste the code at your current cursor position.
-* **Copy:** Copy the code to your clipboard.
-* **Preview:** Hover over the **\[Apply]** or **\[Insert]** button to see exactly where the code will be placed.
-
-#### Reviewing Changes
-
-Once code is applied, you can review it in the editor's diff view:
-
-1. Compare the "Before" and "After" code.
-2. Click **\[Accept]** or **\[Discard]** for individual changes.
-3. Use the editor toolbar's **\[Accept All] / \[Discard All]** buttons to manage multiple changes at once.
-
-
-
-## Managing Chat History
-
-Never lose a valuable solution by utilizing the history features.
+Never lose a valuable solution by utilizing the built-in history features:
 
 * **Recently Used List:** Quickly load recent conversations from the "Recently used chat" list.
-* **Persistent History**: Click the \[History icon] (top left) to view all past sessions.
-* **Deleting History:** Open the History list, hover over a session, and click the Trash can icon to remove it.
+* **Persistent History:** Click the **History icon** (top left) to view all past sessions across your Workspace.
+* **Deleting History:** Open the History list, hover over a session, and click the **Trash can icon** to remove it.
 
 
 
-## Message Queue
+#### Message Queue
 
-You can continue sending messages while the AI is still generating a response. Side Chat supports a **message queue** that lets you type and send follow-up messages while the AI is still responding.
+Side Chat supports a message queue, allowing you to type and send follow-up messages while the AI is still generating a response.
 
 * **Queue messages**: Send up to 5 messages while the AI is responding. Messages appear in order and are sent automatically once the current response completes.
 * **Model Switching:** If you change the selected model while messages are queued, the remaining messages will be sent using the newly selected model.
@@ -98,18 +107,10 @@ Maximize your productivity by using the right prompts and context.
 * **Vibe Coding:** Describe high-level requirements (e.g., _"Build a simple auth middleware"_), and let Side Chat generate the necessary logic or file structures for you.
 * **Keep Context Relevant:** Use \[Add Context] to focus the AI's "attention" on specific files to avoid hallucinations.
 * **Review First:** Always use the Diff View to ensure AI suggestions align with your project logic before accepting.
-* **Manage History:** Use the History icon (top left) to view past sessions or delete unnecessary history.
+* **Master the Workflow:** For large tasks, start in **Plan Mode** to align on the strategy. Once the plan is solid, use Approve & Run to let the Agent handle the implementation.
 
 
 
 ***
 
-{% hint style="success" %}
-### **🤖 Moving to Autonomous Workflows?**
-
-If you need the AI to independently explore your codebase and run commands, check out our \[[**Agent mode**](agent-mode.md)] guide.
-{% endhint %}
-
-
-
-With **Side Chat** in **Arkain**, you have the power of LLMs right at your fingertips. Solve problems faster, learn better, and keep track of all your conversations with ease!&#x20;
+With Side Chat in Arkain, you have the power of LLMs right at your fingertips to solve problems faster, learn better, and keep track of all your conversations with ease!

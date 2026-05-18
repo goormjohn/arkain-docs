@@ -30,8 +30,8 @@ The Menu bar is where you perform general operations on your Arkain Workspace. I
 
 <figure><img src="../../.gitbook/assets/Menu bar_05 (3).png" alt=""><figcaption></figcaption></figure>
 
-* The **\[Create Template]** button (<i class="fa-up-from-line">:up-from-line:</i>) deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
-* The **\[Power]** button (<i class="fa-power-off">:power-off:</i>) allows users to manage the container status through **Restart** and **Stop** options.
+* The **\[Create Template]** button (<i class="fa-up-from-line" style="color:$info;">:up-from-line:</i>) deploys the currently active container as a template. Deployed templates are made public on the [Templates page](https://arkain.io/template).
+* The **\[Power]** button (<i class="fa-power-off" style="color:$info;">:power-off:</i>) allows users to manage the container status through **Restart** and **Stop** options.
   * **Exiting:** Users can exit the Workspace by simply closing the web browser tab.
   * **Stop:** The **\[Stop]** button terminates all running processes and stops further credit deduction.
   * **Restart:** The **\[Restart]** button reboots the container to refresh the environment.

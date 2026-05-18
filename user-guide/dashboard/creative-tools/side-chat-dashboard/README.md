@@ -8,40 +8,43 @@ The Dashboard Side Chat, an AI Assistant, helps you build apps and manage your A
 
 ***
 
+### **Access**
+
+* **Sidebar Toggle:** The Side Chat can be opened or closed at any time via the sidebar on the left.
+* **Automatic Activation:** Entering a prompt or requirement in the Dashboard's main input box automatically opens the Side Chat. The assistant then analyzes your request to provide instant guidance or initiate the Arkain Snap building process.
+* **Platform-Wide Availability:** The assistant is available and usable across all Dashboard pages, including the Credit usage and Templates pages, providing continuous support as you navigate.
+
+***
+
 ### **Key Features**
 
-#### Side Chat Controls
-
-* The Side Chat can be opened or closed from the left sidebar.
-* The Side Chat is available and usable across all Dashboard pages, including the Credit usage page and Templates page.
-
-#### Smart Response Detection
+#### 1. Smart Response Detection
 
 * The Side Chat automatically detects the intent of your input and responds accordingly.
 * If your request is about building or creating an app, the Side Chat will prepare a project plan and display the **\[Generate with Arkain Snap]** button to proceed.
 * For all other requests — such as questions about containers, credits, or platform usage — the Side Chat responds directly with guidance and information.
 
-#### [Connect External Tools](../connect-external-tools.md)
+#### 2. Contextual Inputs for Snap
 
-* Connect external tools such as Notion to give the AI more context when creating apps.
-* Once connected, the AI can reference your actual project docs to generate containers and apps.
-* For a detailed guide, please refer to the Connect Notion to Arkain page.
+When building apps through the Dashboard Side Chat, you can provide rich context to improve the results:
 
-#### Recommended Prompts
+* **Image Attachment:** Click the **\[Upload Images]** icon or drag and drop UI mockups, screenshots, or sketches into the chat. The AI analyzes these images to guide the visual design of your Snap project.
+* [**External Tools (MCP)**](../connect-external-tools.md)**:** Connect tools like **Notion** via the connector icon. Once linked, the AI can reference your actual project documentation or PRDs to generate precise containers and apps.
 
-* Selecting a Quick Prompt opens a curated list of recommended prompts.
-* Choosing a prompt automatically fills the input field, allowing immediate submission or further editing.
+#### 3. Session Controls
 
-#### Smart Redirects & UI Highlighting
+* **Reset & Stop:** Use the reset button (top-left) to start a new session. Use the stop button to cancel an in-progress generation.
+* **History:** Note that Dashboard chat history is not persisted and will be cleared upon browser refresh or manual reset.
 
-* Responses from the Side Chat may guide you to relevant Dashboard pages, such as Container Settings page or credit usage page.
-* Important UI elements are visually highlighted to help you quickly understand the context and identify key information.
+#### 4. Smart Redirects & UI Highlighting
 
-#### Chat Management
+* Responses may guide you to relevant Dashboard pages (e.g., Container Settings).
+* Important UI elements are visually highlighted to help you quickly identify key information.
 
-* Clicking the button in the top-left corner resets the chat and starts a new conversation.
-* While a response is being generated, clicking the stop button immediately cancels the in-progress generation.
-* Chat history **is not persisted** and will be cleared if you refresh the browser or click the clear button.
+#### 5. Recommended Prompts
+
+* Access a curated list of **Quick Prompts** to see what is possible.
+* Selecting a prompt automatically fills the input field for immediate submission or further editing.
 
 
 
@@ -52,8 +55,6 @@ The Dashboard Side Chat, an AI Assistant, helps you build apps and manage your A
 {% content-ref url="what-you-can-ask-side-chat.md" %}
 [what-you-can-ask-side-chat.md](what-you-can-ask-side-chat.md)
 {% endcontent-ref %}
-
-***
 
 ### **When to Use Dashboard Side Chat**
 

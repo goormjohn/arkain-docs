@@ -25,6 +25,7 @@ Once you provide a requirement, the Agent follows a transparent, step-by-step wo
 3. **Thinking Process:** Between actions, the Agent's reasoning is displayed in real time, so you can follow its approach and decision-making.
 4. **File Changes & Diff View:** When the Agent modifies or creates files, the changes appear instantly in the Diff Viewer. You can inspect every addition or removal before they are finalized.
 5. **Terminal Execution:** If a terminal command is required, the Agent presents the command for your review before execution.
+6. **Web Fetching:** The Agent can access external URLs to retrieve live documentation, API specifications, or technical updates to ensure the implementation follows the latest standards.
 
 ### Control & Safety: Reviewing Actions
 
@@ -48,26 +49,11 @@ The conditions under which the approval dialog appears can be customized through
 
 You can configure fine-grained permissions for the Agent through the "Agent Permissions" section in Preferences. All permission rules can be managed via the GUI. Your permission settings are saved and persist across conversations.
 
-#### Approve All
+#### 1. Approve All
 
 When Approve All is enabled, all actions are performed without asking. Deny rules always take precedence — even with Approve All enabled, denied commands are always blocked.
 
-#### Command Permissions&#x20;
-
-Command permissions use a `cmd:args` pattern format (e.g., `git:`_,_ `rm:`, `npm:install`) and follow a strict priority order:
-
-1. Deny patterns: Commands matching a Deny pattern are immediately rejected
-2. Allow patterns: Commands matching an Allow pattern are immediately executed without an approval dialog.
-3. Unmatched commands: If a command does not match any pattern, an approval dialog will appear.  Click **\[Accept]** to allow execution, or **\[Reject]** to decline.
-
-#### File Access Restrictions
-
-You can define file path Deny patterns using glob syntax (e.g., `/.env`, `/secrets/**`).
-
-* When the Agent attempts to access a file that matches a Deny pattern, the operation is blocked and the Agent receives an error, prompting it to find an alternative approach.&#x20;
-* This protects sensitive files such as environment variables, credentials, and secret configurations from unintended access.
-
-#### Tool Permissions
+#### 2. Tool Permissions
 
 Control the Agent's access to file, search, and execution tools. Each tool can be set to Allow (default) or Deny. When a tool is set to Deny, the Agent is blocked from invoking it — any attempt to call the tool will be intercepted and rejected before execution.
 
@@ -76,6 +62,36 @@ Control the Agent's access to file, search, and execution tools. Each tool can b
 * **Write File:** File creation
 * **Edit File:** File editing
 * **Command:** Terminal commands (including destructive operations)
+* **Web Fetch:** Fetch and analyze external web content
+
+#### 3. Web Domain Restrictions
+
+Users can manage access to external web content by defining allowed and denied domains in Preferences.
+
+* **Allowed Web Domains:** URLs matching these domains (e.g., `*.github.com`) are accessed without confirmation.
+* **Denied Web Domains:** URLs matching these domains (e.g., `142.250.0.*`) are strictly blocked.
+* Any attempt to access a strictly blocked domain is intercepted and rejected immediately to ensure secure browsing.
+
+#### 4. Command Permissions&#x20;
+
+Command permissions use a `cmd:args` pattern format (e.g., `git:`_,_ `rm:`, `npm:install`) and follow a strict priority order:
+
+1. **Allow patterns:** Commands matching an Allow pattern are immediately executed without an approval dialog.
+2. **Deny patterns:** Commands matching a Deny pattern are immediately rejected
+3. Unmatched commands: If a command does not match any pattern, an approval dialog will appear.  Click **\[Accept]** to allow execution, or **\[Reject]** to decline.
+
+{% hint style="info" %}
+#### **Note on UI Interaction**
+
+Input fields for "Allow" patterns or domain lists are automatically disabled if **Approve All** is active or if the corresponding tool is set to **Deny**, as these configurations become redundant when the tool is globally permitted or strictly blocked.
+{% endhint %}
+
+#### 5. File Access Restrictions
+
+You can define file path Deny patterns using glob syntax (e.g., `/.env`, `/secrets/**`).
+
+* When the Agent attempts to access a file that matches a Deny pattern, the operation is blocked and the Agent receives an error, prompting it to find an alternative approach.&#x20;
+* This protects sensitive files such as environment variables, credentials, and secret configurations from unintended access.
 
 ***
 

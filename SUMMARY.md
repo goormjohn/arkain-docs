@@ -54,6 +54,8 @@
 * [Workspace](user-guide/workspace/README.md)
   * [Side Chat (Workspace)](user-guide/workspace/side-chat-workspace/README.md)
     * [Agent Mode](user-guide/workspace/side-chat-workspace/agent-mode.md)
+    * [Plan Mode](user-guide/workspace/side-chat-workspace/plan-mode.md)
+    * [Skills](user-guide/workspace/side-chat-workspace/skills.md)
     * [How to use Side Chat(아케이드버전)](user-guide/workspace/side-chat-workspace/how-to-use-side-chat.md)
     * [How to use Side Chat](user-guide/workspace/side-chat-workspace/how-to-use-side-chat-1.md)
   * [File Management](user-guide/workspace/file-management/README.md)
@@ -150,6 +152,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [May 14, 2026](whats-new/arkain-release-note/may-14-2026.md)
   * [May 7, 2026](whats-new/arkain-release-note/may-7-2026.md)
   * [Apr 17, 2026](whats-new/arkain-release-note/apr-17-2026.md)
   * [Mar 26, 2026](whats-new/arkain-release-note/mar-26-2026.md)

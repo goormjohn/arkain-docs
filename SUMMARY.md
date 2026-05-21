@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(May 22, 2026) Update to Privacy Policy on May 29](notice/view/may-22-2026-update-to-privacy-policy-on-may-29.md)
   * [(Apr 17, 2026)  Now Live: Build with AI Agent & Notion Integration](notice/view/apr-17-2026-now-live-build-with-ai-agent-and-notion-integration.md)
   * [(Apr 15, 2026) Scheduled maintenance on Apr 16](notice/view/apr-15-2026-scheduled-maintenance-on-apr-16.md)
   * [(Mar 5, 2026) Service Restoration: Brief Login Service Disruption](notice/view/mar-5-2026-service-restoration-brief-login-service-disruption.md)

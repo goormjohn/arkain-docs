@@ -4,12 +4,10 @@ icon: square-check
 
 # Environment Variable
 
-Sensitive data like passwords and API keys can be stored in Environment Variables for use in running Commands. Environment variables are divided into global environment variables and local environment variables.
+Sensitive data like passwords and API keys can be stored in Environment Variables for use in running Commands.
 
-* **Global Environment Variables**\
-  Global environment variables can be used in all terminals and Commands. You can set global environment variables on the Container setting page. You can view the list of `Key-Value` pairs in the table of environment variables on the Container setting page.
-* **Local Environment Variables**\
-  Local environment variables can be used only in specific commands. You can set local environment variables on the Command settings tab within the Workspace. You can view the list of `Key-Value` pairs in the table of environment variables on the Command settings tab.
+* Environment variables are applied globally within the container and can be used across terminals and commands, while their values are only accessible to users with root privileges.
+* You can configure environment variables from the Container Settings page or the Workspace, and view the list of configured `Key-Value` pairs in the Environment Variables table.
 
 ### Using Environment Variables <a href="#using-environment-variables" id="using-environment-variables"></a>
 
@@ -18,10 +16,9 @@ Sensitive data like passwords and API keys can be stored in Environment Variable
 <figure><img src="../../../../../.gitbook/assets/Environment variable (1).png" alt=""><figcaption></figcaption></figure>
 
 * **In the Workspace**\
-  You can use environment variables in terminals with the following command:
+  You can configure environment variables from the Command Settings tab, and they will be applied when running commands in the Workspace.
 
-<pre class="language-sh"><code class="lang-sh"><strong>$ export ${key}=${value}
-</strong></code></pre>
+After modifying environment variables, refresh the terminal to apply the changes.
 
 ### Command Variables <a href="#command-variables" id="command-variables"></a>
 

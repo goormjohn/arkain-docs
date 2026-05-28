@@ -4,27 +4,39 @@ icon: github
 
 # Import GitHub Repos
 
-You can import a project from a **GitHub repository** and continue working on it in Arkain.
+You can import existing projects directly from **GitHub** to continue working on them inside Arkain. Arkain supports both public repository URLs (no login required) and personal repositories via GitHub authentication.
 
 {% stepper %}
 {% step %}
-### **Go to the** [**Dashboard**](https://arkain.io/my/dashboard) **page and click the \[+ New container] button.** <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>
+### Open the Creation Popup <a href="#step-1-go-to-the-dashboard-and-click-new-container" id="step-1-go-to-the-dashboard-and-click-new-container"></a>
+
+Go to the [Dashboard](https://arkain.io/my/dashboard) page and click the \[+ New container] button to open the Create container popup.
 {% endstep %}
 
 {% step %}
-### **Authenticate your GitHub account** <a href="#step-2-authenticate-your-github-account" id="step-2-authenticate-your-github-account"></a>
+### Choose Your Import Method
 
-* In the 'Create Container' popup, click the **\[Import from GitHub]** button in the top right corner.
-* Click the **\[GitHub authorization]** button to link your account through GitHub account.
-* Upon successful authentication, the list of your GitHub repositories will be displayed.
+**Option A: Import via Public URL (No Login Required)**
+
+Ideal for quickly spinning up any public open-source project without syncing your account.
+
+1. Select the URL tab at the top of the popup.
+2. Paste the full GitHub repository address (e.g., `https://github.com/owner/repo`) into the Repository URL field.
+
+**Option B: Import via Authenticated Account (Personal & Private Repos)**
+
+Ideal for accessing your own repositories, including private ones.
+
+1. Select the Repo tab at the top of the popup.
+2. Click the authorization button to securely link your GitHub account.
+3. Once authenticated, select the desired repository from your personal list. Private repositories will be clearly marked with a badge.
 {% endstep %}
 
 {% step %}
-### **Create a container from the GitHub repository** <a href="#step-3-create-a-container-from-github-repository" id="step-3-create-a-container-from-github-repository"></a>
+### Configure Environment & Build
 
-* Select the repository you want to import. If the repository is set as private, it will be indicated with a badge in the list.
-* The base template and name will be automatically entered based on the selected repository, and you can freely modify them as needed.
-* If needed, activate additional modules/packages to install them.
-* Lastly, click the **\[Import project]** button to create the container based on the provided settings.
+* **Template & Name:** Arkain automatically detects and fills in the appropriate base template and project name based on the repository contents. You can freely modify these as needed.
+* **Customization:** Configure your OS, Performance tier, and additional storage, or toggle Modules / Packages if you need extra dependencies pre-installed.
+* **Launch:** Click the \[Import project] button at the bottom to create and launch your container environment.
 {% endstep %}
 {% endstepper %}

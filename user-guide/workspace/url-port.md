@@ -16,7 +16,7 @@ The application's port number is necessary for registering a domain.
 
 ### Registering a subdomain <a href="#registering-a-domain" id="registering-a-domain"></a>
 
-Click on the **\[Preview]** → **\[Running URL and Port]** button in the menu bar of the Workspace to open the sub domain settings popup. Here, you can register a new subdomain and view the list of registered sub domains.
+Click on the **\[Preview] → \[Running URL and Port]** button in the menu bar of the Workspace to open the sub domain settings screen. Here, you can register a new subdomain and view the list of registered subdomains.
 
 To register a new subdomain, enter the URL and port number you want in the input field, and click the **\[Register]** button. Note that for some base templates, subdomains for default ports may already be registered.
 

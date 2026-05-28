@@ -95,11 +95,15 @@ You can define file path Deny patterns using glob syntax (e.g., `/.env`, `/secre
 
 ***
 
-### Custom Instructions via `ARKAIN.md`
+### **Customization**
+
+Under Preferences → AI Agent → Customization, you can tailor the agent's behavior and environment to match your project's specific requirements.
+
+#### 1. Custom Instructions via `ARKAIN.md`
 
 You can provide specific context and tailored instructions to your agent simply by adding an `ARKAIN.md` file to your project. Guide your agent to perform tasks exactly the way your project requires!
 
-To edit `ARKAIN.md` directly in the editor, go to **Preferences → Custom Instructions** and click the **\[Open ARKAIN.md]** button.
+**How to Edit:** Click the \[Open ARKAIN.md] button in the Custom Instructions section to open and edit the file directly within the editor.
 
 #### 💡 `ARKAIN.md` Example&#x20;
 
@@ -121,5 +125,14 @@ This is a Todo management web application running on the Arkain platform.
 ## Precautions
 - Never hardcode sensitive information like database passwords; always use environment variables.
 ```
+
+
+
+#### 2. Suggested Questions
+
+Get smart suggestions for your next question based on the agent's response. This helps you keep the conversation flowing seamlessly and efficiently.
+
+* **How to Configuration:** Use the toggle switch next to Suggested Questions to easily turn these automated recommendations on or off.
+* **Available Modes**: Suggested Questions are provided in **Agent** and **Ask** modes. In **Plan** mode, suggested questions are not provided by default.
 
 ***

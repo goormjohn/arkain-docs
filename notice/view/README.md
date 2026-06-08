@@ -4,6 +4,10 @@ icon: bullhorn
 
 # Notice
 
+{% content-ref url="jun-8-2026-notice-of-region-closure-oregon-frankfurt-mumbai-and-container-migration-on-jun-18.md" %}
+[jun-8-2026-notice-of-region-closure-oregon-frankfurt-mumbai-and-container-migration-on-jun-18.md](jun-8-2026-notice-of-region-closure-oregon-frankfurt-mumbai-and-container-migration-on-jun-18.md)
+{% endcontent-ref %}
+
 {% content-ref url="may-22-2026-update-to-privacy-policy-on-may-29.md" %}
 [may-22-2026-update-to-privacy-policy-on-may-29.md](may-22-2026-update-to-privacy-policy-on-may-29.md)
 {% endcontent-ref %}

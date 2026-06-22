@@ -154,6 +154,7 @@
 ## What's new?
 
 * [Arkain Release Note](whats-new/arkain-release-note/README.md)
+  * [Jun 22, 2026](whats-new/arkain-release-note/jun-22-2026.md)
   * [May 28, 2026](whats-new/arkain-release-note/may-28-2026.md)
   * [May 18, 2026](whats-new/arkain-release-note/may-18-2026.md)
   * [May 7, 2026](whats-new/arkain-release-note/may-7-2026.md)

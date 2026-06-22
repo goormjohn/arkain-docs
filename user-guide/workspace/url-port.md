@@ -30,12 +30,9 @@ And enter the domain to register starting from `www`, and upload the `crt` and `
 
 ### **Setting up DNS Domain**
 
-On your domain registrar's website, you must create a CNAME record that points to the Arkain server for your container's region.
+On your domain registrar's website, you must create a CNAME record that points to the Arkain server.
 
-* **Seoul**: `${your_domain}.ap-northeast-2.arkain.site`
-* **Oregon**: `${your_domain}.us-west-2.arkain.site`
-* **Frankfurt**: `${your_domain}.eu-central-1.arkain.site`
-* **Mumbai**: `${your_domain}.ap-south-1.arkain.site`
+* `${your_domain}.ap-northeast-2.arkain.site`
 
 ### Accessing the Domain through browser <a href="#accessing-the-domain-through-browser" id="accessing-the-domain-through-browser"></a>
 

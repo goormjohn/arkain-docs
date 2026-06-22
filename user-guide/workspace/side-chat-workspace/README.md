@@ -14,7 +14,7 @@ icon: comment-exclamation
 
 * **Access:** Open Side Chat(<img src="../../../.gitbook/assets/Sidechat_Button.png" alt="" data-size="line">) from the Sidebar in your Workspace.
 * **Model Selection:** Select your preferred LLM from the dropdown menu before starting a conversation. You can check the credit consumption for each model in the [**\[Supported Models\]**](../../arkain-ai/supported-models.md) guide.
-* **Session Context:** Side Chat maintains context within a single session, ensuring a seamless flow of interaction as you build your project.
+* **Chat Context:** Side Chat maintains context within a single chat, ensuring a seamless flow of interaction as you build your project.
 
 
 
@@ -57,6 +57,8 @@ Choose the mode that best fits your current objective. You can switch between th
 To get the most accurate results, give the AI visibility into your work:
 
 * **Files:** Click the **\[Add context]** button to reference specific files. You can quickly pick from your 5 most recently opened files or find any file by name or path within the project.
+  * **Mention a file inline**: Type `@` anywhere in the chat input to open a file search dropdown. Start typing the file name or path to filter results, then press <kbd>Enter</kbd> or click to insert the file as a chip. The chip displays the file's icon and name. Click the chip to open the file in the editor.
+  * **Mention code from the editor**: Select code in the editor, then press <kbd>Ctrl+L</kbd> (<kbd>Cmd+L</kbd> on Mac) to insert it as a mention chip in the chat input. Alternatively, copy the selection (<kbd>Ctrl+C</kbd>) and paste it into the chat input (<kbd>Ctrl+V</kbd>). The chip shows the file name and line range (e.g., `App.jsx(10-25)`). Click the chip to jump to those lines in the editor.
 * **Images:** Click the **\[Upload Images]** button or drag and drop images directly into Side Chat. The LLM analyzes the content to enhance its response—perfect for UI debugging or mockup analysis.
   * **Note:** Uploaded images are saved within your project folder. You can freely upload images within your container's storage capacity.
 
@@ -79,9 +81,11 @@ In **Ask** and **Plan** modes, you can manually integrate suggested code into yo
 
 Never lose a valuable solution by utilizing the built-in history features:
 
-* **Recently Used List:** Quickly load recent conversations from the "Recently used chat" list.
-* **Persistent History:** Click the **History icon** (top left) to view all past sessions across your Workspace.
-* **Deleting History:** Open the History list, hover over a session, and click the **Trash can icon** to remove it.
+* **Persistent History:** Click the **History icon** (top right) to open the history popover and view all past chats across your Workspace.
+* **Managing History**: In the history popover, hover over a chat room to access the following actions:
+  * **Pin**: Pin a chat to keep it readily accessible (no limit). Pinned chats are ordered by pin time, earliest at the top.
+  * **Rename:** Change the name of the chat.
+  * **Delete:** Remove the chat.
 
 
 

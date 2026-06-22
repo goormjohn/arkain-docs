@@ -56,3 +56,24 @@ The buttons area in the top right corner of the screen provides 4 functions.
   Unchanged source code areas are hidden. If the unchanged source code area is small, it may not be hidden. Click the button one more time to see the full source code again.
 * **Change the way the editor area is viewed**\
   You can change the placement of the source code before changes and the source code after changes. Click the `Split` button to change to a left-to-right orientation, or the `Inline` button to change to a top-to-bottom orientation.
+
+
+
+### Editing in the Diff Tool
+
+When the Diff Tool is opened from an unstaged (Working Tree) file, you can directly edit the source code in the after-change (right) panel.
+
+Edits made in the Diff Tool are reflected in the original file in real time, and the file can be saved with the standard save shortcut (<kbd>Ctrl</kbd>+<kbd>S</kbd> / <kbd>Cmd</kbd>+<kbd>S</kbd>). The unsaved state is synchronized with the original file's editor tab.
+
+{% hint style="warning" %}
+**Note**
+
+* Editing is only available for **Working Tree** diffs. Staged file diffs _(Index)_ remain read-only.
+* If the file size exceeds the allowed limit, editing will be disabled.
+{% endhint %}
+
+#### Reverting changes by chunk
+
+Each changed chunk in the diff has a revert button in the gutter (to the left of the line numbers).
+
+Clicking it reverts only that chunk back to the last commit state, without affecting other changes in the file. This is available in both Split and Inline view modes.

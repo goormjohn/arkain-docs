@@ -105,8 +105,6 @@ icon: keyboard
 
 | Function                     | macOS Shortcut                                              | Windows/Linux Shortcut                               |
 | ---------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
-| Toggle Side Chat             | <kbd>F1</kbd>                                               | <kbd>F1</kbd>                                        |
-| Toggle Agent/Ask Mode        | <kbd>Shift ⇧</kbd> + <kbd>Tab</kbd>                         | <kbd>Shift</kbd> + <kbd>Tab</kbd>                    |
 | New Terminal Window          | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>T</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>     |
 | Terminal To Current Location | <kbd>option ⌥</kbd>+<kbd>T</kbd>                            | <kbd>Alt</kbd> + <kbd>T</kbd>                        |
 | Open Previous Window         | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>\[</kbd>        | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>\[</kbd>    |
@@ -118,7 +116,18 @@ icon: keyboard
 | Move Layout Focus            | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+ <kbd>Return ⏎</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> |
 | Toggle Header                | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>A</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>     |
 | Toggle Sidebar               | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>L</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>     |
-| Toggle Devtools              | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>B</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>     |
+| Toggle Terminal              | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>B</kbd>         | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>     |
+
+## SIDE CHAT
+
+| Function                      | macOS Shortcut                                      | Windows/Linux Shortcut                           |
+| ----------------------------- | --------------------------------------------------- | ------------------------------------------------ |
+| Toggle Side Chat              | <kbd>F1</kbd>                                       | <kbd>F1</kbd>                                    |
+| Switch AI Mode                | <kbd>Shift ⇧</kbd> + <kbd>Tab</kbd>                 | <kbd>Shift</kbd> + <kbd>Tab</kbd>                |
+| New Chat                      | <kbd>option ⌥</kbd>+<kbd>Shift ⇧</kbd>+<kbd>N</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> |
+| Attach Selection to Side Chat | <kbd>Cmd ⌘</kbd> + <kbd>L</kbd>                     | <kbd>Ctrl</kbd> + <kbd>L</kbd>                   |
+
+
 
 ## Help
 

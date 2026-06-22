@@ -16,7 +16,7 @@ In the **\[Run]** button dropdown, you can view the list of commands, and you ca
 
 ### Adding a new Command <a href="#adding-a-new-command" id="adding-a-new-command"></a>
 
-To add a new command, you can click the **\[Add run command]** button in the **\[Run]** button dropdown.
+To add a new run command, click the **\[Add run command]** button in the **\[Run]** button dropdown. You can add up to 10 run commands.
 
 Each command has a default script based on the container's base template. You can customize the command as needed.
 

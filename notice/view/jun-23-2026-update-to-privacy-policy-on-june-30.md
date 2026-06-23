@@ -1,12 +1,18 @@
-# (Jun 23, 2026) Update to Privacy Policy on June 30Page 1
+---
+description: '2026-06-23'
+---
 
-Hello, this is the Arkain Customer Experience Team.<br>
+# (Jun 23, 2026) Update to Privacy Policy on June 30
+
+Hello, this is the Arkain Customer Experience Team.
 
 Thank you sincerely for using Arkain.
 
+
+
 We are writing to inform you that Arkain's Privacy Policy will be revised as follows. Please review the details and refer to them when using our services.<br>
 
-* Effective Date: June 30, 2026 <br>
+* Effective Date: June 30, 2026&#x20;
 
 Arkain will continue to strive to provide better services and protect your personal information more securely.<br>
 
@@ -25,15 +31,13 @@ You can review the full details through the Privacy Policy link below.
 
 * [View Revised Privacy Policy](https://account.arkain.io/privacy-policy/20260630)
 
-
-
 #### Objections and Inquiries
 
 * If you have any objections or questions regarding the revisions, please contact us through[ chat](http://arkain.channel.io/).&#x20;
 * If you do not agree with these revisions, you may request account withdrawal before the effective date.
 * If you do not withdraw by this date, you will be deemed to have agreed to the revised terms.
 
-<br>
+
 
 Thank you.
 

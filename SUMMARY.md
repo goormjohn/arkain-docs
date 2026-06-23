@@ -5,7 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
-  * [(Jun 23, 2026) Update to Privacy Policy on June 30Page 1](notice/view/jun-23-2026-update-to-privacy-policy-on-june-30page-1.md)
+  * [(Jun 23, 2026) Update to Privacy Policy on June 30](notice/view/jun-23-2026-update-to-privacy-policy-on-june-30.md)
   * [(Jun 8, 2026) Notice of Region Closure (Oregon, Frankfurt, Mumbai) and Container Migration on Jun 18](notice/view/jun-8-2026-notice-of-region-closure-oregon-frankfurt-mumbai-and-container-migration-on-jun-18.md)
   * [(May 22, 2026) Update to Privacy Policy on May 29](notice/view/may-22-2026-update-to-privacy-policy-on-may-29.md)
   * [(Apr 17, 2026)  Now Live: Build with AI Agent & Notion Integration](notice/view/apr-17-2026-now-live-build-with-ai-agent-and-notion-integration.md)

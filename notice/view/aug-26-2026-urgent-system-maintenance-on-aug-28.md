@@ -1,6 +1,5 @@
 ---
 description: '2026-08-26'
-hidden: true
 ---
 
 # (Aug 26, 2026) Urgent System Maintenance on Aug 28

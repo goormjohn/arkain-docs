@@ -21,7 +21,7 @@ We will be conducting urgent system maintenance as outlined below to improve ser
 * **Service Access**: Login and all platform features will be unavailable.
 * **Container Shutdown**: All active containers will be forcibly stopped at the start of the maintenance.
 
-#### Recommend Action&#xD;
+#### Recommended Action&#xD;
 
 * To prevent any potential data loss, we strongly recommend that you stop your containers manually before the maintenance begins.
 

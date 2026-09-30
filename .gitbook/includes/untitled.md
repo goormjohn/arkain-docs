@@ -2,12 +2,11 @@
 title: Untitled
 ---
 
-Hello, this is the Arkain Customer Experience team.
-
-Thank you for using Arkain.
+Hello, this is the Arkain Customer Experience team.\
+Thank you for using Arkain.&#x20;
 
 We regret to inform you that Arkain will officially discontinue its service on **Oct 30, 2026.**\
-After this date, access to the service and all related data will no longer be available.
+After this date, access to the service and all related data will no longer be available.&#x20;
 
 Please review the details below carefully to avoid any inconvenience.
 

@@ -5,6 +5,7 @@
 ## Notice
 
 * [Notice](notice/view/README.md)
+  * [(Sep 29, 2026 ) Arkain Service Discontinuation on Oct 30](notice/view/sep-29-2026-arkain-service-discontinuation-on-oct-30.md)
   * [(Aug 26, 2026) Urgent System Maintenance on Aug 28](notice/view/aug-26-2026-urgent-system-maintenance-on-aug-28.md)
   * [(Jun 23, 2026) Update to Privacy Policy on June 30](notice/view/jun-23-2026-update-to-privacy-policy-on-june-30.md)
   * [(Jun 8, 2026) Notice of Region Closure (Oregon, Frankfurt, Mumbai) and Container Migration on Jun 18](notice/view/jun-8-2026-notice-of-region-closure-oregon-frankfurt-mumbai-and-container-migration-on-jun-18.md)

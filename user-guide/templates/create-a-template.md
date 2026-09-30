@@ -31,14 +31,14 @@ Select the container to publish as a template.
 #### **Enter Your Template Name**
 
 Write a name that will make your template stand out. We recommend that the name clearly reflect the purpose or technology being used.\
-&#xNAN;_&#x65;.g., "React Starter Template" or "Python Flask API"_
+_&#x65;.g., "React Starter Template" or "Python Flask API"_
 
 #### **Description**
 
 Provide a detailed description of your template.
 
 * Specific use cases.\
-  &#xNAN;_&#x65;.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API."_
+  _&#x65;.g., "A simple example using OpenWeatherMap API and The Solar System OpenData API."_
 * Description can be up to 280 characters long.
 
 {% hint style="info" %}

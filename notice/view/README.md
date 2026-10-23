@@ -4,6 +4,14 @@ icon: bullhorn
 
 # Notice
 
+{% content-ref url="sep-30-2026-arkain-service-discontinuation-on-oct-30.md" %}
+[sep-30-2026-arkain-service-discontinuation-on-oct-30.md](sep-30-2026-arkain-service-discontinuation-on-oct-30.md)
+{% endcontent-ref %}
+
+{% content-ref url="aug-26-2026-urgent-system-maintenance-on-aug-28.md" %}
+[aug-26-2026-urgent-system-maintenance-on-aug-28.md](aug-26-2026-urgent-system-maintenance-on-aug-28.md)
+{% endcontent-ref %}
+
 {% content-ref url="jun-23-2026-update-to-privacy-policy-on-june-30.md" %}
 [jun-23-2026-update-to-privacy-policy-on-june-30.md](jun-23-2026-update-to-privacy-policy-on-june-30.md)
 {% endcontent-ref %}
